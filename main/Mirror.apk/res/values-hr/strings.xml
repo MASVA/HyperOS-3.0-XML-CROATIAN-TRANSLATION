@@ -196,6 +196,14 @@
   <string name="invisible_mode_dialog_positive">Isključi</string>
   <string name="invisible_mode_dialog_title">"Anonimni ste"</string>
   <string name="invisible_mode_toast">Prvo isključite anonimni način</string>
+  <string name="island_connected_title">Korištenje Početnog zaslona+</string>
+  <string name="island_default_market_name_imac">iMac</string>
+  <string name="island_default_market_name_ipad">iPad</string>
+  <string name="island_default_market_name_iphone">iPhone</string>
+  <string name="island_default_market_name_laptop">Laptop Xiaomi</string>
+  <string name="island_default_market_name_macbook">Macbook</string>
+  <string name="island_default_market_name_other_laptop">Laptop</string>
+  <string name="island_default_market_name_tablet">Tablet Xiaomi</string>
   <string name="island_disconnected_button">Isključi</string>
   <string name="island_disconnected_button_text">Prekini vezu</string>
   <string name="island_disconneted_title">Prekinuto</string>

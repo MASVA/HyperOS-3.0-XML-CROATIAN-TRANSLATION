@@ -87,6 +87,11 @@
   <string name="ai_account_violated_service_unavailable_try_again_later">Vaš je račun više puta prekršio naše smjernice i obustavljen je. Pokušajte ponovno kasnije.</string>
   <string name="ai_apply_wallpaper">Primjeni</string>
   <string name="ai_cannot_scrolling_with_the_screen">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
+  <string name="ai_creativity_all_album_images">Svi albumi</string>
+  <string name="ai_creativity_local_album_pictures">Slike iz Galerije</string>
+  <string name="ai_creativity_my_doppelganger">Moji avatari</string>
+  <string name="ai_creativity_switch_gender">Odaberite spol</string>
+  <string name="ai_creativity_template">Predložak</string>
   <string name="ai_delete_wallpaper">Izbriši</string>
   <string name="ai_dialog_support_type_confirm">Isprobajte sada</string>
   <string name="ai_dialog_support_type_content">Sada možete stvarati dinamične pozadine s fotografijama ljudi ili životinja i anime slikama.</string>
@@ -173,6 +178,7 @@
   <string name="ai_select_images_in_the_following_formats">Odaberitete slike u bilo kojem od sljedećih podržanih formata: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC i HEIF.</string>
   <string name="ai_select_images_smaller_than_one_hundred">Odaberitete sliku ispod %d MB i pokušajte ponovno.</string>
   <string name="ai_select_message">Odaberite fotografiju na kojoj je subjekt jasno vidljiv.</string>
+  <string name="ai_select_message1">Odaberite sliku na kojoj je subjekt jasan i bez prepreka.</string>
   <string name="ai_select_title">"Nije moguće izraditi"</string>
   <string name="ai_select_wallpaper">Odaberite pozadinu</string>
   <string name="ai_service_temporarily_unavailable">"Značajka nije dostupna"</string>
@@ -235,6 +241,10 @@
   <string name="align_center_horizontally">Vodoravno, centrirano</string>
   <string name="align_left_horizontally">Vodoravno, poravnaj lijevo</string>
   <string name="align_right_horizontally">Vodoravno, poravnaj desno</string>
+  <string name="aiwallpaper_enhance_entry_content_moretype">Koristeći mogućnosti velikih modela, ova značajka uzima statične slike i izrađuje videozapise kako bi vaša pozadina oživjela. Trenutno podržava slike ljudi, životinja i crtanih filmova.</string>
+  <string name="aiwallpaper_enhance_entry_content_path">"1. Idite u Postavke > Prilagođavanje > AI Dinamične pozadine.
+2. Dodirnite \"Dodaj\" tipku u donjem desnom kutu i odaberite fotografiju za izradu dinamične pozadine."</string>
+  <string name="aiwallpaper_enhance_entry_title_path">Kako koristiti</string>
   <string name="all_resources">Sve</string>
   <string name="all_selected_talkback">Odabrano sve</string>
   <string name="all_wallpapers">Sve pozadine</string>
@@ -347,6 +357,7 @@
   <string name="backup_theme_success_message">Postavke vaše trenutne teme su spremljene</string>
   <string name="basic_mode">Izvanmrežni način</string>
   <string name="basic_mode_desc">"Nemojte dopustiti ovoj aplikaciji da se poveže s internetom, samo pristupi i koristi stavke na vašem uređaju (npr. fotografije, zvuk i videozapise). Vaši osobni podaci neće biti prikupljeni."</string>
+  <string name="banner_image">Slika natpisa</string>
   <string name="beep">Zvuk obavijesti</string>
   <string name="boot_audio_dialog_cancel">Odustani</string>
   <string name="boot_audio_dialog_confirm">U redu</string>
@@ -363,6 +374,7 @@
   <string name="browse_mode">Online način</string>
   <string name="browse_mode_desc">"Dopustite ovoj aplikaciji povezivanje s internetom, pristup mrežnom sadržaju, kao i korištenje stavki na vašem uređaju (npr. fotografije, zvuk i videozapisi). Niti jedan vaš osobni podatak neće biti prikupljen."</string>
   <string name="browser_local_resource">Lokalni izvori</string>
+  <string name="btn_go_free">Otključaj</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -396,6 +408,9 @@
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d/%2$d</string>
+  <string name="check_version_update_failed">Nije moguće provjeriti ima li ažuriranja. Pokušajte ponovno.</string>
+  <string name="close_drawer">Zatvaranje izbornika za navigaciju</string>
+  <string name="close_sheet">Zatvaranje lista</string>
   <string name="check_has_new_version">Dostupno je ažuriranje</string>
   <string name="check_network_connection_normal">Provjerite mrežne postavke i pokušajte ponovno</string>
   <string name="chip_text">Chip tekst</string>
@@ -469,6 +484,7 @@
   <string name="count_down_tip">%ds preostalo</string>
   <string name="create_home_icon">Prečac Početnog zaslona</string>
   <string name="current_device_not_support_superwallpaper_dialog_content">"Super pozadine nisu podržane na ovom uređaju"</string>
+  <string name="current_page_unsupport_split_screen">Ova se stranica ne može vidjeti na podijeljenom zaslonu</string>
   <string name="current_using">Trenutno</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
   <string name="current_using_float_wallpaper_text">Transparentna</string>
@@ -524,6 +540,9 @@
   <string name="de_try">Isprobajte</string>
   <string name="deep_sea">Duboko more</string>
   <string name="deep_sea_resource_comment">Postanak života na Zemlji</string>
+  <string name="default_error_message">Nevažeći unos</string>
+  <string name="default_popup_window_title">Skočni prozor</string>
+  <string name="delete_image">Izbriši fotografije</string>
   <string name="deleting">Brisanje…</string>
   <string name="delivers_fresh_content_and_design_daily">Svježi dizajni svaki dan</string>
   <string name="depth_effect_talkback">Efekt dubine</string>
@@ -583,6 +602,7 @@
   <string name="download_success">Preuzimanje dovršeno!</string>
   <string name="download_super_wallpaper">Instalirati ovu Super pozadinu?</string>
   <string name="download_talkback">Preuzmi</string>
+  <string name="dropdown_menu">Padajući izbornik</string>
   <string name="dynamic">Dinamično</string>
   <string name="dynamic_large_icon_not_support_current_type">"%s nije podržan za ovu dinamičku ikonu"</string>
   <string name="dynamic_ringtone">Dinamične melodije zvona</string>
@@ -660,7 +680,8 @@
   <string name="exo_track_surround">Surround zvuk</string>
   <string name="exo_track_surround_5_point_1">5.1 surround zvuk</string>
   <string name="exo_track_surround_7_point_1">7.1 surround zvuk</string>
-  <string name="exo_track_unknown">Nepoznato</string>
+  <string name="exo_track_unknown">Nepoznato</string>  
+  <string name="exo_track_unknown_name">Nepoznato (%1$s)</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expect_more">Pozorno pratite nova dostupna ažuriranja!</string>
   <string name="explore_new_and_popular_themes">Istražite nove i popularne teme</string>
@@ -676,15 +697,18 @@
   <string name="faster_download_after_optimization">Naša najveća brzina preuzimanja dosada</string>
   <string name="favorite_list">Omiljene</string>
   <string name="favorite_list_format">Omiljena %1$s</string>
+  <string name="feature_unsupport_toast">Ova značajka nije podržana</string>
   <string name="file_not_exist">Datoteka ne postoji</string>
   <string name="find_more">Pronađi više</string>
   <string name="find_more_font">Pronađi više</string>
   <string name="find_more_free_theme">Pronađi više</string>
   <string name="find_more_theme">Pronađi više</string>
   <string name="find_more_wallpapers">Pronađi više</string>
+  <string name="find_new_version">Nova verzija je dostupna: %s</string>
   <string name="fingerprint_style">Efekti otiska prsta</string>
   <string name="first_page_recommend">Preporučeno</string>
   <string name="first_total_talkback">Pozadina %1$d, ukupno pozadina: %2$d</string>
+  <string name="flip_wallpaper_preview_revert">Promijeni orijentaciju</string>
   <string name="fold_close_failed">"Ne mogu isključiti"</string>
   <string name="fold_close_incall_dialog_content">"Profilni videozapisi više nisu podržani. Nakon ovoga više nećete moći uključiti ovu značajku. Isključiti svejedno?"</string>
   <string name="fold_close_incall_dialog_title">Isključi videozapise profila</string>
@@ -712,6 +736,7 @@
   <string name="font_compat_dialog_title">Problem s kompatibilnošću</string>
   <string name="font_compat_dialog_trial_confirm">Isprobaj</string>
   <string name="font_compat_dialog_trial_content">Neke aplikacije možda ne podržavaju fontove treće strane. Ovaj problem s kompatibilnošću riješit će nadolazeće ažuriranje sustava. Isprobati svejedno ovaj font?</string>
+  <string name="font_detail_font_preview">Pregled fonta</string>
   <string name="font_pad_setting_charge_font">Plaćeno</string>
   <string name="font_pad_setting_find_more_title">Više fontova</string>
   <string name="font_pad_setting_free_font">Besplatno</string>
@@ -755,6 +780,7 @@
   <string name="has_mamual_hide_theme">Skriveno</string>
   <string name="has_mamual_hide_wallpaper">Skriveno</string>
   <string name="has_manual_hide_rear_screen">Stražnji zaslon skriven</string>
+  <string name="have_no_pay_method_toast">Nije moguće pronaći način plaćanja</string>
   <string name="head_portraits">Fotografija profila</string>
   <string name="health_chart_calories_schedule_format_desc">%1$s, %2$s</string>
   <string name="health_chart_calories_unit">Kalorije</string>
@@ -800,6 +826,8 @@
   <string name="home_apply_failured">"Ne mogu postaviti pozadinu Početni zaslona"</string>
   <string name="home_apply_success">Slika pozadine Početni zaslona postavljena</string>
   <string name="home_daily">Dnevni naglasci</string>
+  <string name="home_tab_selected">Odabrano %s</string>
+  <string name="home_tab_unselected">Nije odabrano %s</string>
   <string name="hot_first">Prvo popularno</string>
   <string name="humidity_format">Vlažnost %s</string>
   <string name="humidity_format_with_unit">%s</string>
@@ -810,6 +838,7 @@
   <string name="icon_pad_setting_title">Ikone</string>
   <string name="icon_size">Veličina ikona</string>
   <string name="icon_style">Ikone</string>
+  <string name="in_progress">U tijeku</string>
   <string name="in_the_end">Nema više stavki za prikazivanje</string>
   <string name="incall_show_apply">Profilni videozapis za odlazne pozive</string>
   <string name="incall_show_apply_fail">"Ne mogu postaviti"</string>
@@ -824,6 +853,7 @@
   <string name="incall_show_title">Profilni videozapisi</string>
   <string name="incompatible_dialog_cancel">"Ne postavljaj"</string>
   <string name="incompatible_dialog_message">"Ova tema još nije u potpunosti kompatibilna s ovom verzijom sustava. Neke stranice možda neće raditi ispravno."</string>
+  <string name="incompatible_dialog_message_v2">Ova tema još nije u potpunosti kompatibilna s ovom verzijom sustava. Neke stranice možda neće ispravno raditi.</string>
   <string name="incompatible_dialog_ok">Razumijem</string>
   <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
   <string name="install_clock">"Još niste instalirali Sat. Preuzeti sada?"</string>
@@ -833,6 +863,8 @@
   <string name="install_gallery_title">Instaliraj Galeriju</string>
   <string name="install_succ">Uspješno instalirano</string>
   <string name="installing">Instaliranje…</string>
+  <string name="indeterminate">Nije označeno ni poništeno</string>
+  <string name="indicator_talkback">Odabrano: stranica %d. Kliznite za pregled sljedeće stranice.</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarmi</string>
   <string name="item_resource_audio_optional_color_ring">Zvuk povratnog signala</string>
@@ -952,6 +984,8 @@
   <string name="kg_dialog_no_content_available_the_moment">Ovdje nema ništa</string>
   <string name="kg_dialog_too_much_time_blocking">"Sat je zaklonjen. Ne mogu koristiti efekt dubine."</string>
   <string name="kg_discard_changes_text">Odbaciti promjene?</string>
+  <string name="kg_doodle_clock_type_digital">Crtkaranje (brojevi)</string>
+  <string name="kg_function_text_omponent_contents">Prikazane stavke</string>
   <string name="kg_doodle_font_label">Crteži</string>
   <string name="kg_doodle_primary_label">Doodle crteži</string>
   <string name="kg_doodle_secondary_disable_tip">Uključi efekt dubine</string>
@@ -1280,6 +1314,7 @@
   <string name="login_theme">Prijavite se u Teme</string>
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
   <string name="loop_video_wallpaper">Petlja dinamičkih pozadina</string>
+  <string name="looping_wallpaper">Miješanje pozadina</string>
   <string name="mashup_sound">Miks prirode</string>
   <string name="match_theme">Teme koje si odgovaraju</string>
   <string name="material_clock_toggle_content_description">Odaberitete prijepodne ili poslijepodne</string>
@@ -1300,6 +1335,8 @@
   <string name="message_sim_one">SIM %d poruka</string>
   <string name="message_sim_two">SIM %d poruka</string>
   <string name="mi_wallpaper">MIUI pozadina</string>
+  <string name="mine_outfit">Moji setovi</string>
+  <string name="mine_page_my_avatar">Slika profila</string>
   <string name="mine_subscribed_wallpaper">Pretplaćene pozadine</string>
   <string name="mine_tab_not_login">"Prijavite se za pregled stavki.
   Dodirnite ovdje da biste se sada prijavili."</string>
@@ -1552,6 +1589,7 @@
   <string name="native_media_view">Medijski prikaz</string>
   <string name="nav_app_bar_navigate_up_description">Idi gore</string>
   <string name="nav_app_bar_open_drawer_description">Otvaranje ladice za navigaciju</string>
+  <string name="navigation_menu">Navigacijski izbornik</string>
   <string name="need_permission">Dobrodošli u Teme! Ova aplikacija pruža sljedeće prilagođene usluge:</string>
   <string name="need_permission_a">Dobro došli u Teme!</string>
   <string name="need_permission_b">Dajte svojem uređaju sasvim novi izgled</string>
@@ -1561,6 +1599,8 @@
   <string name="need_to_open_storage_permission_desc">Da biste mogli upotrebljavati i preuzimati stavke u Temama, prvo dopustite aplikaciji pristup pohrani.</string>
   <string name="network_exception">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="network_unavailable">"Nije moguće povezati se s mrežom"</string>
+  <string name="network_unusable">Nema mrežne veze. Provjerite Vaše mrežne postavke i pokušajte ponovno.</string>
+  <string name="network_unusable_time_err_toast">Ne mogu se spojiti na mrežu. Provjerite postavke datuma i vremena i pokušajte ponovno.</string>
   <string name="new_devices_push_titl_content">Imamo što vam treba</string>
   <string name="new_devices_push_title">Novi telefon, nova tema</string>
   <string name="new_resource_price_unit"> Mi</string>
@@ -1592,6 +1632,7 @@
   <string name="normal_temperature_format">%1$s° %2$s</string>
   <string name="not_allow">Nije odobreno</string>
   <string name="not_prompt_again">Ne prikazuj ponovno</string>
+  <string name="not_selected">Nije odabrano</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_incall_show">"Ova pozadina ne radi s profilnim videozapisima"</string>
   <string name="not_support_subtitle">Obratite se IT podršci svoje organizacije ili promijenite račun</string>
@@ -1600,6 +1641,12 @@
   <string name="notifications_permission_decline">Ne dopuštaj</string>
   <string name="notifications_permission_title">Želite li dopustiti aplikaciji da vam šalje obavijesti?</string>
   <string name="notify_style">Efekti obavijesti</string>
+  <string name="obtain_app_info_fail">Ne mogu dobiti info o aplikaciji</string>
+  <string name="off">Isključeno</string>
+  <string name="offline_dialog_image_description">Ikona</string>
+  <string name="offline_dialog_text">"Zahvaljujemo na interesu.
+Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</string>
+  <string name="offline_notification_title_with_advertiser">Ponovno ste online! Saznajte više o oglašivaču %s</string>
   <string name="offline_notification_text">Dodirnite za otvaranje oglasa</string>
   <string name="offline_notification_title">Pogledajte oglas koji ste spremili dok ste bili offline</string>
   <string name="offline_opt_in_confirm">U redu</string>
@@ -1607,6 +1654,7 @@
   <string name="offline_opt_in_decline">Ne, hvala</string>
   <string name="offline_opt_in_message">Poslat ćemo vam obavijest s vezom do web-lokacije oglašivača.</string>
   <string name="offline_opt_in_title">Otvorite oglas kad se ponovo povežete s internetom.</string>
+  <string name="on">Uključeno</string>
   <string name="online_no_network">Ne mogu se povezati na mrežu</string>
   <string name="online_precust_abstract">Sažetak</string>
   <string name="online_precust_animal">Životinja</string>
@@ -1715,6 +1763,7 @@
   <string name="present_local_themes_subtitle">Prilagodite svoj uređaj</string>
   <string name="present_official_themes">Naš odabir</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
+  <string name="preview_image">Prikaži</string>
   <string name="preview_image_talkback">Pregled</string>
   <string name="price_for_automatic_renewal">Automatski obnovi za %1$s</string>
   <string name="privacy_action_failed_net_content">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
@@ -1866,6 +1915,8 @@
   <string name="purchased_success_dialog_content">Zahvaljujemo Vam na kupnji!</string>
   <string name="purchased_success_dialog_title">Uspješno plaćeno</string>
   <string name="rain_probability_desc">Mogućnost padalina: %s</string>
+  <string name="range_end">Kraj raspona</string>
+  <string name="range_start">Početak raspona</string>
   <string name="read_and_agree_account_privacy">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi račun &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; i &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;."&lt;/Data&gt;</string>
   <string name="read_write_file">Pristupite i spremite datoteke na ovom uređaju</string>
   <string name="read_write_file_a">Pristup i spremanje datoteka i fotografija pohranjenih na vašem uređaju (za pohranu preuzetog sadržaja)</string>
@@ -2165,6 +2216,12 @@
   <string name="resource_user_know">U redu</string>
   <string name="resource_waiting_download">Čekanje…</string>
   <string name="resource_waiting_pause">Pauza</string>
+  <string name="resource_component_widget">Widgeti</string>
+  <string name="resource_widget_add">Dodaj</string>
+  <string name="resource_widget_add_successful">Uspješno dodano</string>
+  <string name="resource_widget_confirm_deletion">Izbrisati ovu stavku?</string>
+  <string name="resource_widget_fail_to_add">Dodavanje nije moguće</string>
+  <string name="resource_widget_mine">Moji widgeti</string>
   <string name="resource_wallpaper_download">Preuzmi sliku pozadine</string>
   <string name="restore_default_change_wallpaper_when_special_lockscreen">"Trenutno koristite predložak zaključanog zaslona. Ako nastavite, vaš zaključani zaslon bit će vraćen na zadane vrijednosti, a pozadine početnog i zaključanog zaslona bit će zamijenjene. Želite li sada primijeniti?"</string>
   <string name="restore_default_lock_style_apply_superwallpaper">"Ovaj predložak zaključanog zaslona ne podržava Super pozadine. Nakon primjene, vaš zaključani zaslon vratit će se na zadane, a vaše pozadine početnog i zaključanog zaslona bit će zamijenjene. Želite li sada primijeniti?"</string>
@@ -2231,12 +2288,16 @@
   <string name="search_sort_news">Najnovije prvo</string>
   <string name="search_sort_synthesize">Općenito</string>
   <string name="search_sort_top">Popularno prvo</string>
+  <string name="search_update_guide_bubble">Novo</string>
+  <string name="search_update_guide_text">Isprobajte najnovije značajke pretraživanja</string>
   <string name="search_view_description_clear">Izbriši pretraživanje</string>
   <string name="searchview_clear_text_content_description">Ukloni tekst</string>
   <string name="searchview_navigation_content_description">Natrag</string>
   <string name="select_all">Odaberite sve</string>
+  <string name="selected">Odabrano</string>
   <string name="selected_resource_file_invalid">"Ne mogu koristiti odabrane resurse datoteke"</string>
   <string name="send">Pošalji</string>
+  <string name="server_config_err_toast">Došlo je do pogreške poslužitelja</string>
   <string name="server_internal_error">Došlo je do pogreške poslužitelja. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
   <string name="service_expiration_date">Traje do %1$s</string>
   <string name="set_as_colorring">Postavite vlastitu melodiju zvona</string>
@@ -2254,6 +2315,7 @@
   <string name="settings_search_keyword_font_online">Online fontovi</string>
   <string name="settings_search_keyword_font_style">Format fonta</string>
   <string name="settings_search_keyword_font_wechat">WeChat fontovi</string>
+  <string name="settings_wallpaper_preview">Pregled pozadine</string>
   <string name="share_content_text_first_font">Pogledajte! \"%1$s\" font daje vašem telefonu potpuno novi izgled.</string>
   <string name="share_content_text_first_theme">Pogledajte! \"%1$s\" tema daje vašem telefonu potpuno novi izgled.</string>
   <string name="share_content_text_first_wallpaper">Pogledajte! \"%1$s\" slika pozadine daje vašem telefonu potpuno novi izgled.</string>
@@ -2365,6 +2427,15 @@
   <string name="system_personalize_title">Personalizacija</string>
   <string name="system_phone">Pozivi</string>
   <string name="system_precust">Unaprijed instalirane</string>
+  <string name="tab">Kartica</string>
+  <string name="talkback_contact_preview_image">Pregled kontakata</string>
+  <string name="talkback_font_detail_font_preview">%1$s%2$s</string>
+  <string name="talkback_launcher_preview_image">Pregled Početnog zaslona</string>
+  <string name="talkback_live_preview_image">Pregledi uživo</string>
+  <string name="talkback_lockscreen_preview_image">Pregled zaključanog zaslona</string>
+  <string name="talkback_mms_preview_image">Pregled poruka</string>
+  <string name="talkback_ringtone_time_three">%1$s %2$s</string>
+  <string name="talkback_statusbar_preview_image">Pregled statusne trake</string>
   <string name="task_already_exist">Ovaj zadatak već postoji</string>
   <string name="text_billing_info">Podaci o plaćanju</string>
   <string name="text_cancel_subscription_service">Otkazati ovu pretplatu sada?</string>
@@ -2480,6 +2551,8 @@
   <string name="theme_on_the_phone_alert">"Ne mogu reproducirati tijekom poziva"</string>
   <string name="theme_preview">Pregled teme</string>
   <string name="theme_recommend">Slične teme</string>
+  <string name="theme_resource_widget_delete">Nedovoljno prostora na Početnome zaslonu</string>
+  <string name="theme_resource_widget_removed">Ovaj widget više nije dostupan</string>
   <string name="theme_select_others">Ostalo</string>
   <string name="theme_setting">Postavke</string>
   <string name="theme_setting_all">Sve teme</string>
@@ -2630,6 +2703,7 @@
   <string name="update_push_title">Vaša tema ima dostupnu novu verziju</string>
   <string name="update_title">DOSTUPNO JE NOVO AŽURIRANJE</string>
   <string name="updating_the_app_tip">Ažuriranje…</string>
+  <string name="upload_images">Učitaj fotografije</string>
   <string name="use_hint">Pažnja</string>
   <string name="use_now">Dodaj</string>
   <string name="used_wallpaper">Prethodno korišteno</string>
@@ -2698,6 +2772,7 @@
   <string name="wallpaper_detail_load_page_no_network">Povežite se s mrežom i pokušajte ponovo.</string>
   <string name="wallpaper_download_incall_show">Preuzmi videozapis</string>
   <string name="wallpaper_dynamic">Dinamička</string>
+  <string name="wallpaper_effect_disable_of_depth_video_toast">Nije moguće postaviti efekte za Početni zaslon kada je efekt dubine videozapisa uključen za Zaključani zaslon</string>
   <string name="wallpaper_group_black_gobi_title">Pijesak Gobi</string>
   <string name="wallpaper_group_color_move_title">Tekuće boje</string>
   <string name="wallpaper_group_concerto_title">Koncert</string>
@@ -2756,6 +2831,7 @@
   <string name="wallpaper_set_as_incall_show">Primjeni kao profilni video</string>
   <string name="wallpaper_set_as_lockscreen">Primjeni za Zaklj. zaslon</string>
   <string name="wallpaper_set_as_lockscreen_large">Primjeni kao unutarnji Zaklj. zaslon</string>
+  <string name="wallpaper_set_as_lockscreen_personal_wallpaper_carousel">Dodano na Miks pozadina</string>
   <string name="wallpaper_set_as_lockscreen_small">Primjeni kao vanjski Zaklj. zaslon</string>
   <string name="wallpaper_setting_all">Sve slike pozadine</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>

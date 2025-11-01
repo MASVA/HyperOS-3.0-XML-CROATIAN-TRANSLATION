@@ -127,6 +127,7 @@
     <string name="enable_state_local_test_alerts_summary">Primajte testne poruke od nadležnih državnih i lokalnih tijela</string>
     <string name="enable_state_local_test_alerts_title">Državni i lokalni testovi</string>
     <string name="error_icon_content_description">Pogreška</string>
+	 <string name="error_a11y_label">Pogreška: nije važeće</string>
     <string name="etws_earthquake_and_tsunami_warning">Upozorenja o potresima i cunamijima</string>
     <string name="etws_earthquake_warning">Upozorenje o potresu</string>
     <string name="etws_other_emergency_type">Hitno upozorenje</string>
@@ -136,6 +137,7 @@
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
     <string name="item_view_role_description">Kartica</string>
     <string name="location_check_time">Vrijeme provjere lokacije:</string>
+	 <string name="m3_loading_indicator_content_description">Učitavanje</string>
     <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="material_slider_range_end">Kraj raspona</string>
     <string name="material_slider_range_start">Početak raspona</string>
@@ -175,7 +177,9 @@
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite da biste se prebacili na prikaz kalendara</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite da biste se prebacili na prikaz godine</string>
-    <string name="no_cell_broadcasts">Nema prethodnih upozorenja</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Prebačeno na prikaz kalendara</string>
+    <string name="mtrl_picker_toggled_to_year_selection">Prebačeno na prikaz godine</string>
+	 <string name="no_cell_broadcasts">Nema prethodnih upozorenja</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="notification_cb_settings_changed_text">Postavke hitnih upozorenja putem bežične mreže poništene su jer je SIM kartica promijenjena</string>
     <string name="notification_cb_settings_changed_title">Vaše su postavke promijenjene</string>
@@ -196,6 +200,8 @@
     <string name="seconds">s</string>
 	 <string name="searchview_clear_text_content_description">Izbriši tekst</string>
     <string name="searchview_navigation_content_description">Natrag</string>
+	 <string name="settingslib_expressive_text_collapse">Sažmi</string>
+    <string name="settingslib_expressive_text_expand">Proširi</string>
     <string name="show_all_messages">Prikaži sve poruke</string>
     <string name="show_cmas_opt_out_summary">Prikaži dijaloški okvir za isključivanje nakon prikazivanja prvog upozorenja (osim predsjedničkog).</string>
     <string name="show_cmas_opt_out_title">Prikaži dijaloški okvir za isključivanje</string>

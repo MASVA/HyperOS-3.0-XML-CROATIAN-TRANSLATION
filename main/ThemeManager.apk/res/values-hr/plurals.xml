@@ -462,4 +462,34 @@ Novčići su nepovratni."</item>
         <item quantity="other">" (proba: %1$d min)"</item>
         <item quantity="one">" (proba: %1$d min)"</item>
      </plurals>
+	  <plurals name="author_fans_number">
+        <item quantity="one">%d pratitelj</item>
+        <item quantity="few">%d pratitelja</item>
+        <item quantity="other">%d pratitelja</item>
+     </plurals>
+     <plurals name="author_popularity_quantity">
+        <item quantity="one">%d pregled</item>
+        <item quantity="few">%d pregleda</item>
+        <item quantity="other">%d pregleda</item>
+     </plurals>
+     <plurals name="author_themes_number">
+        <item quantity="one">%d tema</item>
+        <item quantity="few">%d teme</item>
+        <item quantity="other">%d tema</item>
+     </plurals>
+     <plurals name="reward_guaranteed_countdown_time_text">
+        <item quantity="one">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="other">%ds</item>
+     </plurals>
+     <plurals name="talkback_ringtone_time_one">
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minute</item>
+        <item quantity="other">%1$d minuta</item>
+     </plurals>
+     <plurals name="talkback_ringtone_time_two">
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekunde</item>
+        <item quantity="other">%1$d sekundi</item>
+     </plurals>
 </resources>

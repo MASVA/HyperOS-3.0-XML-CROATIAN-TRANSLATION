@@ -866,6 +866,7 @@ Audio"</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="chose_product_summary">Nazovite jeftinije</string>
   <string name="chose_product_title">Paket nadoplate</string>
+  <string name="choose_satellite_data_mode">Lažni način rada sa satelitskim podacima (samo za otklanjanje pogrešaka)</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
   <string name="clear_all_set_button">Očisti postavke</string>
   <string name="clear_all_set_title">Ova tipka je za čišćenje svih postavki</string>

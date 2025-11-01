@@ -12044,6 +12044,7 @@
   <string name="search_preferred_network_type_title">Poželjni tip mreže;Poželjna mreža;Vrsta mreže</string>
   <string name="search_privacy">Sig. kopija &amp; poništi;Sig. kopija i poništi;Sig. kopija;Poništi;Izradi Sig. kopiju</string>
   <string name="search_privacy_policy">Pravila o privatnosti</string>
+  <string name="search_privacy_protection">Dopuštenja</string>
   <string name="search_privacy_settings">Sig. kopija &amp; poništi;Sig. kopija i poništi;Sig. kopija;poništi;Izradi Sig. kopiju</string>
   <string name="search_radio_controls_title">Više;Bežično</string>
   <string name="search_recents_queries_label">Nedavna pretraživanja</string>

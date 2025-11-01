@@ -71,6 +71,7 @@
   <string name="appcirculate_fragment_circulate_device_list_text_none">&lt;u&gt;"Ne možete pronaći svoje uređaje?"&lt;/u&gt;</string>
   <string name="appcirculate_fragment_circulate_device_list_text_searching">Traženje uređaja u blizini…</string>
   <string name="appcirculate_toast_app_max_screen_count">"Ne mogu otvoriti više prozora"</string>
+  <string name="appcirculate_toast_app_notstall">Prijenos nije moguć. Ova aplikacija nije instalirana na telefonu.</string>
   <string name="appcirculate_toast_busy">Čini se da drugi uređaj sada prenosi datoteke. Pričekajte da prijenos završi i pokušajte ponovo.</string>
   <string name="appcirculate_toast_cancel">Otkazano</string>
   <string name="appcirculate_toast_connected">Emitiranje je pokrenuto</string>
@@ -193,8 +194,52 @@
   <string name="car_seat_can_not_use">Nije dostupno</string>
   <string name="cast_auth_count_down">Unesite kôd iz \"%1$s\" za početak emitiranja (%2$ds)</string>
   <string name="cast_auth_title">Unesite kod</string>
+  <string name="cast_casting_to_device">Emitiranje na uređaj %1$s</string>
+  <string name="cast_closed_captions">Titlovi</string>
+  <string name="cast_closed_captions_unavailable">Titlovi nisu dostupni</string>
+  <string name="cast_connecting_to_device">Povezivanje s uređajem %1$s</string>
+  <string name="cast_device_chooser_searching_for_devices">Traženje uređaja</string>
+  <string name="cast_device_chooser_title">Emitiranje na</string>
+  <string name="cast_disconnect">Prekini vezu</string>
+  <string name="cast_expanded_controller_ad_image_description">Slika koja se prikazuje dok prijemnik Casta reproducira oglas</string>
+  <string name="cast_expanded_controller_ad_in_progress">Oglas u tijeku…</string>
+  <string name="cast_expanded_controller_background_image">Naslovnica albuma</string>
+  <string name="cast_expanded_controller_live_head_description">Trenutačni je položaj na početku streama uživo</string>
+  <string name="cast_expanded_controller_live_stream_indicator">Emitiranje uživo</string>
+  <string name="cast_expanded_controller_loading">Učitavanje…</string>
+  <string name="cast_expanded_controller_skip_ad_label">Preskočite oglas</string>
+  <string name="cast_expanded_controller_skip_ad_text">Oglas možete preskočiti za %1$d…</string>
+  <string name="cast_forward">Unaprijed</string>
+  <string name="cast_forward_10">Deset sekundi unaprijed</string>
+  <string name="cast_forward_30">Trideset sekundi unaprijed</string>
   <string name="cast_image_des">Udžbenik za emitiranje</string>
+  <string name="cast_live_label">UŽIVO</string>
   <string name="cast_mode">Način emitiranja</string>
+  <string name="cast_mute">Isključi zvuk</string>
+  <string name="cast_notification_connected_message">Povezano s uređajem %1$s</string>
+  <string name="cast_notification_connecting_message">Povezivanje s uređajem %1$s</string>
+  <string name="cast_notification_default_channel_name">Emitiranje</string>
+  <string name="cast_notification_disconnect">Prekini vezu</string>
+  <string name="cast_pause">Pauziraj</string>
+  <string name="cast_play">Reproduciraj</string>
+  <string name="cast_rewind">Unatrag</string>
+  <string name="cast_rewind_10">Deset sekundi unatrag</string>
+  <string name="cast_rewind_30">Trideset sekundi unatrag</string>
+  <string name="cast_seek_bar">Upravljanje klizačem za reprodukciju</string>
+  <string name="cast_skip_next">Preskoči na sljedeću stavku</string>
+  <string name="cast_skip_prev">Preskoči na prethodnu stavku</string>
+  <string name="cast_stop">Zaustavi</string>
+  <string name="cast_stop_live_stream">Zaustavi stream uživo</string>
+  <string name="cast_tracks_chooser_dialog_audio">Audiozapis</string>
+  <string name="cast_tracks_chooser_dialog_cancel">Odustani</string>
+  <string name="cast_tracks_chooser_dialog_closed_captions">Titlovi</string>
+  <string name="cast_tracks_chooser_dialog_default_track_name">Zapis %1$d</string>
+  <string name="cast_tracks_chooser_dialog_none">Ništa</string>
+  <string name="cast_tracks_chooser_dialog_ok">U redu</string>
+  <string name="cast_tracks_chooser_dialog_subtitles">Titlovi</string>
+  <string name="cast_unmute">Uključi zvuk</string>
+  <string name="cast_zero_devices_found">"Nije pronađen nijedan uređaj.
+"</string>
   <string name="casting_tips">Emitiranje…</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -419,6 +464,7 @@
   <string name="circulate_jump_to_mijia">Otvori Mi Home/Xiaomi Home</string>
   <string name="circulate_local_pad_name">Moj tablet</string>
   <string name="circulate_local_phone_name">Moj telefon</string>
+  <string name="circulate_more_button_content_description">Više</string>
   <string name="circulate_more_device">Više uređaja</string>
   <string name="circulate_more_setting">Dodatne postavke</string>
   <string name="circulate_network_button_help">Prikaži pomoć</string>
@@ -585,6 +631,8 @@
   <string name="connect_settings_not_opened">Isključeno</string>
   <string name="connect_settings_opened">Uključeno</string>
   <string name="connect_settings_other_settings_mi_share">Xiaomi Share</string>
+  <string name="connect_settings_presentation_password_error">Netočna zaporka</string>
+  <string name="connect_settings_presentation_password_title">Unesite zaporku administratora</string>
   <string name="connect_settings_privacy_policy">Pravila o privatnosti</string>
   <string name="connect_settings_relay_app">Aplikacije</string>
   <string name="connect_settings_same_account">S ovog računa</string>
@@ -630,7 +678,7 @@
   <string name="connect_settings_summary_share_notification_pad_v2">Prikaži obavijesti s telefona u blizini prijavljenih na svoj Xiaomi račun na ovom uređaju</string>
   <string name="connect_settings_summary_share_notification_phone">Prikaži obavijesti na obližnjim tabletima ili računalima u upotrebi kada je ovaj uređaj zaključan</string>
   <string name="connect_settings_summary_share_notification_phone_v2">Prikaži važne obavijesti s telefona na TV-u, tabletu i računalu</string>
-  <string name="connect_settings_summary_v2_china"><Data>Automatski otkrijte obližnje uređaje prijavljene na vaš Xiaomi račun i povežite ih međusobno kako biste obavljali razne zadatke na više uređaja. &lt;br>Uključite Wi-Fi i Bluetooth prije upotrebe. &lt;a href=%1$s>Saznajte više&lt;/a></Data></string>
+  <string name="connect_settings_summary_v2_china">&lt;Data&gt;Automatski otkrijte obli&amp;#382;nje ure&amp;#273;aje prijavljene na va&amp;#353; Xiaomi ra&amp;#269;un i pove&amp;#382;ite ih me&amp;#273;usobno kako biste obavljali razne zadatke na vi&amp;#353;e ure&amp;#273;aja. &amp;lt;br&amp;gt;Uklju&amp;#269;ite Wi-Fi i Bluetooth prije upotrebe. &amp;lt;a href=%1$s&amp;gt;Saznajte vi&amp;#353;e&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="connect_settings_user_agreement">Korisnički ugovor</string>
   <string name="connect_settings_withdraw_consent">Povlačenje suglasnosti</string>
   <string name="connect_success">%1$s je povezan</string>
@@ -738,6 +786,7 @@
   <string name="extended_screen_not_supported_toast">"Proširenje aplikacije nije podržano u trenutnom scenariju"</string>
   <string name="extended_screen_right">Proširi s desne strane</string>
   <string name="extended_screen_top">Proširi od vrha</string>
+  <string name="extension_not_supported_toast">Proširenje aplikacije nije podržano u trenutačnom scenariju</string>
   <string name="fallback_menu_item_copy_link">Kopiraj poveznicu</string>
   <string name="fallback_menu_item_open_in_browser">Otvori u pregledniku</string>
   <string name="fallback_menu_item_share_link">Podijelite poveznicu</string>
@@ -995,12 +1044,15 @@
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="media_notification_channel_name">Emitiranje</string>
   <string name="message_connection_interrupted">Provjerite jesu li vaše računalo i tablet unutar dometa veze i jesu li Bluetooth i Wi-Fi uključeni. Za nastavak ponovno pokrenite zadatak na računalu.</string>
   <string name="message_install">Instalirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
   <string name="message_update">Ažurirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
+  <string name="mihome_camera_device_during_calll">Kamera se već koristi za poziv</string>
   <string name="mihome_camera_device_not_available">"Nije moguće povezati više uređaja"</string>
   <string name="mihome_camera_device_offline">"Ne mogu se povezati. Kamera je izvan mreže."</string>
   <string name="mihome_camera_device_sleep">Izađite iz stanja mirovanja i pokušajte ponovno</string>
+  <string name="mihome_camera_device_updating">Uređaj se ažurira. Pokušajte ponovo kada ažuriranje završi.</string>
   <string name="miplay_accessibility_cast">Odaberite uređaj</string>
   <string name="miplay_accessibility_cover">Naslovna stranica</string>
   <string name="miplay_accessibility_more_settings">Dodatne postavke</string>
@@ -1143,7 +1195,7 @@
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
-  <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
+  <string name="mtrl_picker_a11y_prev_month">Prijelaz na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
   <string name="mtrl_picker_announce_current_selection_none">ništa</string>
@@ -1598,6 +1650,10 @@
   <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
   <string name="small_window">Smanji prozor</string>
   <string name="small_window_not_supported">"Ne možete smanjiti ovu aplikaciju dok se emitira"</string>
+  <string name="start_forbidden_by_glasses_camera_in_use_toast">Kamera na naočalama je u upotrebi. Pokušajte ponovno kasnije.</string>
+  <string name="start_forbidden_by_glasses_in_audio_record">Snimanje zvuka. Ne mogu otvoriti Fotoaparat.</string>
+  <string name="start_forbidden_by_glasses_in_translation">Prevođenje. Ne mogu otvoriti Fotoaparat.</string>
+  <string name="start_forbidden_by_glasses_temperature_high_toast">Tvoje naočale su pregrijane. Pokušajte ponovno kasnije.</string>
   <string name="start_forbidden_by_not_worn">"Ne mogu se povezati. Stavite naočale i pokušajte ponovno."</string>
   <string name="state_app_continuity">Korištenje preusmjeravanja aplikacije</string>
   <string name="state_audio_cast">Emitiranje zvuka putem Xiaomi Smart Playa</string>
@@ -1626,8 +1682,8 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="switch_application"><Data>"Koristite indikator prozora na tabletu \"&lt;img src=icon_dot>\" za odabir aplikacije za neovisni prikaz"</Data></string>
-  <string name="switch_application_new"><Data>Otvorite aplikaciju, dodirnite &lt;img src=icon_dot_new>, i odaberite \"Emitiranje aplikacije\"</Data></string>
+  <string name="switch_application">&lt;Data&gt;"Koristite indikator prozora na tabletu \"&amp;lt;img src=icon_dot&amp;gt;\" za odabir aplikacije za neovisni prikaz"&lt;/Data&gt;</string>
+  <string name="switch_application_new">&lt;Data&gt;Otvorite aplikaciju, dodirnite &amp;lt;img src=icon_dot_new&amp;gt;, i odaberite \"Emitiranje aplikacije\"&lt;/Data&gt;</string>
   <string name="switch_cast_mode">Dodirnite za promjenu načina emitiranja</string>
   <string name="switching_to_local_camera_description">"Prebacivanje natrag na kameru ovog uređaja…"</string>
   <string name="synergy_being_used_text">Koristi se</string>
@@ -1722,6 +1778,7 @@
   <string name="upgrade_test_package">"Da biste dovršili ažuriranje,
   provjerite sadrži li paket najnovije verzije svih aplikacija."</string>
   <string name="upgrade_title">Ažuriranje povezanih uređaja</string>
+  <string name="upgrade_toast_login_error">Uključite \"Automatski postavi vremensku zonu\" u postavkama i pokušajte ponovno</string>
   <string name="upgrade_toast_no_wifi">"Ne mogu se povezati"</string>
   <string name="upgrade_tv_device_tip">*Ažuriranja osigurava Xiaomi TV</string>
   <string name="upgrade_ver_can_upgrade">Dostupno ažuriranje</string>

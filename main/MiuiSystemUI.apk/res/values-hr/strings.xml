@@ -682,6 +682,7 @@ Audio"</string>
   <string name="bubbles_user_education_manage">Dodirnite Upravljanje da biste isključili oblačiće iz ove aplikacije</string>
   <string name="bubbles_user_education_manage_title">Upravljanje oblačićima u svakom trenutku</string>
   <string name="bubbles_user_education_title">Oblačići u chatu</string>
+  <string name="buffer_size">Veličina međuspremnika po procesoru</string>
   <string name="bugreport_in_power">Prečac izvještaja o pogreškama</string>
   <string name="bugreport_in_power_summary">Prikaži tipku u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="build_number_clip_data_label">Broj međuverzije</string>
@@ -893,6 +894,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="communal_widgets_disclaimer_title">Widgeti zaključanog zaslona</string>
   <string name="copied_text_label">Kopirani tekst</string>
   <string name="copy">Kopiraj</string>
+  <string name="copy_to_clipboard_a11y_action">kopiranje u međuspremnik.</string>
   <string name="creating_new_guest_dialog_message">Izrada novog gosta…</string>
   <string name="creating_new_user_dialog_message">Izrada novog korisnika…</string>
   <string name="csd_500_system_lowered_text">Glasnoća slušalica premašila je sigurno ograničenje za ovaj tjedan</string>
@@ -1936,6 +1938,7 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="media_projection_entry_cast_permission_dialog_option_text_entire_screen">Emitiraj cijeli zaslon</string>
   <string name="media_projection_entry_cast_permission_dialog_option_text_single_app">Emitiraj jednu aplikaciju</string>
   <string name="media_projection_entry_cast_permission_dialog_continue_single_app">Sljedeće</string>
+  <string name="media_projection_entry_generic_permission_dialog_continue_single_app">Dalje</string>
   <string name="media_projection_entry_share_app_selector_title">Odaberite aplikaciju za dijeljenje</string>
   <string name="media_transfer_analog_line_name">Analogni</string>
   <string name="media_transfer_aux_line_name">AUX</string>
@@ -2376,10 +2379,11 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="okay">U redu</string>
   <string name="one_gb">1 GB</string>
   <string name="one_hour">1 sat</string>
-  <string name="one_handed_tutorial_description">Za izlaz povucite prstom od dna zaslona prema gore ili dodirnite bio gdje iznad aplikacije</string>
-  <string name="one_handed_tutorial_title">Korištenje načina rada jednom rukom</string>
+  <string name="one_handed_tutorial_description">Za izlaz povucite prstom od dna zaslona prema gore ili dodirnite bilo gdje iznad aplikacije</string>
+  <string name="one_handed_tutorial_title">Načina rada jednom rukom</string>
   <string name="one_week_timestamp">Prije tjedan dana</string>
   <string name="ongoing_call_content_description">Poziv u tijeku</string>
+  <string name="ongoing_notification_extra_content_description">U tijeku</string>
   <string name="ongoing_phone_call_content_description">Telefonski poziv u tijeku</string>
   <string name="ongoing_privacy_chip_content_multiple_apps">Aplikacije upotrebljavaju %s.</string>
   <string name="ongoing_privacy_dialog_a11y_title">Koristi se</string>

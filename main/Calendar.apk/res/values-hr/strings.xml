@@ -239,6 +239,7 @@
   <string name="copy_email">Kopiraj adresu e-pošte</string>
   <string name="copy_number">Kopiraj broj telefona</string>
   <string name="count_down_date_view">Odbrojavanje</string>
+  <string name="count_down_holiday">Odbrojavanje do praznika</string>
   <string name="count_down_holidays_china">%1$d-dnevni odmor</string>
   <string name="countdown_event_title">Broj dana: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Broj dana: %1$s za 3 dana</string>
@@ -566,6 +567,7 @@
   <string name="menstruation_cycle_description">Broj dana između početka menstruacije i dana prije početka sljedeće menstruacije</string>
   <string name="menstruation_days">Trajanje menstruacije</string>
   <string name="menstruation_days_description">Broj dana između prvog i posljednjeg dana krvarenja</string>
+  <string name="menu_function_preferences">Značajke</string>
   <string name="menstruation_last_start_date">Zadnja menstruacija je započela</string>
   <string name="menstruation_record">Zabilježene menstruacije</string>
   <string name="menstruation_select_date">Odaberite datum</string>
