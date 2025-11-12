@@ -95,4 +95,40 @@
         <item quantity="one">%ds</item>
         <item quantity="other">%ds</item>
     </plurals>
+	     <plurals name="ai_answers_delete_history_dialog_content">
+        <item quantity="one">Izbrisati %d odabranih zapisa povijesti?</item>
+        <item quantity="other">Izbrisati %d odabrani zapis povijesti?</item>
+     </plurals>
+     <plurals name="ai_answers_history_selected_dialogue">
+        <item quantity="one">Odabrano %d stavki</item>
+        <item quantity="other">Odabrana %d stavka</item>
+     </plurals>
+     <plurals name="booking_book_nights">
+        <item quantity="one">%d noćenje</item>
+        <item quantity="other">%d noćenja</item>
+     </plurals>
+     <plurals name="booking_book_number_of_adults">
+        <item quantity="one">%d odrasla osoba</item>
+        <item quantity="other">%d odraslih osoba</item>
+     </plurals>
+     <plurals name="booking_hotel_reviews">
+        <item quantity="one">%d recenzija</item>
+        <item quantity="other">%d recenzija</item>
+     </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Premotavanje unaprijed %d sek.</item>
+        <item quantity="other">Premotavanje unaprijed %d sek.</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Premotavanje %d sek. unatrag</item>
+        <item quantity="other">Premotavanje %d sek. unatrag</item>
+     </plurals>
+     <plurals name="miuix_indexer_selected">
+        <item quantity="one">Odabrano %1$d stavki</item>
+        <item quantity="other">Odabrana %1$d stavka</item>
+     </plurals>
+     <plurals name="talkback_prompt_setting_revoke_positive_countdown">
+        <item quantity="one">Suglasnost možete povući za %1$d sekundu.</item>
+        <item quantity="other">Suglasnost možete povući za %1$d sek.</item>
+     </plurals>
 </resources>

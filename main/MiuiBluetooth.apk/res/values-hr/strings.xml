@@ -30,6 +30,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="accessibility_banner_message_dismiss">Odbaci</string>
   <string name="accessibility_data_one_bar">Podatkovni signal jedan stupac.</string>
   <string name="accessibility_data_signal_full">Podatkovni signal pun.</string>
@@ -252,6 +253,10 @@ Audio"</string>
   <string name="bluetooth_talkback_imaging">Snimanje</string>
   <string name="bluetooth_talkback_input_peripheral">Periferni uređaj za unos</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
+  <string name="bottomsheet_action_collapse">Sakrij donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_drag_handle_clicked">Dvostruki dodir ručke za povlačenje</string>
+  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Dohvati Bluetooth pakete. (Uključi Bluetooth nakon promjene ove postavke)</string>
@@ -855,11 +860,18 @@ Brži protokol veze."</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
   <string name="nearby_contacts">Kontakti u blizini</string>
+  <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
+  <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovno."</string>
   <string name="no_application">Ništa</string>
   <string name="not_default_data_content_description">Nije postavljeno za upotrebu podataka</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notify_device_lose_connection_text">Dodirnite za prekid veze s %1$s.</string>
   <string name="notify_device_lose_connection_title">Izgubljena je veza s %1$s</string>
+  <string name="notification_talk_from_app">od %1$s</string>
+  <string name="notification_talk_from_mms">od %1$s mms</string>
+  <string name="notification_talk_from_mms_long_text">od %1$s duga poruka</string>
+  <string name="notification_talk_permission">"Dopuštanjem ovoj aplikaciji korištenje obavijesti omogućit ćete joj primanje obavijesti (WeChat, Poruke itd.) na vašem uređaju. Dopustit ćete ovoj aplikaciji korištenje obavijesti ako nastavite."</string>
+  <string name="notification_talk_speed_finish">Postavljanje brzine emitiranja je dovršeno</string>
   <string name="offline_app_name">Komunikacija između uređaja</string>
   <string name="offline_call_balack_list">Popis blokiranih</string>
   <string name="offline_call_balack_list_join">Dodaj na popis blokiranih</string>
@@ -892,6 +904,11 @@ Brži protokol veze."</string>
   <string name="offline_call_notification_broadcast_location">Komunikacija na različitim uređajima dijeli vašu lokaciju</string>
   <string name="offline_call_notification_broadcast_start">Komunikacija s više uređaja emitira se</string>
   <string name="offline_call_remove">Ukloni</string>
+  <string name="offline_call_create_shortcut_success">Uspješno dodano</string>
+  <string name="offline_call_repeatedly_create_shortcut">Ovaj prečac već postoji</string>
+  <string name="offline_call_shortcut_display">Dodaj prečac na početni zaslon</string>
+  <string name="offline_chat_summary_global">Komuniciranje s obližnjim Xiaomi telefonima kada ste izvan mreže kada je Bluetooth uključen na oba uređaja (Trenutni uređaj: %1$s)</string>
+  <string name="offline_chat_title_global">Xiaomi komunikacija izvan mreže (Demo način rada)</string>
   <string name="offline_call_settings_summary">Komunicirajte s obližnjim Xiaomi telefonima kada ste izvan mreže kada je Bluetooth uključen na oba uređaja</string>
   <string name="offline_call_settings_title">Komunikacija između uređaja</string>
   <string name="offline_call_show_location_title">Dijeli moju lokaciju s ljudima u blizini</string>
@@ -913,6 +930,7 @@ Brži protokol veze."</string>
   <string name="p8g_activity_bt_connect">Uključi Bluetooth</string>
   <string name="p8g_activity_bt_connect_failed">"Povezivanje nije uspjelo"</string>
   <string name="p8g_activity_bt_connecting">Povezivanje…</string>
+  <string name="p8g_activity_new_prompt">Držite svoju retro maskicu za ručnu konzolu uključenom</string>
   <string name="p8g_activity_bt_retry">Pokušaj ponovno</string>
   <string name="p8g_activity_prompt">Uključi maskicu</string>
   <string name="p8g_island_opened">Uključeno</string>
@@ -987,6 +1005,7 @@ Brži protokol veze."</string>
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="profile_connect_timeout_subtext">Problem s povezivanjem. Isključite i ponovo uključite uređaj</string>
   <string name="profile_info_settings_title">Profilni podaci</string>
+  <string name="progressbar_title">Provjera sigurnosnih problema…</string>
   <string name="progress_scanning">Pretraživanje…</string>
   <string name="remaining_length_format">Još %1$s</string>
   <string name="remove_black_list_title">Ukloni popis blokiranih</string>
@@ -1051,6 +1070,7 @@ Brži protokol veze."</string>
   <string name="show_screen_updates_summary">Površina prozora bljeska pri ažuriranju.</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
+  <string name="sim_identify_failed">"Ne mogu otvoriti. SIM kartica nije prepoznata."</string>
   <string name="sim_identifiky_failed">"Ne mogu otvoriti. SIM kartica nije prepoznata."</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
   <string name="some_app_taking">(%1$s već koristi tu funkciju…)</string>
@@ -1091,6 +1111,7 @@ Brži protokol veze."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="tap_to_renew_subscription_and_connect">Dodirnite da biste obnovili pretplatu i povezali se</string>
   <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
   <string name="tether_settings_title_all">Dijeljenje veze i hotspot</string>
@@ -1170,6 +1191,7 @@ Brži protokol veze."</string>
  Dodirnite \"Prihvaćam\" kako biste potvrdili da ste pročitali i prihvatili ovu izjavu o privatnosti."</string>
   <string name="user_agreement_title">Izjava o privatnosti komunikacije između uređaja</string>
   <string name="unknown">Nepoznato</string>
+  <string name="unknown_error_info">Nepoznata pogreška</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
   <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>

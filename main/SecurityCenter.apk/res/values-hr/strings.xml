@@ -208,6 +208,10 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="adv_version_text">Verzija: %s</string>
   <string name="after_the_lock_screen">"Zaključaj aplikacije zajedno sa zaslonom."</string>
   <string name="ai_allow_all">Odluči za mene u svim slučajevima</string>
+  <string name="ai_guard_post_go">Pokreni</string>
+  <string name="ai_guard_post_preference_guidance_summary">"%1$d. Idite na Postavke > Privatnost i sigurnost > Sigurnost > Zaštita od prijevara > Zaštita poziva.
+%2$d. Uključite AI zaštitu poziva i dodijelite potrebna dopuštenja."</string>
+  <string name="ai_guard_post_preference_guidance_title">Kako koristiti</string>
   <string name="ai_guard_settings_about_info">O ovoj značajci</string>
   <string name="ai_guard_settings_declaration">Odricanje od odgovornosti: Upozorenja koja šalje ova značajka samo su za vašu referencu. Koristite vlastitu prosudbu kada procjenjujete rizike.</string>
   <string name="ai_guard_settings_menu_bugreport">Povratne informacije</string>
@@ -579,6 +583,10 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za pohranu</string>
   <string name="app_manager_details_title">Informacije o aplikaciji</string>
+  <string name="app_manager_details_electric_title_new">Napajanje</string>
+  <string name="app_manager_details_electric_title_value">Potrošnja baterije %s</string>
+  <string name="app_manager_details_traffic_title_new">Pristup mreži</string>
+  <string name="app_manager_details_traffic_title_value">Potrošnja podataka %1$s</string>
   <string name="app_manager_details_traffic_title">Uporaba podataka</string>
   <string name="app_manager_disable">"Ne dopusti"</string>
   <string name="app_manager_disable_dlg_title">Onemogućiti aplikaciju sustava?</string>
@@ -3672,6 +3680,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
   <string name="lockpattern_tutorial_continue_label_confirm">Dodirni \"U redu\"</string>
   <string name="lockpattern_tutorial_continue_label_next">Dodirni \"Dalje\"</string>
+  <string name="lockscreen_access_pattern_area">Područje uzorka</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
@@ -4567,6 +4576,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_18W_high_power_reverse_charging_summary">Punite brže uz obrnuto punjenje velike snage. USB veza služi samo za punjenje.</string>
   <string name="pc_18W_high_power_reverse_charging_title">Obrnuto punjenje</string>
   <string name="pc_18W_high_power_reverse_charging_summary_new">Brže punjenje uz snažno obrnuto punjenje.</string>
+  <string name="pc_battery_detail">Detalji o bateriji</string>
   <string name="pc_remove_shell_charging_notification_msg">"Bežično punjenje nije moguće kada koristite kućište za igranje. Uklonite ga i pokušajte ponovno ili koristite žičano punjenje."</string>
   <string name="pc_remove_shell_charging_notification_title">Uklonite kućište za bežično punjenje</string>
   <string name="pc_remove_shell_charging_toast">Uklonite kućište za bežično punjenje</string>
@@ -6385,6 +6395,9 @@ Povući suglasnost sada?"</string>
   <string name="section_title_clear_acc">Očisti predmemoriju</string>
   <string name="section_title_security_defend">Sigurnost</string>
   <string name="section_title_system">Sigurnost sustava</string>
+  <string name="security_access_contact_tip">Aplikacija podržava privatni pristup. Moguće je pristupiti samo odabranim kontaktima radi zaštite vaše privatnosti.</string>
+  <string name="security_access_file_tip">Aplikacija podržava privatni pristup. Moguće je pristupiti samo odabranim datotekama radi zaštite vaše privatnosti.</string>
+  <string name="security_access_media_tip">Aplikacija podržava privatni pristup. Moguće je pristupiti samo odabranim fotografijama i videozapisima radi zaštite vaše privatnosti.</string>
   <string name="security_app_lock">Zaklj. aplikacija</string>
   <string name="security_bottom_guide_to_pm_text">Otpusti za otvaranje alata</string>
   <string name="security_center_auto_task">Centar zadataka</string>

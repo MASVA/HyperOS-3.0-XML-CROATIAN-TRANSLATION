@@ -269,6 +269,11 @@
   <string name="bluetooth_chat">Komunikacija između uređaja</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth veza je prekinuta</string>
   <string name="blurbJoinContactDataWith">Odaberite kontakt koji želite pridružiti imenu %s:</string>
+  <string name="bottomsheet_action_collapse">Sakrij donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+  <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručka za povlačenje</string>
+  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="btn_split_contact">Odvoji</string>
   <string name="button_cancel_scan">"Zaustavi"</string>
   <string name="button_scan">Ponovno skeniraj</string>
@@ -1121,6 +1126,10 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="privacy_settings_write_contacts">Uređivanje kontakata</string>
   <string name="privacy_settings_write_contacts_description">Za upravljanje kontaktima</string>
   <string name="privacy_settings_yellowpage">Yellow pages</string>
+  <string name="private_access_preview_limted">Pregled (%1$d/%2$d)</string>
+  <string name="private_access_select_max_toast">"Ne mogu odabrati više kontakata"</string>
+  <string name="private_access_text">Ostale aplikacije mogu pristupiti samo kontaktima koje odaberete kako bi zaštitile vašu privatnost</string>
+  <string name="private_access_title">Privatni pristup</string>
   <string name="private_num">"Privatni broj"</string>
   <string name="profileSavedErrorToast">"Ne mogu spremiti promjene profila"</string>
   <string name="profileSavedToast">Promjene profila spremljene</string>

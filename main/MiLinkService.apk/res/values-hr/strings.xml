@@ -678,7 +678,7 @@
   <string name="connect_settings_summary_share_notification_pad_v2">Prikaži obavijesti s telefona u blizini prijavljenih na svoj Xiaomi račun na ovom uređaju</string>
   <string name="connect_settings_summary_share_notification_phone">Prikaži obavijesti na obližnjim tabletima ili računalima u upotrebi kada je ovaj uređaj zaključan</string>
   <string name="connect_settings_summary_share_notification_phone_v2">Prikaži važne obavijesti s telefona na TV-u, tabletu i računalu</string>
-  <string name="connect_settings_summary_v2_china">&lt;Data&gt;Automatski otkrijte obli&amp;#382;nje ure&amp;#273;aje prijavljene na va&amp;#353; Xiaomi ra&amp;#269;un i pove&amp;#382;ite ih me&amp;#273;usobno kako biste obavljali razne zadatke na vi&amp;#353;e ure&amp;#273;aja. &amp;lt;br&amp;gt;Uklju&amp;#269;ite Wi-Fi i Bluetooth prije upotrebe. &amp;lt;a href=%1$s&amp;gt;Saznajte vi&amp;#353;e&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="connect_settings_summary_v2_china"><Data>Automatski otkrijte obližnje uređaje prijavljene na vaš Xiaomi račun i povežite ih međusobno kako biste obavljali razne zadatke na više uređaja. &lt;br>Uključite Wi-Fi i Bluetooth prije upotrebe. &lt;a href=%1$s>Saznajte više&lt;/a></Data></string>
   <string name="connect_settings_user_agreement">Korisnički ugovor</string>
   <string name="connect_settings_withdraw_consent">Povlačenje suglasnosti</string>
   <string name="connect_success">%1$s je povezan</string>
@@ -1682,8 +1682,8 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="switch_application">&lt;Data&gt;"Koristite indikator prozora na tabletu \"&amp;lt;img src=icon_dot&amp;gt;\" za odabir aplikacije za neovisni prikaz"&lt;/Data&gt;</string>
-  <string name="switch_application_new">&lt;Data&gt;Otvorite aplikaciju, dodirnite &amp;lt;img src=icon_dot_new&amp;gt;, i odaberite \"Emitiranje aplikacije\"&lt;/Data&gt;</string>
+  <string name="switch_application"><Data>"Koristite indikator prozora na tabletu \"&lt;img src=icon_dot>\" za odabir aplikacije za neovisni prikaz"</Data></string>
+  <string name="switch_application_new"><Data>Otvorite aplikaciju, dodirnite &lt;img src=icon_dot_new>, i odaberite \"Emitiranje aplikacije\"</Data></string>
   <string name="switch_cast_mode">Dodirnite za promjenu načina emitiranja</string>
   <string name="switching_to_local_camera_description">"Prebacivanje natrag na kameru ovog uređaja…"</string>
   <string name="synergy_being_used_text">Koristi se</string>

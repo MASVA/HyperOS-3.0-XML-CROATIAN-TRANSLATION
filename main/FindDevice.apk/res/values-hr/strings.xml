@@ -51,12 +51,14 @@
   <string name="cancel_erase_data_dialog_title">Otkazati zahtjev?</string>
   <string name="cancel_erase_fail_toast">"Nije moguće otkazati. Provjerite mrežne postavke."</string>
   <string name="cancel_erase_success_toast">Zahtjev za brisanje podataka otkazan</string>
-  <string name="cancel_lost_mode_dialog_button_confirm_cancel">Otkaži</string>
+  <string name="cancel_lost_mode_dialog_button_confirm_cancel">Odustani</string>
   <string name="cancel_lost_mode_dialog_button_reserve_open">"Nemoj otkazati"</string>
   <string name="cancel_lost_mode_dialog_message">"Ako otkažete zahtjev za uključivanje Izgubljenog načina rada, uređaj se neće automatski zaključati kada se poveže s internetom. Ako ima postavljeno zaključavanje zaslona, ​​i dalje će ga trebati unijeti da bi se otvorio. Otkazati zahtjev sada?"</string>
   <string name="cancel_lost_mode_dialog_title">Otkazati zahtjev?</string>
   <string name="cannot_found_location">"Ne mogu locirati"</string>
   <string name="change_find_device_status_failed">"Ne mogu otključati. %s."</string>
+  <string name="change_share_device_dialog_des">%1$s će dijeliti lokaciju vašeg uređaja.</string>
+  <string name="change_share_device_dialog_title">Uspješno promjenjeno</string>
   <string name="clear_data">Izbriši podatke</string>
   <string name="clear_data_has_not_useful">Nevažeći zahtjev za brisanje podataka</string>
   <string name="clear_data_time_out">Zahtjev za brisanje podataka je istekao</string>
@@ -110,6 +112,7 @@
   <string name="detail_data_cleared">Podaci uređaja izbrisani</string>
   <string name="detail_view_erase_data_pending_hint">Brisanje podataka na čekanju</string>
   <string name="detail_view_erase_data_timeout_hint">Vrijeme čekanja zahtjeva je isteklo</string>
+  <string name="device_data_cleared">Podaci uređaja izbrisani</string>
   <string name="device_data_has_clear">Podaci uređaja izbrisani</string>
   <string name="device_locked">Ovaj uređaj je zaključan</string>
   <string name="device_lost">Ovaj uređaj je izgubljen!</string>
@@ -136,12 +139,12 @@
   <string name="erase_data_pending_dialog_title">Čekanje na brisanje podataka</string>
   <string name="erase_data_pending_notify_info_toast">Uspješno promijenjeno</string>
   <string name="erase_data_phone_hint">(Neobavezno)</string>
-  <string name="erase_data_result_btn_cancel_erase">Otkaži brisanje</string>
+  <string name="erase_data_result_btn_cancel_erase">Odustani brisanje</string>
   <string name="erase_data_result_btn_re_erase">Pokušaj ponovno</string>
   <string name="erase_data_result_btn_save">Spremi</string>
   <string name="erase_data_result_timeout_hint">"Zahtjev je istekao i podaci nisu izbrisani. Izgubljeni uređaj još se nije spojio na mrežu ili je isključen. Možete ponovno pokušati izbrisati podatke."</string>
   <string name="erase_data_result_title">Izbriši podatke</string>
-  <string name="erase_data_setting_btn_cancel">Otkaži</string>
+  <string name="erase_data_setting_btn_cancel">Odustani</string>
   <string name="erase_data_setting_btn_canceling">Otkazivanje…</string>
   <string name="erase_data_setting_btn_erase">Izbriši podatke</string>
   <string name="erase_data_setting_btn_erasing">Brisanje podataka…</string>
@@ -152,7 +155,7 @@
   <string name="erase_data_success_dialog_title">Podaci uspješno izbrisani</string>
   <string name="erase_data_timeout_dialog_message">"Zahtjev za brisanje podataka je istekao jer uređaj nije bio uključen ili spojen na mrežu. Pokušati ponovno?"</string>
   <string name="erase_data_timeout_dialog_negative_button">Pokušati ponovno</string>
-  <string name="erase_data_timeout_dialog_positive_button">Otkaži</string>
+  <string name="erase_data_timeout_dialog_positive_button">Odustani</string>
   <string name="erase_data_timeout_dialog_title">Zahtjev je istekao</string>
   <string name="error_network">"Mreža nije dostupna."</string>
   <string name="expand_button_title">Napredno</string>
@@ -173,6 +176,7 @@
   <string name="find_device_error_server">Pogreška poslužitelja (%s).</string>
   <string name="find_device_error_unknown">Nepoznata pogreška (%s).</string>
   <string name="find_device_gdpr_prompt">"Uključivanjem Pronađi uređaj prihvaćate "&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Pravila privatnosti Xiaomi Clouda&lt;/u&gt;&lt;/a&gt;. Da biste povukli svoj pristanak na Pravila privatnosti, isklju&amp;#269;ite ovu zna&amp;#269;ajku.</string>
+  <string name="find_device_noise_notification_title">Pažnja</string>
   <string name="find_device_noise_title">Alarm značajke Pronađi uređaj</string>
   <string name="find_device_notice">Ako izgubite vaš uređaj, idite na &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; da pronađete, zaključate, ili poništite svoj uređaj na daljinu.</string>
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"Da biste ažurirali status SIM-a i osigurali da sve usluge rade normalno, jedna &lt;font color=#0097FF&gt;&lt;b&gt;plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; bit će poslana nakon što zamijenite SIM kartice. Vaš će vam operater naplatiti ovu poruku."</string>
@@ -226,6 +230,7 @@
   <string name="find_welcome_fragment_set_account_dialog_button_cancel">Odustani</string>
   <string name="find_welcome_fragment_set_account_dialog_button_set">Postavi</string>
   <string name="find_welcome_fragment_set_account_dialog_password_title">Postavi zaporku</string>
+  <string name="find_welcome_fragemnt_set_account_dialog_password_title">Postavi zaporku</string>
   <string name="find_welcome_fragment_set_account_pdialog_assword_message">Prijavite se sa svojim Xiaomi računom i postavite zaporku kako biste mogli locirati uređaje.</string>
   <string name="find_welcome_fragment_third_content_message">Podijelite svoju lokaciju u stvarnom vremenu s prijateljima i članovima obitelji</string>
   <string name="find_welcome_fragment_third_content_title">Podijelite lokaciju</string>
@@ -284,7 +289,7 @@
   <string name="lost_mode_phone_hint">(Obavezno)</string>
   <string name="lost_mode_phone_number_empty_toast">"Broj telefona ne može ostati prazan"</string>
   <string name="lost_mode_phone_title">Broj telefona</string>
-  <string name="lost_mode_result_btn_cancel">Otkaži zahtjev za uključivanje načina rada Izgubljeni uređaj</string>
+  <string name="lost_mode_result_btn_cancel">Odustani zahtjev za uključivanje načina rada Izgubljeni uređaj</string>
   <string name="lost_mode_result_btn_canceling">Otkazivanje zahtjeva…</string>
   <string name="lost_mode_result_btn_save">Spremi</string>
   <string name="lost_mode_result_btn_unlock">Isključi način rada Izgubljeni uređaj</string>
@@ -305,6 +310,7 @@
   <string name="map_name_baidu">Baidu karte</string>
   <string name="map_name_tencent">Tencent karte</string>
   <string name="map_type">Vrsta karte</string>
+  <string name="message_locate_hit">Ako je uređaj uključen i SIM kartica aktivna, pokušajte ga locirati putem SMS-a</string>
   <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Za uključivanje usluga Pronađi uređaj i Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; biti će poslana automatski. Kada zamijenite SIM kartice, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;plaćena SMS porkua&lt;/b&gt;&lt;/font&gt; biti će poslana automatski za reaktivaciju. Sve SMS naknade generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
   <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"Za uključivanje usluga Pronađi uređaj i Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;domaća plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; biti će poslana automatski. Kada zamijenite SIM kartice, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;domaća plaćena SMS porkua&lt;/b&gt;&lt;/font&gt; biti će poslana automatski za reaktivaciju. Sve SMS naknade generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
   <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Za uključivanje usluga Pronađi uređaj i Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;međunarodna plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; biti će poslana automatski. Kada zamijenite SIM kartice, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;međunarodna plaćena SMS porkua&lt;/b&gt;&lt;/font&gt; biti će poslana automatski za reaktivaciju. Sve SMS naknade generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
@@ -431,6 +437,10 @@
   <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
   <string name="phone_locked_account_phone">, povezan broj telefona: %s</string>
   <string name="play_audio">Reproduciraj alarm</string>
+  <string name="play_audio_status_close">Isključeno</string>
+  <string name="play_audio_status_connecting">Povezivanje…</string>
+  <string name="play_audio_status_playing">Reproduciranje…</string>
+  <string name="play_audio_status_waiting">Čekanje na povezivanje</string>
   <string name="power_off_locate_summary">"Prijavi informacije o lokaciji pritiskom na gumb za uključivanje/isključivanje. Informacije o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string>
   <string name="power_off_locate_title">Prijavi lokaciju prije isključivanja</string>
   <string name="pre_privacy_policy">Pravila o privatnosti</string>
@@ -473,10 +483,14 @@
   <string name="start_self_find">Uključi \"Pronađi ovaj uređaj\"</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_noising">Zaustavi reprodukciju</string>
-  <string name="stop_noising_content_with_device">"%1$sov %2$s traži ovaj uređaj."</string>
+  <string name="stop_noising_content_with_device_pad">"%1$s %2$s traži ovaj uređaj."</string>
+  <string name="stop_noising_content_without_device_pad">%1$s traži ovaj uređaj.</string>
+  <string name="stop_noising_notification_content_with_device_pad">"Sa %1$s %2$s. Otključajte za utišavanje."</string>
+  <string name="stop_noising_content_with_device">"%1$s %2$s traži ovaj uređaj."</string>
   <string name="stop_noising_content_without_device">%1$s traži ovaj uređaj.</string>
-  <string name="stop_noising_notification_content_with_device">"%1$sov %2$s traži ovaj uređaj. Otključajte za utišavanje."</string>
-  <string name="stop_noising_notification_content_without_device">%1$s traži ovaj uređaj. Otključaj za utišavanje.</string>
+  <string name="stop_noising_notification_content_with_device">"%1$s %2$s traži ovaj uređaj. Otključajte za utišavanje."</string>
+  <string name="stop_noising_notification_content_without_device">%1$s traži ovaj uređaj. Otključajte za utišavanje.</string>
+  <string name="stop_noising_notification_content_without_device_pad">%1$s traži ovaj uređaj. Otključajte za utišavanje.</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne može biti prazno"</string>
   <string name="stop_on_empty_password">"Polje zaporke ne može biti prazno"</string>
   <string name="sunday">Nedjelja</string>
@@ -488,7 +502,8 @@
   <string name="sys_notification_async_verify_title">Ponovno aktiviraj Pronađi uređaj</string>
   <string name="tab_mine_close_share_location_dialog_message">"Ako isključite ovu značajku, osobe s kojima dijelite svoju lokaciju više je neće moći vidjeti."</string>
   <string name="tab_mine_close_share_location_dialog_title">Želite li prestati dijeliti lokaciju?</string>
-  <string name="tab_mine_close_share_location_diolog_button_cancel">Otkaži</string>
+  <string name="tab_mine_close_share_location_diolog_button_cancel">Odustani</string>
+  <string name="tab_mine_my_use_current_device_as_my_location">"Koristi lokaciju trenutnog uređaja kao moju lokaciju"</string>
   <string name="tab_mine_setting_find_setting">Postavke "Pronađi ovaj uređaj"</string>
   <string name="tab_mine_setting_find_setting_close_status">Isključeno</string>
   <string name="tab_mine_setting_find_setting_open_status">Uključeno</string>
@@ -503,6 +518,7 @@
   <string name="tab_mine_web_view_intent_title_first">Pronađi izgubljeni uređaj</string>
   <string name="tab_mine_web_view_intent_title_four">Često postavljana pitanja o pronalaženju uređaja</string>
   <string name="tab_mine_web_view_intent_title_second">Pomozi drugoj osobi da pronađe uređaj</string>
+  <string name="tab_mine_web_view_intent_title_second_des">"Idite na i.mi.com i prijavite se s Xiaomi računom druge osobe kako biste pronašli njezin uređaj"</string>
   <string name="tab_mine_web_view_intent_title_third">"Ne mogu pronaći svoj uređaj"</string>
   <string name="talkback_back">Natrag</string>
   <string name="talkback_hide_pwd">Sakrij zaporku</string>
@@ -564,6 +580,7 @@
   <string name="unlock_wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="unlocking">Aktiviranje…</string>
   <string name="update_share_location_failed">"Ažuriranje nije moguće. Pokušajte ponovno."</string>
+  <string name="unknown_location">Nepoznata lokacija</string>
   <string name="updating_share_location">Ažuriranje…</string>
   <string name="user_agreement_title">"Uvjeti pružanja usluge Xiaomi Cloud"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
