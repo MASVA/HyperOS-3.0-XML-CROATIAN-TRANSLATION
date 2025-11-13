@@ -92,7 +92,8 @@
   <string name="add_automatically_alert_title">Dodaj fotografije automatski</string>
   <string name="add_nomedia_with_move_to_rubbish">Dodaj \".nomedia\" datoteke u odabrane albume kako bi ih učinili nevidljivim ostalim aplikacijama</string>
   <string name="add_remove_nomedia_dialog_message">"Dodati \".nomedia\" datoteke u odabrane albume? Ostale aplikacije neće moći vidjeti ove albume nakon ovoga."</string>
-  <string name="add_secret_ensure_message_new">Da biste pregledali stavke koje ste učinili privatnima, povucite prema dolje u \"Albumi\".</string>
+  <string name="add_secret_ensure_message_new">Za pregled stavki koje ste učinili privatnima, prijeđite prstom prema dolje u \"Albumima\" dok se ne prikaže odgovarajuća uputa.
+</string>
   <string name="add_secret_ensure_title">Privatni album</string>
   <string name="add_sharer">Dodaj člana</string>
   <string name="add_to_album">Dodaj u album</string>
@@ -624,6 +625,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="cancel_authorize_watch_on_tv_failed">"Ne mogu otkazati autorizaciju za gledanje albuma na TV-u"</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Promjeniti na zadanu pozadinu Zaklj. zaslona?</string>
   <string name="cancel_download_btn_text">Stop</string>
+  <string name="cancel_face_mode">Prebaci na cijele fotografije</string>
   <string name="cancel_hint">Radnja otkazana</string>
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
@@ -669,6 +671,8 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="change_baby_album_dialog_title">Promjeni fotografiju profila</string>
   <string name="change_baby_album_name">Promjeni fotografiju profila</string>
   <string name="change_baby_album_take_photos">Fotoaparat</string>
+  <string name="change_duplicate_name">Ovo ime je već zauzeto</string>
+  <string name="change_duplicate_name_in_ignore">Ovo ime je već zauzeto stavkom koju ste odlučili ignorirati</string>
   <string name="change_password">Promijeni zaporku</string>
   <string name="change_to_face_mode">Prikaži samo lice</string>
   <string name="change_to_photo_mode">Prikaži potpune preglede</string>
@@ -817,11 +821,11 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="collage_title_layout">Raspored</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collage_title_stitching">Filmska rola</string>
+  <string name="collaps_content">Sakrij</string>
   <string name="collaps_people">Sakrij</string>
   <string name="collect_diagnosis_log">Prikupljanje zapisa</string>
   <string name="confirm">U redu</string>
   <string name="confirm_activate_email">Potvrđeno</string>
-  <string name="common_google_play_services_unknown_issue">%1$s ima problema s Google Play uslugama. Pokušajte ponovno.</string>
   <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
   <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
   <string name="confirm_delete_selected_albums">Izbrisati odabrane albume?</string>
@@ -832,6 +836,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="confirm_hidden_recommend_group_message">Kada su preporuke isključene, i dalje možete koristiti opciju \"Više osoba koje izgledaju podjednako\"</string>
   <string name="confirm_hidden_recommend_group_title">"Ne prikazuj preporuke"</string>
   <string name="confirm_hide_selected_albums">Sakriti odabrane albume?</string>
+  <string name="confirm_ignore_pet">Želite li ignorirati ovog ljubimca? Ignorirane ljubimce možete vratiti iz izbornika u gornjem desnom kutu.</string>
   <string name="confirm_merge_album_title">Spoji stavke</string>
   <string name="confirm_merge_face_albums">" "<Data> Spojiti ovaj album s %s? </Data>" "</string>
   <string name="confirm_merge_many_face_albums">" "<Data> Spojiti ove albume s %s? </Data>" "</string>
@@ -870,6 +875,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="common_signin_button_text_long">Prijava uslugom Google</string>
   <string name="compact">Kompaktno</string>
   <string name="confirm_no_name_people_merge_tip">Nakon što spojite fotografije ove dvije osobe, bit će prepoznate kao ista osoba</string>
+  <string name="confirm_no_name_pet_merge_tip">Dva albuma će biti spojena i prepoznata kao isti ljubimac.</string>
   <string name="copy">Kopiraj</string>
   <string name="correct_photo_time">Ispravi datum i vrijeme za fotografije</string>
   <string name="correct_time_success">Uspješno ispravljeno</string>
@@ -1052,6 +1058,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="edit_people_name">Uredi ime</string>
   <string name="edit_pets_name">Preimenuj ljubimca</string>
   <string name="edit_subtitle_enter">Uređivanje titlova</string>
+  <string name="editing_failed_please_change_name">"Nije moguće urediti. Pokušajte s drugim imenom."</string>
   <string name="editor_cancel">Odustani</string>
   <string name="editor_export">Spremi</string>
   <string name="editor_gallery_title">Uredi naziv albuma</string>
@@ -1170,6 +1177,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="exit_share_successfully">Izašao iz %1$s</string>
   <string name="exit_video_play">Izlaz</string>
   <string name="expand_button_title">Napredno</string>
+  <string name="expand_content">Prikaži više</string>
   <string name="expand_desc">Više</string>
   <string name="expand_people">Prikaži više osoba</string>
   <string name="ext_sdcard_first_entrance_request_failed_text">Umjesto toga, Galerija će spremiti stavke na unutarnju pohranu. To možete promijeniti u odjeljku Postavke &gt; Pohrana &gt; Postavke pohrane.</string>
@@ -1231,10 +1239,11 @@ za fotografije"</string>
   <string name="featured_journey_empty_title">Ovdje još nema putovanja</string>
   <string name="featured_journey_pets_empty_des">Putovanja će se organizirati kada se uređaj puni i ekran je isključen</string>
   <string name="featured_page_label">Zbirke</string>
+  <string name="featured_people_and_pets">Ljudi i kućni ljubimci bit će organizirani kada se uređaj puni, a zaslon je isključen</string>
   <string name="featured_people_empty_des">Ljudi i grupe bit će organizirani kada se uređaj puni, a ekran je isključen</string>
   <string name="featured_people_empty_title">Još nema osoba</string>
-  <string name="featured_people_pets_empty_des">Uključite sinkronizaciju s oblakom i snimite više fotografija kako biste ovdje vidjeli istaknute osobe, kućne ljubimce i grupe</string>
-  <string name="featured_people_pets_empty_title">Ovdje još nema ljudi ni kućnih ljubimaca</string>
+  <string name="featured_people_pets_empty_des">Uključite sinkronizaciju s cloudom i snimite više fotografija kako biste ovdje vidjeli istaknute osobe, ljubimce i grupe</string>
+  <string name="featured_people_pets_empty_title">Ovdje još nema ljudi ni ljubimaca</string>
   <string name="featured_pin_to_collection">Dodaj u istaknute zbirke</string>
   <string name="featured_remove_top_album">Uspješno otkvačeno</string>
   <string name="featured_time_empty_des">Sjećanja će se organizirati kada se uređaj puni, a ekran je isključen</string>
@@ -1588,6 +1597,8 @@ za fotografije"</string>
   <string name="home_page_custom_drag_item_talkback_journey">Odabrano: putovanja. Pritisnite, držite i povucite gore ili dolje za preuređivanje.</string>
   <string name="home_page_custom_drag_item_talkback_more">Odabrano: Više. Pritisnite, držite i povucite gore ili dolje za preuređivanje.</string>
   <string name="home_page_custom_drag_item_talkback_people">Odabrano: Ljudi. Pritisnite, držite i povucite gore ili dolje za preuređivanje.</string>
+  <string name="home_page_custom_drag_item_talkback_people_and_pet">Odabrano \"Ljudi i ljubimci\". Pritisnite i držite, a zatim povucite gore i dolje za prilagodbu položaja.</string>
+  <string name="home_page_custom_drag_item_talkback_pet">Odabrano \"Ljubimci\". Pritisnite i držite, a zatim povucite gore i dolje za prilagodbu položaja.</string>
   <string name="home_page_custom_drag_item_talkback_time">Odabrano: Sjećanja. Pritisnite, držite i povucite gore ili dolje za preuređivanje.</string>
   <string name="home_page_custom_save">Spremi promjene</string>
   <string name="home_page_custom_second">Preuredite stavke ili sakrijte sadržaj</string>
@@ -1632,10 +1643,11 @@ za fotografije"</string>
   <string name="ignore_album">"Ne prikazuj"</string>
   <string name="ignore_alert_dialog_title">Zanemariti ovu osobu?</string>
   <string name="ignore_alert_title">"Ne prikazivati ovaj album? Dodirnite gore desno za prikaz ignoriranih fotografija."</string>
-  <string name="ignore_face">Ignoriraj ovu osobu</string>
+  <string name="ignore_face">Zanemari ovu osobu</string>
   <string name="ignore_faces_title">Ignorirano</string>
   <string name="ignore_group">Zanemari grupu</string>
   <string name="ignore_group_content">Zanemariti ovu grupu? Možete je vratiti putem izbornika u gornjem desnom kutu.</string>
+  <string name="ignore_pet">Zanemari ovog ljubimca</string>
   <string name="ignored_content">Zanemarene stavke</string>
   <string name="image_decode_failed">"Ne mogu dešifrirati sliku"</string>
   <string name="image_download_item_title">Preuzmi originalnu fotografiju (%s)</string>
@@ -1916,11 +1928,8 @@ da osobno prilagodite Galeriju"</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="merge_album">Spoji</string>
   <string name="merge_album_title">Spoji sa osobom</string>
+  <string name="merge_pet_album_title">Spoji ljubimca</string>
   <string name="messagelist_sender_self">Ja</string>
-  <string name="mi_9t">Mi 9T</string>
-  <string name="mi_9t_pro">Mi 9T Pro</string>
-  <string name="mi_a3">Mi A3</string>
-  <string name="mi_drop">Xiaomi Share</string>
   <string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
   <string name="mi_share_turbo_mode">Turbo prijenos</string>
   <string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Xiaomi račun)</string>
@@ -1967,6 +1976,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -2166,6 +2176,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
   <string name="no_account">Niste prijavljeni</string>
+  <string name="no_characters_or_pets">Još nema ljudi ni ljubimaca</string>
   <string name="no_group_name">Neimenovana grupa</string>
   <string name="no_ignore_faces">Ovdje nema ništa</string>
   <string name="no_map_app">Nije pronađena aplikacija za obradu ove radnje</string>
@@ -2173,6 +2184,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="no_network_connect">"Nije moguće dovršiti radnju. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="no_network_connected">Nema otkrivenih mreža</string>
   <string name="no_people_name">Neimenovana osoba</string>
+  <string name="no_pet_name">Ljubimac – Nije postavljeno ime</string>
   <string name="not_ask_any_more">"Ne pitaj ponovno za \"%s\" odgovore"</string>
   <string name="not_enough_space_msg_with_email">"Ovaj Google račun %1$s nema dovoljno prostora za pohranu u cloudu za početak prijenosa. Ponovno pokrenite prijenos i nadogradite svoj plan za pohranu kada vidite odgovarajući upit."</string>
   <string name="not_enough_space_ok">Kreni ispočetka</string>
@@ -2222,6 +2234,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="online_video_vip_tip">Postanite VIP član za strujanje videozapisa bez potpunog prethodnog učitavanja</string>
   <string name="online_video_vip_transcoding">"Uskoro počinje VIP streaming…
 Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi put."</string>
+  <string name="only_support_image_err">Podržane su samo slike</string>
   <string name="open">Uključi</string>
   <string name="open_backup">Uključi</string>
   <string name="open_public_message">Generiraj poveznicu i pošalji je prijateljima</string>
@@ -2268,6 +2281,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj u kartici Fotografije"</string>
   <string name="operation_photo_rename">Preimenuj</string>
   <string name="operation_pic_to_pdf">Izradi PDF</string>
+  <string name="operation_pin">Prikvači na stražnji zaslon</string>
   <string name="operation_produce">Kreativnost</string>
   <string name="operation_projection">Emitiraj</string>
   <string name="operation_remove_face">Ukloni</string>
@@ -2538,6 +2552,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="permission_storage_name_2">Pristup i spremanje fotografija i datoteka na uređaj</string>
   <string name="permission_use_desc">Dopuštenja</string>
   <string name="pet_album_display_name">Fotografije ljubimaca</string>
+  <string name="pet_photos">Fotografije ljubimaca</string>
   <string name="petabyteShort">PB</string>
   <string name="photo_page_save_uri_image_success">Ova je slika spremljena u Galeriju.</string>
   <string name="picker_title_format_album_group">Odaberi album</string>
@@ -2699,7 +2714,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
   <string name="photodetail_rename_failed">"Nije moguće preimenovati"</string>
   <string name="photodetail_rename_invalid">"Nazivi datoteka ne mogu sadržavati ove znakove: /\\:*?&lt;&gt;|.\""</string>
-  <string name="photodetail_rename_invalid_prefix">"Nazivi datoteka ne mogu počinjati s \".\""</string>
+  <string name="photodetail_rename_invalid_prefix">"Nazivi ne mogu počinjati s \"%1$s\""</string>
   <string name="photodetail_rename_success">Uspješno preimenovano</string>
   <string name="photodetail_rename_title">Preimenuj</string>
   <string name="photodetail_rename_too_long">Naziv datoteke koji ste unijeli je predug</string>
@@ -2728,7 +2743,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="pick_people_cover_fail">Dogodila se pogreška. Pokušajte ponovo.</string>
   <string name="pick_people_cover_page_title">Odaberite naslovnu fotografiju</string>
   <string name="pick_people_cover_processing">Samo trenutak…</string>
-  <string name="pick_people_cover_success">Uspješno je primijenjena naslovna fotografija</string>
+  <string name="pick_people_cover_success">Naslovna fotografija uspješno postavljena</string>
+  <string name="pick_pet_cover_success">Naslovna fotografija uspješno postavljena</string>
   <string name="pick_too_many_recipients">Previše primatelja</string>
   <string name="picker_album_tab">Albumi</string>
   <string name="picker_all_tab">Sve</string>
@@ -2758,8 +2774,11 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="picker_title_specify_format_one">Odabrana %d fotografija</string>
   <string name="picker_title_unlimit">Odaberite fotografije</string>
   <string name="picture_not_support_privacy_watermark">"Nije moguće dodati oznake. Ova je slika premala."</string>
+  <string name="pin_count_max_exceed">Možete prikvačiti do %d slika. Izbrišite neke ako želite još dodati.</string>
+  <string name="pin_count_single_exceed">Možete prikvačiti samo %d sliku istovremeno</string>
   <string name="places_album_empty_title">Fotografije se mogu razvrstati prema lokaciji</string>
   <string name="play_gif_desc">Reproduciraj GIF</string>
+  <string name="play_this_pet_album">Reproduciraj ovaj album</string>
   <string name="play_video_desc">Reproduciraj video</string>
   <string name="please_agree_protocal">Prihvatite protokol</string>
   <string name="pref_today_of_year_summary">"Podsjetite se na trenutke koje ste zabilježili na ovaj dan tijekom godina. Već stvorene uspomene neće nestati ako isključite ovu značajku."</string>
@@ -2887,9 +2906,11 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="remove_from_current_album">Ukloni iz ovog albuma</string>
   <string name="remove_from_favorites_failed">"Ne mogu ukloniti iz favorita"</string>
   <string name="remove_from_other_albums_tip">Ukloniti ovaj album iz \"Drugih albuma\"?</string>
+  <string name="remove_from_pet_album_message">"Ukloniti odabrane stavke? Više se neće pojavljivati ​​u albumu ovog ljubimca."</string>
   <string name="remove_from_secret_fail">"Ne mogu ukloniti iz privatnog albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne mogu ukloniti iz privatnog albuma. %1$s."</string>
   <string name="remove_from_secret_successful">Uklonjeno iz privatnog albuma</string>
+  <string name="remove_from_this_pet_album">Ukloni iz ovog ljubimca</string>
   <string name="remove_hidden_status_success">%s uklonjen iz privatnog albuma</string>
   <string name="remove_hidden_status_tip">Ovaj album prikazat će se među ostalim albumima ako ga prikažete.</string>
   <string name="remove_hidden_status_title">Prikaži</string>
@@ -3940,6 +3961,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="switch_account_msg_with_email">Prethodno ste zaustavili prijenos na %1$s. Želite li nastaviti s prijenosom na ovaj Google račun ili početi iznova koristeći drugi račun?</string>
   <string name="switch_account_switch">Počni iznova</string>
   <string name="switch_account_title">Nastaviti prijenos?</string>
+  <string name="switch_face_mode">Prebaci na lica</string>
   <string name="switch_gallery_collection_widget_show_title">Prikaži naslov albuma</string>
   <string name="switch_gallery_recommend_widget_show_title">Naslov emisije</string>
   <string name="switch_gallery_widget_editor_dof_enable">Primijeni efekt dubine</string>

@@ -62,6 +62,7 @@
   <string name="app_update_64_dialog_cancel">Ne sada</string>
   <string name="app_update_64_dialog_confirm">Ažuriraj</string>
   <string name="app_update_64_dialog_title">Ažurirajte na 64-bitnu arhitekturu</string>
+  <string name="app_update_64_dialog_title_formatted">Ažurirajte na %1$d-bitnu arhitekturu</string>
   <string name="app_update_64_notfication_body">Ažurirajte za poboljšanje performansi aplikacije</string>
   <string name="app_update_title">Ažurirajte sve aplikacije</string>
   <string name="apple_calendar">Događaji kalendara</string>
@@ -77,7 +78,8 @@
   <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
   <string name="apps_cannot_be_transfered_confirm_button">Pokreni</string>
   <string name="apps_cannot_be_transfered_next_button">Dalje</string>
-  <string name="apps_cannot_be_transfered_summary">"Ove 64-bitne aplikacije ne mogu se prenijeti na 32-bitni uređaj. Možete ih preuzeti izravno iz GetAppsa nakon prijenosa."</string>
+  <string name="apps_cannot_be_transfered_summary">"Ove 64-bitne aplikacije ne mogu se prenijeti na 32-bitni uređaj. Možete ih preuzeti izravno s GetAppsa nakon prijenosa."</string>
+  <string name="apps_cannot_be_transfered_summary_formatted">"Ove %1$d-bitne aplikacije ne mogu se prenijeti na %2$d-bitni uređaj. Možete ih preuzeti izravno s GetAppsa nakon prijenosa."</string>
   <string name="apps_cannot_be_transfered_title">"Ne mogu prenijeti ove aplikacije"</string>
   <string name="audio">Audiozapis</string>
   <string name="audio_permission_desc">Za prijenos glazbe i zvuka na novi uređaj</string>
@@ -425,6 +427,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="loading_data">Samo trenutak…</string>
   <string name="location_permission_desc">Za pronalaženje uređaja u blizini</string>
   <string name="location_permission_request">Za povezivanje s drugim uređajima u blizini</string>
+  <string name="lockscreen_access">Područje uzorka</string>
   <string name="lockscreen_access_pattern_cell_added">Uzorak dodan</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
@@ -470,6 +473,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
@@ -776,9 +780,12 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="receiver_video_summary_pad">Otključajte svoj stari uređaj, dodirnite \"Prijenos\" i skenirajte ovu sliku</string>
   <string name="receiver_video_title">Prebacivanje sa starog uređaja</string>
   <string name="receiver_video_title_pad">Prijenos sa starog uređaja</string>
-  <string name="recent_one_year">Posljednje 1 godina</string>
+  <string name="recent_one_year">Posljednje 1 godine</string>
+  <string name="recent_one_year_formatted">Posljednjih %d godina</string>
   <string name="recent_seven_days">Posljednjih 7 dana</string>
+  <string name="recent_seven_days_formatted">Posljednjih %d godina</string>
   <string name="recent_thirty_days">Posljednjih 30 dana</string>
+  <string name="recent_thirty_days_formatted">Posljednjih %d godina</string>
   <string name="recommend_hint">Preporučeno</string>
   <string name="reconnect">Poveži ponovno</string>
   <string name="recreate_soft_ap_tips">Dodirnite donju tipku da biste pokušali ponovo.</string>

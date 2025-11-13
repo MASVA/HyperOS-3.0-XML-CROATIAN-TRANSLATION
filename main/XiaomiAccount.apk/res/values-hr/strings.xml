@@ -118,10 +118,22 @@ ID vašeg računa: %s"</string>
   <string name="binded_description" formatted="false">%s je povezan na vaš Xiaomi račun. 
 Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
-  <string name="button_agree">Privaćam</string>
+  <string name="bottomsheet_action_collapse">Sakrij donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+  <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručka za povlačenje</string>
+  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+  <string name="button_agree">Prihvaćam</string>
   <string name="button_close">Zatvori</string>
   <string name="button_refuse">"Ne prihvaćam"</string>
   <string name="button_unbind">Prekini vezu</string>
+  <string name="call_notification_answer_action">Odgovori</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Odbij</string>
+  <string name="call_notification_hang_up_action">Prekini poziv</string>
+  <string name="call_notification_incoming_text">Dolazni poziv</string>
+  <string name="call_notification_ongoing_text">Poziv u tijeku</string>
+  <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
   <string name="cancel">Odustani</string>
   <string name="change_activate_email">Promjeni adresu e-pošte</string>
   <string name="change_email_address">Promjeni adresu e-pošte</string>
@@ -235,11 +247,16 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="device_list_title">Moji uređaji</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_recent_login_time">Zadnja prijava</string>
+  <string name="device_status_failed">"Nije moguće poslati"</string>
+  <string name="device_status_receiver">Prihvaćeno</string>
+  <string name="device_status_reject">Odbijeno</string>
+  <string name="device_status_success">Poslano</string>
+  <string name="device_status_waiting">Slanje…</string>
   <string name="diagnosis_log_send_failed">Ne mogu poslati zapise dijagnoze.</string>
   <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
 ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
-  <string name="dialog_notify_bind_email_desc">Add a recovery email to make your account more secure. Add now?</string>
+  <string name="dialog_notify_bind_email_desc">Dodajte e-adresu za oporavak kako biste osigurali bolji račun. Dodati odmah?</string>
   <string name="dind_device_service_not_open">Isključeno</string>
   <string name="dind_device_service_opened">Uključeno</string>
   <string name="download_file">Preuzimanje %s…</string>
@@ -356,6 +373,12 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="kr_permission_phone_desc">Koristi se za sigurnost računa</string>
   <string name="kr_permission_sms_desc">Koristi se za automatsko popunjavanje kontrolnog koda</string>
   <string name="kr_permission_storage_desc">Koristi se za informacije o dijagnostici trgovine</string>
+  <string name="local_invite_help">"Ne možete pronaći uređaj?"</string>
+  <string name="local_invite_prompt_disable_btn">Uključi</string>
+  <string name="local_invite_prompt_disable_describe">Uključite Bluetooth za pronalaženje uređaja u blizini</string>
+  <string name="local_invite_prompt_disable_title">Pozovite uređaje u blizini</string>
+  <string name="local_invite_prompt_enable_describe">Traženje uređaja u blizini. Uključite Bluetooth na oba uređaja.</string>
+  <string name="local_invite_prompt_enable_title">Pozovite uređaje u blizini</string>
   <string name="label">Naslov</string>
   <string name="loading_micloud_sync_data">Samo trenutak…</string>
   <string name="login_3rd_app_with_system_account">Prijavite se u %s</string>
@@ -424,9 +447,21 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Povucite prstom prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Povucite prstom prema dolje za prelazak na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Povucite prstom prema dolje za minimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Povucite prstom prema gore za prelazak na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Povucite prstom prema gore za maksimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebaci na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -527,6 +562,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="new_version">Nova verzija</string>
   <string name="no_account_or_forget_password">Izraditi račun ili ste zaboravili zaporku?</string>
   <string name="no_account_or_skip">"Nemam Xiaomi račun ili preskačem prijavu"</string>
+  <string name="no_device_tip_message">"Ako se vaš uređaj ovdje ne prikazuje, ažurirajte ga na najnoviju verziju"</string>
   <string name="no_install">Nije instalirano</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_refresh_btn">Osvježi</string>
@@ -678,7 +714,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_error_login">"Ne mogu se prijaviti"</string>
   <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="passport_error_no_password_user">"Još niste postavili zaporku. Prijavite se putem SMS-a."</string>
-  <string name="passport_error_phone">Invalid phone number</string>
+  <string name="passport_error_phone">Unesite važeći telefonski broj</string>
   <string name="passport_error_phone_error">Nevažeći broj telefona</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_server_msg">Provjerite mrežne postavke i osvježite stranicu</string>
@@ -699,6 +735,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_error_verify_activator_phone_title">"Ne mogu provjeriti broj telefona"</string>
   <string name="passport_facebook_login_btn_content_description">Prijavite se s Facebookom</string>
   <string name="passport_failed_to_send_activate_email">"Ne mogu poslati e-poštu aktivacije"</string>
+  <string name="passport_family_invite_member_sms">Obiteljske usluge: %1$s vas poziva da se pridružite njihovoj obitelji kako biste uživali u dijeljenoj pohrani u oblaku i još mnogo toga. Također možete koristiti Family Guard za zaštitu maloljetnika i drugih članova obitelji. Dodirnite %2$s za pridruživanje.</string>
+  <string name="passport_family_invite_member_wechat_title">%s vas poziva da se pridružite njihovoj obitelji</string>
   <string name="passport_find_password_on_web_msg">Posjetite account.mi.com da poništite svoju zaporku.</string>
   <string name="passport_first_login_prompt">Xiaomi račun će se izraditi automatski kada prvi put koristite broj telefona.</string>
   <string name="passport_forget_password"><u>Zaboravljena zaporka</u></string>
@@ -734,6 +772,17 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_input_verify_code">Unesite kod za provjeru</string>
   <string name="passport_input_voice_captcha_hint">Unesite glasovni kôd za provjeru</string>
   <string name="passport_input_voice_hint">Unesite glasovni kôd</string>
+  <string name="passport_invite_family_member_ticker">Dijeljenje s obitelji</string>
+  <string name="passport_invite_family_member_title">Pozovi člana</string>
+  <string name="passport_invite_member_accountid_label">Xiaomi račun</string>
+  <string name="passport_invite_member_exceed">"Ne mogu pozvati više članova obitelji. Opozovi pozivnicu na čekanju ili ukloni jednog člana kojeg želite pozvati."</string>
+  <string name="passport_invite_member_frequent">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="passport_invite_member_local_describe">%s vas poziva da se pridružite njihovoj obitelji</string>
+  <string name="passport_invite_member_local_title">Dijeljenje s obitelji</string>
+  <string name="passport_invite_member_no_organizer">Zamolite organizatora da pošalje pozivnicu</string>
+  <string name="passport_invite_member_overseas_account">Ova je usluga dostupna samo na kopnenom dijelu Kine</string>
+  <string name="passport_invite_member_qrcode_label">QR kod</string>
+  <string name="passport_invite_member_sms_label">SMS</string>
   <string name="passport_international_register_by_email">Izradite račun pomoću adrese e-pošte</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>

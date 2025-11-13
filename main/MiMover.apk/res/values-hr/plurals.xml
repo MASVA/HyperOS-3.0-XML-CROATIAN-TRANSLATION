@@ -49,9 +49,19 @@
         <item quantity="other">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ove aplikacije da poboljšate njihove performanse.</item>
         <item quantity="one">%1$d aplikacija na ovom uređaju može se ažurirati s 32-bitne na 64-bitnu arhitekturu. Ažurirajte ovu aplikaciju da poboljšate njezine performanse.</item>
     </plurals>
+	<plurals name="app_update_64_dialog_message_formatted">
+        <item quantity="one">%1$d aplikacija na ovom uređaju može se ažurirati s %2$d-bitne na %3$d-bitnu arhitekturu. Ažurirajte ovu aplikaciju kako biste poboljšali njezine performanse.
+</item>
+        <item quantity="other">%1$d aplikacija na ovom uređaju može se ažurirati s %2$d-bitne na %3$d-bitnu arhitekturu. Ažurirajte ove aplikacije kako biste poboljšali njezine performanse.
+</item>
+    </plurals>
     <plurals name="app_update_64_notification_title">
         <item quantity="other">Dostupne su 64-bitne verzije za %1$d aplikacija</item>
         <item quantity="one">Dostupna je 64-bitna verzija za %1$d aplikaciju</item>
+    </plurals>
+	<plurals name="app_update_64_notification_title_formatted">
+        <item quantity="one">Dostupna je %2$d-bitna verzija za %1$d aplikaciju</item>
+        <item quantity="other">Dostupne su %2$d-bitna verzije za %1$d aplikacija</item>
     </plurals>
     <plurals name="apple_install_install_immediately">
         <item quantity="other">Instaliraj %d aplikacija</item>

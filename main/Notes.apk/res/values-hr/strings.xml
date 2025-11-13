@@ -80,6 +80,7 @@
   <string name="ai_dialog_retry_message">Dodirnite tipku u nastavku za ponovni pokušaj.</string>
   <string name="ai_dialog_title">"Sada ne možete koristiti ovu značajku"</string>
   <string name="ai_edit_input_end_btn_text">Pošalji</string>
+  <string name="ai_experience_text">Započnite</string>
   <string name="ai_failed">"Nije moguće generirati. Pokušajte ponovo."</string>
   <string name="ai_feature_disabled">Više puta ste prekršili naše standarde zajednice. Ova značajka više nije dostupna.</string>
   <string name="ai_generate_stop_button">Zaustavi</string>
@@ -93,7 +94,7 @@
   <string name="ai_invitation_text_agree">Prihvaćam</string>
   <string name="ai_invitation_text_disagree">"Ne prihvaćam"</string>
   <string name="ai_involve_sensitive_word_title">"Ne mogu generirati sadržaj povezan s osjetljivim temama"</string>
-  <string name="ai_label">AI Značajke</string>
+  <string name="ai_language_not_support">"Ovaj jezik nije podržan"</string>
   <string name="ai_layout">AI Izgled</string>
   <string name="ai_llm_dis_connect_error_message">Sesija računalne podrške je prekinuta. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="ai_local_device_low_battery_title">Slaba baterija. Napunite i pokušajte ponovno.</string>
@@ -127,6 +128,9 @@
   <string name="ai_tag_text_moderate">Srednje</string>
   <string name="ai_tag_text_more">Dugo</string>
   <string name="ai_tag_words_betweens">%1$s–%2$s znakova</string>
+  <string name="ai_text_confirm_cancel">Otkaži</string>
+  <string name="ai_text_revoke_modifications">Poništi promjene</string>
+  <string name="ai_text_watermark">Ovaj sadržaj generiran je umjetnom inteligencijom i dostupan je samo za vašu referencu.</string>
   <string name="ai_text_widget_cancel">Odustani</string>
   <string name="ai_text_widget_check">Lektura</string>
   <string name="ai_text_widget_copy">Kopiraj</string>
@@ -147,9 +151,17 @@
   <string name="ai_title_stop_summary">Sažimanje zaustavljeno</string>
   <string name="ai_translate">AI prijevod</string>
   <string name="ai_unsupport_directive_title">"Ne mogu izvršiti ovu radnju"</string>
+  <string name="ai_usage_content_text">"%1$d. Otvorite Bilješke.
+%2$d. Dodirnite plus u donjem desnom kutu, stvorite bilješku, a zatim dodirnite {icon} za početak."</string>
+  <string name="ai_usage_text_title">Kako koristiti</string>
   <string name="ai_waiting_generate">Generiranje…</string>
   <string name="ai_watermark">Generiraj pomoću AI:</string>
-  <string name="ai_when_mistake_title">Došlo je do greške. Pokušajte ponovno.</string>
+  <string name="ai_when_mistake_title">Došlo je do pogreške. Pokušajte ponovno.</string>
+  <string name="ai_writing_content_text">"Pisanje umjetnom inteligencijom vam pomaže organizirati i poboljšati tekst. Možete ga koristiti na sljedeće načine:
+%1$d. Sažimanje teksta za brzo izdvajanje ključnih informacija iz dugih članaka.
+%2$d. Proširivanje teksta za bogatije kratke bilješke.
+%3$d. Poliranje teksta za glatkije izraze.
+%4$d. Provjerite pravopis i gramatiku."</string>
   <string name="ai_writing_invite_beta_testing_content">Ova značajka koristi velike mogućnosti modela za lektoriranje, proširenje, sažetak i poliranje vašeg teksta. Također možete unijeti upite i pustiti AI da piše umjesto vas. Dodirnite \"Slažem se\" da isprobate!</string>
   <string name="ai_writing_invite_beta_testing_title">Beta testiranje AI pisanja</string>
   <string name="ai_writing_local_message">Koristite modele na uređaju za AI pisanje</string>
@@ -403,6 +415,7 @@
   <string name="dialog_button_move">Premjesti</string>
   <string name="dialog_expert_as_markdown">Izvezi kao Markdown</string>
   <string name="dialog_privacy_revoke_tips">"Nakon opoziva suglasnosti, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Svejedno opozvati suglasnost? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete suglasnost usluga Xiaomi Cloud."</string>
+  <string name="dialog_share_as_duplicate">Podijeli bilješku kao duplikat</string>
   <string name="dialog_share_as_pic">Podijeli bilješku kao sliku</string>
   <string name="dialog_share_as_text">Podijeli bilješku kao tekst</string>
   <string name="dialog_share_title">Podijeli bilješku</string>
@@ -751,6 +764,7 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
