@@ -120,7 +120,6 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="bottomsheet_action_collapse">Sakrij donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
-  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručka za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="button_agree">Prihvaćam</string>

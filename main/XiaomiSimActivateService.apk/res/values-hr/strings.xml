@@ -290,7 +290,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="register_by_local_phone_short_text">Izradi račun</string>
   <string name="request_agree">Dopusti</string>
   <string name="request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s važećim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje fotografije profila)&lt;/b>&lt;br>&lt;br>Ako vi Ako ne pristanete na davanje takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine osnovne funkcionalnosti i dalje će vam biti dostupne. Uvijek možete ograničiti dopuštenja ili opozvati svoju autorizaciju u Postavkama."</string>
-  <string name="request_cancel">Otkaži</string>
+  <string name="request_cancel">Odustani</string>
   <string name="request_error_invalid_token">"Nije moguće provjeriti"</string>
   <string name="request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="request_error_unknown">Došlo je do sistemske pogreške. Vratite se i pokušajte ponovno.</string>

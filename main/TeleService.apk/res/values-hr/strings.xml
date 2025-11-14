@@ -3028,7 +3028,7 @@ UT sučelje: %5$s"</string>
   <string name="satellite_data_restricted_string">Ograničeno</string>
   <string name="satellite_data_unConstrained_string">Neograničeno</string>
   <string name="satellite_dialog_button">Plutajući prozor</string>
-  <string name="satellite_dialog_cancel">Otkaži</string>
+  <string name="satellite_dialog_cancel">Odustani</string>
   <string name="satellite_display_insert_support_card_message">Da biste mogli koristiti komunikaciju Tiantong Satellite, umetnite SIM karticu China Telecoma s omogućenim satelitom.</string>
   <string name="satellite_display_insert_support_card_title">Umetnite SIM karticu s omogućenim satelitom</string>
   <string name="satellite_display_message">"Izgleda da vaša SIM kartica ne podržava komunikaciju Tiantong Satellite. Da biste mogli koristiti ovu značajku, umetnite SIM karticu China Telecoma s omogućenim satelitom. Svejedno nastaviti?"</string>

@@ -57,7 +57,7 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="aon_message">Kako bi se utvrdilo gleda li više osoba u zaslon, ova će značajka pristupiti prednjoj kameri kada se prikaže plutajuća obavijest. Prikupljene slike koriste se samo za analizu na uređaju broja ljudi koji gledaju u ekran. Kada se otkrije više osoba, sadržaj obavijesti bit će skriven prema zadanim postavkama.</string>
   <string name="aon_message_owner">"Kada je ova značajka uključena, prednja kamera će provjeriti tko gleda u zaslon kada stigne obavijest. Ako telefon otkrije da niste jedini koji gleda zaslon, automatski će sakriti sadržaj obavijesti. Svi podaci o slici i licu obrađuju se lokalno na vašem uređaju i nikada se ne prenose u oblak."</string>
   <string name="aon_message_owner_comment">"Potreban je pristup kameri kako bi se provjerilo gledate li u zaslon."</string>
-  <string name="aon_need_set_face_cancel">Otkaži</string>
+  <string name="aon_need_set_face_cancel">Odustani</string>
   <string name="aon_need_set_face_message">Da biste mogli koristiti ovu značajku, prvo postavite Otključavanje licem.</string>
   <string name="aon_need_set_face_title">Potrebno je Otključavanje licem</string>
   <string name="aon_need_set_face_to_settings">Postavke</string>

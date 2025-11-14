@@ -292,7 +292,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="err_volume_not_enough">Nema dovoljno prostora za pohranu</string>
   <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
-  <string name="esc_cancel">Izlaz (Otkaži)</string>
+  <string name="esc_cancel">Izlaz (Odustani)</string>
   <string name="esc_return">Natrag</string>
   <string name="esc_title">Esc</string>
   <string name="exit_private_space">Promjeni</string>

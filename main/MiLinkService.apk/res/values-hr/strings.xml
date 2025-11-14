@@ -114,7 +114,7 @@
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
-  <string name="button_cancel">Otkaži</string>
+  <string name="button_cancel">Odustani</string>
   <string name="button_confirm">Odaberi</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
@@ -468,7 +468,7 @@
   <string name="circulate_more_device">Više uređaja</string>
   <string name="circulate_more_setting">Dodatne postavke</string>
   <string name="circulate_network_button_help">Prikaži pomoć</string>
-  <string name="circulate_network_cancel">Otkaži</string>
+  <string name="circulate_network_cancel">Odustani</string>
   <string name="circulate_network_connect_failed_default_message">Provjerite jesu li vaš telefon i uređaj koji želite povezati prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
   <string name="circulate_network_connect_failed_message_Mac">Provjerite jesu li vaš telefon i Mac prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
   <string name="circulate_network_connect_failed_message_PC">Provjerite jesu li vaš telefon i računalo prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
@@ -485,7 +485,7 @@
   <string name="circulate_network_connecting_message">Držite telefon otključanim s uključenim zaslonom.</string>
   <string name="circulate_network_connecting_message_pad">Držite tablet otključanim s uključenim zaslonom.</string>
   <string name="circulate_network_connecting_title">Povezivanje s uređajem…</string>
-  <string name="circulate_network_failed_cancel">Otkaži</string>
+  <string name="circulate_network_failed_cancel">Odustani</string>
   <string name="circulate_network_share_launcher_pad_tips">"Provjerite jeste li uključili ovu značajku u Postavkama &gt; Međusobna povezanost na svom Xiaomi tabletu."</string>
   <string name="circulate_network_share_launcher_phone_tips">"Provjerite jeste li uključili ovu značajku u Postavkama &gt; Međusobna povezanost na svom Xiaomi telefonu."</string>
   <string name="circulate_open_in_tv">Otvori na TV-u</string>

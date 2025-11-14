@@ -218,7 +218,7 @@
   <string name="not_set">Nije postavljeno</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="pin_delete_button_desc">Izbriši</string> 
-  <string name="pin_delete_cancel">Otkaži</string>
+  <string name="pin_delete_cancel">Odustani</string>
   <string name="pin_delete_confirm">Izbriši</string> 
   <string name="pin_delete_message">Želite li sada izbrisati stavke?</string> 
   <string name="pin_image_desc">Slika</string>

@@ -97,7 +97,7 @@
   <string name="call_record_list_group_unconnected">Nije povezano</string>
   <string name="cancel_dialog_message">Želite li sada otkazati slanje odabranih stavki?</string>
   <string name="cancel_dialog_negative_button">"Nemoj otkazati"</string>
-  <string name="cancel_dialog_positive_button">Otkaži</string>
+  <string name="cancel_dialog_positive_button">Odustani</string>
   <string name="cancel_send">Otkaži slanje</string>
   <string name="cant_generate_new_summary_by_account_un_login1">"Prijavite se na svoj Xiaomi račun kako biste generirali sažetke."</string>
   <string name="cant_generate_new_summary_by_block_list_error">"Blokirano vam je korištenje ove značajke zbog višestrukih kršenja naših smjernica"</string>
@@ -376,7 +376,7 @@
   <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
-  <string name="mtrl_picker_cancel">Otkaži</string>
+  <string name="mtrl_picker_cancel">Odustani</string>
   <string name="mtrl_picker_confirm">U redu</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
@@ -408,7 +408,7 @@
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
-  <string name="mtrl_timepicker_cancel">Otkaži</string>
+  <string name="mtrl_timepicker_cancel">Odustani</string>
   <string name="mtrl_timepicker_confirm">U redu</string>
   <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="network_timeout_info">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>

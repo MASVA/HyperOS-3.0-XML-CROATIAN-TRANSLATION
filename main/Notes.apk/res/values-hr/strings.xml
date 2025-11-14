@@ -128,7 +128,7 @@
   <string name="ai_tag_text_moderate">Srednje</string>
   <string name="ai_tag_text_more">Dugo</string>
   <string name="ai_tag_words_betweens">%1$s–%2$s znakova</string>
-  <string name="ai_text_confirm_cancel">Otkaži</string>
+  <string name="ai_text_confirm_cancel">Odustani</string>
   <string name="ai_text_revoke_modifications">Poništi promjene</string>
   <string name="ai_text_watermark">Ovaj sadržaj generiran je umjetnom inteligencijom i dostupan je samo za vašu referencu.</string>
   <string name="ai_text_widget_cancel">Odustani</string>
@@ -342,7 +342,7 @@
   <string name="creation_color_picker_view_page_text_hue">Nijansa</string>
   <string name="creation_color_picker_view_page_text_lightness">Svjetlina</string>
   <string name="creation_color_picker_view_page_text_saturation">Zasićenost</string>
-  <string name="creation_edit_limit_dialog_cancel">Otkaži</string>
+  <string name="creation_edit_limit_dialog_cancel">Odustani</string>
   <string name="creation_eraser_pixel">Piksel</string>
   <string name="creation_eraser_size">Veličina gumice</string>
   <string name="creation_eraser_stroke">Crtanje</string>

@@ -122,7 +122,7 @@
   <string name="fiveg_vonr_switch_summary">Koristite VoNR u 5G mrežnim okruženjima za poboljšanje iskustva pozivanja. Ova je značajka dostupna samo u svrhu testiranja.</string>
   <string name="fiveg_vonr_switch_title">VoNR postavke</string>
   <string name="fivega_4cc_switch_summary">Napredna 5G mrežna povezivost 4CC za testiranje (dostupno kada je pruža vaš operater)</string>
-  <string name="fivega_dialog_cancel">Otkaži</string>
+  <string name="fivega_dialog_cancel">Odustani</string>
   <string name="fivega_enhanced_network_gl_summary">Napredna 5G mrežna povezivost za testiranje</string>
   <string name="fivega_enhanced_network_gl_title">5G+ mrežne opcije</string>
   <string name="fivega_dialog_summary">Uključivanje ove značajke može uzrokovati probleme s mrežnom kompatibilnošću. Svejedno uključiti?</string>
@@ -323,7 +323,7 @@
   <string name="roaming_enable">Povežite se s podatkovnim uslugama u roamingu</string>
   <string name="roaming_preferred_wificall_title">Mrežne postavke (Roaming)</string>
   <string name="satellite_call_failed">Signal prekinut. Pokušajte ponovno.</string>
-  <string name="satellite_cancel">Otkaži</string>
+  <string name="satellite_cancel">Odustani</string>
   <string name="satellite_debug_antenna">Antena</string>
   <string name="satellite_debug_azimuth">Azimut</string>
   <string name="satellite_debug_compass">Kompas</string>
@@ -331,8 +331,8 @@
   <string name="satellite_debug_satellite">Satelit</string>
   <string name="satellite_diable_earpiece">"Ne mogu koristiti slušalicu sa satelitskim pozivima"</string>
   <string name="satellite_dialog_button">Plutajući prozor</string>
-  <string name="satellite_dialog_cancel">Otkaži</string>
-  <string name="satellite_dialog_cancel_exp">Otkaži</string>
+  <string name="satellite_dialog_cancel">Odustani</string>
+  <string name="satellite_dialog_cancel_exp">Odustani</string>
   <string name="satellite_enhanced_paging_mode">Poboljšano pozivanje je uključeno</string>
   <string name="satellite_enhanced_paging_notification">Upozorenja o poboljšanom pozivanju</string>
   <string name="satellite_enhanced_paging_notification_message">Usmjerite uređaj prema satelitu za prikaz</string>

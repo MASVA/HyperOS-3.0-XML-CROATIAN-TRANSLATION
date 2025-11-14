@@ -926,7 +926,7 @@ Brži protokol veze."</string>
   <string name="osu_sign_up_complete">Registracija je dovršena. Povezivanje…</string>
   <string name="osu_sign_up_failed">Nije moguće dovršiti registraciju. Dodirnite za ponovni pokušaj.</string>
   <string name="overlay_display_devices_title">Simulacija sek. zaslona</string>
-  <string name="p8g_activity_bt_cancel">Otkaži</string>
+  <string name="p8g_activity_bt_cancel">Odustani</string>
   <string name="p8g_activity_bt_connect">Uključi Bluetooth</string>
   <string name="p8g_activity_bt_connect_failed">"Povezivanje nije uspjelo"</string>
   <string name="p8g_activity_bt_connecting">Povezivanje…</string>

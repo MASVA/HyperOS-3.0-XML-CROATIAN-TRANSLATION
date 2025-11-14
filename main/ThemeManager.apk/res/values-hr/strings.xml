@@ -1003,7 +1003,7 @@
   <string name="kg_edit_cancel_dialog_title">Odbaciti promjene?</string>
   <string name="kg_editing_not_available_when_using_loop">"Ne mogu uređivati ​​pozadine prilikom korištenja slideshowa pozadine"</string>
   <string name="kg_editing_not_available_when_using_theme">"Ne mogu uređivati ​​zaključani zaslon kada je primijenjena tema"</string>
-  <string name="kg_editor_cancel">Otkaži</string>
+  <string name="kg_editor_cancel">Odustani</string>
   <string name="kg_editor_history_mine">Moji setovi</string>
   <string name="kg_editor_history_more">Prikaži više</string>
   <string name="kg_editor_history_select_option">Odaberi stavke</string>
@@ -1125,7 +1125,7 @@
   <string name="kg_rhombus_switch_label">Višebojne znamenke</string>
   <string name="kg_settings_apply">Primijeni</string>
   <string name="kg_settings_apply_loading">Primjenjuje se…</string>
-  <string name="kg_settings_cancel">Otkaži</string>
+  <string name="kg_settings_cancel">Odustani</string>
   <string name="kg_settings_customize">Prilagođeno</string>
   <string name="kg_settings_delete">Izbriši</string>
   <string name="kg_settings_delete_this_collocation">Izbrisati ovaj skup?</string>
@@ -2235,7 +2235,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="restore_push_title">Vrati svoju temu</string>
   <string name="revoke_dialog_agree">Opozovi</string>
   <string name="revoke_dialog_agree_with_timestamp">Opozvati (%1$ds)</string>
-  <string name="revoke_dialog_disagree">Otkaži</string>
+  <string name="revoke_dialog_disagree">Odustani</string>
   <string name="revoke_dialog_message">Nastavkom povlačite svoj pristanak na Pravila o privatnosti Tema. Prestat ćemo s prikupljanjem Vaših osobnih podataka. Već prikupljene podatke ćemo izbrisati unutar određenog vremenskog roka u skladu s važaćim zakonima osim ako nije drugačije određeno. Budući da Teme pružaju svoje usluge na temelju prikupljenih osobnih podataka, Vaše povlačenje suglasnosti shvatit će se kao odbijanje tih usluga. Odmah povući suglasnost?</string>
   <string name="revoke_dialog_title">Povlačenje suglasnosti</string>
   <string name="revoke_fail_message">Vaš uređaj se mora povezati na mrežu kak biste mogli povući suglasnost. Provjerite svoje mrežne postavke i probajte ponovno.</string>
