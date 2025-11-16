@@ -973,6 +973,7 @@
   <string name="toast_calling_warning">Prekinite poziv u tijeku i pokušajte ponovno</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="transferring">Prijenos datoteka. Ostanite na ovoj stranici.</string>
   <string name="traffic_log">Zapisi prijenosa</string>
   <string name="trust_bind_cancel_toast">Otkazano</string>
   <string name="trust_bind_cancel_toast_iphone">Otkazano</string>
@@ -997,7 +998,7 @@
   <string name="trust_bind_unlock_title_iphone">Dopusti iPhoneu otključavanje ovog uređaja</string>
   <string name="trust_bind_unlock_title_mac">Dopusti Macu otključavanje ovog uređaja</string>
   <string name="trust_bind_unlock_title_pad">Dopusti tabletu otključavanje ovog uređaja</string>
-  <string name="trust_fingerlock_auth">Odobrite dopuštenja na svom telefonu</string>
+  <string name="trust_fingerlock_auth">Na telefonu dopustite tabletu da otključa Home screen+</string>
   <string name="trust_fingerlock_auth_cancel">Odustani</string>
   <string name="trust_fingerlock_auth_cancel_toast">Otkazano</string>
   <string name="trust_fingerlock_auth_overtime_retry">Zahtjev je istekao. Pokušajte ponovno.</string>

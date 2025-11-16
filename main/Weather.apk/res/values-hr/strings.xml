@@ -628,6 +628,14 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="sunday_shortest">N</string>
   <string name="sunrise">Izlazak sunca</string>
   <string name="sunset">Zalazak sunca</string>
+  <string name="tag_card_item">stavka kartice</string>
+  <string name="tag_click_zoom_in">Povećaj</string> 
+  <string name="tag_click_zoom_out">Smanji</string> 
+  <string name="tag_current_point">Središnja točka tajfuna</string> 
+  <string name="tag_future_point">Buduća točka puta</string> 
+  <string name="tag_history_point">Povijesna točka puta</string>
+  <string name="tag_manual_zoom_in">Ručno povećanje</string> 
+  <string name="tag_manual_zoom_out">Ručno smanjenje</string>
   <string name="temperature_normal_unit">%1$s°</string>
   <string name="temperature_unit_C">%1$s℃</string>
   <string name="temperature_unit_F">%1$s℉</string>
