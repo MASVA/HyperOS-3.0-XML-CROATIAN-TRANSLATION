@@ -1297,7 +1297,6 @@ dolaze"</string>
   <string name="update_anyway">Ažuriraj svejedno</string>
   <string name="update_start">Ažuriraj</string>
   <string name="uri_no_permission">"Potrebna su dopuštenja. Nije moguće pristupiti datoteci."</string>
-  <string name="uri_no_permission">Nije moguće pročitati datoteku, dopuštenje je odbijeno</string>
   <string name="user_is_not_allowed_dlg_text">Trenutačni korisnik nema dopuštenje za to deinstaliranje.</string>
   <string name="user_is_not_allowed_dlg_title">Nije dopušteno</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
