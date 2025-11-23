@@ -298,6 +298,9 @@
   <string name="exo_controls_overflow_hide_description">Sakrij dodatne postavke</string>
   <string name="exo_controls_overflow_show_description">Prikaži dodatne postavke</string>
   <string name="exo_controls_pause_description">Pauza</string>
+  <string name="exo_download_paused">Preuzimanja pauzirana</string>
+  <string name="exo_download_paused_for_network">Preuzimanja čekaju mrežu</string>
+  <string name="exo_download_paused_for_wifi">Preuzimanja čekaju WiFi</string>
   <string name="exo_controls_play_description">Reproduciraj</string>
   <string name="exo_controls_playback_speed">Brzina</string>
   <string name="exo_controls_playback_speed_normal">Normalno</string>
@@ -593,6 +596,7 @@
   <string name="setting_mobile_phone_settings">Postavke sustava</string>
   <string name="setting_other">Ostale postavke</string>
   <string name="setting_other_ad">Prikaži oglase</string>
+  <string name="setting_other_user_survey">Anketa o zadovoljstvu korisnika</string>
   <string name="setting_partner_privacy_policy">Pravila o privatnosti partnera</string>
   <string name="setting_personalized_service">Personalizirane usluge</string>
   <string name="setting_personalized_service_description">Dobijte preporuke sadržaja na temelju svojih preferencija</string>
@@ -669,6 +673,7 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="tab">Kartica</string>
   <string name="talkback_action_btn_camera_switch_front">Pregled prednje kamere</string>
   <string name="talkback_action_btn_camera_switch_rear">Pregled stražnje kamere</string>
   <string name="talkback_action_btn_camera_switch_toggle">Kamere uspješno prebačene</string>
