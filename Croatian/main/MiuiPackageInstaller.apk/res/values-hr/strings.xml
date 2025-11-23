@@ -51,6 +51,7 @@
   <string name="allowed_this_time">Dopusti jednom</string>
   <string name="already_know_high_risk">Razumijem rizike koje ova aplikacija može predstavljati</string>
   <string name="already_know_not_scanned">"Razumijem da ovu aplikaciju nije testirao Xiaomi i da bi mogla predstavljati sigurnosne rizike"</string>
+  <string name="anonymous_source_continue">Nastavi</string>
   <string name="anonymous_source_warning">Vaš telefon i osobni podaci podložniji su napadima nepoznatih aplikacija. Instaliranjem te aplikacije prihvaćate odgovornost za oštećenje telefona ili gubitak podataka do kojih može doći uslijed njezine upotrebe.</string>
   <string name="app_crash_test_text">Program za instalaciju paketa prisilno zatvoren</string>
   <string name="app_already_on_the_app_store">Preuzmite s GetApps</string>

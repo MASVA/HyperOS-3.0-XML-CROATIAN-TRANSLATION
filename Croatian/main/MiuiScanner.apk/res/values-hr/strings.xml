@@ -57,6 +57,7 @@
   <string name="aon_no_network_tip">Uključite Wi-Fi ili mobilne podatke i pokušajte ponovno</string>
   <string name="aon_pay_setting_default_des">Zadani način plaćanja</string>
   <string name="aon_recognize_code_des">QR kod prepoznat</string>
+  <string name="aon_recognize_code_lottie_res">Brzo skeniranje</string>
   <string name="app_description_content">Skener vam omogućuje skeniranje QR kodova, dokumenata, posjetnica i još mnogo toga.</string>
   <string name="app_description_title">O Skeneru</string>
   <string name="app_details">Aplik:</string>
@@ -446,6 +447,7 @@
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -736,6 +738,7 @@
   <string name="reshoot">Pokušajte ponovno</string>
   <string name="result_calendar_is_not_installed">Deinstalirali ste Kalendar. Nije moguće dodati događaj.</string>
   <string name="result_of_identifying_text_is_empty">"Tekst nije prepoznat"</string>
+  <string name="revert">Povuci</string>
   <string name="satisfaction_research">Anketa o zadovoljstvu korisnika</string>
   <string name="satisfaction_research_questionnaire">Dodirnite poveznicu za anketu u nastavku da nam kažete što mislite o Skeneru&lt;br&gt;&lt;font color=\"#0D84FF\"&gt;%s&lt;/font&gt;&lt;br&gt;</string>
   <string name="saturday">Subota</string>
@@ -877,6 +880,7 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="text_general_guide_tips_first">Skenirajte i prepoznajte objekte</string>
   <string name="text_general_guide_tips_second">Skenirajte kodove, prepoznajte biljke i pronađite slične proizvode</string>
   <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
+  <string name="text_price">Cijena</string>
   <string name="text_search">Pretražite</string>
   <string name="text_to_be_translated_cannot_be_empty">Skener treba tekst za prijevod</string>
   <string name="textrecognition_results">Prepoznati tekst</string>

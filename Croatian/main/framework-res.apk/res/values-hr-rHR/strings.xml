@@ -636,6 +636,9 @@
   <string name="dump_heap_system_text">Proces za %1$s premašio je ograničenje memorije od %2$s. Dostupna vam je snimka memorije procesa koju možete podijeliti. Budite oprezni, ta snimka memorije može sadržavati osobne podatke kojima proces ima pristup, što može uključivati ono što ste napisali.</string>
   <string name="dump_heap_text">Proces za %1$s premašio je ograničenje memorije od %2$s. Dostupna vam je snimka memorije koju možete podijeliti s razvojnim programerom. Budite oprezni, ta snimka memorije može sadržavati vaše osobne podatke kojima aplikacija ima pristup.</string>
   <string name="dump_heap_title">Želite li dijeliti snimku memorije procesa?</string>
+  <string name="duration_days_medium">%d dana</string>
+  <string name="duration_days_medium_future">za %d dan</string>
+  <string name="duration_days_medium_past">prije %d dana</string>
   <string name="duration_days_relative">{count,plural, =1{Prije # dan}one{Prije # dan}few{Prije # dana}other{Prije # dana}}</string>
   <string name="duration_days_relative_future">{count,plural, =1{# dan}one{# dan}few{# dana}other{# dana}}</string>
   <string name="duration_days_shortest">%d d</string>
@@ -652,6 +655,19 @@
   <string name="duration_years_relative_future">{count,plural, =1{# godina}one{# godina}few{# godine}other{# godina}}</string>
   <string name="duration_years_shortest">%d g.</string>
   <string name="duration_years_shortest_future">za %d g.</string>
+  <string name="duration_days_shortest_past">prije %d d</string>
+  <string name="duration_hours_medium">%d hr</string>
+  <string name="duration_hours_medium_future">za %d hr</string>
+  <string name="duration_hours_medium_past">prije %d hr</string>
+  <string name="duration_hours_shortest_past">prije %d h</string>
+  <string name="duration_minutes_medium">%d min.</string>
+  <string name="duration_minutes_medium_future">za %d min.</string>
+  <string name="duration_minutes_medium_past">prije %d min.</string>
+  <string name="duration_minutes_shortest_past">prije %d min.</string>
+  <string name="duration_years_medium">%d g.</string>
+  <string name="duration_years_medium_future">za %d g.</string>
+  <string name="duration_years_medium_past">prije %d g.</string>
+  <string name="duration_years_shortest_past">prije %d g.</string>
   <string name="dynamic_mode_notification_channel_name">Obavještavanje o informacijama u Rutinskom načinu rada</string>
   <string name="dynamic_mode_notification_summary">Štednja baterije aktivirana je kako bi se produljilo trajanje baterije</string>
   <string name="dynamic_mode_notification_summary_v2">Štednja baterije uključena je radi produljenja trajanja baterije</string>

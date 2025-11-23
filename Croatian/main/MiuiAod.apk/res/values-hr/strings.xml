@@ -179,6 +179,7 @@ dd.MM."</string>
   <string name="component_notification">Obavijesti</string>
   <string name="component_step">Koraci</string>
   <string name="continue_to_use">Nastavi</string>
+  <string name="contextual_education_dialog_title">Kontekstualno obrazovanje</string>
   <string name="copy">Kopiraj</string>
   <string name="custom_image">Vlastita slika</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>

@@ -6395,6 +6395,7 @@ Povući suglasnost sada?"</string>
   <string name="section_title_clear_acc">Očisti predmemoriju</string>
   <string name="section_title_security_defend">Sigurnost</string>
   <string name="section_title_system">Sigurnost sustava</string>
+  <string name="security_access">Privatni pristup</string>
   <string name="security_access_contact_tip">Aplikacija podržava privatni pristup. Moguće je pristupiti samo odabranim kontaktima radi zaštite vaše privatnosti.</string>
   <string name="security_access_file_tip">Aplikacija podržava privatni pristup. Moguće je pristupiti samo odabranim datotekama radi zaštite vaše privatnosti.</string>
   <string name="security_access_media_tip">Aplikacija podržava privatni pristup. Moguće je pristupiti samo odabranim fotografijama i videozapisima radi zaštite vaše privatnosti.</string>

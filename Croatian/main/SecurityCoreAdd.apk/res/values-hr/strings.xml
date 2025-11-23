@@ -826,6 +826,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -976,6 +977,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="pin_toast_nav">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
   <string name="please_diff_finger_print">"Provjerite koriste li se različiti otisci prstiju u prvom i drugom razmaku.
 Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</string>
+  <string name="poco_stylus_welcome">Upoznajte POCO Focus Pen</string>
   <string name="pointer_settings_category">Podloga za miš/track</string>
   <string name="pointer_speed">Brzina pokazivača</string>
   <string name="power_key_how_power_force_off">Kako prisilno ponovno pokrenuti uređaj</string>
@@ -1186,6 +1188,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="strong_suppression_summary">Vaš će uređaj manje reagirati na slučajni dodir, neke kontrole pokretima možda neće raditi blizu rubova</string>
   <string name="strong_suppression_title">Veće područje</string>
   <string name="stylus_action_hover">Zadržite pokazivač miša iznad slike</string>
+  <string name="stylus_added_shortcuts">Dodani prečaci</string>
   <string name="stylus_application_effects_title">Efekti</string>
   <string name="stylus_application_title">Aplikacije</string>
   <string name="stylus_brush_preview">Pregled kista</string>

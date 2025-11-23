@@ -596,6 +596,7 @@
   <string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="passport_request_error_unknown">Došlo je do pogreške sustava. Vratite se i pokušajte ponovno.</string>
   <string name="passport_request_gallery_permission_message">Dopustite pristup Galeriji:&lt;br /&gt;Za postavljanje profilnih fotografija</string>
+  <string name="passport_request_permission_title">Potrebna su dopuštenja</string>
   <string name="passport_resend_email_reach_limit_message">"Zatražili ste previše e-poruka za potvrdu. Uvjerite se da e-poruka za potvrdu nije u mapi neželjene pošte vaše pristigle pošte."</string>
   <string name="passport_resend_email_reach_limit_title">Previše pokušaja</string>
   <string name="passport_resend_ticket">Ponovo pošalji kod</string>

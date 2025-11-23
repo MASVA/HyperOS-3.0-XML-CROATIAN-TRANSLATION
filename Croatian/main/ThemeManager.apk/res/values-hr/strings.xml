@@ -5,6 +5,7 @@
   <string name="UVI_level_2">Jak</string>
   <string name="UVI_level_3">Vrlo jak</string>
   <string name="UVI_level_4">Ozbiljan</string>
+  <string name="abandon">Odbaci</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>
@@ -346,6 +347,9 @@
   <string name="automatic_renewal_yearly">Automatski se obnavlja %s/godišnje</string>
   <string name="automatically_push_content_to_lock_screen">Svaki će se dan novi sadržaj prikazivati ​​na vašem zaključanom zaslonu</string>
   <string name="automatically_update_using_theme_tips">Ažuriraj automatski sljedeći put</string>
+  <string name="back_screen_delete_template">Izbrisati ovaj predložak?</string>
+  <string name="back_screen_dynamic_notification">Obavijesti</string>
+  <string name="back_screen_operation_tutorial">O stražnjem zaslonu</string>
   <string name="back_screen_personalization_title">Personalizacija</string>
   <string name="back_to_default">Natrag na zadano</string>
   <string name="back_to_none">Ne postavljaj zvuk zvona</string>
@@ -1162,6 +1166,12 @@
   <string name="kg_template_description_eastern_art">Prikazivanje suvremene interpretacije istočnjačkih elemenata korištenjem klasične križne simetrije, prepoznatljivog okomitog rasporeda i kaligrafskog izraza</string>
   <string name="kg_template_description_magazine">Pretvorite svoj zaključani zaslon u naslovnicu časopisa.</string>
   <string name="kg_template_description_rhombus">Vrijeme je važno. Neka se broji.</string>
+  <string name="kg_template_title_eastern_a_three_talkback">Istočna estetika A, tri reda</string>
+  <string name="kg_template_title_eastern_a_two_talkback">Istočna estetika A, dva reda</string>
+  <string name="kg_template_title_eastern_art_b_horizontal_talkback">Istočna estetika B, horizontalno</string>
+  <string name="kg_template_title_eastern_art_b_vertical_talkback">Istočna estetika B, vertikalno</string>
+  <string name="kg_template_title_eastern_art_c_handwriting_talkback">Istočna estetika C, rukom pisano</string>
+  <string name="kg_template_title_eastern_art_c_verdana_talkback">Istočna estetika C, font Song</string>
   <string name="kg_template_preview_content_description">Pregled</string>
   <string name="kg_template_title_Ultra_longtime_a_talkback">Veliki sat A</string>
   <string name="kg_template_title_Ultra_longtime_b_talkback">Veliki sat B</string>
@@ -1937,10 +1947,12 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_edit_title_pick">Pozadina</string>
   <string name="rear_screen_edit_title_signature">Potpis</string>
   <string name="rear_screen_edit_title_title_time">Sat</string>
+  <string name="rear_screen_edit_title_time">Sat</string>
   <string name="rear_screen_guide_text">"Personalizirajte svoj stražnji zaslon.
   Sada su dostupni potpuno novi dizajni."</string>
   <string name="rear_screen_list_title">Personalizacija</string>
   <string name="rear_screen_more_suggestion">Više preporuka</string>
+  <string name="rear_screen_service_assistant">Upravljanje stražnjim zaslonom</string>
   <string name="rear_screen_system_wallpaper_title">Pozadine</string>
   <string name="rear_screen_template_upper_limit">"Ne možete dodati više stavki. Izbrišite neke u Postavke &gt; Stražnji zaslon &gt; Personalizacija i pokušajte ponovno."</string>
   <string name="rear_screen_wallpaper_ai">Generiraj s umjetnom inteligencijom</string>
