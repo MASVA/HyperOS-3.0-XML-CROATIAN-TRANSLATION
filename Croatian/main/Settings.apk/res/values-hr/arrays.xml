@@ -490,9 +490,6 @@
         <item>Onemogućeno</item>
         <item>Filtrirano</item>
         <item>Omogućeno</item>		
-		   <item>Omogućeno \"Zaglavlja filtrirana\"</item>
-        <item>Omogućeno \"Paketi medija filtrirani\"</item>
-		   <item>Omogućeno \"Profili filtrirani\"</item>
     </string-array>
 	 <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Zadrži samo ACL zaglavlja</item>
@@ -2140,14 +2137,45 @@
         <item>Ništa</item>
      </string-array>
 	  <string-array name="zen_mode_icon_options_descriptions">
-       <item>Vrijeme za spavanje</item>
-       <item>Vožnja</item>
-       <item>Imerzivno</item>
-       <item>Upravljano</item>
-       <item>Zvjezdica</item>
-       <item>Kalendar</item>
-       <item>Vrijeme</item>
-       <item>Kazalište</item>
-       <item>Cvijet</item>
- </string-array>
+			<item>Aktovka</item>
+			<item>Klasična zgrada</item> 
+			<item>Stambena zgrada</item>
+			 <item>Govorni oblačić</item>
+			 <item>Grupa ljudi</item>
+			 <item>Žarulja</item> 
+			 <item>Kalendar</item> 
+			 <item>Ne uznemiravaj</item> 
+			 <item>Osoba koja trči</item> 
+			 <item>Golf</item> 
+			 <item>Bučica za teretanu</item>
+			 <item>Plivanje</item> 
+			 <item>Osoba koja planinari</item> 
+			<item>Osoba koja baca loptu</item> 
+			<item>Osoba koja udara</item> 
+			<item>Upravljač za igre</item> 
+			<item>Paleta boja za umjetnike</item> 
+			<item>Pahuljica</item> 
+			<item>Suncobran za plažu</item> 
+			<item>Alati za radionicu</item>
+			<item>Klavir</item>
+			<item>Filmska kolut</item>
+			<item>Knjiga</item>
+			<item>Lotosov cvijet</item>
+			<item>"Ljudski um"</item>
+			<item>Slušalice</item> 
+			<item>TV</item> 
+			<item>Vlak</item> 
+			<item>Automobil</item> 
+			<item>Vilica i nož</item>
+			 <item>Košarica za kupnju</item> 
+			 <item>Dijete</item> 
+			 <item>Životinjska šapa</item>
+			 <item>Značka zvijezde</item>
+			 <item>Dvije osobe</item> 
+			 <item>Zvijezda</item> 
+			 <item>Srce</item> 
+			 <item>Kuća</item> 
+			 <item>Polumjesec</item> 
+			 <item>Sat</item> 
+   </string-array>
 </resources>

@@ -1020,7 +1020,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="phone_primary">"Primarni"</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija na uređaju.</string>
   <string name="pick_new_photo">Odaberite novu fotografiju iz %s</string>
-  <string name="pick_photo">Odaberite fotografiju iz %s</string>
+  <string name="pick_photo">Odaberite fotografiju iz Galerije</string>
   <string name="pickerNewContactHeader">Izradi novi kontakt</string>
   <string name="picker_all_list_empty">Nema kontakata</string>
   <string name="picker_contact_title">Odaberi kontakt</string>

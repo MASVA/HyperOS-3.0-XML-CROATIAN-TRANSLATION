@@ -102,7 +102,7 @@
   <string name="ai_direct_check">Prikaži</string>
   <string name="ai_direct_check_msg">Možete generirati samo jednu pozadinu istovremeno. Pričekajte da se trenutna završi prije nego što počnete generirati novu.</string>
   <string name="ai_direct_check_title">Generiranje u tijeku</string>
-  <string name="ai_estimated_two_three_minutes" formatted="false">To će trajati %d–%d min.</string>
+  <string formatted="false" name="ai_estimated_two_three_minutes">To će trajati %d–%d min.</string>
   <string name="ai_generate">Izrađeno sa AI</string>
   <string name="ai_generate_action">Izrada</string>
   <string name="ai_generate_add_latter">Pričekajte do završetka prije dodavanja novih fotografija.</string>
@@ -167,7 +167,7 @@
   <string name="ai_pet_select_other_photo">Odaberi nove fotografije</string>
   <string name="ai_pet_select_title">Zahtjevi za slike</string>
   <string name="ai_pet_service_unavailable_try_again_later">Ova značajka više nije dostupna. Pokušajte ponovno kasnije.</string>
-  <string name="ai_pet_size_select_message">Odaberite sliku s omjerom između %1$d:%2$d i %3$d:%4$d.</string>
+  <string name="ai_pet_size_select_message">Odaberite sliku s omjerom između %1$d:%2$.1f i %3$.1f:%4$d.</string>
   <string name="ai_pet_tips_content_violation_title">Neprikladan sadržaj</string>
   <string name="ai_pet_tips_network_exception_desc">Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="ai_pet_tips_network_exception_title">Mrežna pogreška</string>
@@ -1799,9 +1799,9 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="privacy_log_off_succeed">Usluge su uspješno otkazane</string>
   <string name="privacy_loging_off_warning">Otkazivanje usluga…</string>
   <string name="privacy_logoff_services_title">Otkaži usluge</string>
-  <string name="privacy_logoff_theme_content_1">1. Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima. Više nećete moći koristiti kupljene artikle.</string>
-  <string name="privacy_logoff_theme_content_2">2. Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima izrađene na Xiaomi uređajima.</string>
-  <string name="privacy_logoff_theme_content_5">5. Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene.</string>
+  <string name="privacy_logoff_theme_content_1">%d. Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima. Više nećete moći koristiti kupljene artikle.</string>
+  <string name="privacy_logoff_theme_content_2">%d. Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima izrađene na Xiaomi uređajima.</string>
+  <string name="privacy_logoff_theme_content_5">%d. Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene.</string>
   <string name="privacy_logoff_theme_service_warning">Sljedeće stavke će se trajno izbrisati nakon otkazivanja usluga:</string>
   <string name="privacy_network_exception">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="privacy_pad_fold_Read_write_storage">Pristup pohrani</string>
@@ -1837,11 +1837,11 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="privacy_phone_important_prompt_content">"Čini se da se još niste prihvatili naš korisnički ugovor i pravila o privatnosti. Međutim, osnovne značajke i usluge Tema su vam i dalje dostupne.
   Kad god koristite stavke pohranjene na ovom uređaju za personalizaciju (npr. postavite ih kao pozadine ili melodije zvona), zamolit ćemo vas da ovoj aplikaciji dopustite pristup pohrani uređaja."</string>
   <string name="privacy_phone_logoff_service_content">Otkažite usluge Tema</string>
-  <string name="privacy_phone_logoff_theme_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
-  <string name="privacy_phone_logoff_theme_content_4">4. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije izrađene na ovom uređaju.</string>
-  <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Provjerite imate li pravo otkazati usluge prije nego što nastavite.
-  2. Otkazivanje usluga tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
-  3. Otkazivanje usluge je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon što usluge budu otkazane. Sljedeći će podaci biti trajno izbrisani ili anonimizirani nakon otkazivanja usluge (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
+  <string name="privacy_phone_logoff_theme_content_3">%d. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
+  <string name="privacy_phone_logoff_theme_content_4">%d. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije izrađene na ovom uređaju.</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_1">"%d. Provjerite imate li pravo otkazati usluge prije nego što nastavite.
+  %2$d. Otkazivanje usluga tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
+  %3$d. Otkazivanje usluge je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon što usluge budu otkazane. Sljedeći će podaci biti trajno izbrisani ili anonimizirani nakon otkazivanja usluge (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
   <string name="privacy_phone_logoff_theme_service_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima. Više nećete moći koristiti kupljene artikle.
   Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima izrađene na Xiaomi uređajima.
   Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.
@@ -1855,18 +1855,18 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="privacy_phone_read_and_write_storage_above_eleven">Pristup pohrani</string>
   <string name="privacy_phone_read_theme_logoff_privacy_policy">&lt;Data&gt;"Pročitao sam i prihvaćam \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjava o otkazivanju usluga Tema&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
   <string name="privacy_phone_read_theme_privacy_policy">&lt;Data&gt;"Pročitao sam i prihvaćam \"&amp;lt;font color=\"#8E92B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Izjava o povlačenju suglasnosti na Pravila o privatnosti Tema&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
-  <string name="privacy_phone_revoke_agree_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
-  <string name="privacy_phone_revoke_agree_content_4">4. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije izrađene na ovom uređaju.</string>
-  <string name="privacy_phone_revoke_agree_detail_content_1">"1.Provjerite imate li pravo povući suglasnost prije nego što nastavite.
-  2. Vaše povlačenje suglasnosti na Pravila o privatnosti Tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
-  3. Povlačenje suglasnosti je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon povlačenja suglasnosti. Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
+  <string name="privacy_phone_revoke_agree_content_3">%d. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
+  <string name="privacy_phone_revoke_agree_content_4">%d. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije izrađene na ovom uređaju.</string>
+  <string name="privacy_phone_revoke_agree_detail_content_1">"%1$d.Provjerite imate li pravo povući suglasnost prije nego što nastavite.
+ %2$d. Vaše povlačenje suglasnosti na Pravila o privatnosti Tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
+  %d. Povlačenje suglasnosti je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon povlačenja suglasnosti. Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
   <string name="privacy_phone_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Xiaomi račun. Više nećete moći koristiti kupljene artikle.
   Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Xiaomi račun.
   Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.
   Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije izrađene na ovom uređaju.
   Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
-  <string name="privacy_phone_revoke_agree_detail_content_3">"4. Nakon što povučete svoju suglasnostii na Pravila o privatnosti Tema, prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano.
-  5. Povlačenje suglasnosti ne podrazumijeva izuzeće ili ublažavanje odgovornosti u vezi s radnjama izvršenim prije povlačenja suglasnosti."</string>
+  <string name="privacy_phone_revoke_agree_detail_content_3">"%1$d. Nakon što povučete svoju suglasnostii na Pravila o privatnosti Tema, prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano.
+  %2$d. Povlačenje suglasnosti ne podrazumijeva izuzeće ili ublažavanje odgovornosti u vezi s radnjama izvršenim prije povlačenja suglasnosti."</string>
   <string name="privacy_phone_revoke_agree_detail_prompt">Izjava o povlačenju suglasnosti na Pravila o privatnosti Tema</string>
   <string name="privacy_phone_revoke_agree_detail_title">Pročitajte i prihvatite \"Izjavu o povlačenju suglasnosti na Pravila o privatnosti Tema\" prije nego što povučete svoju suglasnost.</string>
   <string name="privacy_phone_revoke_agree_introduce">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Tema. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Budući da Teme pružaju svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Tema."</string>
@@ -2219,7 +2219,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="resource_trial_15_days_end_title">%d dnevni probni period je istekao</string>
   <string name="resource_trial_15_days_immediately">Odmah besplatno isprobajte %d na dana</string>
   <string name="resource_trial_days">(Probni period : %1$dd)</string>
-  <string name="resource_trial_days_hours">Probni period :%1$dd %2$dh</string>
+  <string name="resource_trial_days_hours">Probni period :%1$s %2$s</string>
   <string name="resource_trial_end_change">Promjeni</string>
   <string name="resource_trial_end_get_mibi">Primite Mi Kredite</string>
   <string name="resource_trial_end_jump_hint">Preusmjeravanje…</string>
@@ -2234,7 +2234,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="resource_trial_fail_message">Provjerite je li vaš sat sustava postavljen na točno vrijeme.</string>
   <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
   <string name="resource_trial_hours">Probni period : %1$d h</string>
-  <string name="resource_trial_hours_minutes">(Probni period :%1$dh %2$dm)</string>
+  <string name="resource_trial_hours_minutes">(Probni period :%1$s %2$s))</string>
   <string name="resource_trial_minutes">(Probni period : %1$d m)</string>
   <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
   <string name="resource_update">Ažuriraj</string>
