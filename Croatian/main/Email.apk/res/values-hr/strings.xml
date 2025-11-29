@@ -250,6 +250,11 @@ IMAP putanje"</string>
   <string name="body_inline_pic_text">[Slika]</string>
   <string name="bottom_bar_more_pdf">Izvezi PDF</string>
   <string name="bottom_bar_more_pdf_exporting">Izvoz…</string>
+  <string name="bottomsheet_action_collapse">Sakrij donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+  <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručka za povlačenje</string>
+  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="broker_helper_manifest">Filter namjere za AndroidManifest.xml</string>
   <string name="broker_helper_package">Naziv paketa za unos prilikom registracije aplikacije</string>
   <string name="broker_helper_redirect">URI preusmjeravanja za konfiguracijsku json datoteku</string>
@@ -309,6 +314,8 @@ IMAP putanje"</string>
   <string name="confirm_age">Potvrdite dob</string>
   <string name="confirm_delete_attachment">Izbrisati privitak?</string>
   <string name="confirm_delete_conversation_title">Izbriši</string>
+  <string name="confirm_save_message_action_delete">Izbriši skicu</string>
+  <string name="confirm_save_message_action_save">Spremi kao skicu</string>
   <string name="confirm_save_message_no">Odbaci</string>
   <string name="confirm_save_message_title">Spremiti poruku kao skicu?</string>
   <string name="confirm_save_message_yes">Spremi</string>
@@ -708,6 +715,8 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
@@ -739,6 +748,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
   <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
   <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -755,6 +765,8 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
   <string name="miuix_search_history_default_title">Povijest pretraživanja</string>
   <string name="miuix_search_recommendation_default_title">Možda će vas ovo zanimati</string>
   <string name="miuix_search_recommendation_item_del_des">Izbriši</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>

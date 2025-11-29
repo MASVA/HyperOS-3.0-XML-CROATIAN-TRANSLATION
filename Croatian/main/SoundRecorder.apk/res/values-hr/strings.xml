@@ -198,6 +198,7 @@
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="input_email_address_notice">"Ovu ćemo e-poštu koristiti za potvrdu vašeg računa"</string>
   <string name="intelligent_polishing_preference_summary">Ukloni redundancije i standardiziraj format za kineski</string>
+  <string name="intelligent_polishing_cant_work_warning_title">"Ne mogu koristiti pametno poliranje"</string>
   <string name="invalid_argument">Nevažeći argument</string>
   <string name="invisible_mode_dialog_message">"Ne možete koristiti mikrofon dok ste anonimni. Najprije isključite anonimni način."</string>
   <string name="invisible_mode_dialog_negative">Odustani</string>
@@ -216,6 +217,7 @@
   <string name="korea_permission_record_resc">Za snimanje zvuka</string>
   <string name="korea_permission_storage">Pohrana</string>
   <string name="korea_permission_storage_desc">Za spremanje snimaka</string>
+  <string name="local_funcation_setting">Postavke na uređaju</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_more">Samo trenutak…</string>
   <string name="loading_order_list">Samo trenutak…</string>
@@ -460,6 +462,11 @@
   <string name="nrt_asr_complete">Transkripcija završena. Dodirnite za osvježavanje.</string>
   <string name="offline_recognize_transfer_format">Transkripcija…</string>
   <string name="ok">U redu</string>
+  <string name="offline_data_recognize_content">"Ova značajka podržava automatsko prepoznavanje govora, sažimanje i prijevod. Vaši podaci neće biti preneseni u oblak, ali korištenje ove značajke može utjecati na vijek trajanja baterije, temperaturu uređaja i performanse."</string>
+  <string name="offline_data_recognize_title">Modeli na uređaju</string>
+  <string name="offline_data_recognize_warning_content">"Podaci će se obrađivati ​​samo na uređaju. Pametno poliranje neće biti dostupno."</string>
+  <string name="offline_data_recognize_warning_title">"Pametno poliranje neće biti dostupno"</string>
+  <string name="offline_model_manage">Upravljanje modelima</string>
   <string name="online_recognize_progress">Transkripcija %s…</string>
   <string name="open_settings">Postavke</string>
   <string name="open_voice_enhancement">Poboljšani glas</string>
@@ -847,6 +854,13 @@
   <string name="send">Pošalji</string>
   <string name="send_diagnosis_log">Pošalji zapisnik dijagnoze</string>
   <string name="sending">Slanje…</string>
+  <string name="settings_ai_record_abstract_method_one">Nakon snimanja možete vidjeti sažetak transkripta.</string>
+  <string name="settings_ai_record_diff_speaker_method_one">Automatski identificirajte govornike nakon što snimanje započne i grupirajte odlomke po govornikima.</string>
+  <string name="settings_ai_record_diff_speaker_method_two">"Nakon snimanja dodirnite oznaku govornika da biste otvorili stranicu tog govornika. Dodirnite %1$s da biste preimenovali govornika."</string>
+  <string name="settings_ai_record_method">Kako koristiti</string>
+  <string name="settings_ai_record_trans_method_one">Automatski transkribirajte zvuk nakon što snimanje započne. Tijekom snimanja možete vidjeti transkripciju u stvarnom vremenu.</string>
+  <string name="settings_ai_record_translate_method_one">Nakon snimanja dodirnite %1$s u gornjem desnom kutu da biste preveli snimku na drugi jezik.</string>
+  <string name="settings_ai_record_view_speeches_method_one">Nakon snimanja dodirnite oznaku govornika da biste vidjeli sve odlomke tog govornika.</string>
   <string name="settings_ai_record_abstract">Sažeti</string>
   <string name="settings_ai_record_abstract_description">Sažeti predmet i sadržaj snimke i spremiti sažetak u Notes</string>
   <string name="settings_ai_record_diff_speaker">Razlikovanje govornika</string>
@@ -882,6 +896,7 @@
   <string name="size_tera_byte">TB</string>
   <string name="sound_recorder_settings">Postavke</string>
   <string name="speaker">"Zvučnik "</string>
+  <string name="state_decode_recognize_tip">Priprema za transkripciju…</string>
   <string name="state_wait_recognize_tip">Prvo se završava trenutna transkripcija…</string>
   <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
   <string name="status_bar_recording">Snimanje…</string>
@@ -947,6 +962,7 @@
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="tip_recognize">Samo trenutak…</string>
+  <string name="tips_for_asr_running">Druga transkripcija je već u tijeku…</string>
   <string name="tips_for_build_database">"Neka vaš uređaj bude povezan s punjačem. Analizirat će ovu snimku brže kada je ekran isključen."</string>
   <string name="toast_enter_silent_mode">Snimanje. Bešumno je uključeno.</string>
   <string name="toast_exit_silent_mode">Snimanje je završeno. Bešumno je isključeno.</string>

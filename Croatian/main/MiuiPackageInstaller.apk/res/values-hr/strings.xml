@@ -95,6 +95,7 @@
   <string name="archive_hint_dialog_content">Ako arhivirate %1$s, aplikacija će biti deinstalirana, ali će vaši podaci biti zadržani. Arhivirati sada?</string>
   <string name="archive_hint_dialog_title">Arhivirati %1$s?</string>
   <string name="archiving_app_label">Arhivirati %1$s?</string>
+  <string name="auth_reach_limit_switch_method">Previše neuspješnih pokušaja. Pokušajte s drugom metodom provjere.</string>
   <string name="auth_type_face">Lice</string>
   <string name="auth_type_finger">Otisak prsta</string>
   <string name="auth_type_human_verify">Provjera rizika</string>
@@ -278,6 +279,7 @@
   <string name="external_sources_settings_negative">Ograniči</string>
   <string name="external_sources_settings_positive">Dopusti jednom</string>
   <string name="face_authrioze_tips">Držite uređaj ispred lica</string>
+  <string name="face_authrioze_too_many_times">"Nije moguće provjeriti. Pokušajte s drugom metodom provjere."</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred lica</string>
   <string name="face_unlock_check_failed">"Nisam vas mogao prepoznati"</string>
   <string name="face_unlock_face_start_title">Provjera podataka o licu…</string>
@@ -461,6 +463,8 @@
   <string name="miui_failed_other">Ostalo</string>
   <string name="miui_failed_parse">"Ne mogu analizirati instalacijski paket"</string>
   <string name="miui_failed_permission_model_downgrade">"Ne mogu unazaditi dopuštenja"</string>
+  <string name="miui_failed_session">Provjerite izvor instalacije kako biste saznali uzrok ovog problema</string>
+<string name="miui_failed_session_with_source">Provjerite izvor instalacije (%1$s) kako biste saznali uzrok ovog problema</string>
   <string name="miui_failed_solution_1">Deinstalirajte trenutnu verziju ove aplikacije i ponovno je instalirajte.</string>
   <string name="miui_failed_solution_2">Instalacijski je paket možda oštećen. Ponovo preuzmite aplikaciju.</string>
   <string name="miui_failed_solution_3">Pokušajte spremiti instalacijski paket na drugo mjesto.</string>
@@ -722,7 +726,7 @@
   <string name="passport_error_timeout_network_error">Zahtjev je istekao</string>
   <string name="passport_error_token_expired">Kôd je istekao. Pokušajte ponovno.</string>
   <string name="passport_error_unknow_error">Došlo je do pogreške</string>
- <string name="passport_error_unknow_host_network_error">"Ne mogu se povezati na mrežu"</string>
+  <string name="passport_error_unknow_host_network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="passport_error_unknow_network_error">Došlo je do mrežne pogreške</string>
   <string name="passport_error_unknown">Nepoznata pogreška</string>
   <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano</string>
@@ -1311,6 +1315,8 @@ dolaze"</string>
   <string name="verify_account_title">Potvrdite svoj identitet</string>
   <string name="verify_and_install">Instaliraj</string>
   <string name="verify_failed">Potvrda nije uspjela</string>
+  <string name="verify_switch_hint_hard">Prebacite se na drugu metodu provjere u Postavkama > Sigurnosna autorizacija</string>
+  <string name="verify_switch_hint_soft">Možete se prebaciti na drugu metodu provjere u Postavkama > Sigurnosna autorizacija</string>
   <string name="verify_to_sure_close">Isključi</string>
   <string name="verify_to_sure_switch">Potvrdite za promjenu</string>
   <string name="virus_install_confirm_cancel">Odustani</string>

@@ -60,9 +60,9 @@
   <string name="aggregation_suggestion_edit_dialog_title">Istoimeni</string>
   <string name="aggregation_suggestion_join_dialog_message">Pridružiti trenutačni kontakt odabranom kontaktu?</string>
   <string name="ai_calllog_call_record_menu">AI snimanje poziva</string>
+  <string name="already_answered">Odgovoreno na iPhoneu</string>
   <string name="all_list_empty">Nema kontakata</string>
   <string name="all_selected">Odabrano sve</string>
-  <string name="am">AM</string>
   <string name="antispam_mark_my_contribution">"Pokaži drugim korisnicima da sam prijavio ovaj broj."</string>
   <string name="attach_photo_dialog_title">Kontakt fotografija</string>
   <string name="audio_chat">Glasovni chat</string>
@@ -589,6 +589,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
   <string name="dialer_digits_copy_number_label">Kopirani broj</string>
   <string name="dialer_empty_text_no_call_log">"Nema nedavnih kontakata"</string>
   <string name="dialer_empty_text_no_search_result">Nisu pronađeni kontakti</string>
+  <string name="dialer_devices_from_iphone">Od %s</string>
   <string name="dialer_firewall_entry_name">Popis blokiranih poziva</string>
   <string name="dialer_menu_description">Prikaži izbornike</string>
   <string name="dialer_menu_title">Opcije izbornika</string>
@@ -628,6 +629,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
   <string name="email_other">E-pošta</string>
   <string name="email_work">E-pošta na poslovni</string>
   <string name="emergency_number_label">Broj za hitne slučajeve</string>
+  <string name="ensure">U redu</string>
   <string name="err_dont_install_mipay">Instalirajte Mi Pay da biste dovršili plaćanje.</string>
   <string name="eventLabelsGroup">"Rođendan"</string>
   <string name="eventTypeCustom">Prilagođeno</string>
@@ -1382,6 +1384,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="unknown_contact_name">Nepoznati kontakt</string>
   <string name="unknown_details_add_to_contact">Postojeći</string>
   <string name="unknown_details_new_contact">Novi kontakt</string>
+  <string name="unknown_details_new_contact_phone_to_mi">Spremi kontakte na uređaj</string>
   <string name="unshow_qr_code_in_narrow_screen_split">"Ne mogu se prikazati QR kodovi dok se koristi podijeljeni zaslon"</string>
   <string name="update_sim_contact_photo_toast">"Ne mogu postaviti fotografiju za SIM kontakte"</string>
   <string name="upgrade_in_progress">Popis kontakata se ažurira.</string>

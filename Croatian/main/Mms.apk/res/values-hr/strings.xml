@@ -121,6 +121,7 @@ Pokušajte ponovno."</string>
   <string name="attach_video">Videozapisi</string>
   <string name="attach_video_call">Video poziv</string>
   <string name="attachment_panel_show_part">Stranica %1$d</string>
+  <string name="attachment_panel_show_part_new">Stranica %1$d od %2$d</string>
   <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
   <string name="audio_message_expired">Ova glasovna poruka je istekla.</string>
   <string name="audio_message_mx_offline">"Ne mogu preuzeti zvuk. Mi poruka je offline ili nije dostupna."</string>
@@ -184,6 +185,10 @@ Pokušajte ponovno."</string>
   <string name="bookmark_empty">Nema poruka</string>
   <string name="bookmark_list_title">Favoriti</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+  <string name="bottomsheet_action_collapse">Sakrij donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_drag_handle_clicked">Dvostruki dodir ručke za povlačenje</string>
+  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="button_close">Zatvori</string>
   <string name="button_copy">Kopiraj</string>
   <string name="button_emoji_creature">Animal emojis</string>
@@ -1017,6 +1022,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="notification_ad_content">Primili ste promotivnu poruku od %s</string>
   <string name="notification_add_todo">Podsjeti me</string>
   <string name="notification_add_todo_content">Kôd za preuzimanje: %s</string>
+  <string name="notification_channel_flow_other_name">Sinkronizacija obavijesti iPhonea</string>
   <string name="notification_channel_msg_description">Obavijest o poruci</string>
   <string name="notification_channel_msg_name">Poruka</string>
   <string name="notification_channel_other_description">Obavijest bez poruke</string>
@@ -1953,6 +1959,7 @@ Broj pokušaja: %s."</string>
   <string name="user_term">Korisnički ugovor</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="verification_code_flow_title">%1$s kod za provjeru</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Kodovi za provjeru</string>
   <string name="verification_code_safety_warning">"Ne otkrivajte ove kodove drugim ljudima"</string>

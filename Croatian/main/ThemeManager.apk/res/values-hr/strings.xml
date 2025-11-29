@@ -88,6 +88,8 @@
   <string name="ai_account_violated_service_unavailable_try_again_later">Vaš je račun više puta prekršio naše smjernice i obustavljen je. Pokušajte ponovno kasnije.</string>
   <string name="ai_apply_wallpaper">Primjeni</string>
   <string name="ai_cannot_scrolling_with_the_screen">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
+  <string name="ai_content_no_regenerate">"Ne mogu koristiti stavke generirane umjetnom inteligencijom"</string>
+  <string name="ai_generate_content_fail_message">Ovaj sadržaj možda krši naše smjernice. Odaberite nove fotografije.</string>
   <string name="ai_creativity_all_album_images">Svi albumi</string>
   <string name="ai_creativity_local_album_pictures">Slike iz Galerije</string>
   <string name="ai_creativity_my_doppelganger">Moji avatari</string>
@@ -125,6 +127,7 @@
   <string name="ai_icon_clear_all">Uspješno brisanje svih AI HD ikona.</string>
   <string name="ai_icon_curr_dpi">DPI uređaja:</string>
   <string name="ai_icon_enable">Koristi AI:</string>
+  <string name="ai_icon_multi_launch_alias">Alias ​​za višestruki pokretač:</string>
   <string name="ai_image_format_does_not_support_generation">Nepodržani format</string>
   <string name="ai_image_select_generate">Odaberite fotografije veličine do %d MB.</string>
   <string name="ai_image_size_too_large">Slika je prevelika</string>
@@ -185,6 +188,10 @@
   <string name="ai_service_temporarily_unavailable">"Značajka nije dostupna"</string>
   <string name="ai_service_unavailable">"Značajka nije dostupna"</string>
   <string name="ai_service_unavailable_content">Prekršili ste naše smjernice i vaš je račun obustavljen. Pokušajte ponovno kasnije.</string>
+  <string name="ai_video_analysis_processing_toast">Analiziranje videozapisa…</string>
+  <string name="ai_video_not_meet_requirement_dialog_message">Odaberite videozapis s osobom ili životinjom i provjerite je li glavni subjekt zauzima više od %s kadra.</string>
+  <string name="ai_video_not_meet_requirement_dialog_message_new">Odaberite videozapis s osobom ili životinjom i provjerite je li subjekt jasan i bez prepreka.</string>
+  <string name="ai_video_not_meet_requirement_dialog_title">"Ne mogu generirati videozapis"</string>
   <string name="ai_waiting_in_line_please_wait">"Na redu ste. Ostanite s nama…"</string>
   <string name="ai_wallpaper">Dinamičke pozadine umjetne inteligencije</string>
   <string name="ai_wallpaper_account_exception">"Izgleda da postoji problem s vašim računom. Pokušajte ponovno kasnije ili promijenite račun."</string>
@@ -202,6 +209,7 @@
   <string name="ai_wallpaper_generate_error">"Nije moguće generirati AI pozadinu"</string>
   <string name="ai_wallpaper_generate_generating">Generiranje…</string>
   <string name="ai_wallpaper_generate_loading">Generiranje AI pozadine…</string>
+  <string name="ai_wallpaper_generate_unsupported_toast">"Ova pozadina ne radi s umjetnom inteligencijom"</string>
   <string name="ai_wallpaper_generate_waiting">Čekanje…</string>
   <string name="ai_wallpaper_generation_time">Ovo će trajati oko %d sekundi</string>
   <string name="ai_wallpaper_history_empty">Ovdje još ništa</string>
@@ -342,6 +350,7 @@
   <string name="author_new_theme">Novo</string>
   <string name="author_popularity">Pregledi</string>
   <string name="author_unfollow_succeed">Uspješno ste otpratili</string>
+  <string name="automatic_brightness_adjustment">Automatsko podešavanje svjetline</string>
   <string name="automatic_renewal_monthly">Automatski se obnavlja %s/mjesečno</string>
   <string name="automatic_renewal_weekly">Automatski se obnavlja %s/tjedno</string>
   <string name="automatic_renewal_yearly">Automatski se obnavlja %s/godišnje</string>
@@ -1936,6 +1945,10 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_aod_setting_title">Always-on zaslon</string>
   <string name="rear_screen_apply_fail">"Nije moguće primijeniti"</string>
   <string name="rear_screen_apply_success">Uspješno primijenjeno</string>
+  <string name="rear_screen_brightness_adjustment">Svjetlina</string>
+  <string name="rear_screen_screenshot">Snimka zaslona</string>
+  <string name="rear_screen_service_assistant_new">Upravljanje stražnjim zaslonom</string>
+  <string name="rear_screen_template_upper_limit_old">Izbrišite stavke u Postavke > Stražnji zaslon > Personalizacija kako biste mogli dodati još</string>
   <string name="rear_screen_delete_template">Želite li sada izbrisati ovaj predložak?</string>
   <string name="rear_screen_edit_color_hsl_title">Prilagođena boja</string>
   <string name="rear_screen_edit_color_hue">Nijansa</string>

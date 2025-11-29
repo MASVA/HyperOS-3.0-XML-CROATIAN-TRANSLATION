@@ -280,6 +280,7 @@
   <string name="accessibility_status_bar_satellite_good_connection">Satelit, dobra veza</string>
   <string name="accessibility_status_bar_satellite_no_connection">Satelit, nema veze</string>
   <string name="accessibility_status_bar_satellite_poor_connection">Satelit, loša veza</string>
+  <string name="accessibility_status_bar_stealth">"Anonimni način rada"</string>
   <string name="accessibility_tile_disabled_by_policy_action_description">Saznajte više</string>
   <string name="accessibility_tty_enabled">TeleTypewriter je omogućen.</string>
   <string name="accessibility_unlock_button">Otključano</string>

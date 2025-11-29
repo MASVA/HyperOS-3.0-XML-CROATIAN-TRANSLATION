@@ -248,6 +248,8 @@
   <string name="call_notification_incoming_text">Dolazni poziv</string>
   <string name="call_notification_ongoing_text">Poziv u tijeku</string>
   <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_botton">Odustani</string>
   <string name="cancel_btn_label">Odustani</string>
@@ -315,6 +317,7 @@
   <string name="custom_wallpaper_picker">Prilagođeno</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="defalut_launcher_title">Zadani pokretač</string>
+  <string name="default_folder_title_amazon_apps">Amazon aplikacije</string>
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_hot">Popularne aplikacije</string>
   <string name="default_folder_title_meitu">Meitu aplikacije</string>
@@ -376,6 +379,7 @@
   <string name="enable_wallpaper_scroll">Uključi pomicanje slike</string>
   <string name="encryption">Šifriranje</string>
   <string name="enter_search_setting_title">Otvori pretraživanje nakon otvaranja ladice aplikacija</string>
+  <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="exit_overview_because_task_stack_changed">Zatvoreno nedavno zbog promjena koje su se dogodile u pozadini</string>
   <string name="expand_button_title">Napredno</string>
@@ -1049,6 +1053,7 @@ Poboljšana sigurnost."</string>
   <string name="show_mem_info_title">Prikaži status memorije</string>
   <string name="show_most_popular_apps_you_used">Prikaži najčešće korištene aplikacije u ladici</string>
   <string name="show_recents_recommend_title">Prikaži prijedloge</string>
+  <string name="side_sheet_accessibility_pane_title">Bočni list</string>
   <string name="slide_to_open_newhome">Povucite gore za otvaranje Centra za kontrolu</string>
   <string name="small_search_bar">Kompaktno pretraživanje</string>
   <string name="small_window">Plutajući prozor</string>
@@ -1161,6 +1166,7 @@ Poboljšana sigurnost."</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
+  <string name="wallpaper_zoom_title">Efekti zumiranja pozadine</string>
   <string name="wallpaper_failed_message">"Ne mogu postaviti sliku pozadine"</string>
   <string name="wallpaper_scaling_message">Skaliranje na fiksnu veličinu</string>
   <string name="wallpaper_scroll_type_tips">Pomicanje slika pozadine</string>

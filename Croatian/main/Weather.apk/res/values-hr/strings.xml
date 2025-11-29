@@ -152,6 +152,8 @@
   <string name="button_settings_confirm_to_revoke_msg">"Nećete moći koristiti aplikaciju Vrijeme nakon povlačenja suglasnosti."</string>
   <string name="button_settings_confirm_to_revoke_title">Želite li povući suglasnost?</string>
   <string name="button_sure_abandon">Odbaciti promjene?</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="china_version_first_start_network_msg">"Morate pristati na Xiaomi %1$s i %2$s da biste mogli koristiti aplikaciju Vrijeme. Vrijeme mora pristupiti vašoj lokaciji i povezati se s internetom kako bi normalno radio. Slažete li se?"</string>
   <string name="city_exceeded_tips">"Ne mogu dodati više lokacija. Uklonite neke lokacije prije dodavanja nove."</string>

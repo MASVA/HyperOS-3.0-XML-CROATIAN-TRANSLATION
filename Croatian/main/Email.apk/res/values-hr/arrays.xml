@@ -28,9 +28,9 @@
         <item>Dalje</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Sićušan</item>
+        <item>Sitan</item>
         <item>Mali</item>
-        <item>Normalne veličine</item>
+        <item>Normalan</item>
         <item>Veliki</item>
         <item>Ogroman</item>
     </string-array>

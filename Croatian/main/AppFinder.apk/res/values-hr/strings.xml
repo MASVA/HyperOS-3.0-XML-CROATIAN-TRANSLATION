@@ -124,6 +124,7 @@
   <string name="ai_search_open_all_file_permission">"Odobri pristup svim datotekama kako bi se mogle pronaći stavke unutar datoteka. "</string>
   <string name="ai_search_permission_dialog_title">Potrebna sudopuštenja</string>
   <string name="ai_search_picture_edit">Odaberi područje</string>
+  <string name="ai_search_identifying">Prepoznavanje…</string>
   <string name="ai_search_refuse">"Ne dopusti"</string>
   <string name="ai_search_related_links">Povezane poveznice</string>
   <string name="ai_search_result_identify_failed_desc">Odaberi biljku, životinju ili proizvod i pokušaj ponovno</string>

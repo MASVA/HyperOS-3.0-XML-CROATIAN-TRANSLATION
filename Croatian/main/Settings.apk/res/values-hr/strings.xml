@@ -1449,6 +1449,7 @@
   <string name="audio_streams_qr_code_page_password">Zaporka: %1$s</string>
   <string name="audio_streams_qr_code_page_title">QR kôd audiostreama</string>
   <string name="audio_streams_qr_code_scanner">Da biste počeli slušati, centrirajte QR kôd u nastavku</string>
+  <string name="audio_streams_qr_code_scanner_label">Skener QR koda</string>
   <string name="audio_streams_qr_code_summary">Povežite se s audiostreamom pomoću QR koda</string>
   <string name="audio_streams_title">Audio streamovi</string>
   <string name="audio_synced">Audio sinkroniziran</string>
@@ -5010,6 +5011,25 @@
   <string name="eid_multi_sim">EID (utor za SIM %1$d)</string>
   <string name="eighthours">8 sati</string>
   <string name="elastic_text">Upiti i padajući izbornici pojavljuju se s elastičnim skočnim prozorom koji donosi veći fokus na ove objekte</string>
+  <string name="elder_care_block_advertising_promotions_calls_title">Blokiraj marketinške pozive</string>
+  <string name="elder_care_block_estate_agency_calls_title">Blokiraj pozive agencija za nekretnine</string>
+  <string name="elder_care_block_risky_app_title">Blokiraj rizične aplikacije</string>
+  <string name="elder_care_block_scam_calls_title">Blokiraj lažne pozive</string>
+  <string name="elder_care_font_preview_text_content">Xiaomi neumorno stvara nevjerojatne proizvode s poštenim cijenama kako bi svima na svijetu omogućio bolji život kroz inovativnu tehnologiju.</string>
+  <string name="elder_care_font_size_title">Veličina teksta</string>
+  <string name="elder_care_icon_size_big">Velika</string>
+  <string name="elder_care_icon_size_small">Mala</string>
+  <string name="elder_care_icon_size_title">Ikona veličina</string>
+  <string name="elder_care_intelligent_identification_dialog_message">Da biste mogli blokirati pozive, prvo uključite prepoznavanje ID-a pozivatelja. Uključiti sada?</string>
+  <string name="elder_care_intelligent_identification_dialog_negative">Odustani</string>
+  <string name="elder_care_intelligent_identification_dialog_positive">Uključi</string>
+  <string name="elder_care_intelligent_identification_dialog_title">"Ne prepoznaje ID-ove pozivatelja"</string>
+  <string name="elder_care_recommend_summary">Lakše za čitanje, lakše za slušanje, sigurnije za korištenje</string>
+  <string name="elder_care_recommend_title">Isprobajte način jasnoće</string>
+  <string name="elder_care_ringtone_title">Glasnoća melodije zvona</string>
+  <string name="elder_care_title">Način jasnoće</string>
+  <string name="elder_care_toast_no_sim">"Ova značajka nije dostupna bez SIM kartice"</string>
+  <string name="elder_care_toast_simple_style">"Ne mogu prilagoditi veličinu teksta i ikona u Lite načinu rada"</string>
   <string name="embedded_window_guide_text">Kada se zaslon prikazuje vodoravno, aplikacije će se prikazivati jedna s drugom paralelno. Aplikacije će biti centrirane kada je ova značajka isključena.</string>
   <string name="emergency_address_summary">Upotrebljava se kao vaša lokacija kada upućujete hitne pozive putem Wi-Fi-ja</string>
   <string name="emergency_address_title">Adresa za hitne slučajeve</string>
@@ -10398,6 +10418,7 @@
   <string name="photography_handle_long_press_camera_key_enter_camera">Pritisnite i držite okidač za izvođenje radnje</string>
   <string name="photography_handle_low_battery_notify_title">Ažuriranje firmvera ručke kamere</string>
   <string name="photography_handle_normal_title">Isključeno</string>
+  <string name="photography_handle_quick_launch_title">Brzo pokretanje</string>
   <string name="photography_handle_quick_launch_camera_title">Brzo pokretanje</string>
   <string name="photography_handle_sn">Serijski broj</string>
   <string name="photography_handle_title">Držač kamere</string>
@@ -11963,6 +11984,11 @@
   <string name="search_doze_always_on_title">Always-on</string>
   <string name="search_dtmf_tone_enable_title">Uključi Tonove biranja;Tonovi biranja;tonovi dodira;tonovi dodira;Tonovi biranja;Tonovi biranja</string>
   <string name="search_edge_handgrip">Kontrole ruba</string>
+  <string name="search_elder_care_block_advertising_promotions_calls_title">Popis blokiranih</string>
+  <string name="search_elder_care_block_estate_agency_calls_title">Popis blokiranih</string>  
+  <string name="search_elder_care_block_scam_calls_title">Popis blokiranih</string> 
+  <string name="search_elder_care_font_size_title">Font</string> 
+  <string name="search_elder_care_title">Umirovljenik</string>
   <string name="search_empty">Nema pronađenih rezultata</string>
   <string name="search_enable_adb">USB ispravljanje grešaka</string>
   <string name="search_equalizer">Equalizer</string>
@@ -13076,6 +13102,9 @@
   <string name="smart_notifications_title">Prilagodljive obavijesti</string>
   <string name="smart_rotate_text_headline">Prepoznavanje lica koristi prednju kameru radi poboljšanja točnosti automatskog zakretanja. Slike se nikad ne pohranjuju i ne šalju Googleu.</string>
   <string name="smart_space_clock">Na prvi pogled</string>
+  <string name="smart_storage_backup_title">Xiaomi pametna pohrana</string>
+  <string name="smart_storage_summary">Sigurnosno kopiranje uređaja ili vraćanje podataka pomoću pametne pohrane</string>
+  <string name="smart_storage_title">Pametna pohrana</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Zaklj./otklj. uređaj autom. koristeći smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
@@ -15965,6 +15994,7 @@
   <string name="wifi_connect_cmcc_dialog_title">Obavijesti uporabe podataka</string>
   <string name="wifi_connect_failed_message">Telefon se nije mogao povezati s ovom Wi-Fi mrežom.</string>
   <string name="wifi_connect_frequency">Wi-Fi frekvencija:</string>
+  <string name="wifi_connect_successful_talkback">Uspješno povezano s mrežom %s</string>
   <string name="wifi_connected_less_secure">%1$s (manje sigurno)</string>
   <string name="wifi_connected_low_quality">Niska kvaliteta</string>
   <string name="wifi_connected_mac_randomization">Nasumični odabir MAC-a pri povezivanju</string>
@@ -16653,6 +16683,8 @@
   <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE, odaberite, PHONE {{NETWORK_NAME} sa svog telefona} TABLET {{NETWORK_NAME} sa svog tableta} COMPUTER {{NETWORK_NAME} sa svog računala} WATCH {{NETWORK_NAME} sa svog sata} VEHICLE {{NETWORK_NAME} iz vašeg vozila} drugi {{NETWORK_NAME} s vašeg uređaja} }</string>
   <string name="wifitrackerlib_imsi_protection_warning">Ova mreža prima ID SIM-a koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte više&lt;/annotation&gt;</string>
   <string name="wifitrackerlib_known_network_summary">Dostupno s uređaja %1$s</string>
+  <string name="wifitrackerlib_link_speed_mbps">%1$d Mbps</string>
+  <string name="wifitrackerlib_link_speed_on_band">%1$s na %2$s</string>
   <string name="wifitrackerlib_multiband_separator">,</string>
   <string name="wifitrackerlib_osu_completing_sign_up">Dovršavanje registracije…</string>
   <string name="wifitrackerlib_osu_connect_failed">Povezivanje nije uspjelo</string>
@@ -16806,6 +16838,8 @@
   <string name="xiaoai_key_shortcut">Tipke</string>
   <string name="xiaoai_other_shortcut">Ostale metode</string>
   <string name="xiaoai_shortcut_settings_title">Pokrenite Mi AI pomoću tipke i gesta</string>
+  <string name="xiaoai_wake_up_light_summary">Uključi pozadinsko svjetlo kada se vaš glasovni asistent probudi ili odgovori na vaše pozive</string>
+  <string name="xiaoai_wake_up_light_title">Koristite s Xiaomi Hyper XiaoAi</string>
   <string name="xiaomi_account">Xiaomi račun</string>
   <string name="xiaomi_cloud_find_device">Pronađi uređaj</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>

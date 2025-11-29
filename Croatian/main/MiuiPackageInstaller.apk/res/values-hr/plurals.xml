@@ -45,6 +45,10 @@
         <item quantity="other">%1$s pregleda</item>
         <item quantity="one">%1$s pregled</item>
     </plurals>
+	 <plurals name="fingerprint_authrioze_retry_after_seconds">
+        <item quantity="one">"Nije moguće potvrditi vaš otisak prsta %1$d put. Pokušajte ponovno za %2$d sekundu."</item>
+        <item quantity="other">"Nije moguće potvrditi vaš otisak prsta %1$d puta. Pokušajte ponovno za %2$d sekundi."</item>
+     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>

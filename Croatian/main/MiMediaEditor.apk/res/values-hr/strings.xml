@@ -1669,6 +1669,7 @@
   <string name="photo_editor_navigator_tab_title_basic">Osnovno</string>
   <string name="photo_editor_navigator_tab_title_beauty">Uljepšaj</string>
   <string name="photo_editor_no_permission_save_dialog_msg">"Spremanje u ovu mapu nije moguće. Ova fotografija će biti spremljena kao duplikat."</string>
+  <string name="photo_editor_navigator_tab_title_document">Dokumenat</string>
   <string name="photo_editor_outpaint_progress">Proširenje…%s</string>
   <string name="photo_editor_perspective">Perspektiva</string>
   <string name="photo_editor_perspective_crop">Obreži</string>
@@ -2431,6 +2432,7 @@
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Tekst</string>
+  <string name="video_editor_text_add">Dodaj tekst</string>
   <string name="video_editor_text_ai_caption">AI titlovi</string>
   <string name="video_editor_text_audio_to_text">Pretvaranje govora u tekst</string>
   <string name="video_editor_text_default">Zadano</string>

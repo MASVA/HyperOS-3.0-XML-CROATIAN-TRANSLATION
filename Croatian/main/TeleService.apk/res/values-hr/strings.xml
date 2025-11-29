@@ -393,6 +393,9 @@ Pročitajte i prihvatite "&lt;a href="https://pnt.10086.cn/scc/v1/bdlawfront/#/a
   <string name="beidou_mobile_settings_summary">Dostupno samo korisnicima China Mobilea</string>
   <string name="beidou_mobile_settings_summary_all">Dostupno samo korisnicima s aktivnom BeiDou satelitskom komunikacijskom uslugom</string>
   <string name="beidou_mobile_settings_title">Beidou satelitske komunikacije</string>
+  <string name="beidiue_privacy_statement_message_all">"BeiDou satelitska komunikacija omogućuje vam slanje i primanje satelitskih poruka. Ova usluga treba se povezati s internetom i zahtijeva sljedeća dopuštenja:
+Lokacija: za slanje i dijeljenje lokacije
+Ovu uslugu pruža i aktivira vaš operater. Za aktiviranje ove usluge ili za povezana pitanja obratite se svom operateru. Nakon što uključite uslugu, vaš operater će prikupiti vaš telefonski broj i IMSI kako bi potvrdio aktivaciju usluge. Za detalje o tome kako se vaši podaci obrađuju pročitajte i prihvatite "<a href="https://privacy.mi.com/BeidouSMS/zh_CN/">Pravila o privatnosti BeiDou poruka</a>.</string>
   <string name="beidou_received_failed">"Primanje nije moguće.
 Pokušajte ponovno."</string>
   <string name="beidou_received_success">Uspješno primljeno.</string>
@@ -3015,6 +3018,20 @@ UT sučelje: %5$s"</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="sa_switch_debug_summary">Prikaži opcije 5G mrežnog načina rada u dodatnim postavkama SIM-a</string>
   <string name="sa_switch_debug_title">Prikaži opcije 5G mrežnog načina</string>
+  <string name="sat_dual_beam_switching_settings">Postavke prebacivanja dvostrukog snopa satelita:</string>
+  <string name="sat_id">ID satelita:</string>
+  <string name="sat_info">Informacije o satelitu</string>
+  <string name="sat_location">Lokacija satelita:</string>
+  <string name="sat_lpm_state">Trenutno stanje LPM-a satelita:</string>
+  <string name="sat_lpm_switch">Prekidač LPM-a satelita</string>
+  <string name="sat_plmn">PLMN:</string> 
+  <string name="sat_reg">Stanje registracije:</string> 
+  <string name="sat_rssi">Rssi:</string> 
+  <string name="sat_rx_ant_info">Trenutni Rx Ant:</string> 
+  <string name="sat_sub_id">Pod ID:</string> 
+  <string name="sat_switch_rx_ant">Prebaci Rx Ant na:</string>
+  <string name="sat_switch_tx_ant">Prebaci Tx Ant na:</string>
+  <string name="sat_tx_ant_info">Trenutni Tx Ant:</string>
   <string name="sat_version">Verzija modema:</string>
   <string name="satellite_area_requirement_message">Ova je značajka dostupna samo za uređaje koji se prodaju na kineskom kopnu (isključujući Hong Kong, Macao i Tajvan), a ova se značajka može koristiti samo na kineskom kopnu (isključujući Hong Kong, Macao i Tajvan).</string>
   <string name="satellite_area_requirement_title">U kojim regijama se ova značajka može koristiti?</string>
@@ -3461,6 +3478,7 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
   <string name="telephony_setting">Aplikacije/Ostale postavke/Postavke aplikacije sustava/Telefon</string>
   <string name="telocation_auto_country_code">Dodaj predbroj zemlje</string>
   <string name="telocation_auto_country_code_summary">Automatski dodaj predbroj prije biranja kontakata</string>
+  <string name="telocation_auto_country_code_summary_while_roaming">Automatski dodajte pozivni broj države kontaktnim brojevima prilikom biranja u roamingu. Brojevi koji već sadrže pozivni broj države bit će birani kakvi jesu.</string>
   <string name="telocation_call_assistant">Asistent biranja</string>
   <string name="telocation_confim_delete_title">Obrisati ovu poruku?</string>
   <string name="telocation_contacts_countrycode">Zadani predbroj zemlje</string>

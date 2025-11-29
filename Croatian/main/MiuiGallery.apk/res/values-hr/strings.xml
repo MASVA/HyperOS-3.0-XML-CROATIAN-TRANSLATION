@@ -111,10 +111,11 @@
   <string name="add_to_share_album_not_delete">"Ne mogu izbrisati fotografiju u dijeljenom albumu"</string>
   <string name="added_to_clipboard_description">"Ovaj videozapis nije preuzet na vaš uređaj. Preuzeti sad i kopirati u međuspremnik?"</string>
   <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
+   <string name="added_to_album_module">Dodano u \"Albumi\"</string>
   <string name="added_to_clipboard_toast">Uspješno kopirano</string>
   <string name="added_to_favorites">Dodano u favorite</string>
   <string name="added_to_favorites_desc">Dodano u favorite</string>
-  <string name="added_to_favorites_tip">Dodano u album \"Favoriti\"</string>
+  <string name="added_to_favorites_tip">Dodano u \"Favoriti\"</string>
   <string name="adding">Dodavanje…</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
   <string name="adding_to_album">Dodavanje fotografija…</string>
@@ -2066,6 +2067,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="merge_album">Spoji</string>
   <string name="merge_album_title">Spoji sa osobom</string>
+  <string name="merge_pet_album_button_title">Grupni ljubimci</string>
   <string name="merge_pet_album_title">Spoji ljubimca</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
@@ -3085,6 +3087,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="rename_face_album">Promjeni naziv</string>
   <string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
   <string name="rename_from_contact">Ime iz kontakata</string>
+   <string name="rename_license_type">Preimenuj</string>
   <string name="rename_license_type_succeed">Uspješno preimenovano</string>
   <string name="request_agree">Dopusti</string>
   <string name="request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoju suglasnost u Postavkama."</string>

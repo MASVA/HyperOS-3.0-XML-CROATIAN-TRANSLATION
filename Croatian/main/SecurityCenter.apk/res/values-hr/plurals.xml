@@ -281,7 +281,7 @@ Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Za %1$d min.</item>
         <item quantity="one">Za %1$d min.</item>
-	<item quantity="few">Za %1$d min.</item>
+	     <item quantity="few">Za %1$d min.</item>
     </plurals>
     <plurals name="ew_alert_second_after">
         <item quantity="other">Za %d sek.</item>
@@ -320,6 +320,14 @@ Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti
         <item quantity="one">%s min</item>
         <item quantity="few">%s min</item>
     </plurals>
+	 <plurals name="fast_open_list_not_open_title">
+        <item quantity="one">"Način brzog otvaranja ne može prekinuti %s aplikaciju"</item>
+        <item quantity="other">"Način brzog otvaranja ne može prekinuti %s aplikacija"</item>
+     </plurals>
+     <plurals name="fast_open_list_open_title">
+        <item quantity="one">Način brzog otvaranja može prekinuti %s aplikaciju</item>
+        <item quantity="other">Način brzog otvaranja može prekinuti %s aplikacija</item>
+     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pretraži između %d aplik.</item>
         <item quantity="one">Pretraži između %d aplik.</item>
@@ -487,6 +495,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">Dodajte do %d aplikaciju. Pritisnite i držite za preuređivanje.</item>
         <item quantity="other">Dodajte do %d aplikacija. Pritisnite i držite za preuređivanje.</item>
     </plurals>
+	 <plurals name="group_have_hongbao">
+        <item quantity="one">%2$d crvena omotnica od %1$s</item>
+        <item quantity="other">%2$d crvenih omotnica od %1$s</item>
+     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>
         <item quantity="one">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>

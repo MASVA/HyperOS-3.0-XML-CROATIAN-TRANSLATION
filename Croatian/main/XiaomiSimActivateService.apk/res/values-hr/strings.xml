@@ -305,6 +305,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="send_email_activate_message">E-poruka za potvrdu uspješno poslana</string>
   <string name="service_error">Pogreška poslužitelja</string>
   <string name="sim_activate_failed">"Nije moguće aktivirati uslugu"</string>
+  <string name="sim_activate_input_phone_number">Unesite svoj broj telefona</string>
   <string name="sim_activate_notificat_channel">Obavijesti o aktivaciji</string>
   <string name="sim_activate_prepare">Aktiviraj uslugu</string>
   <string name="sim_activated_failed_msg">"Nije moguće aktivirati uslugu. Dodirnite da biste pokušali ponovno."</string>

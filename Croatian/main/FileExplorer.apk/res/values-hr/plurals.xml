@@ -232,6 +232,10 @@
         <item quantity="other">%1$d sek</item>
         <item quantity="one">%1$d sek</item>
     </plurals>
+	 <plurals name="privacy_revoke_numbers_talkback">
+        <item quantity="one">Povuci (%d)</item>
+        <item quantity="other">Povuci (%d)</item>
+     </plurals>
 	<plurals name="tap_share_send_fail_with_too_many">
         <item quantity="one">"Nije moguće poslati. Odabrano previše %d stavki."</item>
         <item quantity="other">"Nije moguće poslati. Odabrano previše %d stavka."</item>
