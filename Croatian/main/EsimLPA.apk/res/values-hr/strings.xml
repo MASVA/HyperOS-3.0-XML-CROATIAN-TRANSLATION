@@ -116,8 +116,8 @@ Aktivacijski kod: ABCDE-FGHIJ-12345"</string>
 Ova radnja neće otkazati pakete mobilnih planova koje ste možda kupili od mobilnog operatera."</string>
   <string name="dialog_delete_profile_cancel">Odustani</string>
   <string name="dialog_delete_profile_confirm">Izbriši</string>
-  <string name="dialog_delete_title">Obrišite eSIM</string>
-  <string name="dialog_delete_title_v2">Obrisati %1$s?</string>
+  <string name="dialog_delete_title">Izbriši eSIM</string>
+  <string name="dialog_delete_title_v2">Izbrisati %1$s?</string>
   <string name="dialog_disable_button_cancel">Odustani</string>
   <string name="dialog_disable_button_confirm">Onemogući</string>
   <string name="dialog_disable_connect_physical_sim">Omogući %1$s nakon onemogućavanja</string>

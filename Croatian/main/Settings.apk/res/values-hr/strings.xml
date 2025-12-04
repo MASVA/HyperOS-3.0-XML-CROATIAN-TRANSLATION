@@ -7386,7 +7386,7 @@
   <string name="live_caption_summary">Automatski titlovi za medije</string>
   <string name="live_caption_title">Automatski titlovi</string>
   <string name="live_notifications">Obavijesti uživo</string>
-  <string name="live_notifications_desc">Uključite da biste prikvačili obavijesti s informacijama uživo iz aplikacija na zaslonu Obavijesti</string>
+  <string name="live_notifications_desc">Uključite da biste prikvačili obavijesti s informacijama uživo iz aplikacija na Panelu obavijesti</string>
   <string name="live_notifications_switch">Ažuriranja uživo</string>
   <string name="load_error">"Nije moguće učitati"</string>
   <string name="load_esim_info">Dohvaćanje informacija o eSIM-u…</string>
@@ -9339,7 +9339,7 @@
   <string name="natural_haptic">Prirodni dodir</string>
   <string name="natural_haptic_summary">Novi uzorci haptičnih povratnih informacija daju dodatnu dimenziju svemu što vidite i dodirnete na zaslonu.</string>
   <string name="natural_scroll">Prirodno pomicanje</string>
-  <string name="natural_scroll_summary">Sadržaj se pomiče vašim prstom</string>
+  <string name="natural_scroll_summary">Stranica se pomiče u istom smjeru kao i gesta prevlačenja prstom</string>
   <string name="nature_color">Zadano</string>
   <string name="nav_rail_collapsed_a11y_label">Sažeto</string>
   <string name="nav_rail_expanded_a11y_label">Prošireno</string>

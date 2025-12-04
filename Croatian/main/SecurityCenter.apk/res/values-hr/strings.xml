@@ -4858,11 +4858,11 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_smart_charge_notify_summary_night_pause_charge">Punjenje pauzirano na %1$s. Nastavit će se na %2$s.</string>
   <string name="pc_smart_charge_notify_summary_night_start_charge">Punjenje će se pauzirati kada baterija dosegne %1$s i automatski nastaviti na temelju vaše upotrebe</string>
   <string name="pc_smart_charge_pogo_project_dialog_content">"Za produljenje trajanja baterije, baterija ovog uređaja neće prijeći trenutnu razinu dok je povezan s automobilom."</string>
-  <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Ne prikazuj više"</string>
+  <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Ne prikazuj ponovno"</string>
   <string name="pc_smart_charge_pogo_project_dialog_title">Zaštita baterije</string>
   <string name="pc_smart_charge_pogo_project_notification_content">"Za produljenje trajanja baterije, baterija ovog uređaja neće prijeći trenutnu razinu dok je povezan s automobilom"</string>
   <string name="pc_smart_charge_pogo_project_notification_title">Zaštita baterije</string>
-  <string name="pc_smart_charge_title">Pametno punjenje</string>
+  <string name="pc_smart_charge_title">Inteligentno punjenje</string>
   <string name="pc_smart_discharge_checkbox_summary">Kada koristite značajke navigacije, punjenje će se automatski zaustaviti na određenom postotku. Štednja baterije bit će isključena.</string>
   <string name="pc_smart_discharge_checkbox_title">Automatsko isključivanje punjenja</string>
   <string name="pc_smart_discharge_drop_down_title">Postavke automatskog prekida veze</string>
@@ -4906,6 +4906,8 @@ Način otpornosti na hladnoću"</string>
   <string name="performance_frame_enhance_super_display_tips">"Poboljšani broj sličica u sekundi i super rezolucija ne mogu raditi u isto vrijeme. Uključivanje jednog od njih isključit će drugo."</string>
   <string name="performance_frame_insert_super_display_tips">"Pametan broj sličica u sekundi i super rezolucija ne mogu biti na snazi u isto vrijeme. Uključivanje jednog isključit će drugo."</string>
   <string name="perm_desc_accessibility">Ovo je dopuštenje potrebno za pregled i kontrolu zaslona, ​​upravljanje aplikacijama i hardverskim senzorima prema vašim uputama i interakciju s aplikacijama u vaše ime.</string>
+  <string name="perm_disable_dialog_message">"Dopuštenje ove aplikacije (%1$s) nije prošla pregled."</string>
+  <string name="perm_disable_note_text">"Ovo dopuštenje nije prošlo pregled i sada je ograničeno: %1$s"</string>
   <string name="permdesc_coarse_location">Približna lokacija</string>
   <string name="permdesc_fine_location">Lokacija</string>
   <string name="perm_intercept_content">Dati ovoj aplikaciji sljedeće dopuštenje: %1s?</string>
@@ -4915,6 +4917,8 @@ Način otpornosti na hladnoću"</string>
   <string name="perm_intercept_unknown_title">Dopuštajući %1s da instalira aplikacije iz nepoznatih izvora može predstavljati sljedeće rizike:</string>
   <string name="perm_list_header_title">Aplikacije</string>
   <string name="perm_list_header_title_has_storage">Aplikacije s pohranom</string>
+  <string name="perm_manage_external_storage">Pristup svim datotekama</string>
+  <string name="perm_manage_zen_modes_access">Pristup načinima rada</string>
   <string name="permdesc_get_installed_apps">Dopustiti \"%1$s\" pristup podacima o instaliranim aplikacijama?</string>
   <string name="permdesc_in_calls">Nadzirati dolazne pozive</string>
   <string name="permdesc_out_calls">Nadzirati odlazne pozive</string>
@@ -5038,7 +5042,7 @@ Način otpornosti na hladnoću"</string>
 </string>
   <string name="permission_instruction_send_payment_sms">Ovo dopuštenje aplikacijama omogućuje slanje plaćenih tekstualnih poruka.</string>
   <string name="permission_instruction_send_sms">Ovo dopuštenje aplikacijama omogućuje slanje tekstnih poruka, što može generirati dodatne naknade. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje plaćenih poruka bez vašeg suglasnosti.</string>
-  <string name="permission_instruction_shake">"Ovo dopuštenje aplikacijama omogućuje praćenje orijentacije i kretanja vašeg uređaja (npr. drmanje, naginjanje i rotacija)"</string>
+  <string name="permission_instruction_shake">"Ovo dopuštenje omogućuje aplikacijama da otkriju položaj uređaja u prostoru, prepoznaju drmanje, odrede orijentaciju zaslona, ​​kao i da koriste kontrole u igri i navigaciju po karti."</string>
   <string name="permission_instruction_show_locked">Ovo dopuštenje aplikacijama omogućuje prikaz stavki na zaključanom zaslonu. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za prikazivanje dosadnih oglasa.</string>
   <string name="permission_instruction_sociality">Ako aplikacijama dopuštate pristup datotekama u vlastitim mapama, HyperOS vam omogućuje da odlučite želite li i tim aplikacijama pristupiti datotekama generiranim u aplikacijama društvenih mreža kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_storage">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, HyperOS vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji i datotekama generiranim u aplikacijama društvenih medija kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, promjena neće biti dostupna za njih.</string>
@@ -5055,6 +5059,7 @@ Način otpornosti na hladnoću"</string>
   <string name="permission_instruction_write_settings">Ovo dopuštenje aplikacijama omogućuje izmjenu postavki sustava. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje s postavkama vašeg sustava i utjecati na uobičajenu upotrebu vašeg uređaja.</string>
   <string name="permission_legacy_storage">Pristup fotografijama, videozapisima, zvuku, datotekama</string>
   <string name="permission_oaid_desc">Želite li dopustiti %1$s da prati vaše aktivnosti na drugim aplikacijama i web stranicama?</string>
+  <string name="permission_only_opening_screen">Ograniči pristup tijekom pokretanja aplikacije</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj dopuštenja</string>
   <string name="permission_precise_location">Točna lokacija</string>
@@ -5598,7 +5603,7 @@ Način otpornosti na hladnoću"</string>
   <string name="power_wireless_update_dialog_button">Razumijem</string>
   <string name="power_wireless_update_dialog_message">Napunite uređaj najmanje do %s da biste mogli ažurirati ugrađeni softver za bežično punjenje.</string>
   <string name="power_wireless_update_dialog_title">Slaba baterija</string>
-  <string name="power_wireless_update_driver">Ažuriranja firmware-a</string>
+  <string name="power_wireless_update_driver">Ažuriranja firmvera za bežično punjenje</string>
   <string name="power_wireless_update_driver_note">"Možete provjeriti ima li ažuriranja firmvera i automatski instalirati nove verzije nakon što budu objavljene. Ne isključujte uređaj dok provjerava ažuriranja ili ih instalira."</string>
   <string name="power_wireless_update_error">"Nije moguće ažurirati. Pokušajte ponovno."</string>
   <string name="power_wireless_update_in_progress">Ažuriranje firmvera…</string>
@@ -5607,20 +5612,31 @@ Način otpornosti na hladnoću"</string>
   <string name="power_wireless_update_notification_title">Ažuriranje bežičnog punjenja</string>
   <string name="power_wireless_update_text">Sve je ažurno</string>
   <string name="power_wireless_update_tv_text">"Ažuriranje firmware-a… Ne isključujte uređaj."</string>
-  <string name="pp_agent_app_ctl_title">Dopustite \"%s\" da kontrolira sljedeće aplikacije</string>
+  <string name="pp_agent_app_ctl_manager">Upravljanje pametnim upravljanjem umjetnom inteligencijom</string>
+  <string name="pp_agent_app_ctl_manager_desc">Upravljanje aplikacijama koje %s može kontrolirati</string>
+  <string name="pp_agent_app_ctl_title">Dopusti %s da kontrolira ove aplikacije</string>
   <string name="pp_agent_request_screen_ctl_app_title">Uključite AI pametno upravljanje za %s</string>
   <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Kada je ova značajka uključena, %1s vam može pomoći u upravljanju %2s.</string>
   <string name="pp_agent_request_screen_ctl_title">Uključite AI pametno upravljanje</string>
+  <string name="pp_agent_request_screen_info_app_title">Uključi prepoznavanje zaslona umjetnom inteligencijom za %s</string>
+  <string name="pp_agent_request_screen_info_app_title_msg">Kada je ova značajka uključena, %1$s može pristupiti sadržaju zaslona iz %2$s</string>
+  <string name="pp_agent_request_screen_info_app_title_msg_setting">Uključite \"Prepoznavanje zaslona umjetnom inteligencijom\" za %s u Postavkama da biste nastavili. Uključiti sada?</string>
+  <string name="pp_agent_request_screen_info_app_title_setting">Potrebna dopuštenja</string>
+  <string name="pp_agent_request_screen_info_positive_button_setting">Uključi</string>
   <string name="pp_agent_request_screen_info_title">Uključite AI prepoznavanje zaslona</string>
   <string name="pp_agent_screen_ctl">AI pametno upravljanje</string>
-  <string name="pp_agent_screen_ctl_app_disable" formatted="false">"\"%1s\" ne može kontrolirati \"%2s\""</string>
+  <string name="pp_agent_screen_ctl_app_disable">"%2$s sada ne može kontrolirati %1$s."</string>
   <string name="pp_agent_screen_ctl_desc">Kada je ova značajka uključena, %s vam može pomoći u kontroli aplikacija na ovom uređaju.</string>
+  <string formatted="false" name="pp_agent_screen_info_app_disable">"%2s sada ne može prepoznati sadržaj zaslona %1s"</string>
   <string name="pp_agent_screen_info">Prepoznavanje zaslona pomoću umjetne inteligencije</string>
   <string name="pp_agent_screen_info_desc">"Kada je ova značajka uključena, %s može prepoznati i pristupiti onome što se prikazuje na vašem zaslonu u stvarnom vremenu."</string>
+  <string name="pp_agent_screen_info_manager">Upravljanje prepoznavanjem zaslona pomoću umjetne inteligencije</string>
+  <string name="pp_agent_screen_info_manager_desc">Upravljanje aplikacijama koje %s smije prepoznavati na zaslonu</string>
+  <string name="pp_agent_screen_info_title">Dopusti %s prepoznavanje sadržaja u ovim aplikacijama</string>
   <string name="pp_agent_screen_privacy">Prepoznavanje zaslona pomoću umjetne inteligencije i pametno upravljanje</string>
   <string name="pp_lead_down_calenadr">Instaliraj Kalendar</string>
   <string name="pp_lead_down_calenadr_desc">Događaje i podsjetnike pruža Kalendar. Instalirajte ga da biste koristili ove značajke.</string>
-  <string name="pp_more_privacy_func">Više značajki privatnosti</string>
+  <string name="pp_more_privacy_func">Dodatne značajke privatnosti</string>
   <string name="pp_anti_track_summary">"Ne dopustite praćenje vaše aktivnosti"</string>
   <string name="pp_antitrack_detail">Aplikacije mogu pratiti vašu aktivnost putem osobnih identifikatora, podataka o lokaciji i drugih vrsta osobnih podataka koji se dijele s njima. Praćenje vaše aktivnosti u različitim aplikacijama i web lokacijama omogućuje im da personaliziraju oglase i preporuče vam relevantan sadržaj.</string>
   <string name="pp_app_behavior_record_detail">Snimi sva ponašanja aplikacije</string>
@@ -5877,6 +5893,8 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
   <string name="privacy_apps_manager_dialog_message">"Ikona ove aplikacije neće se prikazati na početnom zaslonu nakon što sakrijete tu aplikaciju. Želite li sakriti tu aplikaciju?"</string>
   <string name="privacy_apps_next_stup">Dalje</string>
+  <string name="privacy_apps_password_auth_summary">Potvrdite svoj ID prije pristupanja skrivenim aplikacijama</string>
+  <string name="privacy_apps_password_auth_title">Potvrda ID-a</string>
   <string name="privacy_apps_password_auth_summary">Potvrdite svoj ID prije pristupanja skrivenim aplikacijama</string>
   <string name="privacy_apps_password_auth_title">Potvrda ID-a</string>
   <string name="privacy_apps_password_enable_summay">Zaštitite privatne datoteke Zaklj. aplikacije</string>
@@ -6244,6 +6262,7 @@ Povući suglasnost sada?"</string>
   <string name="recommended">Istaknuto</string>
   <string name="reject_all">Ograniči sve</string>
   <string name="reject_countdown">Odbij (%d)</string>
+  <string name="reject_only_opening_screen">Ograniči pristup tijekom pokretanja aplikacije za sve aplikacije</string>
   <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija putem USB-a</string>
   <string name="release_meminfo">Oslobodite %dMB</string>
   <string name="release_memory">Očisti predmemoriju</string>
@@ -6313,6 +6332,7 @@ Povući suglasnost sada?"</string>
   <string name="result_virus_header">Pronađeno %d virusa i nesigurnih aplikacija</string>
   <string name="result_wifi_header">Otkriven Wi-Fi rizk</string>
   <string name="resume">Vrati</string>
+  <string name="reverse_charge_island_title">Obrnuto punjenje</string>
   <string name="revoke_not_allow_net_summary">Dopustite Sigurnosti da se poveže s internetom kako bi mogla povući vaš pristanak na njezina Pravila privatnosti.</string>
   <string name="revoke_not_allow_net_title">Pažnja</string>
   <string name="right_precent">100%</string>

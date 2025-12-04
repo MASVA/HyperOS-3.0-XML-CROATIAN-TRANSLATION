@@ -83,7 +83,7 @@
   <string name="input_method_clipboard_move_cursor_guide2">Pomičite prst vodoravno</string>
   <string name="input_method_clipboard_participle">Odvojene riječi</string>
   <string name="input_method_clipboard_settings_button">Postavke</string>
-  <string name="input_method_clipboard_tips">Kopirani sadržaj bit će automatski izbrisan za %d sati</string>
+  <string name="input_method_clipboard_tips">Dodajte do %1$d stavki, koje će biti pohranjene %2$d sati. Svaka stavka može sadržavati do %3$d znakova.</string>
   <string name="input_method_empty_text">Kopirane stavke mogu se vidjeti i zalijepiti ovdje</string>
   <string name="input_method_edit_phrase_text">Uredite česte fraze</string>
   <string name="input_method_function_clipboard">Međuspremnik i česte fraze</string>

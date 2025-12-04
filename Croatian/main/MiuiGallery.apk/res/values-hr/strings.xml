@@ -1032,7 +1032,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="device_storage_space_low_textline_button">Start</string>
   <string name="device_storage_space_low_textline_des">"Oslobodite %s prostora za pohranu. "</string>
   <string name="device_type_pc">Računalo</string>
-  <string name="dialog_jumpto_choose">"Ne prikazuj više"</string>
+  <string name="dialog_jumpto_choose">"Ne prikazuj ponovno"</string>
   <string name="dialog_jumpto_content">Prebaciti se na Mi Video za pristup dodatnim značajkama reprodukcije?</string>
   <string name="dialog_jumpto_title">Mi Video</string>
   <string name="during_precise">Fino podešavanje je uključeno</string>
@@ -1584,8 +1584,8 @@ za fotografije"</string>
   <string name="galleryplus_v_ok">U redu</string>
   <string name="galleryplus_video_circulate_error">"Reprodukcija nije uspjela prenijeti. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="galleryplus_video_circulate_loading">Prenošenje reprodukcije…</string>
-  <string name="galleryplus_video_circulate_quit">Zaustavljanje reprodukcije videa</string>
-  <string name="galleryplus_video_edit_save_video">Generiranje videa s titlovima…</string>
+  <string name="galleryplus_video_circulate_quit">Zaustavljanje reprodukcije videozapisa</string>
+  <string name="galleryplus_video_edit_save_video">Generiranje videozapisa s titlovima…</string>
   <string name="galleryplus_vp_videoview_error_button">Razumijem</string>
   <string name="galleryplus_check_network">Postavke mreže</string>
   <string name="galleryplus_copyright_unsported_audio">"Zvuk se ne može reproducirati zbog ograničenja autorskih prava"</string>
@@ -1808,13 +1808,13 @@ za fotografije"</string>
   <string name="input_relation_name">Unesi naziv grupe</string>
   <string name="install_fail">"Ne mogu učitati dodatak zbog pogreške."</string>
   <string name="install_media_editor_download_description">Preuzimanje…</string>
-  <string name="install_media_editor_download_title">Preuzimanje dodatka za Gallery Editor…</string>
-  <string name="install_media_editor_function_message">Preuzmite najnoviju verziju Gallery Editor da biste mogli koristiti \"%1$s\".</string>
+  <string name="install_media_editor_download_title">Preuzimanje dodatka za Urednika galerije…</string>
+  <string name="install_media_editor_function_message">Preuzmite najnoviju verziju Urednika galerije da biste mogli koristiti \"%1$s\".</string>
   <string name="install_media_editor_latest_message">Da biste mogli uređivati stavke, prvo preuzmite najnoviji dodatak.</string>
   <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
   <string name="install_media_editor_title">Preuzmi dodatak</string>
   <string name="internal_storage_device">Unutarnja pohrana</string>
-  <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
+  <string name="invalid_invition_url">Neispravan poveznica pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
   <string name="invite_sharer_confirm_button_text">Pozovite</string>
   <string name="invite_sharer_relation_tip">"%1$s rođak"</string>
@@ -2317,7 +2317,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="new_relation_invalid_name">“%s” grupa već postoji, preimenujte ovu grupu.</string>
   <string name="new_relation_invalid_prefix">"Naziv grupe ne može počinjati sa “.” ili “_”"</string>
   <string name="new_type_existed">Ovaj tip već postoji</string>
-  <string name="new_type_invalid_byte">Uneseni naziv tipa je predug</string>
+  <string name="new_type_invalid_byte">Uneseni naziv tipa je predugačak</string>
   <string name="new_type_invalid_char">"Nazivi ne smiju sadržavati \"%s\". Koristite slova, brojeve ili kineske znakove."</string>
   <string name="new_type_invalid_prefix">"Nazivi tipova ne smiju počinjati s \".\" ili \"_\""</string>
   <string name="new_type_over_num">Dosegnut je maksimalan broj novih tipova (%d)</string>
@@ -4500,7 +4500,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="video_compress_not_with_format">"Sažimanje videozapisa nije podržana za ovaj format"</string>
   <string name="video_compress_not_with_low_quality">Trenutna rezolucija je najniža</string>
   <string name="video_compress_save_stop_tips">Dodirnite ponovo da zaustavite sažimanje</string>
-  <string name="video_compress_size">≈%s nakon sažimanja</string>
+  <string name="video_compress_size">(≈%s nakon sažimanja)</string>
   <string name="video_edit_file_not_exits_tip">Preuzmite prvo videozapis</string>
   <string name="video_editor_component_delete_btn_content_description">Ukloni segment %d</string>
   <string name="video_editor_component_next_step">Sljedeći %1$d/%2$d</string>

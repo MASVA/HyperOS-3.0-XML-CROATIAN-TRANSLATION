@@ -413,7 +413,7 @@
   <string name="garbage_clean_detail">Detalji</string>
   <string name="garbage_month">Očišćeno %s ovaj mjesec</string>
   <string name="gigabyteShort">GB</string>
-  <string name="global_summary_wa_setting">Primajte obavijesti kada smeće u WhatsAppu premaši odabranu veličinu</string>
+  <string name="global_summary_wa_setting">Primi obavijest kada smeće u WhatsAppu premaši odabranu veličinu</string>
   <string name="global_wa_audio">Audio</string>
   <string name="global_wa_audio_item_title">Glasovne poruke</string>
   <string name="global_wa_backend_alert_dialog_content">Oslobodite prostor brisanjem WhatsApp stavki</string>
@@ -816,7 +816,7 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="pref_content_cleanup_white_list_none">Ništa</string>
   <string name="pref_summary_auto_clean_and_alert">Zakažite automatsko pokretanje Čistača</string>
   <string name="pref_summary_auto_update_cleanup_db">Zadnje ažuriranje %s</string>
-  <string name="pref_summary_clean_settings">Primajte obavijesti kada smeće prijeđe odabranu veličinu</string>
+  <string name="pref_summary_clean_settings">Primi obavijest kada smeće prijeđe odabranu veličinu</string>
   <string name="pref_summary_cleanup_white_list">Spriječi čišćenje odabranih datoteka</string>
   <string name="pref_summary_expand_cache_group">Prikaži pojedinosti predmemorije automatski</string>
   <string name="pref_summary_garbage_auto_clean_content">Odaberite stavke koje se čiste automatski</string>
