@@ -871,8 +871,8 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="collect_diagnosis_log">Prikupljanje zapisa</string>
   <string name="confirm">U redu</string>
   <string name="confirm_activate_email">Potvrđeno</string>
-  <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
-  <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
+  <string name="confirm_cancel_task_files">Otkazati slanje datoteka?</string>
+  <string name="confirm_cancel_task_images">Otkazati slanje slika?</string>
   <string name="confirm_delete_selected_albums">Izbrisati odabrane albume?</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je Wi-Fi dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>

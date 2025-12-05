@@ -5625,7 +5625,7 @@ Način otpornosti na hladnoću"</string>
   <string name="pp_agent_request_screen_info_positive_button_setting">Uključi</string>
   <string name="pp_agent_request_screen_info_title">Uključite AI prepoznavanje zaslona</string>
   <string name="pp_agent_screen_ctl">AI pametno upravljanje</string>
-  <string name="pp_agent_screen_ctl_app_disable">"%2$s sada ne može kontrolirati %1$s."</string>
+  <string name="pp_agent_screen_ctl_app_disable">"%1$s sada ne može kontrolirati %2$s."</string>
   <string name="pp_agent_screen_ctl_desc">Kada je ova značajka uključena, %s vam može pomoći u kontroli aplikacija na ovom uređaju.</string>
   <string formatted="false" name="pp_agent_screen_info_app_disable">"%2s sada ne može prepoznati sadržaj zaslona %1s"</string>
   <string name="pp_agent_screen_info">Prepoznavanje zaslona pomoću umjetne inteligencije</string>
@@ -5893,8 +5893,6 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
   <string name="privacy_apps_manager_dialog_message">"Ikona ove aplikacije neće se prikazati na početnom zaslonu nakon što sakrijete tu aplikaciju. Želite li sakriti tu aplikaciju?"</string>
   <string name="privacy_apps_next_stup">Dalje</string>
-  <string name="privacy_apps_password_auth_summary">Potvrdite svoj ID prije pristupanja skrivenim aplikacijama</string>
-  <string name="privacy_apps_password_auth_title">Potvrda ID-a</string>
   <string name="privacy_apps_password_auth_summary">Potvrdite svoj ID prije pristupanja skrivenim aplikacijama</string>
   <string name="privacy_apps_password_auth_title">Potvrda ID-a</string>
   <string name="privacy_apps_password_enable_summay">Zaštitite privatne datoteke Zaklj. aplikacije</string>
