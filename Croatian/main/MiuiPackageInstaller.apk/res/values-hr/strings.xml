@@ -653,6 +653,9 @@
   <string name="open_safe_mode_enhance">Uključi</string> 
   <string name="open_safe_mode_enhance_old">Uključi</string> 
   <string name="open_safe_mode_normal">Uključi</string>
+  <string name="osmd_dialog_message">Radi poboljšanja sigurnosti prilikom instaliranja aplikacija, Mi Protect je uključen prema zadanim postavkama. Za jaču zaštitu možete prijeći na Poboljšanu zaštitu. (kliknite)Saznajte više(/kliknite)</string>
+  <string name="osmd_dialog_message_in_ios">Radi poboljšanja sigurnosti prilikom instaliranja aplikacija, Mi Protect - Osnovni način rada uključen je prema zadanim postavkama. Za jaču zaštitu možete prijeći na Poboljšanu zaštitu. (kliknite)Saznajte više(/kliknite)</string>
+  <string name="osmd_dialog_title">Zaštita nadograđena</string>
   <string name="out_of_space_dlg_text">"%1$s se ne može instalirati. Oslobodite malo prostora i pokušajte ponovno."</string>
   <string name="out_of_space_dlg_title">Nedovoljno prostora</string>
   <string name="open_to_pure_mode">Uključi</string>

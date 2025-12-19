@@ -888,6 +888,10 @@
   <string name="settings_pad_handoff_title">Automatski poveži</string>
   <string name="settings_page">Home screen+</string>
   <string name="settings_page_default_seat">Položaj zaslona telefona</string>
+  <string name="share_file_transfer_finish_cancel">Odustani</string>
+  <string name="share_file_transfer_finish_message">Prenesene datoteke možete pregledati u Datoteke > Xiaomi Share.</string>
+  <string name="share_file_transfer_finish_open_dir">Prikaži</string>
+  <string name="share_file_transfer_finish_title">Uspješno preneseno</string>
   <string name="settings_pc">Računalo</string>
   <string name="settings_pc_handoff_title">Poveži se s računalom</string>
   <string name="settings_pc_history_title">Povijest povezivanja</string>

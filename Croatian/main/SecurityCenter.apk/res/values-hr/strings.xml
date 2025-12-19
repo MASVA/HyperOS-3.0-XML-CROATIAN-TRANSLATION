@@ -3673,6 +3673,10 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="lock_all_title">Zaključaj sve aplikacije</string>
   <string name="lock_app_input_invalid_car">"Neki simboli nisu podržani"</string>
   <string name="lock_mode_title">Postavke zaključavanja</string>
+  <string name="lock_screen_face_password_type_tips">Zaporku možete promijeniti u odjeljku Podaci o licu i zaključavanje zaslona</string>
+  <string name="lock_screen_finger_password_type_tips">Zaporku možete promijeniti u odjeljku Otisci prstiju i zaključavanje zaslona</string>
+  <string name="lock_screen_hongbao_message">Od %1$s</string>
+  <string name="lock_screen_password_only_type_tips">Zaporku možete promijeniti u Zaključanom zaslonu</string>
   <string name="lock_screen_password_type">Zaključavanje zaslona</string>
   <string name="lock_screen_password_type_tips">Zaključavanje zaslona možete promijeniti u odjeljku Otisci prstiju, podaci o licu i zaključavanje zaslona.</string>
   <string name="lock_screen_traffic_guide_notification_summary">Iskorišteno %s kod Zaklj. zaslona</string>
@@ -6189,8 +6193,11 @@ Povući suglasnost sada?"</string>
   <string name="privacy_using_record">Snimanje zvuka</string>
   <string name="privacyapp_number_masked_text">Sadržaj obavijesti je skriven</string>
   <string name="privacyapp_number_unmasked_text">Sadržaj obavijesti nije skriven</string>
+  <string name="private_face_password_type_tips">Zaporku možete promijeniti u odjeljku Podaci o licu i zaključavanje zaslona > Zaporka za zaštitu privatnosti</string>
   <string name="private_file">Privatne datoteke</string>
+  <string name="private_finger_password_type_tips">Zaporku možete promijeniti u Otisci prstiju i zaključavanje zaslona > Zaporka za zaštitu privatnosti</string>
   <string name="private_note">Skrivene bilješke</string>
+  <string name="private_password_only_type_tips">Zaporku možete promijeniti u Zaključavanje zaslona > Zaporka za zaštitu privatnosti</string>
   <string name="private_photo">Privatni album</string>
   <string name="private_sms">Privatne poruke</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
