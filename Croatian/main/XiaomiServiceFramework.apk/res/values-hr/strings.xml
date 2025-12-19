@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="accept">U redu</string>
 	<string name="app_name">Xiaomi service framework</string>
 	<string name="accept">Prihvaćam</string>
-	<string name="app_name">Okvir usluge Xiaomi</string>
 	<string name="call_notification_answer_action">Odgovori</string>
 	<string name="call_notification_answer_video_action">Video</string>
 	<string name="call_notification_decline_action">Odbij</string>
@@ -23,7 +21,6 @@
 	<string name="pop_up_deny_notify_dialog">Odbij</string>
 	<string name="privacy_change_dialog_agree">Prihvaćam</string>
 	<string name="privacy_change_dialog_back">Natrag</string>
-	<string name="privacy_change_dialog_title">Prilagodba opsega uvjeta i odredbi</string>
 	<string name="privacy_change_dialog_title">Prilagodba opsega uvjeta i odredbi</string>
 	<string name="privacy_change_notification">"VAŽNO: Prilagodili smo opseg naših uvjeta i odredbi"</string>
 	<string name="sync_notification_title_format">Trenutna sinkronizacija stavke: %1$s</string>
