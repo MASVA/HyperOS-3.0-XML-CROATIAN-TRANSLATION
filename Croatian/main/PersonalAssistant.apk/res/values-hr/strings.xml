@@ -304,7 +304,7 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_comm_to_setting">Postavke</string>
   <string name="pa_comm_voice_error_privacy_update_toast">"Pravila o privatnosti tvrtke Mi AI ažurirana su. Prihvatite nova Pravila o privatnosti i pokušajte ponovno."</string>
   <string name="pa_covid_card_title">COVID-19</string>
-  <string name="pa_cta_dialog_all_purpose">Dobro došli u Zaklj. aplikacija! Ova je aplikacija mjesto na jednom mjestu za posao, način života i usluge vezane uz putovanja.</string>
+  <string name="pa_cta_dialog_all_purpose">Pomoću Zaklj. aplikacija možete pristupiti raznim uslugama za posao, život, putovanja, dionice i još mnogo toga.</string>
   <string name="pa_cta_dialog_desc_location">Za davanje prijedloga za putovanje na posao</string>
   <string name="pa_cta_dialog_desc_phone_state">Za prepoznavanje vašeg uređaja na temelju IMEI-ja</string>
   <string name="pa_cta_dialog_desc_storage">Za predmemoriju stavki</string>
@@ -965,6 +965,10 @@ Dodajte widgete za početak."</string>
   <string name="pa_stock_change_cp_code_progress_msg">Sinkronizacija podataka…</string>
   <string name="pa_stock_color_scheme_label">Shema boja</string>
   <string name="pa_stock_data_source_label">Odaberi izvor podataka</string>
+  <string name="pa_stock_delete_dialog_message">"Ako izbrišete ovu dionicu, ona će biti trajno uklonjena iz svih widgeta za dionice, stražnjeg zaslona i svih ostalih mjesta gdje je prikazana. Izbrisati sada?"</string>
+  <string name="pa_stock_delete_dialog_negative">Odustani</string>
+  <string name="pa_stock_delete_dialog_positive">Izbriši</string>
+  <string name="pa_stock_delete_dialog_title">Izbrisati \"%s\"?</string>
   <string name="pa_stock_delisted">(Uklonjeno)</string>
   <string name="pa_stock_desc_add_stock">Dodaj %1$s</string>
   <string name="pa_stock_desc_add_success">Uspješno dodano</string>
@@ -985,6 +989,9 @@ Dodajte widgete za početak."</string>
   <string name="pa_stock_network_unavailable">"Ne mogu se povezati s mrežom"</string>
   <string name="pa_stock_not_found_related_items">"Ne mogu pronaći rezultate"</string>
   <string name="pa_stock_nsdk">Nasdaq</string>
+  <string name="pa_stock_rear_screen_display">Prikaži na stražnjem zaslonu</string>
+  <string name="pa_stock_rear_screen_display_instructions">Prikaži odabrane dionice koje pratite na stražnjem zaslonu</string>
+  <string name="pa_stock_rear_screen_displays">Dionice za stražnji zaslon (odaberite do %d)</string>
   <string name="pa_stock_red_grow">Crveno - gore, zeleno - dolje</string>
   <string name="pa_stock_search_failure">"Ne mogu pronaći rezultate"</string>
   <string name="pa_stock_search_input_hint">Unesite naziv dionice ili kod</string>
@@ -1350,6 +1357,9 @@ Dodajte widgete za početak."</string>
   <string name="pa_travel_train_check_point">Izlaz</string>
   <string name="pa_travel_train_empty_check_point">Nema informacija o izlazu</string>
   <string name="pa_travel_train_seat_number">Sjedalo</string>
+  <string name="pa_travel_train_ticket_change">Preraspoređeno</string>
+  <string name="pa_travel_train_ticket_purchase">Kupljeno</string>
+  <string name="pa_travel_train_ticket_waitlist">Kupljeno</string>
   <string name="pa_travel_train_tip_cancel">Vlak je otkazan. Napravite novi plan putovanja.</string>
   <string name="pa_travel_train_unauthorized_ai_tip">Dopusti pristup lokaciji za dobivanje pravovremenih ažuriranja</string>
   <string name="pa_travel_train_unauthorized_tip">Uparite račun usluge da biste pravodobno ažurirali status vlaka</string>

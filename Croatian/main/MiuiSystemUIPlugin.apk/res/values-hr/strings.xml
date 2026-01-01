@@ -225,8 +225,7 @@
   <string name="miplay_accessibility_video_fastForward">Premotaj %d sekundi unaprijed</string>
   <string name="miplay_accessibility_video_rewind">Premotaj %d sekundi unatrag</string>
   <string name="miplay_accessibility_volume">Glasnoća</string>
-  <string name="miplay_bluetooth_share_des_text">"Korisnici slušalica Xiaomi: otvorite kućište za punjenje ili pritisnite i držite tipku kućišta %ds
-Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth postavkama, a zatim se povežite"</string>
+  <string name="miplay_bluetooth_share_des_text">Možete slušati medije zajedno s ovim slušalicama. Za Xiaomi slušalice otvorite kutijicu ili pritisnite i držite tipku na njoj %d sekundi. Za ostale slušalice, resetirajte ih u Postavke > Bluetooth, a zatim ponovno povežite.</string>
   <string name="miplay_bluetooth_share_headphone_pairing">Dodajte slušalice za dijeljenje zvuka</string>
   <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Dijeljenje zvuka je završeno</string>
   <string name="miplay_bluetooth_share_music_together_btn_content_des">Dodajte slušalice za dijeljenje zvuka</string>

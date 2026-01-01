@@ -405,7 +405,7 @@ Pokušajte ponovno."</string>
   <string name="beidou_satellite_enable_message">Pošaljite KTBD na 10086 ili uključite ovu značajku u aplikaciji China Mobile.</string>
   <string name="beidou_satellite_enable_message_all">Za aktivaciju usluge obratite se svom operateru.</string>
   <string name="beidou_satellite_enable_title">Kako uključiti Beidou satelitsku komunikaciju?</string>
-  <string name="beidou_satellite_environment_requirement_message">Satelitsku komunikaciju najbolje je koristiti u područjima bez mrežne pokrivenosti. Kako biste izbjegli ometanje signala, uklonite sve metalne futrole s uređaja i držite vrh uređaja najmanje 5 cm od tijela ili drugih predmeta tijekom upotrebe.</string>
+  <string name="beidou_satellite_environment_requirement_message">Satelitska komunikacija je prikladna za područja bez zemaljskog signala i preporučujemo je korištenje samo kada nema dostupne mreže. Kako biste izbjegli ometanje signala, prije upotrebe treba ukloniti futrole koje sadrže metal. Tijekom upotrebe držite vrh uređaja najmanje %1$d mm od tijela i okolnih predmeta, a cijeli uređaj najmanje %2$d mm od tijela.</string>
   <string name="beidou_satellite_environment_requirement_title">Koji su zahtjevi zaštite okoliša za korištenje ove značajke?</string>
   <string name="beidou_satellite_feature_introduction">Često postavljana pitanja</string>
   <string name="beidou_satellite_impact_phone_message">"Kada je satelitska komunikacija uključena, Wi-Fi, mobilni podaci i način rada u zrakoplovu bit će isključeni i neće biti dostupni. Dok je ova značajka uključena, GPS usluge koriste se samo za slanje poruka. Slanje poruka putem satelita zahtijeva više energije od konvencionalnog slanja poruka, pa će vaš uređaj trošiti energiju brže nego inače."</string>
@@ -419,7 +419,7 @@ Pokušajte ponovno."</string>
   <string name="beidou_send_success">Uspješno poslano. Primljena potvrda.</string>
   <string name="beidou_send_use_title">Zašto koristiti satelitsku komunikaciju?</string>
   <string name="beidou_send_wait_ack">Uspješno poslano. Još nije primljena potvrda.</string>
-  <string name="beidou_sms_location_fail_toast">Dopustite ovoj značajki da prvo pristupi vašoj lokaciji</string>
+  <string name="beidou_sms_location_fail_toast">Dopustite pristup lokaciji i SMS-u kako biste mogli koristiti satelitsku komunikaciju</string>
   <string name="beidou_state_connecting">Povezivanje sa satelitom…</string>
   <string name="beidou_state_registered">Registriran</string>
   <string name="beidou_state_unregistered">Neregistriran</string>
@@ -3058,7 +3058,7 @@ UT sučelje: %5$s"</string>
   <string name="satellite_enhanced_paging_notification">Poboljšana upozorenja o pagingu</string>
   <string name="satellite_enhanced_paging_notification_message">Usmjerite uređaj prema satelitu za prikaz</string>
   <string name="satellite_enhanced_paging_notification_title">Primili ste novi poziv ili poruku</string>
-  <string name="satellite_environment_requirement_message">"Satelitska komunikacija prikladna je za područja bez zemaljskog signala i preporučujemo da je koristite samo kada nema dostupne mreže. Kako biste izbjegli smetnje signala, kutije koje sadrže metal treba ukloniti prije uporabe. Držite udaljenost od više od %1$dmm između vrha uređaja i vašeg tijela ili drugih prepreka tijekom upotrebe Ova značajka postat će nedostupna kada je baterija uređaja niža od %2$s i nećete je moći koristiti za upućivanje poziva. ako je temperatura uređaja previsoka."</string>
+  <string name="satellite_environment_requirement_message">"Satelitska komunikacija prikladna je za područja bez zemaljskog signala i preporučujemo je korištenje samo kada nema dostupne mreže. Kako biste izbjegli ometanje signala, prije upotrebe treba ukloniti futrole koje sadrže metal. Tijekom upotrebe držite vrh uređaja najmanje %1$d mm od tijela i okolnih predmeta, a cijeli uređaj najmanje %2$d mm od tijela. Ova značajka neće biti dostupna kada je baterija uređaja niža od %3$s i nećete ga moći koristiti za upućivanje poziva ako je temperatura uređaja previsoka."</string>
   <string name="satellite_environment_requirement_title">Koji su ekološki zahtjevi za korištenje ove značajke?</string>
   <string name="satellite_exit">Izlaz</string>
   <string name="satellite_exit_dialog_message">Satelitska komunikacija je isključena. Ponovno ih pokrenite da biste ih mogli koristiti.</string>

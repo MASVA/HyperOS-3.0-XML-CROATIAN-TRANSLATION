@@ -716,6 +716,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="change_baby_album_dialog_title">Promjeni fotografiju profila</string>
   <string name="change_baby_album_name">Promjeni fotografiju profila</string>
   <string name="change_baby_album_take_photos">Fotoaparat</string>
+  <string name="change_cover">Promijeni naslovnicu</string>
   <string name="change_duplicate_name">Ovo ime je već zauzeto</string>
   <string name="change_duplicate_name_in_ignore">Ovo ime je već zauzeto stavkom koju ste odlučili ignorirati</string>
   <string name="change_password">Promijeni zaporku</string>
@@ -1114,6 +1115,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="editor_gallery_title">Uredi naziv albuma</string>
   <string name="editor_talkback_redo">Vrati</string>
   <string name="editor_talkback_undo">Poništi</string>
+  <string name="editorial_name">Preimenuj</string>
   <string name="editphoto_datetime_needdownload_origin_subtitle">Preuzmite originalnu datoteku iz Xiaomi Clouda kako biste mogli promijeniti vrijeme.</string>
   <string name="editphoto_datetime_needdownload_origin_title">Preuzmi original</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
@@ -1216,6 +1218,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu mrežnu vezu i pokušajte ponovno."</string>
   <string name="error_unknown_msg">Dogodila se pogreška. Pošaljite nam povratne informacije.</string>
   <string name="error_unknown_tip">Dogodila se pogreška.</string>
+  <string name="essential_enter">Leica essential</string>
   <string name="exceed_binded_phone_times_notice">Ovaj telefonski broj već je povezan s drugim Xiaomi računom.</string>
   <string name="exif_tag_smart_fusion">Smart Fusion</string>
   <string name="exif_title_smart_fusion">Poboljšanje slike:</string>
@@ -1775,6 +1778,7 @@ za fotografije"</string>
   <string name="id_photo_module_loading">Preuzimanje \"ID\" dodatka…</string>
   <string name="ignore_album">"Ne prikazuj"</string>
   <string name="ignore_alert_dialog_title">Zanemariti ovu osobu?</string>
+  <string name="ignore_alert_tip_content">Zanemarene stavke možete vratiti u Više > Prikaz zanemarenih stavki</string>
   <string name="ignore_alert_title">"Ne prikazivati ovaj album? Dodirnite gore desno za prikaz ignoriranih fotografija."</string>
   <string name="ignore_face">Zanemari ovu osobu</string>
   <string name="ignore_faces_title">Ignorirano</string>
@@ -2069,6 +2073,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="merge_album_title">Spoji sa osobom</string>
   <string name="merge_pet_album_button_title">Grupni ljubimci</string>
   <string name="merge_pet_album_title">Spoji ljubimca</string>
+  <string name="merge_pet_people_album_button_title">Spoji</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
   <string name="mi_share_turbo_mode">Turbo prijenos</string>
@@ -3056,6 +3061,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="relation_text_mother">Mama</string>
   <string name="relation_with_you">Odaberite odnos</string>
   <string name="remind_face_recommend_confirm">Potvrdi</string>
+  <string name="remove_from_album_content">Uklonjene stavke više se neće prikazivati ​​u ovom albumu.</string>
   <string name="remove_from_album_message">Ova fotografija više neće biti ovdje prikazana</string>
   <string name="remove_from_album_title">Ukloni iz ovog albuma</string>
   <string name="remove_from_current_album">Ukloni iz ovog albuma</string>

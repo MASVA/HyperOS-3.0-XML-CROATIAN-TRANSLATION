@@ -113,7 +113,6 @@
   <string name="cant_generate_summary_by_network_error1">"Došlo je do mrežne pogreške."</string>
   <string name="cant_generate_summary_by_network_error2">Pokušajte ponovo</string>
   <string name="cant_generate_summary_by_sensitive_content">"Nije moguće sažeti osjetljivi sadržaj"</string>
-  <string name="cant_generate_summary_by_unkonw_error">Došlo je do nepoznate pogreške</string>
   <string name="cant_generate_summary_by_word_limit">"Premalo ili previše znakova. Ne mogu stvoriti sažetak."</string>
   <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -655,6 +654,9 @@
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>
   <string name="pause_status_focus_notification">Pauzirano</string>
+  <string name="pdf_file_fail">"Nije moguće učitavanje. Pokušajte ponovno."</string>
+  <string name="pdf_file_too_big">Datoteka je prevelika za korištenje ove značajke</string>
+  <string name="pdf_note_display_name">Transkript_%1$s</string>
   <string name="permission_bluetooth">Pristup statusu Bluetooth veze</string>
   <string name="permission_bluetooth_dialog_description">Dopustite ovom uređaju da se poveže s uređajima u blizini kako bi mogao mijenjati uređaje prilikom reprodukcije snimaka.</string>
   <string name="permission_bluetooth_title">Potrebna dopuštenja</string>

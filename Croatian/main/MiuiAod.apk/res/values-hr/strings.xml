@@ -530,6 +530,7 @@ dd.MM."</string>
   <string name="kg_talkback_select_all">Odaberi sve</string>
   <string name="kg_talkback_selected">Odabrano</string>
   <string name="kg_talkback_unselect_all">Poništi odabir</string>
+  <string name="kg_template_description_car">Gdje se tehnologija susreće s ljepotom: uhvatite brzinu budućnosti sa svakim otključavanjem.</string>
   <string name="kg_template_title_desktop">Početni zaslon</string>
   <string name="kg_template_title_graffiti_lock">Zaključani zaslon s crtežima</string>
   <string name="kg_template_title_lock_screen">Zaključani zaslon</string>
@@ -555,6 +556,7 @@ dd.MM."</string>
   <string name="kg_template_preview_content_description">Pregled zaključanog zaslona</string>
   <string name="kg_template_title_Ultra_longtime_a_talkback">Veliki sat A</string>
   <string name="kg_template_title_Ultra_longtime_b_talkback">Veliki sat B</string>
+  <string name="kg_template_title_car">Xiaomi EV</string>
   <string name="kg_template_title_classic">Klasično</string>
   <string name="kg_template_title_classic_max_talkback">Klasični zaključani zaslon MAX</string>
   <string name="kg_template_title_classic_phone">Prizor</string>

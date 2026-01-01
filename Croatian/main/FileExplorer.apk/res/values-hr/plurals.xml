@@ -232,6 +232,14 @@
         <item quantity="other">%1$d sek</item>
         <item quantity="one">%1$d sek</item>
     </plurals>
+	<plurals name="pick_max_count">
+        <item quantity="one">"Ne možete odabrati više od %1$s stavke"</item>
+        <item quantity="other">"Ne možete odabrati više od %1$s stavki"</item>
+    </plurals>
+    <plurals name="preview_pick_count">
+        <item quantity="one">Pregled (%1$s/%2$s)</item>
+        <item quantity="other">Pregled (%1$s/%2$s)</item>
+    </plurals>
 	 <plurals name="privacy_revoke_numbers_talkback">
         <item quantity="one">Povuci (%d)</item>
         <item quantity="other">Povuci (%d)</item>

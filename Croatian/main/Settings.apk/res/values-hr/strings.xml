@@ -4435,7 +4435,7 @@
   <string name="desc_regional_pref_footer_learn_more">Saznajte više o postavkama jezika.</string>
   <string name="desc_system_locale_addition">Time aplikacije i web-lokacije obavještavate da preferirate taj jezik.</string>
   <string name="desc_unavailable_locale">Taj se jezik ne može upotrebljavati kao jezik sustava, no postavili ste ga kao preferirani jezik za aplikacije i web-lokacije.</string>
-  <string name="description_about_satellite_setting">Možete slati i primati tekstualne poruke i koristiti neke aplikacije putem satelita s odgovarajućim %1$s računom</string>
+  <string name="description_about_satellite_setting">Možete slati i primati tekstualne poruke putem satelita s odgovarajućim %1$s računom</string>
   <string name="description_satellite_dialog_for_sim_restriction">Prekinite satelitsku vezu prije dodavanja SIM kartice</string>
   <string name="description_satellite_setting_connectivity">satelitska veza</string>
   <string name="description_satellite_setting_messaging">satelit poruke</string>
@@ -5467,12 +5467,12 @@
   <string name="eyes_protect_certification_summary_2">Certificirano za nisku razinu plavog svjetla (hardversko rješenje), cirkadijalno prilagođeno i bez treperenja</string>
   <string name="eyes_protect_certification_summary_3">Tehnologija kružne polarizacije omogućuje ravnomjerno raspršivanje svjetlosti, pružajući prirodniji vizualni doživljaj</string>
   <string name="eyes_protect_certification_summary_4">Tehnologija DC zatamnjenja punog sjaja smanjuje stres optičkog živca uklanjanjem treperenja pri prelasku između svijetlih i tamnih scena</string>
+  <string name="eyes_protect_certification_summary_5">"Xiaomijeva prilagođena SVM kompenzacija održava SVM ispod 1 pri bilo kojoj svjetlini za ugodnije iskustvo gledanja"</string>
   <string name="eyes_protect_certification_title_1">Kineski centar za certifikaciju kvalitete</string>
   <string name="eyes_protect_certification_title_2">Trostruki TÜV Rheinland certifikat za udobnost očiju</string>
   <string name="eyes_protect_certification_title_3">Prirodnija kružna polarizacija</string>
-  <string name="eyes_protect_certification_title_4">DC zatamnjenje bez treperenja</string>
-  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+  <string name="eyes_protect_certification_title_4">DC zatamnjivanje bez treperenja</string>
+  <string name="eyes_protect_certification_title_5">3840 Hz PWM zatamnjivanje</string>
   <string name="face_add_max">Ne možete dodati više od %d lica</string>
   <string name="face_confirmation_hide_illustration_description">Sad svojim licem možete otključati telefon kada ga podignete ili dodirnete zaslon.</string>
   <string name="face_confirmation_info_enough_light">Otključavanje licem najbolje funkcionira kada ima dovoljno svjetla i kada ne nosite masku ili tamne naočale.</string>
@@ -6218,6 +6218,8 @@
   <string name="global_locale_change_title">Promjena jezika</string>
   <string name="global_stylus_summary">"Pretvorite Pisanje rukom u tekst u bilo kojem području gdje je podržan"</string>
   <string name="global_stylus_title">Pisanje rukom</string>
+  <string name="glove_mode">Način rada s rukavicama</string>
+  <string name="glove_mode_summary">"Uključite kako bi zaslon bolje reagirao kada nosite rukavice. Ova značajka ne radi s igrama."</string>
   <string name="gmscore_settings_title">Osnovne Google usluge</string>
   <string name="go_back_button_label">Natrag</string>
   <string name="go_to_identity_check">Idi na provjeru identiteta</string>
@@ -7600,6 +7602,7 @@
   <string name="lock_screen_notifs_show_none">Ne prikazuj obavijesti</string>
   <string name="lock_screen_notifs_title">Obavijesti na zaključanom zaslonu</string>
   <string name="lock_screen_now">Zaklj. zaslon</string>
+  <string name="lock_screen_password">Zaključavanje zaslona</string>
   <string name="lock_screen_password_skip_biometrics_message">"Za postavljanje otključavanja licem ili otključavanja otiskom prsta potrebna je zaporka.
 
   Zaporka štiti telefon u slučaju gubitka ili krađe."</string>
@@ -9480,6 +9483,7 @@
   <string name="new_fingerprint_to_new_face_dialog_msg">Da biste mogli koristiti otključavanje licem, prvo dodajte podatke o licu. Dodati sada?</string>
   <string name="new_fingerprint_to_new_face_dialog_tittle">Dodajte podatke o licu</string>
   <string name="new_instruction_privacy_password">Zaporka za zaštitu privatnosti štiti sljedeće značajke</string>
+  <string name="new_instruction_privacy_password_type">Vrste zaporke za privatnost</string>
   <string name="new_modify_privacy_password">Promijeni zaporku za zaštitu privatnosti</string>
   <string name="new_password_to_new_fingerprint_dialog_msg">Dodajte svoj otiska prsta da biste otključali vaš uređaj s njime.</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">Odustani</string>
@@ -16597,8 +16601,8 @@
   <string name="wifi_wakeup_negative_button">Odustani</string>
   <string name="wifi_wakeup_positive_button">Uključi</string>
   <string name="wifi_wakeup_scan_summary">Omogućite aplikacijama i uslugama da pretražuju Wi-Fi mreže kako bi mogle automatski uključiti Wi-Fi. Uključivanjem ove značajke omogućit će se vašem uređaju da se automatski poveže sa spremljenim mrežama u blizini.</string>
-  <string name="wifi_wakeup_summary">Wi-Fi će se automatski ponovo uključiti u blizini spremljenih mreža visoke kvalitete, poput vaše kućne mreže</string>
-  <string name="wifi_wakeup_summary_no_location">Nije dostupno jer je lokacija isključena. Uključite &lt;annotation id="link"&gt;lokaciju&lt;/annotation&gt;.</string>
+  <string name="wifi_wakeup_summary">Wi-Fi će se automatski aktivirati kada se nalazite na lokaciji spremljene Wi-Fi mreže</string>
+  <string name="wifi_wakeup_summary_no_location">Nije dostupno jer je lokacija isključena. Uključite <annotation id="link">lokaciju</annotation>.</string>
   <string name="wifi_wakeup_summary_scanning_disabled">Nije dostupno jer je pretraživanje Wi-Fi signala isključeno</string>
   <string name="wifi_wakeup_summary_scoring_disabled">Za korištenje odaberite ocjenjivača mreže</string>
   <string name="wifi_wakeup_title">Uključite dodatne značajke</string>

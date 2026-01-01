@@ -1204,7 +1204,7 @@ Isključite tipkom za napajanje."</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
   <string name="forced_resizable_secondary_display">Aplikacija možda neće funkcionirati na sekundarnom zaslonu.</string>
   <string name="forget_password_string">Zaboravljena zaporka</string>
-  <string name="forget_password_string_for_esim">&lt;u&gt;Zaboravljen PUK kod&lt;/u&gt;</string>
+  <string name="forget_password_string_for_esim"><u>Zaboravljen PUK kod</u></string>
   <string name="format_day_desc">Dan u mjesecu: %s</string>
   <string name="format_day_week_desc">Dan u mjesecu: %1$s, %2$s</string>
   <string name="format_full_day_of_week">EEEE</string>
@@ -1818,6 +1818,7 @@ dd.MM."</string>
   <string name="lockscreen_charging_msg">Punjenje</string>
   <string name="lockscreen_clock_id_fallback">ZADANO</string>
   <string name="lockscreen_none">Ništa</string>
+  <string name="lockscreen_reverse_charging_msg">Obrnuto punjenje</string>
   <string name="lockscreen_shortcut_left">Lijevi prečac</string>
   <string name="lockscreen_shortcut_right">Desni prečac</string>
   <string name="lockscreen_unlock_left">Lijevi prečac također otključava</string>
