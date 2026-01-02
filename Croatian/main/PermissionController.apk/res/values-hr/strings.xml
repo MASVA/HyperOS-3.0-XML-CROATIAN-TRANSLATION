@@ -407,8 +407,6 @@
 	<string name="friday_short">Petak</string>
 	<string name="friday_shortest">Pet</string>
 	<string name="go_to_settings">Idi u Postavke</string>
-	<string name="grant_dialog_button_allow">Dopusti</string>
-	<string name="grant_dialog_button_allow_all">Dopusti sve</string>
 	<string name="grant_dialog_button_allow_all_files">Dopusti upravljanje svim datotekama</string>
    <string name="grant_dialog_button_allow">Dopusti</string>
    <string name="grant_dialog_button_allow_all">Dopusti za sve stavke</string>
@@ -836,9 +834,6 @@
 	<string name="permgrouprequestdetail_camera">Aplikacija će biti samo moći snimati slike i videozapise dok koristite aplikaciju</string>
 	<string name="permgrouprequestdetail_location">Aplikacija će imati pristup lokaciji samo dok je koristite</string>
 	<string name="permgrouprequestdetail_microphone">Aplikacija će moći snimati zvuk samo dok je koristite</string>
-	<string name="permgrouprequestdetail_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b>?</string>
-	<string name="permgrouprequest_device_aware_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
-	<string name="permgrouprequest_device_aware_location">Promijeniti pristup lokaciji za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
 	<string name="permgroupgraderequest_device_aware_microphone">Promijeniti pristup mikrofonu za <b>%1$s</b> na <b>%2$s</b>?</string>
 	<string name="permgroupgraderequest_device_aware_sensors">Želite li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora na <b>%2$s</b> dok je aplikacija u upotrebi?</string>
 	<string name="permgroupgraderequest_location">Promijeniti pristup lokaciji za <b>%1$s</b>?</string>
