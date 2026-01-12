@@ -380,6 +380,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="guide_newfunc_title">Nova značajka</string>
   <string name="guide_two_title">Pogledajte samo bitne stavke</string>
   <string name="h5_ppt_to_pdf_introduce_title">O izradi PDF-a</string>
+  <string name="hint_select_file">Odaberite datoteke</string>
   <string name="hint_switch_to_grid_mode">Prebačeno na prikaz rešetke</string>
   <string name="hint_switch_to_list_mode">Prebačeno na prikaz popisa</string>
   <string name="home_action_up">Natrag</string>

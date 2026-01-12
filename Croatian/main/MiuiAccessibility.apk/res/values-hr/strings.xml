@@ -531,8 +531,13 @@ Ova se aplikacija također treba povezati s internetom i zahtijeva sljedeća dop
   <string name="voice_access_sound_recording_permission_describe">Za snimanje zvuka kako bi se pretvorio u tekst ili prepoznao glasovne naredbe</string>
   <string name="voice_access_welcome">Sada možete koristiti glasovne kontrole</string>
   <string name="voice_command">Naredba: \"%1$s\"</string>
-  <string name="voice_translate_function_description">Otvorite AI tumač iz bočne alatne kutije tijekom poziva ili konferencije. Možete prevesti razgovor između obiju strana u stvarnom vremenu za komunikaciju bez prepreka.</string>
-  <string name="voice_translate_function_name">Prevoditelj poziva i konferencija</string>
+  <string name="voice_guide_note">Napomena: Tijekom sastanaka i telefonskih poziva, AI tumaču možete pristupiti iz bočne alatne trake za prevođenje govora u stvarnom vremenu.</string>
+  <string name="voice_guide_step1">1. Otvorite alatnu traku za pozive u bočnoj alatnoj traci.</string>
+  <string name="voice_guide_step2">2. Uključite AI tumač.</string>
+  <string name="voice_guide_title">Kako koristiti</string>
+  <string name="voice_step_toolbox_settings">Otvori alatnu traku</string>
+  <string name="voice_translate_function_description">Pristupite AI tumaču iz bočne alatne trake tijekom sastanaka ili telefonskih poziva za komunikaciju bez prepreka.</string>
+  <string name="voice_translate_function_name">Prijevod poziva i sastanaka</string>
   <string name="voice_translate_summary">Simultano prevođenje za pozive i konferencije</string>
   <string name="voice_translate_title">AI tumač</string>
   <string name="voices_access_timeout">Uspješno isključene glasovne kontrole</string>

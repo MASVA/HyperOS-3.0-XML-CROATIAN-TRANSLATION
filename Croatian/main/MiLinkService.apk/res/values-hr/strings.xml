@@ -805,9 +805,9 @@
   <string name="dialog_please_make_sure_tv_ok_or_help">""Provjerite je li značajka bežičnog emitiranja uključena na ciljnom uređaju.
   Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="dialog_recent_connected">Nedavno</string>
-  <string name="dialog_remote_authorization">Dodijeli dopuštenja za %1$s</string>
-  <string name="dialog_remote_authorization_content">Dodijeli dopuštenja za obavijesti za Interconnectivity na vašem %1$s.</string>
-  <string name="dialog_reset_app_subscribe">Dopusti obavijesti od %1$s</string>
+  <string name="dialog_remote_authorization">Dodijelite dopuštenja za %1$s</string>
+  <string name="dialog_remote_authorization_content">Dodijelite dopuštenja za obavijesti za Interconnectivity na vašem %1$s.</string>
+  <string name="dialog_reset_app_subscribe">Dopustite obavijesti od %1$s</string>
   <string name="dialog_reset_app_subscribe_content">"%2$s je prethodno deinstaliran s vašeg %1$s. Ne možete primati obavijesti aplikacija na ovom uređaju. Promijenite postavke i pokušajte ponovno."</string>
   <string name="dialog_reset_app_subscribe_multi">Promijeni postavke obavijesti</string>
   <string name="dialog_reset_app_subscribe_multi_2_content">"%2$s i %3$s su prethodno deinstalirani s vašeg %1$s. Ne možete primati obavijesti aplikacija na ovom uređaju. Promijenite postavke i pokušajte ponovno."</string>

@@ -135,6 +135,7 @@
   <string name="ai_in_line">"Na redu ste…"</string>
   <string name="ai_in_line_match">Linija je prilično zauzeta.</string>
   <string name="ai_inquire_apply_wallpaper">Primijeniti ovu pozadinu?</string>
+  <string name="ai_is_calculating_segment">AI generira efekt dubine…</string>
   <string name="ai_moving_your_wallpaper">Pogledajte kako AI može oživjeti vaše pozadine</string>
   <string name="ai_moving_your_wallpaper_new">Isprobajte nove stilove i dodajte dinamične efekte svojim omiljenim pozadinama</string>
   <string name="ai_pet">Kućni ljubimci s umjetnom inteligencijom</string>
@@ -326,6 +327,8 @@
   <string name="apply_wallpaper_notice_still_apply">Primijeni</string>
   <string name="apply_wallpaper_only_home">Samo početni zaslon</string>
   <string name="apply_wallpaper_to_lockscreen">Primijeniti ovu pozadinu i na zaključani zaslon?</string>
+  <string name="apply_wallpaper_warning_not_apply_aod_wallpaper_when_super_wallpaper">"Trenutno koristite Super pozadinu. Isključite je kako biste mogli promijeniti postavke zaključanog zaslona."</string>
+  <string name="apply_wallpaper_warning_not_apply_home_wallpaper_when_super_wallpaper">"Trenutno koristite Super pozadinu. Isključite je kako biste mogli promijeniti postavke početnog zaslona."</string>
   <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">"Koristite skup pozadina. Ako primijenite novu pozadinu, pozadine početnog i zaključanog zaslona bit će zamijenjene, a zaslon će se vratiti na prethodni stil. Želite li sada primijeniti? "</string>
   <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon, a Always-on zaslon vratit će se na prethodnu postavku . Prijaviti se sada?"</string>
   <string name="apply_wallpaper_warning_use_linked_wallpaper">"Koristite skup pozadina. Ako primijenite novu pozadinu, zamijenit će se i pozadine početnog i zaključanog zaslona. Primijeniti sada?"</string>
@@ -972,6 +975,8 @@
   <string name="kg_dialog_ai_blocking_for_image_not_clear">Provjerite je li glavni subjekt jasan i potpuno vidljiv.</string>
   <string name="kg_dialog_ai_blocking_for_image_not_clear_title">"Ne mogu koristiti ovu sliku"</string>
   <string name="kg_dialog_ai_blocking_for_not_support_video">"Generiranje umjetnom inteligencijom nije podržano za dinamičke pozadine"</string>
+  <string name="kg_dialog_ai_blocking_for_not_support_wallpaper">"Ne mogu koristiti umjetnu inteligenciju s ovom pozadinom"</string>
+  <string name="kg_dialog_ai_blocking_for_resolution_too_small">Rezolucija slike pozadine mora biti najmanje %1$d×%2$d px</string>
   <string name="kg_dialog_ai_blocking_for_service_unavailable">Vaš je račun više puta prekršio naše smjernice. Usluga je trenutno pauzirana. Pokušajte ponovno kasnije.</string>
   <string name="kg_dialog_ai_blocking_for_service_unavailable_title">"Usluga nije dostupna"</string>
   <string name="kg_dialog_ai_blocking_for_too_large">Veličina slike mora biti manja od %d MB</string>
@@ -1334,6 +1339,7 @@
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
   <string name="loop_video_wallpaper">Petlja dinamičkih pozadina</string>
   <string name="looping_wallpaper">Miješanje pozadina</string>
+  <string name="maml_config_select_image">Odaberite sliku</string>
   <string name="mashup_sound">Miks prirode</string>
   <string name="match_theme">Teme koje si odgovaraju</string>
   <string name="material_clock_toggle_content_description">Odaberitete prijepodne ili poslijepodne</string>
@@ -1965,6 +1971,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   Sada su dostupni potpuno novi dizajni."</string>
   <string name="rear_screen_list_title">Personalizacija</string>
   <string name="rear_screen_more_suggestion">Više preporuka</string>
+  <string name="rear_screen_notice">Obavijesti</string>
   <string name="rear_screen_service_assistant">Upravljanje stražnjim zaslonom</string>
   <string name="rear_screen_system_wallpaper_title">Pozadine</string>
   <string name="rear_screen_template_upper_limit">"Ne možete dodati više stavki. Izbrišite neke u Postavke &gt; Stražnji zaslon &gt; Personalizacija i pokušajte ponovno."</string>
@@ -2652,6 +2659,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="toast_both_all_apply_success">Uspješno primijenjeno na Početni i Zaklj. zaslon</string>
   <string name="toast_home_apply_failured">"Ne mogu primijeniti na Početni zaslon"</string>
   <string name="toast_home_apply_success">Uspješno primijenjeno na Početni zaslon</string>
+  <string name="toast_image_cannot_segment">"Ova slika ne podržava efekt dubine"</string>
   <string name="toast_lockscreen_apply_failured">"Ne mogu primijeniti na Zaklj. zaslon"</string>
   <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Uspješno primijenjeno na Početni zaslon. Ne mogu primijeniti na Zaklj. zaslon."</string>
   <string name="toast_lockscreen_apply_success">Uspješno primijenjeno na Zaklj. zaslon</string>

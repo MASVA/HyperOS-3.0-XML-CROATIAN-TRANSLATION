@@ -297,6 +297,10 @@
         <item quantity="other">"Ne mogu preuzeti datoteke: %1$d"</item>
         <item quantity="one">"Ne mogu preuzeti %1$d datoteku"</item>
     </plurals>
+	 <plurals name="download_progress_file_message">
+        <item quantity="one">%1$d datoteka na čekanju. Preuzimanje: %2$d/%3$d</item>
+        <item quantity="other">%1$d datoteka na čekanju. Preuzimanje: %2$d/%3$d</item>
+    </plurals>
     <plurals name="download_retry_message">
         <item quantity="other">"Ne mogu preuzeti %1$d datoteka, provjerite mrežnu vezu i pokušajte ponovno"</item>
         <item quantity="one">"Ne mogu preuzeti %1$d datoteku, provjerite mrežnu vezu i pokušajte ponovno"</item>
@@ -560,6 +564,10 @@
         <item quantity="other">Pronađene nove fotografije: %1$d</item>
         <item quantity="one">Pronađena %1$d nova fotografija</item>
     </plurals>
+	 <plurals name="re_edit_paste_points_too_many_files_error">
+        <item quantity="one">Odaberite do %d stavku za slanje</item>
+        <item quantity="other">Odaberite do %d stavki za slanje</item>
+    </plurals>
 	 <plurals name="rear_screen_confirm_delete_media_title">
         <item quantity="other">Izbrisati %d stavki?</item>
         <item quantity="one">Izbrisati %d stavku?</item>
@@ -571,6 +579,10 @@
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d stavki ne može biti uklonjeno iz privatnog albuma. %1$s."</item>
         <item quantity="one">"%2$d stavka ne može biti uklonjena iz privatnog albuma. %1$s."</item>
+    </plurals>
+	<plurals name="restore_failed_count">
+        <item quantity="one">"Nije moguće vratiti %d stavku"</item>
+        <item quantity="other">"Nije moguće vratiti %d stavki"</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">Dodano %1$d fotografija u \"%2$s\" i u bazu podataka.</item>

@@ -623,6 +623,9 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
   <string name="camera_needs_auto_backup_tip">Album kamere mora biti sinkroniziran</string>
   <string name="can_authorize_owner_albums_share_to_tv">Autorizirajte gledanje albuma na TV-u</string>
   <string name="can_not_transfer_when_screening">"Ne mogu emitirati tijekom prijenosa"</string>
@@ -1104,6 +1107,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="drop_success">Uspješno spremljeno</string>
   <string name="dump_db_info">Informacije iz baze podataka</string>
   <string name="edit_baby_info">Pregled informacija o djetetu</string>
+  <string name="edit_failed_with_reason">Sinkronizirajte fotografiju s cloudom kako biste je mogli uređivati. Povežite se s mrežom i pokušajte ponovno.</string>
   <string name="edit_file_not_exits_tip">Preuzmite izvornu datoteku i pokušajte ponovno</string>
   <string name="edit_group_name">Uredi naziv grupe</string>
   <string name="edit_people_name">Uredi ime</string>
@@ -2403,6 +2407,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="operation_back">Natrag</string>
   <string name="operation_cast_connected_format">Emitiranje - %s</string>
   <string name="operation_cast_connecting_format">Povezivanje na %s</string>
+  <string name="operation_copy_edit_points">Kopiraj točke uređivanja</string>
   <string name="operation_copy_to_clipboard">Kopiraj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_delete_all_albums_from_rubbish_page_tip">"Nećete moći vratiti albume nakon što ih izbrišete. Svejedno izbrisati?"</string>
@@ -2434,6 +2439,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="operation_move_to_other_albums">Premjesti u \"Drugi albumi\"</string>
   <string name="operation_move_to_rubbish_albums">Premjesti u smeće</string>
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj u kartici Fotografije"</string>
+  <string name="operation_paste_edit_points">Zalijepi točke uređivanja</string>
   <string name="operation_photo_rename">Preimenuj</string>
   <string name="operation_pic_to_pdf">Izradi PDF</string>
   <string name="operation_pin">Prikvači na stražnji zaslon</string>
@@ -2451,6 +2457,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="operation_replace_album_cover_default_mode">Zadano</string>
   <string name="operation_replace_album_cover_status_default_mode_success">Zadana naslovnica albuma uspješno vraćena </string>
   <string name="operation_replace_album_cover_status_success">Naslovnica albuma uspješno promjenjena </string>
+  <string name="operation_restore_origin_image">Vrati original</string>
   <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_set_contact_photo">Postavi za sliku kontakta</string>
@@ -3113,7 +3120,14 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="resend_email_reach_limit_message">"Zatražili ste previše poruka e-pošte za potvrdu. Uvjerite se da poruka e-pošte za potvrdu nije u mapi neželjene pošte vaše pristigle pošte."</string>
   <string name="resend_email_reach_limit_title">Previše pokušaja</string>
   <string name="resend_email_success">Uspješno poslano</string>
+  <string name="restore_environment_fail_msg">Datoteka Debug ne postoji, vraćanje nije uspjelo.</string>
+  <string name="restore_environment_success_msg">Uspješno vraćeno.</string>
+  <string name="restore_environment_tip">Vraćanje korisničkih podataka</string>
+  <string name="restore_failed_retry">"Vraćanje nije uspjelo. Pokušajte ponovno."</string>
   <string name="restore_group">Želite li sada vratiti ovu grupu?</string>
+  <string name="restore_success">Uspješno vraćeno</string>
+  <string name="restore_user_environment">Vraćanje korisničkog okruženja</string>
+  <string name="restoring_progress">Vraćanje (%1$s/%2$s)</string>
   <string name="retry_to_create_album">Pokušaj ponovno</string>
   <string name="retry_to_request_qr_code">Pokušaj ponovno</string>
   <string name="revert">Poništi</string>

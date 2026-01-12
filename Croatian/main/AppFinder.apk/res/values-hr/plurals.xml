@@ -46,6 +46,10 @@
         <item quantity="one">Dodajte do %d stavku</item>
         <item quantity="other">Dodajte do %d stavki</item>
     </plurals>
+	<plurals name="ai_local_rag_sources">
+        <item quantity="one">%d izvor</item>
+        <item quantity="other">%d izvora</item>
+		 </plurals>
     <plurals name="ai_search_toast_input_too_long">
         <item quantity="one">Unesite do %d znaka</item>
         <item quantity="other">Unesite do %d znakova</item>
@@ -115,11 +119,11 @@
         <item quantity="one">%d recenzija</item>
         <item quantity="other">%d recenzija</item>
      </plurals>
-     <plurals name="exo_controls_fastforward_by_amount_description">
+     <plurals name="columbus_exo_controls_fastforward_by_amount_description">
         <item quantity="one">Premotavanje unaprijed %d sek.</item>
         <item quantity="other">Premotavanje unaprijed %d sek.</item>
      </plurals>
-     <plurals name="exo_controls_rewind_by_amount_description">
+     <plurals name="columbus_exo_controls_rewind_by_amount_description">
         <item quantity="one">Premotavanje %d sek. unatrag</item>
         <item quantity="other">Premotavanje %d sek. unatrag</item>
      </plurals>
@@ -131,4 +135,8 @@
         <item quantity="one">Suglasnost možete povući za %1$d sekundu.</item>
         <item quantity="other">Suglasnost možete povući za %1$d sek.</item>
      </plurals>
+	 <plurals name="youtube_visit_count">
+        <item quantity="one">%1$s pregled</item>
+        <item quantity="other">%1$s pregled</item>
+    </plurals>
 </resources>
