@@ -955,10 +955,15 @@ Poboljšana sigurnost."</string>
   <string name="recents_empty_message_multi_window">Otvaranje aplikacija s Početni zaslona</string>
   <string name="recents_exit_multi_window_mode">Izlaz</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Ne mogu koristiti podijeljeni zaslon tijekom emitiranja"</string>
+  <string name="recents_guide_dialog_message">Novi slojevit raspored sada je dostupan za čišće i glatkije iskustvo</string>
+  <string name="recents_guide_dialog_negative_button">Ne sada</string>
+  <string name="recents_guide_dialog_positive_button">Primijeni</string>
+  <string name="recents_guide_dialog_title">Novi raspored Nedavnih unosa</string>
   <string name="recents_incompatible_app_message">"Ova aplikacija ne podržava Podijeljeni zaslon"</string>
   <string name="recents_layout_style">Rasporedite stavke u Nedavno</string>
   <string name="recents_layout_style_horizontal">Vodoravno</string>
   <string name="recents_layout_style_vertical">Okomito</string>
+  <string name="recents_layout_style_stack">Stog</string>
   <string name="recents_smallwindow_drag_text">Povucitete ovdje da biste prikvačili</string>
   <string name="recents_smallwindow_text">Otpusti za dodavanje</string>
   <string name="recents_task_screening">Emitiranje</string>

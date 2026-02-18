@@ -150,7 +150,6 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_switch_volume">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
   <string name="click_to_switch_volume_pad">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
-  <string name="clock_in">Provjera…</string>
   <string name="close">Zatvori</string>
   <string name="cloud_copy_to_local_title">Spremi u…</string>
   <string name="cloud_drive_files">Datoteke Mi Drivea</string>
@@ -258,8 +257,12 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="doc_wps">WPS</string>
   <string name="doc_xls">XLS</string>
   <string name="download_cad_dialog_message">Instalirajte ZWCAD za uređivanje CAD datoteka. Instalirati odmah?</string>
+  <string name="download_cancel">Odustani</string>
+  <string name="download_go_on">Nastavi</string>
   <string name="download_mi_wps_dialog_message">S Mi Doc Viewerom možete pregledavati datoteke bilo kada i bilo gdje. Instalirati odmah?</string>
   <string name="download_mi_wps_dialog_title">Instalirajte Mi Doc Viewer</string>
+  <string name="download_network_tip">"Trenutno koristite mobilne podatke. Nastavak može generirati dodatne naknade za podatke. Želite li ipak nastaviti?"</string>
+  <string name="download_today_not_tip">"Ne prikazuj danas"</string> 
   <string name="downloading">Preuzimanje…</string>
   <string name="drag_not_support_with_dir">"Ne mogu se preurediti ili poslati mape"</string>
   <string name="edit_quick_category">Uredi</string>
@@ -289,6 +292,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="error_not_support">Nije podržano</string>
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikacije za otvaranje ove datoteke."</string>
   <string name="exception_net_not_available">Provjerite mrežne postavke i pokušajte ponovno</string>
+  <string name="exist_file_task">Drugi zadatak je u tijeku…</string>
   <string name="exit">Izlaz</string>
   <string name="expand">Proširi</string>
   <string name="expand_button_title">Napredno</string>
@@ -321,6 +325,12 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_cloud_setting">Postavke datoteke</string>
   <string name="file_cloud_setting_item_view_message">Pogledajte iWork, Xmind i *.psd datoteke na mreži</string>
   <string name="file_cloud_setting_item_view_title">Mrežne datoteke</string>
+  <string name="file_copy_fail">"Nije moguće kopirati datoteke"</string>
+  <string name="file_copy_success">Uspješno kopirano</string>
+  <string name="file_copying">Kopiranje datoteka…</string>
+  <string name="file_dowload_fail">"Nije moguće spremiti datoteke"</string>
+  <string name="file_dowload_success">Uspješno spremljeno</string>
+  <string name="file_dowloading">Spremanje datoteka…</string>
   <string name="file_error_cannt_view">"Došlo je do pogreške. Ne mogu prikazati datoteku."</string>
   <string name="file_exception">"Došlo je do pogreške u datoteci. Konverzija nije uspjela."</string>
   <string name="file_info_canread">Čitljivo: </string>
@@ -330,9 +340,17 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_info_modified">Zadnja izmjena: </string>
   <string name="file_info_size">Veličina: </string>
   <string name="file_loading">Samo trenutak…</string>
+  <string name="file_loading_error">"Nije moguće učitavanje"</string>
+  <string name="file_move_fail">"Nije moguće premjestiti"</string>
+  <string name="file_move_success">Uspješno premješteno</string>
+  <string name="file_moving">Premještanje datoteka…</string>
   <string name="file_name_existed">Naziv datoteke je zauzet</string>
   <string name="file_name_invalid">"Nazivi datoteka ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Datoteka ne postoji"</string>
+  <string name="file_not_exist_to_refresh">"Ova datoteka ne postoji. Osvježite stranicu."</string>
+  <string name="file_not_support_across_devices">"Ne mogu zajedno obraditi datoteke s različitih uređaja"</string>
+  <string name="file_open_error">"Nije moguće učitati. Pokušajte ponovno."</string>
+  <string name="file_open_loading">Samo sekundu…</string>
   <string name="file_parse_fail">"Nije moguće raščlaniti datoteku"</string>
   <string name="file_parse_layout_switch_failed">"Nije moguće promijeniti izgled."</string>
   <string name="file_parse_loading_please_wait">Samo trenutak…</string>
@@ -342,7 +360,11 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_parse_menu_ppt">Pretvori u PowerPoint</string>
   <string name="file_parse_menu_word">Pretvori u Word</string>
   <string name="file_parse_running">Cloud obrada u tijeku…</string>
-  <string name="file_parse_search_result_empty">"Nisu pronađeni rezultati"</string>
+  <string name="file_parse_search_result_empty">"Nema pronađenih rezultata"</string>
+  <string name="file_transfer_notify">Usluge</string>
+  <string name="file_upload_fail">"Nije moguće prenijeti datoteke"</string>
+  <string name="file_upload_nas">Datoteke uspješno prenesene na Xiaomi SmartStorage</string>
+  <string name="file_upload_success">Uspješno preneseno</string>
   <string name="file_parse_loading">Transkodiranje. Ovo bi moglo potrajati minutu.</string>
   <string name="file_parse_outpace_1gb">"Ova datoteka premašuje %1$d GB i ne može se vidjeti u ovoj aplikaciji. Možete je otvoriti s drugom aplikacijom."</string>
   <string name="file_parse_outpace_1mb">"Ova datoteka premašuje %1$d MB i ne može se vidjeti u ovoj aplikaciji. Možete je otvoriti s drugom aplikacijom."</string>
@@ -376,9 +398,6 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="grid_mode">Rešetka</string>
   <string name="group_title">%2$s od %1$s</string>
   <string name="group_title_extra_new">Novo</string>
-  <string name="guide_newfunc_content">Sada možete filtrirati formate datoteka, preurediti stavke i prelaziti s različitih prikaza dodirom na prečac.</string>
-  <string name="guide_newfunc_title">Nova značajka</string>
-  <string name="guide_two_title">Pogledajte samo bitne stavke</string>
   <string name="h5_ppt_to_pdf_introduce_title">O izradi PDF-a</string>
   <string name="hint_select_file">Odaberite datoteke</string>
   <string name="hint_switch_to_grid_mode">Prebačeno na prikaz rešetke</string>
@@ -626,6 +645,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
   <string name="name_empty">Unesite naziv</string>
+  <string name="nas_description">Xiaomi SmartStorage</string>
   <string name="navigator_label_all_files">Sve datoteke</string>
   <string name="navigator_label_external_devices">Vanjski uređaji</string>
   <string name="need_open_content">Apliakcija Datoteke treba dopuštenje za pristup vašim fotografijama i datotekama kako bi mogao prikazati i uređivati ​​stavke. Ovo dopuštenje možete dati u postavkama.</string>
@@ -654,6 +674,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="notif_title">FTP poslužitelj pokrenut.</string>
   <string name="notification_fail">"Nije moguće obraditi"</string>
   <string name="notification_success">Uspješno obrađeno</string>
+  <string name="notification_task_cancel">Odustani</string>
   <string name="notification_title_sync_result">Sinkronizacija dovršena</string>
   <string name="notification_title_syncing">Sinkronizacija…</string>
   <string name="notification_title_syncing_with_count">Sinkroniziranje stavki. Preostale datoteke: %1$s</string>
@@ -670,6 +691,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="operation_cloud_copy_to_local">Spremi u…</string>
   <string name="operation_compress">Sažmi</string>
   <string name="operation_compressing">Sažimanje…</string>
+  <string name="operation_continue">Nastavi</string>
   <string name="operation_copy">Kopiraj</string>
   <string name="operation_copy_clipboard">Kopiraj u međuspremnik</string>
   <string name="operation_copy_local">Kopiraj u mapu</string>

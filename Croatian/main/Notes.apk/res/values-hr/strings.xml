@@ -418,7 +418,7 @@
   <string name="dialog_button_move">Premjesti</string>
   <string name="dialog_expert_as_markdown">Izvezi kao Markdown</string>
   <string name="dialog_privacy_revoke_tips">"Nakon opoziva suglasnosti, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Svejedno opozvati suglasnost? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete suglasnost usluga Xiaomi Cloud."</string>
-  <string name="dialog_share_as_duplicate">Podijeli bilješku kao duplikat</string>
+  <string name="dialog_share_as_duplicate">Podijeli bilješku kao kopiju</string>
   <string name="dialog_share_as_pic">Podijeli bilješku kao sliku</string>
   <string name="dialog_share_as_text">Podijeli bilješku kao tekst</string>
   <string name="dialog_share_title">Podijeli bilješku</string>
@@ -548,6 +548,7 @@
   <string name="excerpted_to_note">Isječak spremljen u Bilješke</string>
   <string name="excerpting">Izrada izvoda…</string>
   <string name="expand_button_title">Napredno</string>
+  <string name="export_markdown_saved_at">Izvezeno u %1$s</string>
   <string name="export_select_empty">Odaberite barem jednu stranicu</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="external_share_to_note">%1$s je podijeljen s Bilješkama</string>
@@ -1182,7 +1183,7 @@
   <string name="setting_layout">Raspored</string>
   <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
   <string name="setting_note_list_layout_title">Raspored</string>
-  <string name="setting_other">OSTALO</string>
+  <string name="setting_other">Ostalo</string>
   <string name="setting_privacy">Pravila o privatnosti</string>
   <string name="setting_show_dot_talkback">Točkasto</string>
   <string name="setting_show_grid_talkback">Mreža</string>

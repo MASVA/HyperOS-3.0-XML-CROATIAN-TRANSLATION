@@ -685,6 +685,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="menu_view_group_info">Informacije o grupi</string>
   <string name="message_cannot_send_air_mode">Isključite Zrakoplovni način za slanje poruka</string>
+  <string name="message_cannot_send_invalid_sim">"SIM kartica koju koristite ne podržava slanje SMS poruka"</string>
   <string name="message_cannot_send_sim_unavailable">Umetnite SIM karticu za slanje poruka</string>
   <string name="message_class_label">"Klasa poruke: "</string>
   <string name="message_contact">Kontakt:</string>
