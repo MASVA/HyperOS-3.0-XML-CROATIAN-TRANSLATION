@@ -516,11 +516,13 @@
   <string name="image_too_small_message">"Originalna slika nije dovoljno velika"</string>
   <string name="in_app_result_by">Rezultati unutar aplikacije prema</string>
   <string name="install">Instaliraj</string>
+  <string name="install_hint_sc_prohibit_installing_msg">"Ne mogu instalirati ovu aplikaciju zbog više sigurnosnih rizika"</string>
+  <string name="install_hint_sc_prohibit_installing_risk_detail">Ova je aplikacija potencijalno lažna. Nastavite s oprezom kako biste zaštitili svoju sigurnost.</string>
   <string name="intelligent_exposed_button_summary_text">Koristite pametne prijedloge na temelju vaše upotrebe aplikacije za isticanje aplikacija u povećanim mapama</string>
-  <string name="international_home_pull_down_content">Prevucite prema dolje na početnom zaslonu za pretraživanje na ovom uređaju i internetu.</string>
+  <string name="international_home_pull_down_content">Povucite prema dolje na početnom zaslonu za pretraživanje na ovom uređaju i internetu.</string>
   <string name="international_home_pull_down_sub_content">Ovu gestu možete prebaciti na otvaranje Centra za kontrolu u Postavkama &gt; Početni zaslon &gt; Povucite dolje na Početnom zaslonu.</string>
   <string name="international_home_pull_down_up_btn_get">Razumijem</string>
-  <string name="international_home_pull_up_content">Povucitete gore na početnom zaslonu da biste otvorili Centar za sadržaj.</string>
+  <string name="international_home_pull_up_content">Povucite gore na početnom zaslonu da biste otvorili Centar za sadržaj.</string>
   <string name="international_home_pull_up_sub_content">Da biste pronašli aplikacije i prijedloge aplikacija, prijeđite prstom prema dolje od sredine početnog zaslona.</string>
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>

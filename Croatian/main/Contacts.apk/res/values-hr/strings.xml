@@ -278,6 +278,8 @@
   <string name="button_cancel_scan">"Zaustavi"</string>
   <string name="button_scan">Ponovno skeniraj</string>
   <string name="caching_vcard_message">Spremanje vCard datoteke u predmemoriju uređaja…</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="callDetailTitle">"Pojedinosti poziva"</string>
   <string name="call_assistant">"Nazovi %s"</string>
   <string name="call_callback">Nazovi povratno</string>
@@ -1198,7 +1200,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="scan_not_installed_china">Instalirajte prvo aplikaciju AI Skener</string>
   <string name="scan_not_installed_china_ai">Instalirajte AI Skener da biste mogli koristiti ovu značajku</string>
   <string name="scan_not_installed_global">Instalirajte prvo aplikaciju Skener</string>
-  <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
+  <string name="scan_qrcode_card_hint">Skenirajte QR kod za dodavanje kontakta.</string>
+  <string name="scan_qrcode_card_hint1">Skenirajte QR kod</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pohrana se ne može skenirati.</string>

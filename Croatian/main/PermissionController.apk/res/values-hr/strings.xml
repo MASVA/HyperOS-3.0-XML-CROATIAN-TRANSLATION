@@ -414,6 +414,9 @@
    <string name="grant_dialog_button_allow_background">Dopusti cijelo vrijeme</string>
    <string name="grant_dialog_button_allow_foreground">Dopusti samo tijekom korištenja aplikacije</string>
    <string name="grant_dialog_button_allow_more_selected_photos">Odaberite više stavki</string>
+   <string name="grant_dialog_button_allow_limited_access">Dopusti ograničeni pristup</string>
+   <string name="grant_dialog_button_allow_media_only">Dopusti pristup medijskim datotekama</string>
+   <string name="grant_dialog_button_allow_one_time">Samo ovaj put</string>
    <string name="grant_dialog_button_allow_onetime">Jednom</string>
    <string name="grant_dialog_button_allow_selected_photos">Odaberite stavke</string>
    <string name="grant_dialog_button_always_allow_all">Uvijek dopusti za sve stavke</string>
@@ -559,6 +562,12 @@
 	<string name="miui_select_allow_access_content">Odaberite stavke kojima želite dopustiti pristup</string>
 	<string name="miuix_access_state_desc">Odabrano</string>
    <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+   <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
+   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
    <string name="miuix_appcompat_edit">Uredi</string>
    <string name="miuix_indexer_collect">Kolekcije</string>
    <string name="miuix_indexer_selected">Odabrano %s</string>
@@ -576,6 +585,8 @@
    <string name="miuix_appcompat_select_all">Odaberi sve</string>
    <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
    <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+   <string name="miuix_progressbar_loading">Samo trenutak…</string>
    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite dolje za osvježavanje</string>
    <string name="miuix_sbl_tracking_progress_labe_refreshed">Uspješno osvježeno</string>
    <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje…</string>
@@ -672,6 +683,8 @@
    <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
    <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
+   <string name="mtrl_picker_toggled_to_day_selection">Prebačeno na kalendarski prikaz</string>
+   <string name="mtrl_picker_toggled_to_year_selection">Prebačeno na godišnji prikaz</string>
    <string name="mtrl_timepicker_cancel">Odustani</string>
    <string name="mtrl_timepicker_confirm">U redu</string>
 	<string name="nav_app_bar_navigate_up_description">Navigacija gore</string>
@@ -762,6 +775,19 @@
    <string name="permdesc_write_contacts">Želite li dopustiti %1$s uređivanje kontakata?</string>
    <string name="permdesc_write_storage">Želite li dopustiti %1$s spremanje datoteka i fotografija na ovaj uređaj?</string>
 	<string name="permgroup_list_microphone_and_camera">Mikrofon i Kamera</string>
+	<string name="permgroupgraderequest_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b>?</string>
+   <string name="permgroupgraderequest_device_aware_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
+   <string name="permgroupgraderequest_device_aware_location">Promijeniti pristup lokaciji za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
+	<string name="permgroupgraderequest_device_aware_microphone">Promijeniti pristup mikrofonu za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
+	<string name="permgroupgraderequest_device_aware_sensors">Nastavi dopuštati <b>%1$s</b> pristupiti podacima tjelesnih senzora na <b>%2$s</b> dok je aplikacija u upotrebi?</string>
+	<string name="permgroupgraderequest_location">Promijeniti pristup lokaciji za <b>%1$s</b>?</string>
+	<string name="permgroupgraderequest_microphone">Promijeniti pristup mikrofonu za <b>%1$s</b>?</string>
+	<string name="permgroupgraderequest_sensors">Želi li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora dok je aplikacija u upotrebi?</string>
+	<string name="permgroupgraderequestdetail_camera">Ova aplikacija želi snimati slike i videozapise cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
+	<string name="permgroupgraderequestdetail_location">Ova aplikacija želi pristupiti vašoj lokaciji cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
+	<string name="permgroupgraderequestdetail_microphone">Ova aplikacija želi snimati zvuk cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
+	<string name="permgroupgraderequestdetail_nearby_devices">Dopustiti aplikaciji <b>%1$s</b> da pronađe, poveže se i odredi relativni položaj uređaja u blizini? <annotation id="link">Dopusti u postavkama.</annotation></string>
+	<string name="permgroupgraderequestdetail_sensors">Ova aplikacija želi pristupiti podacima senzora o vašim vitalnim znakovima cijelo vrijeme, čak i kada je ne koristite. Da biste izvršili ovu promjenu, <annotation id="link">idite u postavke.</annotation></string>
 	<string name="permgroupbackgroundrequest_camera">Želite li dopustiti <b>%1$s</b> snimanje slika i videa?</string>
 	<string name="permgroupbackgroundrequest_device_aware_camera">Želite li dopustiti <b>%1$s</b> snimanje slika i videa na <b>%2$s</b>?</string>
 	<string name="permgroupbackgroundrequest_device_aware_location">Želite li dopustiti <b>%1$s</b> pristup lokaciji <b>%2$s</b>?</string>
@@ -1215,9 +1241,10 @@
 	<string name="wear_m3c_time_picker_second">Sekunda</string>
 	<string name="wear_phone_connection_error">"Nije moguće doći do vašeg telefona"</string>
 	<string name="wear_phone_connection_should_retry">Pokušati ponovno?</string>
-	<string name="weredday">Srijeda</string>
-	<string name="weredday_short">Sri</string>
-	<string name="wedenday_shortest">S</string>
+   <string name="wednesday">Srijeda</string>
+   <string name="wednesday_short">Sri</string>
+   <string name="wednesday_shortest">S</string>
 	<string name="yes">Da</string>
+	<string name="yesterday">Jučer</string>
 	<string name="zero_unused_apps">0 nekorištenih aplikacija</string>
 </resources>

@@ -200,6 +200,7 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="contacts">Kotakti</string>
   <string name="contacts_permission_desc">Za prijenos kontakata na druge uređaje</string>
   <string name="contacts_permission_desc_new">Za prijenos kontakata na novi uređaj</string>
+  <string name="contains_unauthorized_data">Sadrži neovlaštene podatke</string>
   <string name="copy">Kopiraj</string>
   <string name="current_user_not_supported_summary">Trenutne postavke sustava ograničuju prijenos podataka kod korištenja Mi Movera.</string>
   <string name="current_user_not_supported_title">Nije moguće prenijeti stavke</string>
@@ -480,6 +481,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="manual_connection_content2">%d. Odaberite sljedeći Wi-Fi hotspot.</string>
   <string name="manual_connection_content3">%d. Unesite ovu zaporku na stari uređaj za povezivanje.</string>
   <string name="manual_connection_hint">Dodirnite \"Poveži se ručno\" na vašem starom uređaju.</string>
+  <string name="manual_connection_hint_pad">Dodirnite \"Poveži se ručno\" na starom uređaju</string>
+  <string name="manual_connection_hint_phone">Dodirnite \"Poveži se ručno\" na starom uređaju</string>
   <string name="manual_connection_summary2">"Ako ne možete pronaći ovaj hotspot, osvježite popis dostupnih Wi-Fi mreža i pokušajte ponovno."</string>
   <string name="manual_connection_title">Povežite stari uređaj na ovaj hotspot</string>
   <string name="manual_connection_title_pad">Povežite stari uređaj na hotspot</string>
@@ -744,6 +747,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_bluetooth_summary">Za pronalaženje dostupnih uređaja u blizini</string>
   <string name="permission_bluetooth_summary_new">Za pronalaženje dostupnih uređaja u blizini</string>
   <string name="permission_bluetooth_title">Uključivanje i isključivanje Bluetootha</string>
+  <string name="permission_calendar_summary">Za prijenos događaja iz kalendara</string>
+  <string name="permission_calendar_title">Pristup kalendaru</string>
   <string name="permission_calender_summary">Za premještanje događaja sa starog uređaja na novi</string>
   <string name="permission_calender_summary_new">Za premještanje događaja sa starog uređaja na novi</string>
   <string name="permission_calender_summary_global">Za prijenos događaja na kalendaru na novi uređaj</string>
@@ -792,6 +797,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="privacy_cancel">Ne prihvaćam</string>
   <string name="privacy_desc">Dobrodošli u Mi Mover. Ova aplikacija nudi vam sljedeće usluge:</string>
   <string name="privacy_experience_statement">Priključite se našem Programu iskustava korisnika kako biste dijelili podatke s nama u svrhu poboljšanja naših proizvoda i usluga.</string>
+  <string name="privacy_icp_identity">Registracijski broj ICP-a: 京ICP备10046444号-32A></string>
   <string name="privacy_item1">· Prijenos datoteka, poruka, postavki aplikacija sustava i aplikacija</string> 
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="privacy_title">Uvjeti korištenja</string>

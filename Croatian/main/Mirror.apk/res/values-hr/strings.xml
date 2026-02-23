@@ -234,6 +234,7 @@
   <string name="loading_error_reload">Pokušajte ponovno</string>
   <string name="loading_error_title">"Povezivanje nije uspjelo"</string>
   <string name="loading_interrupted_title">Veza je prekinuta</string>
+  <string name="loading_load">Povezivanje…</string>
   <string name="loading_loading">Povezivanje…</string>
   <string name="loading_view_abort_close_text">Zatvori</string>
   <string name="loading_view_abort_text">"Isteklo je vrijeme veze.
@@ -911,6 +912,8 @@
   <string name="share_file_transfer_finish_message">Prenesene datoteke možete pregledati u Datoteke > Xiaomi Share.</string>
   <string name="share_file_transfer_finish_open_dir">Prikaži</string>
   <string name="share_file_transfer_finish_title">Uspješno preneseno</string>
+  <string name="share_pc_folder_multi_error_dialog_ok">Razumijem</string>
+  <string name="share_to_settings_title">Međusobna povezanost</string>
   <string name="settings_pc">Računalo</string>
   <string name="settings_pc_handoff_title">Poveži se s računalom</string>
   <string name="settings_pc_history_title">Povijest povezivanja</string>

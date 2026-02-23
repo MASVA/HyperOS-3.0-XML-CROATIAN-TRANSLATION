@@ -80,6 +80,10 @@
 	 <plurals name="ai_generate_progress">
         <item quantity="other">Ovo će trajati oko %s sek.</item>
      </plurals>
+	 <plurals name="ai_wallpaper_input_characters">
+        <item quantity="one">Unesite %1$d–%2$d znak</item>
+        <item quantity="other">Unesite %1$d–%2$d znakova</item>
+     </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">Dostupna su ažuriranja za teme: %1$d</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>

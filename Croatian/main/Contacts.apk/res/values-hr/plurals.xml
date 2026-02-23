@@ -233,6 +233,10 @@
         <item quantity="other">Nedavni kontakti: %1$d</item>
         <item quantity="one">%1$d nedavni kontakt</item>
     </plurals>
+	<plurals name="private_access_selected">
+        <item quantity="one">Odabrana (%1$d) stavka</item>
+        <item quantity="other">Odabrano (%1$d) stavki</item>
+     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">Pronađeno: %d</item>
         <item quantity="one">Pronađeno: %d</item>

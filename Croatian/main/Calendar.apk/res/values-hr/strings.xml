@@ -238,6 +238,10 @@
   <string name="copy">Kopiraj</string>
   <string name="copy_email">Kopiraj adresu e-pošte</string>
   <string name="copy_number">Kopiraj broj telefona</string>
+  <string name="count_down_close_reminder">Isključiti podsjetnike za odbrojavanje?</string>
+  <string name="count_down_open_reminder">Uključiti podsjetnike za odbrojavanje?</string>
+  <string name="count_down_out_range">Funkcija odbrojavanja podržava samo podsjetnike unutar 1 sata. Prilagodite vrijeme podsjetnika, a zatim ga uključite.</string>
+  <string name="count_down_reminder_status">Odbrojavanje je započelo</string>
   <string name="count_down_date_view">Odbrojavanje</string>
   <string name="count_down_holiday">Odbrojavanje do praznika</string>
   <string name="count_down_holidays_china">%1$d-dnevni odmor</string>
@@ -424,6 +428,9 @@
   <string name="flight_event_delete_successfully">Itinerer leta uspješno izbrisan</string>
   <string name="flight_seat_no">Sjedalo %1$s</string>
   <string name="flight_state">Status leta</string>
+  <string name="focus_notification_open_setting_button_ok">Uključi</string>
+  <string name="focus_notification_open_setting_message">Uključite istaknute obavijesti za Kalendar kako biste mogli koristiti podsjetnike za odbrojavanje.</string>
+  <string name="focus_notification_open_setting_title">Uključiti istaknute obavijesti?</string>
   <string name="fourth_saturday_holiday">Svaka druga i četvrta subota slobodni su dani</string>
   <string name="free_day_default_banner_title">Uživajte u odmoru!</string>
   <string name="friday">Petak</string>
@@ -533,6 +540,7 @@
   <string name="launch_weather_comment">Dodirnite ovdje za informacije o vremenu</string>
   <string name="library_cert4android_libraryDescription">Knjižnica za upravljanje prilagođenim certifikatima u pohrani privatnih ključeva aplikacije</string>
   <string name="library_ical4android_libraryDescription">Knjižnica koja objedinjuje iCalendar i Android</string>
+  <string name="leave_for">Otvori</string>
   <string name="load_more_events">Pogledajte %d događaja</string>
   <string name="load_more_events_default">"Pogledajte događaje sljedeće godine"</string>
   <string name="load_more_hint">Pogledajte %1$d događaja</string>
@@ -1014,6 +1022,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_reminder_time">Vrijeme podsjetnika</string>
   <string name="pref_title_alarm_remind">Podsjetnici alarma</string>
+  <string name="pref_title_countdown_remind">Podsjetnik za odbrojavanje</string>
   <string name="pref_title_no_remind">Nema podsjetnika</string>
   <string name="pref_title_notification_remind">Podsjetnici obavijesti</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
@@ -1106,6 +1115,8 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="repeat_alarm_changed_train_event">Uvijek podsjećaj na vlakove</string>
   <string name="repeat_alarm_close_title">Ovo je ponovljeni događaj. Isključiti podsjetnik za alarm?</string>
   <string name="repeat_alarm_open_title">Ovo je ponovljeni događaj. Postaviti podsjetnik za alarm?</string>
+  <string name="repeat_count_down_close_title">Ovo se ponavlja. Želite li i dalje isključiti podsjetnike za odbrojavanje?</string>
+  <string name="repeat_count_down_open_title">Ovo se ponavlja. Želite li i dalje uključiti podsjetnike za odbrojavanje?</string>
   <string name="repeat_custom_activity_label">Prilagođeno</string>
   <string name="repeat_custom_prompt_daily">svaki %1$s</string>
   <string name="repeat_custom_prompt_sentence">Događaj će se ponoviti %1$s</string>
@@ -1322,6 +1333,7 @@ Također možete dodati podsjetnike kako ne biste propustili ništa važno."</st
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="time_until_start">Preostalo vrijeme</string>
   <string name="time_zone">Vremenska zona</string>
   <string name="timezone_label">Vremenska zona</string>
   <string name="tip_input_calendar_link">Unesite URL</string>

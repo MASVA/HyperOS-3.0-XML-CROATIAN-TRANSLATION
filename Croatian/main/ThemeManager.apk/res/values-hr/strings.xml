@@ -194,6 +194,14 @@
   <string name="ai_video_not_meet_requirement_dialog_message_new">Odaberite videozapis s osobom ili životinjom i provjerite je li subjekt jasan i bez prepreka.</string>
   <string name="ai_video_not_meet_requirement_dialog_title">"Ne mogu generirati videozapis"</string>
   <string name="ai_waiting_in_line_please_wait">"Na redu ste. Ostanite s nama…"</string>
+  <string name="ai_wallpaper_generation_effect_message">Za bolje rezultate, provjerite sadrži li odabrana fotografija do %d osoba ili kućnih ljubimaca.</string>
+  <string name="ai_wallpaper_generation_quality_message">Za bolje rezultate, provjerite sadrži li odabrana fotografija do %d osoba ili kućnih ljubimaca.</string>
+  <string name="ai_wallpaper_image_fail_message">Provjerite sadrži li odabrana fotografija samo jednog kućnog ljubimca.</string>
+  <string name="ai_wallpaper_image_fail_message_two">Provjerite sadrži li odabrana fotografija samo jednu osobu.</string>
+  <string name="ai_wallpaper_image_prompt">Pažnja</string>
+  <string name="ai_wallpaper_save_to_gallery">Uspješno spremljeno</string>
+  <string name="ai_wallpaper_select_generation_type">Vrsta slike</string>
+  <string name="ai_wallpaper_stop_generation">Stop</string>
   <string name="ai_wallpaper">Dinamičke pozadine umjetne inteligencije</string>
   <string name="ai_wallpaper_account_exception">"Izgleda da postoji problem s vašim računom. Pokušajte ponovno kasnije ili promijenite račun."</string>
   <string name="ai_wallpaper_cancel">Odustani</string>
@@ -1435,6 +1443,7 @@
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberite</string>
   <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
@@ -1973,6 +1982,8 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_more_suggestion">Više preporuka</string>
   <string name="rear_screen_notice">Obavijesti</string>
   <string name="rear_screen_service_assistant">Upravljanje stražnjim zaslonom</string>
+  <string name="rear_screen_sunlight_mode">Način rada na sunčevoj svjetlosti</string>
+  <string name="rear_screen_sunlight_mode_automatic_brightness_adjustment">Prilagodite svjetlinu jakom ambijentalnom svjetlu kako biste spriječili da zaslon postane previše taman</string>
   <string name="rear_screen_system_wallpaper_title">Pozadine</string>
   <string name="rear_screen_template_upper_limit">"Ne možete dodati više stavki. Izbrišite neke u Postavke &gt; Stražnji zaslon &gt; Personalizacija i pokušajte ponovno."</string>
   <string name="rear_screen_wallpaper_ai">Generiraj s umjetnom inteligencijom</string>
@@ -2591,6 +2602,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="theme_settings_title">Teme</string>
   <string name="theme_share_app_name">Mi Teme</string>
   <string name="theme_staggered_item_text">Primi Mi Kredite</string>
+  <string name="theme_store">Trgovina tema</string>
   <string name="theme_user_agreement_allow">Prihvaćam</string>
   <string name="theme_user_agreement_content1">"Korištenjem ovog proizvoda prihvaćate naše "</string>
   <string name="theme_user_agreement_content2">Korisnički ugovor</string>
@@ -2637,6 +2649,8 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="tip_lockscreen">Promijenite pozadinu zaključanog zaslona i sat</string>
   <string name="tip_lockscreen2">Koristite Rotirajuću pozadinu. Prilagođavanjem teme promijenit ćete pozadinu Zaključanog zaslona i sat.</string>
   <string name="tip_statusbar">Promijenite kontrolni centar i Panel obavijesti</string>
+  <string name="tips_login_xiaomi_account_for_ai_wallpaper">Prijavite se na svoj Xiaomi račun kako biste mogli koristiti AI pozadinu.</string>
+  <string name="tips_not_logged_in">Prvo se prijavite</string>
   <string name="tips_subscriptions_close">Pretplate na pozadine su isključene</string>
   <string name="tips_talk_later">Ne sada</string>
   <string name="tips_theme_gate_transfer_fail">"Ne mogu otvoriti ovu stranicu. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
@@ -2895,6 +2909,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="warning_subscribe_wallpaper_group_content">"Uključili ste dijaprojekciju početnog zaslona. %1$s bit će primijenjen na vaš početni zaslon."</string>
   <string name="warning_update_super_wallpaper">Ažuriraj Super pozadine</string>
   <string name="watermark_label_prefix">AdMob –</string>
+  <string name="watch_take_off_shelf">"Ova stavka nije dostupna. Istražite ostale zaslone!"</string>
   <string name="weather_no_data">Nema podataka o vremenskoj prognozi</string>
   <string name="wechat_not_found">Prvo instalirajte WeChat</string>
   <string name="wednesday">Srijeda</string>

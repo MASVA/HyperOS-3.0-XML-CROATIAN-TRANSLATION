@@ -1465,6 +1465,9 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="car_sickness_relief_comment_text">Kada se detektira kretanje vozila, točkice se prikazuju na obje strane zaslona kako bi pokazale da li se vozilo kreće, što može pomoći u odgađanju pojave mučnine.</string>
   <string name="car_sickness_relief_example_text_1">Kada vozilo ubrzava ili usporava</string>
   <string name="car_sickness_relief_example_text_2">Kada vozilo skreće ili mijenja trak</string>
+  <string name="car_sickness_relief_comment_text_opened">"Točkice će se prikazivati ​​s obje strane zaslona kako bi označile kretanje vozila, što može pomoći u odgađanju početka mučnine od putovanja.
+
+Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
   <string name="car_sickness_relief_exit_text">Ublažavanje mučnine od putovanja prestalo je djelovati</string>
   <string name="car_sickness_relief_start_text">Ublažavanje mučnine od putovanja djeluje</string>
   <string name="car_sickness_remind_time_title">Indikatori kretanja</string>
@@ -2729,6 +2732,12 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="game_toolbox_fps_average">Prosječno %d FPS</string>
   <string name="game_toolbox_fps_realtime">%d FPS u stvarnom vremenu</string>
   <string name="game_toolbox_fps_shake">Trhtanje %d FPS</string>
+  <string name="game_toolbox_gyro_boost_title">Pojačavanje žiroskopa</string>
+  <string name="game_toolbox_gyro_boost_toast">"Uključite žiroskop u postavkama igre da biste koristili ovu značajku"</string>
+  <string name="game_toolbox_smart_charge_title">Pametno punjenje</string>
+  <string name="game_toolbox_super_follow_up_msg_4.5">Podesite osjetljivost praćenja gesti: Visoka za bliže praćenje, niska za glatkije kretanje</string>
+  <string name="game_toolbox_super_shake_msg_4.5">Podesite osjetljivost upravljanja: Visoka za brži odziv, niska za veću stabilnost</string>
+  <string name="gamebox_eye_protect">Udobnost za oči u igri</string>
   <string name="game_toolbox_immersion_sound_desc">Kada koristite slušalice, precizno uhvatite zvučne efekte poput koraka i glasova, poboljšavajući uranjanje u igru</string>
   <string name="game_toolbox_immersion_sound_title">Imerzivni zvuk</string>
   <string name="game_toolbox_item_joystick_key_mapping">Tipka kontrolera</string>
@@ -2888,6 +2897,8 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="gb_smart_battery_surplus_new">%1$s %2$s preostalo</string>
   <string name="gb_smart_shake_description">Osjetljivost na male geste</string>
   <string name="gb_smotion_super_core_level_bar_desc">Osjetljivost</string>
+  <string name="gb_super_hot_area_msg_4.5">Prilagodite pokrivenost kontrolnog područja i osjetljivost na dodir</string>
+  <string name="gb_super_shake_4.5">Fine pametne kontrole</string>
   <string name="gb_super_follow_up_msg">Poboljašajte reaktivnost na dodir i praćenje kroz povezanost hardvera i softvera</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Obnovite svoju pretplatu da biste mogli koristiti povratne informacije u stvarnom vremenu.</string>
   <string name="gb_voice_changer_free">Besplatno</string>
@@ -4113,6 +4124,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="more_lock">Više</string>
   <string name="more_settings">Više</string>
   <string name="more_setting_summary">Prilagodite podsjetnike i postavite DND za ovu značajku</string>
+  <string name="msg_only_opening_screen">Pristup će biti ograničen prvih %d sekundi nakon pokretanja aplikacije</string>
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_up">Sakrij</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP je aktivan</string>
@@ -4910,7 +4922,8 @@ Način otpornosti na hladnoću"</string>
   <string name="performance_frame_enhance_super_display_tips">"Poboljšani broj sličica u sekundi i super rezolucija ne mogu raditi u isto vrijeme. Uključivanje jednog od njih isključit će drugo."</string>
   <string name="performance_frame_insert_super_display_tips">"Pametan broj sličica u sekundi i super rezolucija ne mogu biti na snazi u isto vrijeme. Uključivanje jednog isključit će drugo."</string>
   <string name="perm_desc_accessibility">Ovo je dopuštenje potrebno za pregled i kontrolu zaslona, ​​upravljanje aplikacijama i hardverskim senzorima prema vašim uputama i interakciju s aplikacijama u vaše ime.</string>
-  <string name="perm_disable_dialog_message">"Dopuštenje ove aplikacije (%1$s) nije prošla pregled."</string>
+  <string name="perm_disable_dialog_message">"Dopuštenje ove aplikacije (%1$s) nije prošlo pregled."</string>
+  <string name="perm_disable_dialog_title">Dopuštenja su ograničena</string>
   <string name="perm_disable_note_text">"Ovo dopuštenje nije prošlo pregled i sada je ograničeno: %1$s"</string>
   <string name="permdesc_coarse_location">Približna lokacija</string>
   <string name="permdesc_fine_location">Lokacija</string>

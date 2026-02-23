@@ -356,6 +356,9 @@
   <string name="exo_download_downloading">Preuzimanje</string>
   <string name="exo_download_failed">Ne mogu preuzeti</string>
   <string name="exo_download_notification_channel_name">Preuzimanja</string>
+  <string name="exo_download_paused">Preuzimanja pauzirana</string>
+  <string name="exo_download_paused_for_network">Preuzimanja čekaju mrežu</string>
+  <string name="exo_download_paused_for_wifi">Preuzimanja čekaju WiFi</string>
   <string name="exo_download_removing">Uklanjanje preuzimanja</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expanded">Prošireno</string>
@@ -865,5 +868,6 @@
   <string name="wifi_connected">Povezano</string>
   <string name="wifi_off">Isključeno</string>
   <string name="wifi_on">Uključeno</string>
+  <string name="wifi_opening">Uključivanje…</string>
   <string name="yesterday">Jučer</string>
 </resources>
