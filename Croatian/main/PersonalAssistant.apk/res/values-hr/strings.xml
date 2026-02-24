@@ -1100,7 +1100,6 @@ Dodajte widgete za početak."</string>
 	<string name="pa_travel_manual_toast_check_required_dept_time">Prvo unesite vrijeme polaska</string>
 	<string name="pa_travel_manual_toast_check_required_flight_no">Prvo unesite broj leta</string>
 	<string name="pa_travel_manual_toast_check_required_train_no">Prvo unesite broj vlaka</string>
-	<string name="pa_travel_manual_toast_check_required_train_no">Prvo unesite broj vlaka</string>
 	<string name="pa_travel_manual_toast_check_time">"Vrijeme dolaska ne može biti ranije od vremena polaska"</string>
 	<string name="pa_travel_manual_toast_save_failed_expired">Vrijeme ovog putovanja je već prošlo. Provjerite informacije i pokušajte ponovno.</string>
 	<string name="pa_travel_manual_toast_select_dept_station_first">Prvo odaberite polaznu stanicu</string>
