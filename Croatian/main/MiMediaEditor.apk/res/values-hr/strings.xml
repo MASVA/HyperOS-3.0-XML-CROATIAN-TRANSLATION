@@ -97,7 +97,7 @@
   <string name="adjust_dispersion_size">Veličina</string>
   <string name="adjust_dispersion_strength">Intenzitet</string>
   <string name="adjust_dispersion_tip">"Pomakni krug
-	  za podešavanje područja disperzije"</string>
+    za podešavanje područja disperzije"</string>
   <string name="adjust_exposure">Ekspozicija</string>
   <string name="adjust_faderray">Izblijediti</string>
   <string name="adjust_grain">Žitarica</string>
@@ -207,7 +207,7 @@
   <string name="ai_emote_loading_expression_replace">Zamjena izraza…</string>
   <string name="ai_emote_loading_title">Generiranje izraza…</string>
   <string name="ai_emote_notice_desc">"Koristite umjetnu inteligenciju da promijenite izraze ljudi na fotografijama.
-	  Za najbolje rezultate koristite ovu značajku na jasnim fotografijama okrenutim prema naprijed."</string>
+    Za najbolje rezultate koristite ovu značajku na jasnim fotografijama okrenutim prema naprijed."</string>
   <string name="ai_emote_process_max_limited">"Promijeni do %d izraza lica"</string>
   <string name="ai_emote_talkback_emote_0">Izvorni izraz</string>
   <string name="ai_emote_talkback_emote_1">Mali osmijeh</string>
@@ -1448,7 +1448,7 @@
   <string name="photo_editor_ai_beautify_new_upgrade">Potpuno novi AI Uljepšanje</string>
   <string name="photo_editor_ai_beautify_process_error">"Nije moguće uljepšati. Pokušajte ponovno."</string>
   <string name="photo_editor_ai_beautify_user_guide_desc">"Inteligentno identificirajte značajke slike i optimizirajte tonove i boje
-	  Poboljšajte svoju fotografiju jednim dodirom"</string>
+    Poboljšajte svoju fotografiju jednim dodirom"</string>
   <string name="photo_editor_ai_emote">Promijeni izraz</string>
   <string name="photo_editor_aicr_generation_failed">"Nije moguće generirati. Pokušajte ponovno."</string>
   <string name="photo_editor_aicr_generation_failed_v2">Došlo je do pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
@@ -1505,7 +1505,7 @@
   <string name="photo_editor_crop_outpaint_auto_name">Automatski</string>
   <string name="photo_editor_crop_outpaint_free_name">Prilagođeno</string>
   <string name="photo_editor_crop_outpaint_guide_desc">"Isprobajte potpuno novu AI ekspanziju!
-	  Zadržite izvorni omjer slike, odaberite vlastiti ili pustite umjetnoj inteligenciji da odluči."</string>
+    Zadržite izvorni omjer slike, odaberite vlastiti ili pustite umjetnoj inteligenciji da odluči."</string>
   <string name="photo_editor_crop_outpaint_name">Proširenje umjetne inteligencije</string>
   <string name="photo_editor_crop_outpaint_process_again">Pokušaj ponovno</string>
   <string name="photo_editor_crop_outpaint_process_begin">Početak</string>
@@ -1737,7 +1737,7 @@
   <string name="photo_editor_remover2_toast_no_things">"Nije moguće otkriti objekte"</string>
   <string name="photo_editor_remover2_toast_no_things_v2">"Nisu pronađeni objekti. Pokušajte s drugom fotografijom."</string>
   <string name="photo_editor_remover_pro_desc">"Značajke AI Erase 2.0 pro sada su još moćnije!
-	  Dodirnite Pro za korištenje."</string>
+    Dodirnite Pro za korištenje."</string>
   <string name="photo_editor_remover_pro_inpainting">Brisanje…</string>
   <string name="photo_editor_remover_pro_select_all_people">Odaberi sve</string>
   <string name="photo_editor_remover_pro_start_remove">Početak</string>
@@ -1836,6 +1836,78 @@
   <string name="photo_editor_talkback_undo">Poništi</string>
   <string name="photo_editor_text">Tekst</string>
   <string name="photo_editor_timing_burst_shooting_save_dialog_msg">Vremenski snimljene fotografije bit će spremljene kao duplikati.</string>
+  <string name="photo_editor_tips_copy_error">"Nije moguće kopirati"</string>
+  <string name="photo_editor_tips_no_copy_points">Nema valjanih točaka uređivanja</string>
+  <string name="photo_editor_tips_paste_error">"Nije moguće zalijepiti"</string>
+  <string name="photo_editor_tips_restore_error">"Nije moguće vratiti"</string>  
+  <string name="photo_editor_video_generation_cache_origin_dialog_msg">"Ako nastavite, bit ćete preusmjereni na značajku efekta Kineske Nove godine i nećete se moći vratiti na ovu stranicu da biste nastavili uređivati. Želite li ipak nastaviti?"</string>
+  <string name="photo_editor_video_generation_cache_origin_dialog_msg_v2">"Ako nastavite, bit ćete preusmjereni na značajku efekta Kineske Nove godine i nećete se moći vratiti na ovu stranicu da biste nastavili uređivati. Vaša trenutna uređivanja bit će spremljena kao nova slika. Želite li ipak nastaviti?"</string>
+  <string name="photo_editor_video_generation_cache_origin_dialog_title">Pažnja</string>
+  <string name="photo_editor_video_generation_export">Spremi u galeriju</string>
+  <string name="photo_editor_video_generation_export_again">Generiraj ponovno</string>
+  <string name="photo_editor_video_generation_export_live">Spremi kao trenutak uživo</string>
+  <string name="photo_editor_video_generation_export_video">Spremi videozapis u Galeriju</string>
+  <string name="photo_editor_video_generation_loading_page_background">Učitaj u pozadini</string>
+  <string name="photo_editor_video_generation_loading_page_fail">"Nije moguće učitati ovu stranicu. Pokušajte ponovno"</string>
+  <string name="photo_editor_video_generation_loading_page_retry">Pokušajte ponovno</string>
+  <string name="photo_editor_video_generation_loading_page_time_out">"Nije moguće učitati. Provjerite mrežne postavke."</string>
+  <string name="photo_editor_video_generation_spring_festival">Efekt Kineske Nove godine</string>
+  <string name="photo_editor_video_generation_spring_festival_blessing_dialog_hint">Unesite do %1$d znakova za generiranje pjesme</string>
+  <string name="photo_editor_video_generation_spring_festival_blessing_dialog_title">Prilagodi pjesmu</string>
+  <string name="photo_editor_video_generation_spring_festival_blessing_poem">Prilagođena pjesma</string>
+  <string name="photo_editor_video_generation_spring_festival_card">Čestitka</string>
+  <string name="photo_editor_video_generation_spring_festival_card_blessing_null">Nema poruke</string>
+  <string name="photo_editor_video_generation_spring_festival_card_blessing_random">Slučajna poruka</string>
+  <string name="photo_editor_video_generation_spring_festival_card_illegal_input_toast">Ovaj sadržaj može kršiti naše smjernice. Pokušajte ponovno.</string>
+  <string name="photo_editor_video_generation_spring_festival_end_toast">"Ova značajka nije dostupna"</string>
+  <string name="photo_editor_video_generation_spring_festival_exceed_task_limit_toast">Pričekajte da se trenutni zadatak dovrši prije dodavanja drugog</string>
+  <string name="photo_editor_video_generation_spring_festival_function_invalid_toast">Došlo je do pogreške poslužitelja. Provjerite postavke datuma i vremena ili mrežne postavke.</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_correct">Dobar primjer</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_cover_face">Lice je prekriveno</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_several_heads">Više subjekata</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_side_face">Lice je okrenuto na stranu ili nagnuto</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_small_head">Subjekt je premalen</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_tip">Za bolje rezultate prenesite jasnu fotografiju okrenutu prema naprijed:</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_tip_for_people">Za videozapise ili čestitke prenesite jasnu fotografiju jedne osobe okrenutu prema naprijed</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_tip_for_pet">Za čestitke s temom kućnih ljubimaca, prenesite jasnu fotografiju jednog ljubimca okrenutu prema naprijed</string>
+  <string name="photo_editor_video_generation_spring_festival_guide_dialog_title">Upute</string>
+  <string name="photo_editor_video_generation_spring_festival_introduction">Efekt Kineske Nove godine dostupan je sada. Izradite blagdanske videozapise, čestitke ili čestitke s temom kućnih ljubimaca za blagdansko vrijeme.</string>
+  <string name="photo_editor_video_generation_spring_festival_introduction_enter">Pokušajte</string>
+  <string name="photo_editor_video_generation_spring_festival_no_pet_toast">"Ljubimac nije prepoznat. Pokušajte ponovno."</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_channel_name">Efekt Kineske Nove godine</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_complete_msg">Dovršili ste %d zadatak. Dodirnite za pregled.</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_complete_title">Uspješno generirano</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_fail_msg">Dodirnite za ponovno generiranje</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_fail_title">"Nije moguće generirati"</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_processing_msg">Dodirnite za pregled napretka</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_processing_title">Generiranje efekta Kineske Nove godine…%s</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_time_out_msg">Provjerite mrežne postavke</string>
+  <string name="photo_editor_video_generation_spring_festival_notification_time_out_title">Vrijeme generiranja isteklo</string>
+  <string name="photo_editor_video_generation_spring_festival_pet">Kućni ljubimac</string>
+  <string name="photo_editor_video_generation_spring_festival_single_pet_toast">Prenesite fotografiju s jednim kućnim ljubimcem i pokušajte ponovno</string>
+  <string name="photo_editor_video_generation_spring_festival_tasks_empty_hint">Ovdje još ništa</string>
+  <string name="photo_editor_video_generation_spring_festival_tasks_notice">"Efekt Kineske Nove godine je vremenski ograničena značajka. Postat će nedostupan %s."</string>
+  <string name="photo_editor_video_generation_spring_festival_video">Video</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice">Glasovi</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_daily_female">Neutralni ženski glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_daily_male">Neutralni muški glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_dialog_positive">Dodaj</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_dialog_title">Odaberi glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_lively_female">Živahan ženski glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_lively_male">Živahan muški glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_null">Bez glasa</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_random">Slučajni glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_warm_female">Topli ženski glas</string>
+  <string name="photo_editor_video_generation_spring_festival_video_voice_warm_male">Topli muški glas</string>
+  <string name="photo_editor_video_generation_success">Uspješno generirano</string>
+  <string name="photo_editor_video_generation_tasks">Nedavni zadaci</string>
+  <string name="photo_editor_video_generation_tasks_button_check">Prikaži</string>
+  <string name="photo_editor_video_generation_tasks_button_queuing">Na čekanju…</string>
+  <string name="photo_editor_video_generation_tasks_button_retry">Pokušaj ponovno</string>
+  <string name="photo_editor_video_generation_tasks_delete_dialog_msg">Izbrisati ovu stavku sada?</string>
+  <string name="photo_editor_video_generation_tasks_header_completed">Završeno (%d)</string>
+  <string name="photo_editor_video_generation_tasks_header_failed">"Nije moguće obraditi (%d)"</string>
+  <string name="photo_editor_video_generation_tasks_header_processing">Obrada (%d)</string>
   <string name="photo_editor_virtualization">AI slika</string>
   <string name="photo_editor_water_mark">Oznaka</string>
   <string name="photo_editor_watermark">Oznaka</string>
@@ -1849,14 +1921,19 @@
   <string name="photo_guide_desc_mark_new_change">Kombinirajte crteže, mozaik, tekst i naljepnice za lakše označavanje.</string>
   <string name="photo_guide_desc_new_save">Spremite uređene fotografije kao duplikate ili zamijenite izvornu fotografiju uz zadržavanje svih uređivanja (npr. izrezivanja, prilagodbe, filtere, vodene žigove i oznake). Original možete vratiti kasnije.</string>
   <string name="photo_guide_desc_quality_enhance_refresh">Dobijte ultra jasne slike s oštrijim i profinjenijim detaljima portreta.</string>
+  <string name="photo_guide_desc_remove_glare">Možete dodirnuti za uklanjanje odsjaja objektiva, uključujući odsjaj u obliku latica, pruge i efekt duhova</string>
   <string name="photo_guide_desc_smart_beauty_new_change">Prilagodite ključne postavke poput ekspozicije, zasićenosti i kontrasta kako biste odmah stvorili zapanjujuće, atmosferične slike fotografije.</string>
   <string name="photo_guide_desc_watermark_new_change">Odaberite između više stilova vodenih žigova i omjera kadrova za učinkovitije uređivanje.</string>
+  <string name="photo_guide_title_remove_glare">Ukloni odsjaj</string>
   <string name="photo_guide_tittle_copy_batch_edit">Kopiranje i uređivanje više stavki</string>
   <string name="photo_guide_tittle_mark_new_change">Potpuno novo označavanje</string>
   <string name="photo_guide_tittle_new_save">Nove opcije spremanja</string>
   <string name="photo_guide_tittle_quality_enhance_new_change">Potpuno novi Ultra HD</string>
   <string name="photo_guide_tittle_smart_beauty_new_change">AI uljepšavanje</string>
   <string name="photo_guide_tittle_watermark_new_change">Nadograđeni vodeni žigovi</string>
+  <string name="photo_live_photo_effect_bounce">Odbijanje</string>
+  <string name="photo_live_photo_effect_none">Bez efekta</string>
+  <string name="photo_live_photo_effect_reverse">Obrnuto</string>
   <string name="photo_mark_doodle_hint">Dodirnite ponovno za više opcija</string>
   <string name="photo_navi_mark_hint">Ovdje dodajte crteže, tekst, mozaik i naljepnice</string>
   <string name="photo_portrait_color_download_fail">"Preuzimanje dodatka nije uspjelo. Spojite se na mrežu i pokušajte ponovo."</string>
@@ -1873,6 +1950,7 @@
   <string name="photo_watermark_tab_name_film">Film</string>
   <string name="photo_watermark_tab_name_frame">Okvir</string>
   <string name="photo_watermark_tab_name_limited_event">Natjecanja</string>
+  <string name="photo_watermark_tab_name_picture_frame">Okvir</string>
   <string name="photo_watermark_tab_name_sports">Sport</string>
   <string name="photo_watermark_talkback_button_none">Bez vodenog žiga</string>
   <string name="play_gif_desc">Reproduciraj GIF</string>
@@ -1900,9 +1978,13 @@
   <string name="pref_wm_custom_text_title">Prilagođeni tekst</string>
   <string name="pref_wm_default_icon">Zadani vodeni žig</string>
   <string name="pref_wm_default_signature">Zadani potpis vodenim žigom</string>
-  <string name="pref_wm_dynamic_background_summary_title">Prikaži dinamičnu pozadinu okvira za dinamične snimke</string>
+  <string name="pref_wm_dynamic_background_summary_title">Prikaži dinamičnu pozadinu okvira za trenutke uživo</string>
   <string name="pref_wm_dynamic_background_title">Dinamička pozadina</string>
+  <string name="pref_wm_dynamic_effect_summary_title">Efekti dinamičkog vodenog žiga dostupni su samo za trenutke uživo. Nakon što ga dodate, možete ga pregledati na stranici trenutaka uživo.</string>
+  <string name="pref_wm_dynamic_effect_title">Dinamički efekti</string>
   <string name="pref_wm_frame_background_title">Pozadina okvira</string>
+  <string name="pref_wm_frame_image_title">Slika vodenog žiga</string>
+  <string name="pref_wm_greeting_content_title">Pozdrav</string>
   <string name="pref_wm_greeting_title">Blagdanska poruka</string>
   <string name="pref_wm_hf_banned_tip">"Ova slika ne ispunjava uvjete. Zamijenite je i pokušajte ponovno."</string>
   <string name="pref_wm_hf_loading_identity_tip">Prepoznavanje potpisa…</string>
@@ -1947,7 +2029,19 @@
   <string name="privacy_permission_request_title">Potrebna su dopuštenja</string>
   <string name="projection_screen_project_in_screening">"Sada upotrebljavate svoj uređaj za emitiranje"</string>
   <string name="refocus_desc">Fokusiraj ponovno</string>
-  <string name="refocus_photo_not_support">"Ne mogu primijeniti zamućenje na ovu fotografiju"</string>
+  <string name="refocus_effect">Zamućenje</string>
+  <string name="refocus_live_apply_origin">Efekt zamućenja bit će primijenjen na originalnu naslovnicu</string>
+  <string name="refocus_live_disable_hint_content">"Ako koristite ovo uređivanje, nećete moći prilagoditi zamućenje i ova dinamična snimka bit će pretvorena u običnu fotografiju. Želite li ipak nastaviti?"</string>
+  <string name="refocus_live_disable_hint_title">Ograničene mogućnosti uređivanja</string>
+  <string name="refocus_live_switch_off">"Pretvoreno u običnu fotografiju. Podešavanje zamućenja nije dostupno."</string>
+  <string name="refocus_live_switch_on">Vraćene opcije dinamičke snimke i podešavanja zamućenja</string>
+  <string name="refocus_photo_not_support">"Ne mogu prilagoditi zamućenje na ovoj fotografiji"</string>
+  <string name="refocus_reset_content">Ponovnim podešavanjem zamućenja izbrisat će se sva trenutna uređivanja. Želite li ipak nastaviti?</string>
+  <string name="refocus_reset_title">Izbriši uređivanja</string>
+  <string name="refocus_switch_disable_content">Ova fotografija više ne podržava podešavanje zamućenja. Možete poništiti uređivanja ili vratiti original da biste ponovno prilagodili zamućenje.</string>
+  <string name="refocus_switch_disable_title">"Zamućenje se ne može prilagoditi"</string>
+  <string name="refocus_switch_off">Više ne možete prilagoditi zamućenje</string>
+  <string name="refocus_switch_on">Sada možete prilagoditi zamućenje</string>
   <string name="refocus_type_static">Zamućenje</string>
   <string name="remove_obj_mode_circle">Krug</string>
   <string name="remove_obj_mode_manual">Brisanje</string>
@@ -1955,6 +2049,7 @@
   <string name="remover_edit_type_line">Linije</string>
   <string name="remover_erase_aera_too_big">Područje brisanja je preveliko</string>
   <string name="remover_menu_processing">Obrada</string>
+  <string name="return_motion_photo_hint">Vraćeno u živi trenutak</string>
   <string name="saf_operation_guide_1">"Uređivač galerije treba vaše dopuštenje da bi mogao zaštititi vaše podatke i upravljati njima. "</string>
   <string name="saf_operation_guide_2">Da biste dali dopuštenje, dodirnite \"%1$s\", a zatim odaberite \"%2$s\".</string>
   <string name="saf_operation_guide_param1">Dalje</string>
@@ -2017,44 +2112,44 @@
   <string name="settings_ai_editor_ai_image_description">Potpuno nova AI slika omogućuje vam stvaranje slika u više stilova. Za najbolje rezultate prenesite fotografije s jasno vidljivim licima</string>
   <string name="settings_ai_editor_ai_image_description_new">Automatski generirajte videozapise iz fotografija i isječaka. Birajte između raznih predložaka za jednostavno stvaranje personaliziranog sadržaja.</string>
   <string name="settings_ai_editor_ai_image_guide_new">"1. Pritisnite i držite za odabir više stavki u Galeriji, a zatim dodirnite \"Kreativnost\" i \"Automatski\".
-	2. Odaberite svoje postavke i dodirnite \"Stvori\"."</string>
+  2. Odaberite svoje postavke i dodirnite \"Stvori\"."</string>
   <string name="settings_ai_editor_ai_image_new">AI slika</string>
   <string name="settings_ai_editor_emoji_change_description_new">Zamijenite izraze pomoću AI. Dostupni su višestruki stilovi za različite scene. Za najbolje rezultate prenesite jasnu fotografiju okrenutu prema naprijed.</string>
   <string name="settings_ai_editor_emoji_change_guide_new">"1. Otvorite jasnu portretnu fotografiju u Galeriji, a zatim dodirnite \"Uredi\", \"Portret\" i \"Promijeni izraz\".
-	2. Odaberite izraz i potvrdite."</string>
+  2. Odaberite izraz i potvrdite."</string>
   <string name="settings_ai_editor_emoji_change_new">Promijeni izraz</string>
   <string name="settings_ai_editor_expand">Proširenje AI slike</string>
   <string name="settings_ai_editor_expand_description">Novo, umjetnom inteligencijom podržano proširenje slike. Zadržite izvorni omjer slike, odaberite vlastiti ili pustite umjetnoj inteligenciji da odluči</string>
   <string name="settings_ai_editor_expand_description_new">Inteligentno proširite slike u više omjera. Slobodno prilagodite kompoziciju kako biste proširili svoje platno.</string>
   <string name="settings_ai_editor_expand_guide_new">"1. Otvorite fotografiju u Galeriji, a zatim dodirnite \"Uredi\", \"Stvori\" i \"Proširi\".
-	2. Odaberite omjer i prilagodite položaj, a zatim dodirnite \"Početak\".</string>
+  2. Odaberite omjer i prilagodite položaj, a zatim dodirnite \"Početak\".</string>
   <string name="settings_ai_editor_expand_new">AI proširenje slike</string>
   <string name="settings_ai_editor_gudie_new">Kako koristiti</string>
   <string name="settings_ai_editor_image_beautiy_decription_new">Automatsko otkrivanje značajki slike i optimiziranje boje i tona. Poboljšajte portrete, pejzaže i snimke hrane za prirodan, kinematografski izgled.</string>
   <string name="settings_ai_editor_image_beautiy_guide_new">"1. Otvorite fotografiju u Galeriji, a zatim dodirnite \"Uredi\" i \"Prilagodi\".
-	2. Dodirnite \"AI uljepšavanje\" za poboljšanje slike."</string>
+  2. Dodirnite \"AI uljepšavanje\" za poboljšanje slike."</string>
   <string name="settings_ai_editor_image_beautiy_new">AI uljepšavanje</string>
   <string name="settings_ai_editor_image_restoration">AI poboljšanje slike</string>
   <string name="settings_ai_editor_image_restoration_description">Poboljšajte jasnoću slike jednim dodirom koristeći naš novi algoritam velikog modela</string>
   <string name="settings_ai_editor_image_restoration_description_new">Poboljšajte jasnoću slike i vratite fine detalje jednim dodirom. Vratite mutne fotografije u život bez napora.</string>
   <string name="settings_ai_editor_image_restoration_guide_new">"1. Otvorite fotografiju u Galeriji, a zatim dodirnite \"Uredi\" i \"Prilagodi\".
-	2. Dodirnite \"Ultra HD\" za poboljšanje slike."</string>
+  2. Dodirnite \"Ultra HD\" za poboljšanje slike."</string>
   <string name="settings_ai_editor_image_restoration_new">Ultra HD</string>
   <string name="settings_ai_editor_intelligent_filming">AI film</string>
   <string name="settings_ai_editor_intelligent_filming_description">Učitajte fotografije i videozapise za automatsko generiranje videozapisa uz pomoć AI-ja ili unesite upite za stvaranje nečeg potpuno novog</string>
   <string name="settings_ai_editor_intelligent_filming_description_new">Izradite kinematografske AI videozapise s više atmosferskih stilova, uključujući pramenove kose i efekte plavog sata. Prenesite jasne fotografije lica za najbolje rezultate.</string>
   <string name="settings_ai_editor_intelligent_filming_guide_new">"1. Otvorite jasnu portretnu fotografiju u Galeriji, a zatim dodirnite \"Uredi\", \"Portret\" i \"AI slika\".
-	2. Odaberite stil i potvrdite."</string>
+  2. Odaberite stil i potvrdite."</string>
   <string name="settings_ai_editor_intelligent_filming_new">AI film</string>
   <string name="settings_ai_editor_matting_description_new">Automatski identificira subjekte i odvaja ih od pozadine. Jednostavno izrežite, premjestite ili zamijenite pozadine za zabavna i kreativna uređivanja.</string>
   <string name="settings_ai_editor_matting_guide_new">"1. Otvorite fotografiju u Galeriji, a zatim dodirnite \"Uredi\", \"Stvori\" i \"Obreži\".
-	2. Povucite objekt na novo mjesto, odaberite novu pozadinu ili jednostavno dodirnite \"Početak\"."</string>
+  2. Povucite objekt na novo mjesto, odaberite novu pozadinu ili jednostavno dodirnite \"Početak\"."</string>
   <string name="settings_ai_editor_matting_new">Izrez</string>
   <string name="settings_ai_editor_remover">AI Erase Pro</string>
   <string name="settings_ai_editor_remover_description">Brisanje bez traga uz nadograđene značajke AI Erase Pro</string>
   <string name="settings_ai_editor_remover_description_new">Precizno uklonite prolaznike ili neželjene objekte dok inteligentno popravljate teksture i osvjetljenje pozadine za čišću sliku.</string>
   <string name="settings_ai_editor_remover_guide_new">"1. Otvorite fotografiju u Galeriji, a zatim dodirnite \"Uredi\", \"Stvori\" i \"Izbriši\".
-	2. Odaberite želite li ukloniti objekte, ljude ili odraze, a zatim dodirnite \"Početak\"."</string>
+  2. Odaberite želite li ukloniti objekte, ljude ili odraze, a zatim dodirnite \"Početak\"."</string>
   <string name="settings_ai_editor_summary">Izradite i uredite fotografije i videozapise</string>
   <string name="settings_ai_editor_title">AI kreativni asistent</string>
   <string name="share_album_qr_code">"QR kod albuma"</string>
@@ -2287,6 +2382,21 @@
   <string name="unrecognized_manufacture">Nepoznato</string>
   <string name="unrecognized_model">Nepoznati uređaj</string>
   <string name="unsupport_type">"Ovaj format nije podržan"</string>
+  <string name="update_apk_size">Veličina: %s</string>
+  <string name="update_btn_negative">Nije sada</string>
+  <string name="update_btn_positive">Ažuriranje</string>
+  <string name="update_check">Provjeri ažuriranja</string>
+  <string name="update_check_title">Trenutna verzija: %s</string>
+  <string name="update_ignore">Ignoriraj ovu verziju</string>
+  <string name="update_latest_version">Ažurirano</string>
+  <string name="update_new_version">Dostupno ažuriranje</string>
+  <string name="update_title">Dostupno ažuriranje</string>
+  <string name="upgrade_dialog_bugfix_message">Ispravljene neke poznate greške i optimizirano korisničko iskustvo.</string>
+  <string name="upgrade_dialog_ignore_version">Ignoriraj ovu verziju</string>
+  <string name="upgrade_dialog_package_size">Veličina ažuriranja: %s MB</string>
+  <string name="upgrade_dialog_title">Nova verzija dostupna</string>
+  <string name="upgrade_dialog_update_not_now">Trenutno nije</string>
+  <string name="upgrade_dialog_update_now">Ažuriranje</string>
   <string name="user_agree">Prihvaćam</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement4">Pravila o privatnosti</string>
@@ -2298,6 +2408,7 @@
   <string name="video_adjust">Prilagodi</string>
   <string name="video_adjust_add">Dodaj prilagodbu</string>
   <string name="video_adjust_serial_num">Prilagodi: %d</string>
+  <string name="video_ai_auto_dialog_msg">Korištenjem ove značajke prebrisat ćete trenutne izmjene. Želite li ipak nastaviti?</string>
   <string name="video_analytic_cancel">Odustani</string>
   <string name="video_analytic_download">Preuzmi</string>
   <string name="video_analytic_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
@@ -2332,7 +2443,8 @@
   <string name="video_compress_not_with_low_quality">Trenutna rezolucija je najniža</string>
   <string name="video_compress_save_stop_tips">Dodirnite ponovo da zaustavite sažimanje</string>
   <string name="video_compress_size">≈%s nakon sažimanja</string>
-  <string name="video_description_summary_basic_editor_filter">Primijenite različite stilove filtera poput filma ili crno-bijelog na svoje videozapise.</string>
+  <string name="video_description_summary_basic_editor_filter">Primijenite različite stilove filtera na svoj video zapis, kao što su Film ili Crno-bijelo. Filtre za vraćanje možete primijeniti i na videozapise Log.</string>
+  <string name="video_description_summary_basic_editor_filter_link_text">Preuzmite LUT za vraćanje</string>
   <string name="video_description_summary_basic_editor_music">Dodajte online ili lokalnu glazbu svom video zapisu.</string>
   <string name="video_description_summary_basic_editor_ratio">"Promijenite omjer slike videozapisa na %1$d:%2$d, %3$d:%4$d, %5$d:%6$d i više."</string>
   <string name="video_description_summary_basic_editor_regulator">Prilagodite svjetlinu videozapisa, kontrast, temperaturu boje, zasićenost i više.</string>
@@ -2340,6 +2452,7 @@
   <string name="video_description_summary_basic_editor_trim">Odrežite, promijenite brzinu ili duplicirajte videoisječke.</string>
   <string name="video_description_summary_draft">Spremite nedovršene projekte za daljnje uređivanje.</string>
   <string name="video_description_tab_draft">Skice</string>
+  <string name="video_draft_cancel_tips">Svoj nacrt možete pogledati u Uredi > Više > Nacrt.</string>
   <string name="video_draft_copy_suffix">%s (kopija)</string>
   <string name="video_draft_delete_message">Želite li sada izbrisati odabranu skicu?</string>
   <string name="video_draft_delete_title">Izbriši skicu</string>
@@ -2455,7 +2568,7 @@
   <string name="video_editor_video_loading">Priprema videozapisa… Pričekajte trenutak ili dva i pokušajte ponovo.</string>
   <string name="video_editor_watermark">Vodeni žig</string>
   <string name="video_filter_add">Dodaj filtar</string>
-  <string name="video_guide_desc_intelligent_filming">Stvorite filmske priče uz pomoć montaže, glazbe i titlova koje pokreće umjetna inteligencija.</string>
+  <string name="video_guide_desc_intelligent_filming">Automatski prepoznajte isječke i inteligentno ih uredite kako biste stvorili filmske priče. Također možete generirati glazbu i titlove pomoću umjetne inteligencije</string>
   <string name="video_guide_desc_layout_new_change">Novi način osvjetljenja i prilagodbe izgleda poboljšavaju učinkovitost uređivanja.</string>
   <string name="video_guide_desc_new_draft">Spremite svoj napredak u skice videozapisa.</string>
   <string name="video_guide_tittle_intelligent_filming">Potpuno novi film s umjetnom inteligencijom</string>
@@ -2474,10 +2587,28 @@
   <string name="video_post_load_data_fail">"Učitavanje podataka nije uspjelo"</string>
   <string name="video_post_module_finish">Dodatak \"Video efekti\" uspješno preuzet</string>
   <string name="video_post_module_loading">Preuzimanje \"Video efekti\" dodatka…</string>
+  <string name="video_processing">Obrada…</string>
   <string name="video_track_add_video_talkback">Dodaj videozapis</string>
   <string name="video_track_audio_collection">Glazbeni sloj</string>
   <string name="video_track_text_collection">Tekstualni sloj</string>
   <string name="video_transition_unsupport8k">"Prijelazi nisu podržani za 8K videozapise"</string>
+  <string name="video_tuning_action_name">Miks konzola</string>
+  <string name="video_tuning_audio_handle_minimize">Minimiziraj</string>
+  <string name="video_tuning_audio_handle_minimize_progress">Obrada zvuka %s</string>
+  <string name="video_tuning_audio_handle_progress">Obrada zvuka…</string>
+  <string name="video_tuning_audio_handle_success">Zvuk uspješno obrađen</string>
+  <string name="video_tuning_cancel_audio_deal_title">Obrada zvuka. Odustati sada?</string>
+  <string name="video_tuning_handing">"Ne mogu izvršiti ovu radnju dok koristim miks konzolu"</string>
+  <string name="video_tuning_handle_limit_clip">Obrezivanjem ovog videozapisa uklonit će se efekti miksanja zvuka. Nastaviti svejedno?</string>
+  <string name="video_tuning_handle_limit_cut_audio">"Dijeljenje zvuka ovog videozapisa uklonit će efekte miksanja zvuka. Nastaviti svejedno?"</string>
+  <string name="video_tuning_handle_limit_reverse">Premotavanje ovog videozapisa unatrag uklonit će efekte miksanja zvuka. Nastaviti svejedno?</string>
+  <string name="video_tuning_handle_limit_speed">Promjena brzine ovog videozapisa uklonit će efekte miksanja zvuka. Nastaviti svejedno?</string>
+  <string name="video_tuning_handle_limit_split">Rezanje ovog videozapisa uklonit će efekte miksanja zvuka. Želite li ipak nastaviti?</string>
+  <string name="video_tuning_menu_bgm">Pozadinski zvuk</string>
+  <string name="video_tuning_menu_music">Glazba</string>
+  <string name="video_tuning_menu_smart">Automatski</string>
+  <string name="video_tuning_menu_vocal">Glas</string>
+  <string name="video_tuning_no_audio_recognized">"Zvuk nije prepoznat. Pokušajte s drugim videozapisom."</string>
   <string name="video_with_time">Videozapis snimljen %s</string>
   <string name="video_with_time_and_location">Videozapis snimljen %1$s. Lokacija: %2$s.</string>
   <string name="view_more_face_desc">Prikaži više osoba</string>
@@ -2492,7 +2623,7 @@
   <string name="virtualization_loading_title">Generiranje AI slike</string>
   <string name="virtualization_loading_title_v2">Generiranje…</string>
   <string name="virtualization_notice_desc">"Generirajte portrete u više stilova.
-	  Prenesite fotografije s jasnim crtama lica za najbolje rezultate."</string>
+    Prenesite fotografije s jasnim crtama lica za najbolje rezultate."</string>
   <string name="virtualization_notice_label_ai">generirano umjetnom inteligencijom</string>
   <string name="virtualization_notice_type">AI slika</string>
   <string name="virtualization_origin">Original</string>
@@ -2762,6 +2893,9 @@
   <string name="vlog_filter_tag_lut">LUT</string>
   <string name="vlog_filter_tag_movie">Film</string>
   <string name="vlog_filter_video_log">Rec.709</string>
+  <string name="vlog_filter_video_log_classic">Klasika</string>
+  <string name="vlog_filter_video_log_cooltone">Cool</string>
+  <string name="vlog_filter_video_software">Toplo</string>
   <string name="vlog_filter_wangjiao">Carmen</string>
   <string name="vlog_filter_western">Agava</string>
   <string name="vlog_filter_white_mist">Bijela magla</string>
@@ -3091,6 +3225,9 @@
   <string name="wm_signature_preview_tip">Pregled izdvajanja potpisa</string>
   <string name="wm_signature_preview_title">Pregled</string>
   <string name="wm_signature_view_region_hint">Područje potpisa</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriranje</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="yesterday">Jučer</string>
   <string name="yuzhitiaojie">Skala za podešavanje debljine</string>
   <string name="zi_ding_yi_wenben">Prilagođena veličina</string>

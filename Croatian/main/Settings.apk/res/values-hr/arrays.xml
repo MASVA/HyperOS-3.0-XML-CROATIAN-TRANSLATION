@@ -377,6 +377,12 @@
 		   <item>Omogući neobavezne kodeke</item>
         <item>Onemogući neobavezne kodeke</item>
     </string-array>
+	 <string-array name="bluetooth_audio_active_device_array">
+        <item></item>
+			<item>Aktivno (mediji i pozivi)</item>
+			<item>Aktivno (mediji)</item>
+			<item>Aktivno (pozivi)</item>
+    </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>" | Aktivno"</item>
@@ -485,6 +491,14 @@
         <item>IT</item>
         <item>PT</item>
         <item>FR</item>
+    </string-array>
+	 <string-array name="bt_half_close_switch_list_entries">
+       <item>Isključi sve</item>
+       <item>Dopusti usluge sustava</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_summary">
+        <item>Svi Bluetooth uređaji i značajke bit će isključeni</item>
+        <item>Neke usluge sustava nastavit će koristiti Bluetooth</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Onemogućeno</item>

@@ -262,6 +262,22 @@
         <item quantity="other">Najmanje %d aplikacija</item>
         <item quantity="one">Najmanje %d aplikacija</item>
     </plurals>
+	<plurals name="enter_digit_password_max_length">
+        <item quantity="one">Možete unijeti do %1$d znamenke</item>
+        <item quantity="other">Možete unijeti do %1$d znamenki</item>
+    </plurals>
+    <plurals name="enter_digit_password_min_length">
+        <item quantity="one">Unesite najmanje %1$d znamenku</item>
+        <item quantity="other">Unesite najmanje %1$d znamenki</item>
+    </plurals>
+    <plurals name="enter_mix_password_max_length">
+        <item quantity="one">Možete unijeti do %d znak</item>
+        <item quantity="other">Možete unijeti do %d znakova</item>
+    </plurals>
+    <plurals name="enter_mix_password_min_chars">
+        <item quantity="one">Unesite najmanje %1$d znak</item>
+        <item quantity="other">Unesite najmanje %1$d znakova</item>
+    </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Ograničena veza za %s aplikacija</item>
         <item quantity="one">Ograničena veza za %s aplikaciju</item>
@@ -337,6 +353,10 @@
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">Povezano je %d aplikacija</item>
         <item quantity="one">Povezana je %d aplikacijad</item>
+    </plurals>
+	<plurals name="keyguard_lock_too_many_attempts">
+        <item quantity="one">Previše pokušaja. Pokušajte ponovno za %ds.</item>
+        <item quantity="other">Previše pokušaja. Pokušajte ponovno za %ds.</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
@@ -564,10 +584,18 @@
         <item quantity="other">Aplikacije crpe bateriju</item>
         <item quantity="one">%1$s aplikacija crpi bateriju</item>
     </plurals>
+	<plurals name="pluto_switch_headset_anti_lost_with_fall_summary">
+        <item quantity="one">"Primite podsjetnik ako vam ispadnu slušalice ili ih ne nosite i ako su izvan kućišta više od %d minute"</item>
+        <item quantity="other">"Primite podsjetnik ako vam ispadnu slušalice ili ih ne nosite i ako su izvan kućišta više od %d minuta"</item>
+    </plurals>
 	 <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
         <item quantity="other">Suglasnost možete povući za %d sekundi</item>
         <item quantity="one">Suglasnost možete povući za %d sekundu</item>
      </plurals>
+	 <plurals name="remaining_attempts_message">
+        <item quantity="one">Još %1$d pokušaj</item>
+        <item quantity="other">Još %1$d pokušaja</item>
+    </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">Broj zadataka ispisa: %1$d</item>
         <item quantity="one">1 zadatak ispisa</item>
@@ -816,6 +844,14 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>
+    </plurals>
+	<plurals name="tiny_accessibility_battery_level">
+        <item quantity="one">Razina baterije sada je %s posto</item>
+        <item quantity="other">Razina baterije sada je %s posto</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="one">Punjenje. Razina baterije sada je %d posto.</item>
+        <item quantity="other">Punjenje. Razina baterije sada je %d posto.</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Otključano %d puta</item>

@@ -446,6 +446,9 @@
   <string name="notice_content_no_asr_long_time">Nije održan govor detektirano dulje vrijeme.</string>
   <string name="notice_for_ai_search_tips">Detalji</string>
   <string name="notice_title_is_need_stop_ai_recognize">Isključiti prepoznavanje govora umjetnom inteligencijom?</string>
+  <string name="notification_for_asr_in_decode">Obrada…</string>
+  <string name="notification_for_asr_in_progress">Transkripcija putem umjetne inteligencije %s</string>
+  <string name="notification_for_asr_in_progress_with_polish">Poliranje putem umjetne inteligencije %s</string>
   <string name="notification_message_all_paused">Čekanje na Wi-Fi vezu.</string>
   <string name="notification_pause_playback">Reprodukcija pauzirana</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
@@ -454,10 +457,12 @@
   <string name="notification_recording_ticker_for_pad">Vaš uređaj sada snima zvuk u Bešumnom načinu. Pomoću tipki za glasnoću isključite Bešumni način.</string>
   <string name="notification_save_as_complete">Uspješno spremljeno</string>
   <string name="notification_stopped">Snimanje zaustavljeno</string>
+  <string name="notification_title_AI_POLISH_FAILED">"Poliranje nije uspjelo"</string>
   <string name="notification_title_AI_RECOGNIZE_FINISHED">Transkripcija završena</string>
   <string name="notification_title_AI_SUMMARY_FAILED">"Nije moguće sažeti"</string>
   <string name="notification_title_AI_SUMMARY_SUCCESS">Sažetak završen</string>
   <string name="notification_title_SUMMARY_SUCCESS">Uspješno sažeto</string>
+  <string name="notification_title_AI_RECOGNIZE_FINISHED_with_polish">Uspješno polirano</string>
   <string name="notification_title_all_paused">Preuzimanje pauzirano</string>
   <string name="nrt_asr_complete">Transkripcija završena. Dodirnite za osvježavanje.</string>
   <string name="offline_recognize_transfer_format">Transkripcija…</string>
@@ -757,6 +762,7 @@
   <string name="recognize_tip_part_two">Pokušajte ponovno</string>
   <string name="recognizing_not_rename">"Ne mogu preimenovati tijekom snimanja"</string>
   <string name="record">Snimi</string>
+  <string name="record_ai_polish_fail">"Poliranje nije uspjelo. Pokušajte ponovno."</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snimanja, dodirnite Natrag ponovno</string>
   <string name="record_close_tag_list">Zatvori popis oznaka</string>
   <string name="record_download">Preuzimanje s Xiaomi Clouda</string>
@@ -789,7 +795,9 @@
   <string name="record_scenes_summaries_stereo_music">Snimajte kroz %d kanala, slušajte stereo zvuk u slušalicama</string>
   <string name="record_scenes_summaries_stereo_voice">Približite mikrofon izvoru zvuka za bolju kvalitetu</string>
   <string name="record_scenes_summaries_voice">Približite mikrofon izvoru zvuka za bolju kvalitetu</string>
+  <string name="record_sensitive_polish_fail">"Nije moguće polirati osjetljivi sadržaj"</string>
   <string name="record_stop_recognize">Zaustavi transkripciju</string>
+  <string name="record_trans_too_large">Snimka je preduga za transkripciju</string>
   <string name="record_while_in_call_tip">"Nije moguće snimati tijekom poziva"</string>
   <string name="recorder_finished">Snimanje završeno</string>
   <string name="recorder_started">Snimanje započelo</string>

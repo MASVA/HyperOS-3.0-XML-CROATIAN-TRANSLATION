@@ -521,11 +521,14 @@ dd.MM."</string>
   <string name="kg_talkback_back">Natrag</string>
   <string name="kg_talkback_cancel_wallpaper_custom">Otkaži postavljanje pozadine</string>
   <string name="kg_talkback_desktop_wallpaper_preview">Pregled pozadine početnog zaslona</string>
+  <string name="kg_talkback_double_tap_to_activate">Dvaput dodirnite za aktivaciju</string>
   <string name="kg_talkback_effect_dialog">Ploča s efektima, trenutni efekt: %s</string>
   <string name="kg_talkback_follow_the_keyguard">Sinkroniziraj pozadinu, početni zaslon će se podudarati s pozadinom zaključanog zaslona</string>
   <string name="kg_talkback_giving_up_editing">"Odbaci promjene, uređivanja pozadine neće biti spremljena"</string>
   <string name="kg_talkback_keyguard_wallpaper_preview">Pregled pozadine zaključanog zaslona</string>
   <string name="kg_talkback_not_selected">Nije odabrano</string>
+  <string name="kg_talkback_off">Isključeno</string>
+  <string name="kg_talkback_on">Uključeno</string>
   <string name="kg_talkback_pick_wallpaper">Pozadinu, odaberi iz biblioteke</string>
   <string name="kg_talkback_select_all">Odaberi sve</string>
   <string name="kg_talkback_selected">Odabrano</string>

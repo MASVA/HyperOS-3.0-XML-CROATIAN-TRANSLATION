@@ -50,6 +50,8 @@
   <string name="accessibility_tab_state_description_unselect">Nije odabrano</string> 
   <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="agent_creation_ai_creation">AI pisanje</string>
+  <string name="aiSearch_buildDB_connect_wlan_hint">Prvo se povežite s Wi-Fi mrežom</string>
   <string name="aiSearch_buildDB_dialog_analysis_completed_progress_time">%1$s dovršeno</string>
   <string name="aiSearch_buildDB_dialog_analysis_completed_progress_time_notice">%1$s dovršeno. Vaš se uređaj može zagrijati ili potrošiti malo više energije tijekom ovog procesa.</string>
   <string name="aiSearch_buildDB_dialog_analysis_notice_five">Analiza će se nastaviti kada se uređaj ohladi i ima dovoljno energije</string>
@@ -99,6 +101,10 @@
   <string name="aiSearch_buildDB_dialog_secondary_confirmation_title">Početi sada?</string>
   <string name="aiSearch_buildDB_dialog_sms_search_title">AI pretraživanje poruka</string>
   <string name="aiSearch_buildDB_dialog_soundrecord_search_title">AI pretraživanje snimača</string>
+  <string name="aiSearch_buildDB_download_using_traffic">Koristite mobilne podatke</string>
+  <string name="aiSearch_buildDB_model_download_hint">Spojite se na Wi-Fi. Analiza će započeti nakon što se model preuzme.</string>
+  <string name="aiSearch_buildDB_try_again_later">Ne sada</string>
+  <string name="aiSearch_buildDB_turn_on_wlan">Spojite se na Wi-Fi</string>
   <string name="aiSearch_enhance_setting_analysis_one">Analiziranje stavki za pružanje preciznijih rezultata</string>
   <string name="aiSearch_enhance_setting_analysis_two">Stavke će se analizirati na vašem uređaju</string>
   <string name="aiSearch_enhance_setting_desc">Koristite pretraživanje prirodnim jezikom za pronalaženje stavki u aplikacijama sustava</string>
@@ -123,6 +129,8 @@
   <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Prenesi osobne podatke u oblak</string>
   <string name="aiSearch_privacy_dialog_permission_title_user_notice">Uvjeti i odredbe</string>
   <string name="aiSearch_support_service_search_global">Tražilica aplikacija</string>
+  <string name="ai_global_writing_introduce">Neka vam umjetna inteligencija pomogne u pisanju boljih tekstova, čak i u aplikacijama trećih strana</string>
+  <string name="ai_support_app">Podržane aplikacije</string>
   <string name="aireco_app_name">Mi AI prijedlozi</string>
   <string name="aireco_comm_attendance_title">Prijavi se</string>
   <string name="aireco_comm_cancel">Odustani</string>
@@ -141,11 +149,20 @@
   <string name="aireco_page_metro_code_app_select_other">Ostale aplikacije</string>
   <string name="aireco_page_metro_code_app_select_title">Odaberite aplikaciju</string>
   <string name="aireco_page_metro_code_app_smart_select">Smart</string>
+  <string name="copy_direct_action_tomato_novel_content">Dodirnite ovdje za pregled cijelog sadržaja</string>
+  <string name="copy_direct_action_view">Prikaži</string>
+  <string name="copy_direct_action_website">Otvori preglednik</string>
+  <string name="copy_direct_action_wps">Otvori s WPS-om</string>
+  <string name="copy_direct_action_xunlei">Otvori Xunlei</string>
+  <string name="copy_direct_app_alipay">Alipay</string>
+  <string name="copy_direct_app_baidu">Baidu karte</string>
   <string name="copy_direct_button_address_preferred_app">Preferirana aplikacija</string>
   <string name="copy_direct_button_address_preferred_app_baidu">Baidu</string>
   <string name="copy_direct_button_address_preferred_app_gaode">Karta</string>
   <string name="copy_direct_button_address_preferred_app_prompt">Odaberite svoju preferiranu aplikaciju za navigaciju</string>
   <string name="copy_direct_button_address_service">Preuzmite usluge navigacije</string>
+  <string name="copy_direct_button_link">Kopiraj vezu aplikacije</string>
+  <string name="copy_direct_button_link_service">Pregledaj veze i preuzmi sadržaj</string>
   <string name="copy_direct_button_password">Kopiraj kod za dijeljenje</string>
   <string name="copy_direct_button_password_prompt">Podržane aplikacije</string>
   <string name="copy_direct_button_password_service">Provjerite detalje o proizvodu, prijenose uživo, videozapise i više</string>
@@ -508,6 +525,9 @@
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">Pet</string>
+  <string name="global_ai_help_writing">AI asistent za pisanje</string>
+  <string name="global_ai_writing">AI pisanje</string>
+  <string name="global_ai_writing_tip">Prepoznaje situacije kako bi pružio pomoć pri pisanju</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="maml_power_bank_titleName">Slaba baterija Pronađite obližnje power bankove</string>
@@ -939,6 +959,8 @@ Stalo nam je do vaše privatnosti. Sve informacije su anonimizirane. Xiaomi Hype
   <string name="privacy_request_background_location_permission_reason">Za pružanje prijedloga putovanja, kodova za vožnju i prijedloga pametne kuće na temelju pozadinskih informacija o lokaciji</string>
   <string name="privacy_request_location_permission_reason">Za pružanje prijedloga putovanja, kodova za vožnju i prijedloga pametne kuće na temelju informacija o lokaciji</string>
   <string name="privacy_setting">Postavke</string>
+  <string name="privacy_statement_os3_1">"Xiaomi HyperAI Engine pruža sistemske mogućnosti koje podržavaju značajke poput Xiaomi HyperAI pretraživanja i inteligentnog punjenja prikupljanjem i analizom informacija o tome kako koristite svoj uređaj. Kako bismo vam pružili bolje pametne usluge, preuzet ćemo i ažurirati model kada je vaš uređaj spojen na Wi-Fi."</string>
+  <string name="privacy_statement_os3_1_china">"Xiaomi HyperAI Engine pruža sistemske mogućnosti koje podržavaju značajke poput Xiaomi HyperAI pretraživanja i inteligentnog punjenja prikupljanjem i analizom informacija o tome kako koristite svoj uređaj. Kako bismo vam pružili bolje pametne usluge, preuzet ćemo i ažurirati model kada je vaš uređaj spojen na Wi-Fi."</string>
   <string name="privacy_tip_item_view_background_location">Dopustite ovoj aplikaciji pristup lokaciji dok radi u pozadini i odaberite \"Uvijek dopusti\"</string>
   <string name="privacy_tip_item_view_location">Dopusti pristup lokaciji za preciznije prijedloge</string>
   <string name="privacy_tip_item_view_location_permission_hint">Dopustite ovoj aplikaciji pristup lokaciji i odaberite \"Uvijek dopusti\"</string>
@@ -990,5 +1012,8 @@ Savjet: primit ćete rutinsko upozorenje sustava kada uključite značajke prist
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">Wed</string>
+  <string name="wlan_auto_download_desc">Ažuriraj u prikladno vrijeme na temelju temperature, statusa sustava i drugih čimbenika</string>
+  <string name="wlan_auto_download_title">Automatsko ažuriranje putem Wi-Fi mreže</string>
+  <string name="wlan_auto_download_title_china">Automatsko ažuriranje putem Wi-Fi mreže</string>
   <string name="yesterday">Jučer</string>
 </resources>

@@ -66,6 +66,8 @@
   <string name="accessor_info_title">Aplikacije koje dijele podatke</string>
   <string name="accessor_no_description_text">U aplikaciji nije naveden opis.</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="airpods_fast_connect_fail_summary">Pritisnite i držite tipku na stražnjoj strani kućišta za punjenje ili dvaput dodirnite prednju stranu kućišta dok lampica statusa ne zasvijetli bijelo</string>
+  <string name="airpods_fast_connect_fail_summary_single">Pritisnite i držite tipku za kontrolu buke na slušalicama dok lampica statusa ne zasvijetli bijelo</string>
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="adb_device_fingerprint_title_format">Otisak prsta na uređaju: %1$s</string>
   <string name="adb_device_forget">Zaboravi</string>
@@ -908,11 +910,11 @@ Brži protokol veze."</string>
   <string name="offline_call_repeatedly_create_shortcut">Ovaj prečac već postoji</string>
   <string name="offline_call_shortcut_display">Dodaj prečac na početni zaslon</string>
   <string name="offline_chat_title_global">Xiaomi komunikacija izvan mreže (Demo način rada)</string>
-  <string name="offline_call_settings_summary">Komunicirajte s obližnjim Xiaomi telefonima kada ste izvan mreže, pod uvjetom da je Bluetooth uključen na oba uređaja</string>
+  <string name="offline_call_settings_summary">Komuniciranje s obližnjim Xiaomi telefonima kada ste izvan mreže ako oba uređaja imaju uključen Bluetooth</string>
   <string name="offline_call_settings_title">Komunikacija između uređaja</string>
   <string name="offline_call_show_location_title">Dijeli moju lokaciju s ljudima u blizini</string>
   <string name="offline_chat_summary">"Razgovarajte s kontaktima u blizini putem Bluetootha kada niste povezani na internet. Ova značajka ne podržava korištenje Bluetooth slušalica tijekom poziva."</string>
-  <string name="offline_chat_summary_global">Komunicirajte s obližnjim Xiaomi telefonima kada ste izvan mreže sve dok je Bluetooth uključen na oba uređaja (Trenutni uređaj: %1$s)</string>
+  <string name="offline_chat_summary_global">Komuniciranje s obližnjim Xiaomi telefonima kada ste izvan mreže ako oba uređaja imaju uključen Bluetooth (Trenutni uređaj: %1$s)</string>
   <string name="offline_chat_title">Komunikacija između uređaja</string>
   <string name="offline_connecting">Povezivanje…</string>
   <string name="oem_preferred_feedback_reporter"/>

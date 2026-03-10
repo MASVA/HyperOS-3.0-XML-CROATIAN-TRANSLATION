@@ -37,6 +37,10 @@
         <item quantity="other">Podatkovne datoteke sustava: %d</item>
         <item quantity="one">%d podatkovna datoteka sustava</item>
     </plurals>
+	<plurals name="continue_restore_timer_button">
+        <item quantity="one">Nastavi (%d)</item>
+        <item quantity="other">Nastavi (%d)</item>
+    </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>

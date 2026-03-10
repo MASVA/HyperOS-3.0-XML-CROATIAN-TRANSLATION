@@ -322,6 +322,9 @@
   <string name="ks_launch_app_full_window">Cijeli zaslon</string>
   <string name="ks_launch_app_small_window">Plutajući prozor</string>
   <string name="ks_launch_control_center">Centar za kontrolu</string>
+  <string name="ks_launch_global_search">Tražilica aplikacija</string>
+  <string name="ks_launch_global_search_china">Traži</string>
+  <string name="ks_launch_google">Google</string>
   <string name="ks_launch_notification_center">Panel obavijesti</string>
   <string name="ks_launch_recents_tasks">Otvori Nedavno</string>
   <string name="ks_launch_split_screen_to_left">Podijeli zaslon/Povucite razdjelnik ulijevo</string>
@@ -701,6 +704,7 @@ biste koristili prednju kameru</string>
   <string name="turn_on_work_profile">Uključi</string>
   <string name="typec_acc_not_support_cancel">Razumijem</string>
   <string name="typec_acc_not_support_message">"USB Type-C priključak ovog proizvoda podržava samo digitalne audio uređaje."</string>
+  <string name="typec_not_supporort_calls_toast">"Ne mogu koristiti ove slušalice za pozive"</string>
   <string name="typec_acc_not_support_tile">"Uređaj nije podržan"</string>
   <string name="user_switching_message">Prebacivanje na %1$s…</string>
   <string name="twohours">1 sat</string>
@@ -732,6 +736,7 @@ biste koristili prednju kameru</string>
   <string name="wallpaper_group_pets_title">Kućni ljubimci</string>
   <string name="wallpaper_group_system_wallpaper_title">Pozadinska slika sustava</string>
   <string name="wallpaper_group_time_watch_title">Satovi</string>
+  <string name="wallpaper_group_xiaomi_car_title">Xiaomi EV</string>
   <string name="wallpaper_manying_title">Sjene</string>
   <string name="wallpaper_Fragrant_title">Cvijet</string>
   <string name="wallpaper_floral_arrangement_title">Cvjetni aranžman</string>

@@ -143,6 +143,7 @@
   <string name="description_image_button_one">jedan</string>
   <string name="description_image_button_pound">funta</string>
   <string name="description_image_button_reject">Odbij</string>
+  <string name="description_image_button_reject_block">Odbij i blokiraj</string>
   <string name="description_image_button_seven">sedam</string>
   <string name="description_image_button_six">šest</string>
   <string name="description_image_button_star">zvijezda</string>
@@ -355,6 +356,7 @@
   <string name="relay_call_unable_to_work">"Ne mogu koristiti ovu značajku za prenesene pozive"</string>
   <string name="relay_deny_permission_msg">"Ne mogu prenijeti pozive bez dopuštenja za snimanje zvuka"</string>
   <string name="relay_device_local">Ovaj uređaj</string>
+  <string name="relay_device_type_iphone">iPhone</string>
   <string name="relay_device_type_pc">Računalo</string>
   <string name="relay_grant_permissions_on_phone">Dajte dopuštenje za snimanje zvuka na svom telefonu</string>
   <string name="relay_known">Razumijem</string>
@@ -473,6 +475,7 @@ Držite uređaj u ovom položaju"</string>
   <string name="sim2_heduohao_card">Sub %d</string>
   <string name="sim3_heduohao_card">Sub %d</string>
   <string name="sip_call_not_support_record">"Ne mogu snimiti SIP pozive"</string>
+  <string name="spam_call_add_number_to_blacklist">Blokirati ovaj broj?</string>
   <string name="spam_call_add_to_blacklist">Blokiraj</string>
   <string name="spam_call_add_to_blacklist_success">Broj dodan na popis blokiranih</string>
   <string name="spam_call_add_to_blacklist_title">"Nećete moći primati pozive od %s. Blokirati sada?"</string>

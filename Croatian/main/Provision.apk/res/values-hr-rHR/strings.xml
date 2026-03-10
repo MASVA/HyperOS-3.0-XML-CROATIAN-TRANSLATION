@@ -69,7 +69,7 @@
   <string name="back">Natrag</string>
   <string name="backup_introduction">Ovu aplikaciju možete koristiti za izradu sigurnosnih kopija i vraćanje stavki na vaš uređaj.</string>
   <string name="bluetooth_introduction">Sustav koristi Bluetooth za bežičnu komunikaciju. Da bi mogao normalno raditi, Bluetooth treba sljedeća dopuštenja:</string>
-  <string name="bluetooth_usage_desc">Početno postavljanje omogućuje vam da postavite svoje osnovne postavke za ovaj uređaj. Za uspješno postavljanje vašeg uređaja, usluge Bluetooth sustava koristit će sljedeća dopuštenja:</string>
+  <string name="bluetooth_usage_desc">Početna postavka omogućuje vam postavljanje osnovnih postavki za ovaj uređaj. Za uspješno postavljanje uređaja potrebna su sljedeća dopuštenja:</string>
   <string name="boot_video_desc">Pogledajte svijet u 2K</string>
   <string name="boot_video_replay">Reproduciraj ponovno</string>
   <string name="boot_video_skip">Preskoči</string>
@@ -451,12 +451,15 @@ Autom. ažuriranja možete isključiti u GetApps &gt; Postavke &gt; Autom. ažur
 Podaci koje ćete poslati sadržavat će opće informacije o ovom uređaju i načinu na koji ga koristite (npr. razina baterije, aktivnost sustava i aplikacija te pogreške). Podaci će se koristiti za poboljšanje naših uređaja.
 Isključivanje ove značajke ne utječe na sposobnost ovog uređaja da šalje informacije potrebne za bitne usluge kao što su ažuriranja sustava i sigurnost.
 Ovu značajku možete uključiti ili isključiti pretraživanjem stavke \"Korištenje i dijagnostika\" u Postavkama."</string>  
-  <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.</string>
+  <string name="other_settings_upload_debug_log_summary">"Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga. "</string>
   <string name="other_settings_upload_debug_log_title">Pošaljite podatke o korištenju i dijagnostici</string>
+  <string name="other_settings_xiaomi_share">Xiaomi Share</string>
+  <string name="other_settings_xiaomi_share_summary"><Data>"S Xiaomi Shareom možete prenositi datoteke između uređaja. Uključivanjem prekidača prihvaćate Xiaomi Shareovu &lt;a href=%1$s>>Pravila o privatnosti&lt;/a >.&lt;br/> Zbog razlika među verzijama sustava i modelima uređaja, funkcionalnost Xiaomi Sharea za vaš trenutni uređaj može se razlikovati. Za više informacija posjetite službenu web stranicu.</Data></string>
   <string name="other_settings_upload_debug_log_detail_cn">"Poboljšajte svoje iskustvo automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija tvrtki Xiaomi. To će pomoći u poboljšanju trajanja baterije, stabilnosti sustava i aplikacija i još mnogo toga.
 Podaci koje ćete poslati sadržavat će opće informacije o vašem uređaju i načinu na koji ga koristite (npr. razina baterije, aktivnost sustava i aplikacija te pogreške). Podaci će se koristiti za poboljšanje Xiaomi uređaja.
 Isključivanje ove značajke ne utječe na sposobnost vašeg uređaja da šalje informacije potrebne za bitne usluge kao što su ažuriranja sustava i sigurnost.
 Ovu značajku možete kontrolirati u Postavkama > Privatnost i sigurnost > Sigurnost > Dodatne postavke > Korištenje i dijagnostika."</string>
+  
   <string name="permission_mi_account">"Pristup telefonskom broju ovog uređaja"</string>
   <string name="permission_read_apps">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
   <string name="permission_read_apps_introduction">Za statistiku pristupa mreži i korištenja podataka;</string> 
@@ -814,6 +817,7 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
   <string name="title_horizontal_layout">Vodoravno</string>
   <string name="title_recent_tasks_style">Raspored nedavnih zadataka</string>
   <string name="title_setting_up_face">Postavi podatke o licu</string>
+  <string name="title_stacked_layout">Složeno</string>
   <string name="title_vertical_layout">Okomito</string>
   <string name="title_only_fingerprint">Postavite otisak prsta</string>
   <string name="title_set_fingerprint">Zaklj. zaslon</string>

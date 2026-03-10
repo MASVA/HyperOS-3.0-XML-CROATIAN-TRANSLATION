@@ -368,6 +368,14 @@
         <item quantity="one">%1$s/%2$s korak</item>
 		   <item quantity="few">%1$s/%2$s koraka</item>
      </plurals>
+	 <plurals name="tiny_accessibility_battery_level">
+        <item quantity="one">Razina baterije je sada %s posto</item>
+        <item quantity="other">Razina baterije je sada %s posto</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="one">Punjenje. Razina baterije je sada %s posto.</item>
+        <item quantity="other">Punjenje. Razina baterije je sada %s posto.</item>
+    </plurals>
      <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s stupnjeva, %2$s</item>
         <item quantity="one">Temperatura: %1$s stupanj, %2$s</item>

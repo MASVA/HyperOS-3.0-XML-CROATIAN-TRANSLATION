@@ -53,6 +53,9 @@
         <item quantity="other">Pokreni %d preuzimanja</item>
         <item quantity="one">Pokreni %d preuzimanje</item>
     </plurals>
+	<plurals name="browser_home_number_items">
+        <item quantity="other">%d stavki ukupno</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Izbrisati preuzimanja: %d?</item>
         <item quantity="one">Izbrisati %d preuzimanje?</item>

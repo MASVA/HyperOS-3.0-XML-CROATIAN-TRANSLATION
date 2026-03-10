@@ -34,6 +34,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
+  <string name="access_card_summary">Pristupna kartica</string>
   <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
   <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
   <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
@@ -83,6 +84,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="back_tap">Dodirni stražnju stranu</string>
   <string name="back_triple_tap">Trostruki dodir iza</string>
   <string name="backtap_gesture_prompt">Dodirnite stražnju stranu uređaja, izbjegavajući stražnji zaslon</string>
+  <string name="berserk_mode_close_toast">Ultimativni način rada je isključen</string>
+  <string name="berserk_mode_open_toast">Ultimativni način rada je uključen</string>
   <string name="bind_device">Dodajte uređaje</string>
   <string name="bottom_bar_smallwindow_drag_text">Povucite ovdje za prikvačiti</string>
   <string name="bottom_bar_smallwindow_text">Otpustite za prikvačiti</string>
@@ -299,6 +302,8 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="expand_button_title">Napredno</string>
   <string name="experience_more_features">Dodajte uređaj da biste vidjeli sve značajke</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="eyecare_mode_close_toast">Način čitanja je isključen</string>
+  <string name="eyecare_mode_open_toast">Način čitanja je uključen</string>
   <string name="facebook_login">Prijavite se pomoću Facebooka</string>
   <string name="facebook_send">Podijeli na Facebooku</string>
   <string name="finger_print_num">Otisak prsta %d</string>
@@ -411,7 +416,7 @@ zatim povucite za pomicanje"</string>
   <string name="freeform_guide_to_sidehide_summary">Brzo povucite prozor uz radnu traku do ruba zaslona</string>
   <string name="freeform_guide_to_sidehide_summary_pad">Brzo povucite aplikaciju na stranu zaslona da je sakrijete</string>
   <string name="freeform_guide_to_sidehide_title">Skrivanje plutajućih prozora</string>
-  <string name="freeform_guide_vedio_description">Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru</string>
+  <string name="freeform_guide_video_description">Dodirnite aplikaciju na bočnoj traci da biste je otvorili u plutajućem prozoru</string>
   <string name="freeform_recommend_open_switch_summary">Primajte prijedloge za otvaranje aplikacija na podijeljenom zaslonu ili plutajućim prozorima na temelju scenarija upotrebe</string>
   <string name="freeform_recommend_open_switch_summary_fold">Primajte prijedloge za otvaranje aplikacija u plutajućim prozorima na vanjskom zaslonu i u plutajućim prozorima ili na podijeljenom zaslonu na unutarnjem zaslonu na temelju scenarija korištenja (npr. prilikom ažuriranja igara ili čekanja taksija)</string>
   <string name="freeform_recommend_open_switch_summary_fold_no_joyose">Kada čekate taksi ili prijevoz, primit ćete upit za otvaranje aplikacije u plutajućem prozoru na vanjskom zaslonu ili u plutajućem prozoru ili podijeljenom zaslonu na unutarnjem zaslonu</string>
@@ -422,12 +427,12 @@ zatim povucite za pomicanje"</string>
   <string name="freeform_slide_to_small_freeform">Smanjite plutajući prozor</string>
   <string name="freeform_slide_to_small_freeform_summary">Pritisnite i držite radnu traku i povucite u kut</string>
   <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
-  <string name="freeform_vedio_description">"· Pritisnite i držite, zatim povucite prema dolje obavijest da je otvorite u plutajućem prozoru.
+  <string name="freeform_video_description">"· Pritisnite i držite, zatim povucite prema dolje obavijest da je otvorite u plutajućem prozoru.
 · Dodirnite \"Plutajući prozori\" u Nedavnim za odabir aplikacija."</string>
-  <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
+  <string name="freeform_video_description_open_freeform_and_splitscreen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
 · Povucite aplikaciju u središte zaslona kako biste je otvorili u plutajućem prozoru ili na stranu za korištenje podijeljenog zaslona."</string>
-  <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Povucite aplikaciju s bočne trake u središte zaslona kako biste je otvorili u plutajućem prozoru ili na stranu za korištenje podijeljenog zaslona</string>
-  <string name="freeform_vedio_description_pad">Povucite stavke izvan docka da biste otvorili plutajuće prozore</string>
+  <string name="freeform_video_description_open_freeform_and_splitscreen_pad">· Povucite aplikaciju s bočne trake u središte zaslona kako biste je otvorili u plutajućem prozoru ili na stranu za korištenje podijeljenog zaslona</string>
+  <string name="freeform_video_description_pad">Povucite stavke izvan docka da biste otvorili plutajuće prozore</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -970,6 +975,12 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="otherSettings">Ostale postavke</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_operations_title">Drugi vodiči</string>
+  <string name="pad_shortcut_btn_customize">Postavke</string>
+  <string name="pad_shortcut_btn_later">Ne sada</string>
+  <string name="pad_shortcut_tip">Pritisnite i držite za uključivanje</string>
+  <string name="pad_shortcut_tip_close">Pritisnite i držite za isključivanje</string>
+  <string name="pad_shortcut_welcome">Gumb prečaca</string>
+  <string name="pad_shortcut_welcome_summary">Pritisnite i držite za uključivanje ili isključivanje Ultimativnog načina rada. Također ga možete prilagoditi za način rada za čitanje, memoriju Xiaomi Hyper XiaoAi ili korištenje olovke.</string>
   <string name="passWordGuardSummary">Uđi u Drugi prosotor sa Zaklj. zaslona koristeći zaporku</string>
   <string name="passwordProtect">Zaporka</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
@@ -1421,6 +1432,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="undo_grant_dialog_message">Xiaomi će prestati prikupljati informacije potrebne za tu značajku (IMEI, ID uređaja, verzija sustava, regija itd.) nakon opoziva autorizacije. Opozvati sada?</string>
   <string name="undo_privacy_menu">Opozovi autorizaciju</string>
   <string name="undo_success">Uspješno opozvano</string>
+  <string name="unselected">Nije odabrano</string>
   <string name="use_google_open">Probudi pomoću Google pomoćnika</string>
   <string name="use_xiaoai_open">Probudi pomoću Mi AI</string>
   <string name="v7_preference_off">ISKLJUČENO</string>

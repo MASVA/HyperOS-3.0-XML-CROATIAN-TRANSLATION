@@ -2415,6 +2415,15 @@ Kontaktirajte vašeg operatera."</string>
   <string name="operator_mins_first_close">Isključi</string>
   <string name="operator_remain_mins">Paket minuta Operatora</string>
   <string name="optimization_settings_category">Optimizacija</string>
+  <string name="osu_dialog_cancel_btn_text">Ne sada</string>
+  <string name="osu_dialog_message">"Ažurirajte eSIM modul kako biste riješili potencijalne probleme s kompatibilnošću i sigurnošću. Tijekom ažuriranja vaš eSIM neće biti dostupan."</string>
+  <string name="osu_dialog_ok_btn_text">Ažuriranje</string>
+  <string name="osu_dialog_title">Ažuriranje eSIM modula</string>
+  <string name="osu_error_toast_message">"Nije moguće ažurirati eSIM. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="osu_notification_message">Ažurirajte eSIM modul kako biste spriječili potencijalne sigurnosne probleme</string>
+  <string name="osu_notification_title">Ažuriranje eSIM modula</string>
+  <string name="osu_progress_dialog_message">"Ažuriranje modula. Neke značajke nisu dostupne."</string>
+  <string name="osu_success_toast_message">Uspješno ažurirano</string>
   <string name="optional_summary">Opcija</string>
   <string name="order_by_name">Abecedno</string>
   <string name="order_by_recent">Često korišteno</string>
@@ -2874,7 +2883,7 @@ UT sučelje: %5$s"</string>
   <string name="radio_info_smsc_refresh_label">Osvježi</string>
   <string name="radio_info_smsc_update_label">Ažuriraj</string>
   <string name="radio_info_subid">Trenutačni SUBID:</string>
-  <string name="radio_info_toggle_dns_check_label">Uključi/isključi provjeru DNS-a</string>
+  <string name="radio_info_toggle_dns_check_label">Provjera DNS-a prebacivanjem</string>
   <string name="radio_info_ul_kbps">UL propusnost (kbps):</string>
   <string name="radio_info_voice_network_type_label">Vrsta glasovne mreže:</string>
   <string name="radio_info_voice_raw_registration_state_label">Stanje registracije neobrađenih glasovnih podataka:</string>
@@ -3827,9 +3836,10 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_call_accept">Prihvaćam</string>
   <string name="wifi_call_available_message">"Sada možete upućivati pozive putem Wi-Fi-ja. Ako ste povezani s Wi-Fi mrežom, moći ćete razgovarati čak i kad se nalazite u područjima koja nemaju pokrivenost mobilnom mrežom."</string>
-  <string name="wifi_call_available_message_DEO2">Ako je pokrivenost mobilnom mrežom slaba, a vaš je uređaj spojen na Wi-Fi, pozivi će se obavljati putem Wi-Fi mreže. Ovu postavku možete promijeniti na svom pametnom telefonu u bilo kojem trenutku. Ako imate bilo kakvih pitanja, obratite se svom davatelju mobilnih usluga.</string>
+  <string name="wifi_call_available_message_DEO2">Pozivi će koristiti Wi-Fi kada vaša mobilna pokrivenost nije dovoljna i kada ste povezani s Wi-Fi mrežom. Ova zadana postavka primjenjuje se samo unutar Njemačke. Ovu postavku možete prilagoditi na svom pametnom telefonu u bilo kojem trenutku. Ako imate bilo kakvih pitanja, obratite se svom mobilnom operateru.</string>
   <string name="wifi_call_available_message_for_ATT_MX">Povezat ćete se na Wi-Fi mrežu, kvaliteta poziva može varirati ovisno o mreži.</string>
   <string name="wifi_call_available_title">Uključivanje Wi-Fi poziva</string>
+  <string name="wifi_call_available_title_DEO2">Wi-Fi pozivi su omogućeni</string>
   <string name="wifi_call_cancel">Više informacija</string>
   <string name="wifi_call_help">Pomoć</string>
   <string name="wifi_call_help_message_1">"Wi-Fi Pozivi je usluga koju pruža Orange i koja omogućuje upućivanje i primanje poziva putem Wi-Fi-ja. Ova se značajka može koristiti u područjima s slabom pokrivenosti mobilne mreže.

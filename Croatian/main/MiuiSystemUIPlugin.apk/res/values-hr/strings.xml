@@ -166,6 +166,7 @@
   <string name="flashlight_brightness_adjustment">Podešavanje svjetline svjetiljke</string>
   <string name="flashlight_button_close">Isključi svjetiljku</string>
   <string name="flashlight_button_open">Uključi svjetiljku</string>
+  <string name="flashlight_enter_super_mode_toast">Visoka svjetlina može zagrijati vaš uređaj ako se koristi dulje vrijeme</string>
   <string name="flashlight_not_available">"Ne možete koristiti svjetiljku dok se koristi kamera"</string>
   <string name="flashlight_notification_btn_close">Isključi</string>
   <string name="flashlight_notification_button">Prečac svjetiljke</string>

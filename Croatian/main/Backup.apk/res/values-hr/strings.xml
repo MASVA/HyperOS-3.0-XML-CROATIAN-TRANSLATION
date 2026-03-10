@@ -96,6 +96,14 @@
   <string name="backup_report">Prikaži detalje</string>
   <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>
   <string name="backup_security_tips_title">Sig. kopije možda neće raditi</string>
+  <string name="backup_suspend_fail_summary_pad">Veza je prekinuta. Nakon što se vaš tablet poveže s istom mrežom kao i SmartStorage, dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="backup_suspend_fail_summary_phone">Veza je prekinuta. Nakon što se vaš telefon poveže s istom mrežom kao i SmartStorage, dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="backup_suspend_summary_pad">Veza je prekinuta. Nakon što se vaš tablet poveže s istom mrežom kao i SmartStorage, sigurnosna kopija će se automatski nastaviti.</string>
+  <string name="backup_suspend_summary_phone">Veza je prekinuta. Nakon što se vaš telefon poveže s istom mrežom kao i SmartStorage, sigurnosna kopija će se automatski nastaviti.</string>
+  <string name="backup_suspend_title">Sigurnosna kopija pauzirana. Ponovno povezivanje…</string>
+  <string name="backup_tab">Sigurnosna kopija</string>
+  <string name="backup_tips_dialog_summary">"Dvojne aplikacije i privatne stavke nisu podržane. Ova sigurnosna kopija uključuje samo podatke do sada. Novi podaci neće se automatski sinkronizirati."</string>
+  <string name="backup_tips_dialog_title">Imajte na umu</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
@@ -200,6 +208,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="connect_wifi">Povežite se na Wi-Fi</string>
   <string name="connect_wifi_tip">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz Xiaomi Clouda, povežite se s Wi-Fi mrežom.</string>
   <string name="contact_title">Kontakti</string>
+  <string name="continue_restore_button">Nastavi</string>
   <string name="copy">Kopiraj</string>
   <string name="current_account">Trenutan račun: %s</string>
   <string name="current_pad_location">Pad</string>
@@ -533,6 +542,65 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste u Multi-korisnik načinu rada"</string>
   <string name="name_password_not_consistent">Pogrešno korisničko ime ili zaporka</string>
+  <string name="nas_backup_progress_title">Sigurnosna kopija na SmartStorage</string>
+  <string name="nas_backup_resume_button">Nastavi</string>
+  <string name="nas_backup_task_progress_failed_summary_pad">Mreža je prekinuta. Provjerite jesu li vaš tablet i SmartStorage uređaj na istoj mreži, a zatim pokušajte ponovno napraviti sigurnosnu kopiju.</string>
+  <string name="nas_backup_task_progress_failed_summary_phone">Mreža je prekinuta. Provjerite jesu li vaš telefon i SmartStorage uređaj na istoj mreži, a zatim pokušajte ponovno izraditi sigurnosnu kopiju.</string>
+  <string name="nas_backup_task_progress_summary_pad">"Tijekom izrade sigurnosne kopije provjerite jesu li vaš tablet i SmartStorage uređaj na istoj mreži. Nemojte ponovno pokretati ili isključivati ​​tablet kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_backup_task_progress_summary_phone">"Tijekom izrade sigurnosne kopije provjerite jesu li vaš telefon i SmartStorage uređaj na istoj mreži. Nemojte ponovno pokretati ili isključivati ​​telefon kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_backup_task_suspend_info_title">Sigurnosna kopija pauzirana</string>
+  <string name="nas_backup_title">SmartStorage</string>
+  <string name="nas_cancel_button">Odustani</string>
+  <string name="nas_connecting_progress_dialog">Povezivanje sa SmartStorageom…</string>
+  <string formatted="false" name="nas_disconnect_dialog_summary_pad">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
+  %d. Je li uređaj SmartStorage online.
+  %d. Vaš tablet je spojen na Wi-Fi mrežu na istoj mreži kao i SmartStorage.
+  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​tablet tijekom izrade sigurnosnih kopija ili vraćanja podataka)."</string>
+  <string formatted="false" name="nas_disconnect_dialog_summary_phone">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
+  %d. Je li uređaj SmartStorage online.
+  %d. Vaš telefon je spojen na Wi-Fi mrežu na istoj mreži kao i SmartStorage.
+  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​telefon tijekom izrade sigurnosnih kopija ili vraćanja podataka)."</string>
+  <string name="nas_disconnect_dialog_title">"Nije moguće povezati se sa SmartStorageom"</string>
+  <string name="nas_low_memory_progress_backup_summary_nas">Nema dovoljno prostora u SmartStorageu. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="nas_low_memory_progress_backup_summary_pad">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="nas_low_memory_progress_backup_summary_phone">Nema dovoljno prostora za pohranu telefona. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="nas_low_memory_progress_restore_summary_nas">Nema dovoljno prostora u SmartStorageu. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="nas_low_memory_progress_restore_summary_pad">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="nas_low_memory_progress_restore_summary_phone">Nema dovoljno prostora za pohranu telefona. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="nas_low_storage">"Odabrali ste %1$s podataka. SmartStorage ima dostupno samo %2$s. Prilagodite svoj odabir ili oslobodite prostor i pokušajte ponovno."</string>
+  <string name="nas_low_storage_pad_restore_summary">Vraćanje zahtijeva privremenu pohranu na vašem tabletu za predmemoriranje. Rezervirajte %s. Ovaj će se prostor osloboditi nakon što se stavke vrate.</string>
+  <string name="nas_low_storage_pad_summary">Sigurnosne kopije zahtijevaju privremenu pohranu na vašem tabletu za predmemoriranje. Rezervirajte %s. Ovaj će prostor biti oslobođen nakon što se stavke sigurnosno kopiraju.</string>
+  <string name="nas_low_storage_pad_title">Nema dovoljno prostora za pohranu na tabletu</string>
+  <string name="nas_low_storage_phone_positive_button">Izbriši</string>
+  <string name="nas_low_storage_phone_restore_summary">Vraćanje zahtijeva privremenu pohranu na vašem telefonu za predmemoriranje. Rezervirajte %s. Ovaj će prostor biti oslobođen nakon što se stavke vrate.</string>
+  <string name="nas_low_storage_phone_summary">Sigurnosne kopije zahtijevaju privremenu pohranu na vašem telefonu za predmemoriranje. Rezervirajte %s. Ovaj će prostor biti oslobođen nakon što se stavke sigurnosno kopiraju.</string>
+  <string name="nas_low_storage_phone_title">Nema dovoljno prostora za pohranu telefona</string>
+  <string name="nas_low_storage_title">SmartStorage je pun</string>
+  <string name="nas_notification_title">Sigurnosno kopiranje WeChat poruka u SmartStorage…</string>
+  <string name="nas_restore_progress_title">Vraćanje iz SmartStoragea</string>
+  <string name="nas_restore_resume_button">Nastavi</string>
+  <string name="nas_restore_task_progress_failed_summary_pad">Mreža je prekinuta. Provjerite jesu li vaš tablet i SmartStorage uređaj na istoj mreži, a zatim pokušajte ponovno vratiti.</string>
+  <string name="nas_restore_task_progress_failed_summary_phone">Mreža je prekinuta. Provjerite jesu li vaš telefon i SmartStorage uređaj na istoj mreži, a zatim pokušajte ponovno vratiti podatke.</string>
+  <string name="nas_restore_task_progress_summary_pad">"Tijekom vraćanja podataka provjerite jesu li vaš tablet i SmartStorage uređaj na istoj mreži. Nemojte ponovno pokretati ili isključivati ​​tablet kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_restore_task_progress_summary_phone">"Tijekom vraćanja podataka provjerite jesu li vaš telefon i SmartStorage uređaj na istoj mreži. Nemojte ponovno pokretati ili isključivati ​​telefon kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_restore_task_suspend_info_title">Vraćanje pauzirano</string>
+  <string name="nas_retry_button">Pokušajte ponovno</string>
+  <string name="nas_task_lowmemory_summary_pad_backup">Nema dovoljno prostora za pohranu na tabletu. Oslobodite prostor i pokušajte ponovno napraviti sigurnosnu kopiju.</string>
+  <string name="nas_task_lowmemory_summary_pad_restore">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i pokušajte ponovno vratiti podatke.</string>
+  <string name="nas_task_lowmemory_summary_phone_backup">Nema dovoljno prostora za pohranu telefona. Oslobodite prostor i pokušajte ponovno napraviti sigurnosnu kopiju.</string>
+  <string name="nas_task_lowmemory_summary_phone_restore">Nema dovoljno prostora za pohranu telefona. Oslobodite prostor i pokušajte ponovno vratiti.</string>
+  <string name="nas_task_progress_item_disconnect_eror">Mreža je isključena</string>
+  <string name="nas_task_progress_item_low_memory_error_pad">Nema dovoljno prostora za pohranu tableta</string>
+  <string name="nas_task_progress_item_low_memory_error_phone">Nema dovoljno prostora za pohranu telefona</string>
+  <string name="nas_task_progress_item_low_memory_summary">SmartStorage je pun</string>
+  <string name="nas_task_progress_item_nas_low_memory_error">Nema dovoljno prostora za SmartStorage</string>
+  <string name="nas_task_progress_low_memory_summary_backup">SmartStorage je pun. Oslobodite prostor i pokušajte ponovno napraviti sigurnosnu kopiju.</string>
+  <string name="nas_task_progress_low_memory_summary_restore">SmartStorage je pun. Oslobodite prostor i pokušajte ponovno vratiti podatke.</string>
+  <string name="nas_unbind_account_dialog_summary">"Vaš Xiaomi račun nije dostupan. Prijavite se da biste mogli napraviti sigurnosnu kopiju ili vratiti stavke."</string>
+  <string name="nas_unbind_account_summary_backup">"Xiaomi račun nije dostupan. Prijavite se i pokušajte ponovno napraviti sigurnosnu kopiju."</string>
+  <string name="nas_unbind_account_summary_restore">"Xiaomi račun nije dostupan. Prijavite se i pokušajte ponovno napraviti sigurnosnu kopiju."</string>
+  <string name="nas_unbind_account_summary_restore">"Xiaomi račun nije dostupan. Prijavite se i pokušajte ponovno vratiti podatke."</string>
+  <string name="nas_unbind_device_dialog_title">"SmartStorage uređaj ne postoji"</string>
   <string name="never">Nikad</string>
   <string name="new_backup">Izradi Sig. kopiju</string>
   <string name="new_britem_audio">Audio</string>
@@ -540,7 +608,7 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="new_britem_other">Ostalo</string>
   <string name="new_britem_pic">Slike</string>
   <string name="new_britem_video">Videozapisi</string>
-  <string name="new_confirm_enable_encrypt_content">"MIUI povezuje šifrirane Sig. kopije s vašim Xiaomi računom. Morat ćete se prijaviti na svoj Xiaomi račun kako biste vratili stavke iz takvih Sig. kopija."</string>
+  <string name="new_confirm_enable_encrypt_content">"Sustav povezuje šifrirane Sig. kopije s vašim Xiaomi računom. Morat ćete se prijaviti na svoj Xiaomi račun kako biste vratili stavke iz takvih Sig. kopija."</string>
   <string name="new_confirm_enable_encrypt_title">Šifriraj</string>
   <string name="new_local_button_backup">Sig. kopiraj</string>
   <string name="new_local_button_restore">Vrati</string>
@@ -630,14 +698,24 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="notif_trans_sending_completed">Podaci uspješno poslani</string>
   <string name="notif_trans_sending_failed">"Ne mogu poslati podatke"</string>
   <string name="notif_trans_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo.</string>
+  <string name="notification_backup_content">Sigurnosno kopiranje podataka s uređaja…</string>
+  <string name="notification_backup_suspend">Sigurnosno kopiranje pauzirano</string>
+  <string name="notification_device_disconnect_content">Veza prekinuta</string>
+  <string name="notification_low_memory_content">SmartStorage je pun</string>
+  <string name="notification_restore_content">Vraćanje podataka s uređaja…</string>
+  <string name="notification_restore_suspend">Vraćanje pauzirano</string>
+  <string name="notification_unbind_account_content">"Xiaomi račun nije dostupan"</string>
+  <string name="notification_wifi_disconnect_content">Mrežna veza isključena</string>
   <string name="old_soft_name">Povežite se pomoću QR koda</string>
   <string name="old_way">Također možete generirati QR kod na novom uređaju i skenirati ga pomoću starog.</string>
   <string name="open_compatibility_mode">Uključi</string>
+  <string name="pad_backup_and_restore">Tablet</string>
   <string name="page_loading">Samo trenutak…</string>
   <string name="password">Zaporka</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
-  <string name="pause">Pauza</string>
+  <string name="pause">Pauziraj</string>
+  <string name="pc_backup_and_restore">Računalo</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Lokacija</string>
   <string name="perm_read_call_log">Čitanje povijesti poziva</string>
@@ -687,6 +765,7 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="permission_write_contacts">Uređivanje kontakata</string>
   <string name="permission_write_storage">Spremanje stavki u pohranu</string>
   <string name="permission_write_storage_pad">Spremanje stavki u pohranu</string>
+  <string name="phone_backup_and_restore">Telefon</string>
   <string name="phone_title">Postavke telefona</string>
   <string name="platform_chooser_item_android_mi">Xiaomi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale marke</string>
@@ -721,7 +800,33 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>
+  <string name="restore_suspend_fail_summary_pad">Veza je prekinuta. Nakon što se vaš tablet poveže s istom mrežom kao i SmartStorage, dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="restore_suspend_fail_summary_phone">Veza je prekinuta. Nakon što se vaš telefon poveže s istom mrežom kao i SmartStorage, dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="restore_suspend_summary_pad">Veza je prekinuta. Nakon što se vaš tablet poveže s istom mrežom kao i SmartStorage, vraćanje će se automatski nastaviti.</string>
+  <string name="restore_suspend_summary_phone">Veza je prekinuta. Nakon što se vaš telefon poveže s istom mrežom kao i SmartStorage, vraćanje će se automatski nastaviti.</string>
+  <string name="restore_suspend_title">Vraćanje je pauzirano. Ponovno povezivanje…</string>
+  <string name="restore_tab">Vrati</string>
   <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
+  <string name="restore_tips_dialog_summary">"Spremate se vratiti podatke s WeChata. Ovim ćete prebrisati trenutne podatke s WeChata sigurnosnom kopijom od %s. Ova se radnja ne može poništiti. Nastavite s oprezom."</string>
+  <string name="restore_tips_dialog_title">Pažnja</string>
+  <string name="resume_backup_nas_task_dialog_title">Nedovršena sigurnosna kopija</string>
+  <string name="resume_backup_toast">Sigurnosno kopiranje na SmartStorage…</string>
+  <string name="resume_nas_restore_task_dialog_summary_pad">"Vrijeme sigurnosne kopije: %1$s
+Veličina sigurnosne kopije: %2$s
+Dostupna pohrana tableta: %3$s"</string>
+  <string name="resume_nas_restore_task_dialog_summary_phone">"Vrijeme sigurnosne kopije: %1$s
+Veličina sigurnosne kopije: %2$s
+Dostupna pohrana telefona: %3$s"</string>
+  <string name="resume_nas_task_dialog_summary_pad">"Vrijeme sigurnosne kopije: %1$s
+Veličina sigurnosne kopije: %2$s
+Dostupan prostor SmartStorage: %3$s
+Dostupna pohrana tableta: %4$s"</string>
+  <string name="resume_nas_task_dialog_summary_phone">"Vrijeme sigurnosne kopije: %1$s
+Veličina sigurnosne kopije: %2$s
+Dostupan prostor SmartStorage: %3$s
+Dostupna pohrana telefona: %4$s"</string>
+  <string name="resume_restore_nas_task_dialog_title">Nedovršeno vraćanje</string>
+  <string name="resume_restore_toast">Vraćanje iz SmartStoragea…</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="reverse_all">Poništi odabir</string>
   <string name="revoke_permission_dialog_content">"Nećete moći sigurnosno kopirati ili vratiti stavke bez svih obveznih dopuštenja. Svejedno povući dopuštenja?"</string>
@@ -835,6 +940,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="tips_date_format">dd.MM.yyyy HH:mm</string>
   <string name="title_compatibility_mode">Uključite način rada kompatibilnosti aplikacije</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
@@ -853,7 +959,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="trans_cancel_selection_title">Ostani u Mi Moveru</string>
   <string name="trans_cancelling">Otkazivanje…</string>
   <string name="trans_complete_restoring">Uspješno preneseno. Vraćanje podataka aplikacije…</string>
-  <string name="trans_connect_failed_device_incompatible">Uređaj nije kompatibilan. Otkažite prijenos i pokušajte ponovo.</string>
+  <string name="trans_connect_failed_device_incompatible">Uređaj nije kompatibilan. Odustanite prijenos i pokušajte ponovo.</string>
   <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover i dodirnite [Ja sam pošiljatelj], ili opet pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
   <string name="trans_connect_failed_title">"Ne mogu se povezati"</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
@@ -907,7 +1013,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_install_guide_step2_title">Korak 2</string>
   <string name="trans_intro_desc_1">"Na Xiaomi telefonu, ovežite se na Wi-Fi i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
   <string name="trans_intro_desc_10">Dodirnite \"Povežite se pomoću QR koda\" na novom uređaju i skenirajte QR kod kako biste uspostavili vezu.</string>
-  <string name="trans_intro_desc_3">Otkažite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
+  <string name="trans_intro_desc_3">Odustanite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
   <string name="trans_intro_desc_4">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Xiaomi 6) i dalje će se moći povezati s internetom putem Wi-Fi veze tijekom prijenosa."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke."</string>
   <string name="trans_intro_desc_5">Prostor za pohranu na starim uređajima koristi se za stvaranje paketa prijenosa. Prije no što započnete prijenos, provjerite imate li najmanje 500 MB - 1 GB dostupnog prostora za pohranu na svom starom telefonu.</string>
@@ -1047,6 +1153,7 @@ i Mi Mover uključen"</string>
   <string name="tuesday_shortest">U</string>
   <string name="unit_byte">B</string>
   <string name="unknown_hint">Nepoznato</string>
+  <string name="usb_backup_and_restore">USB pogon</string>
   <string name="usb_backup_select_data_too_large">"Odabrane datoteke su velike. Provjerite ima li USB uređaj dovoljno prostora za pohranu.
 Prenesite samo važne stavke."</string>
   <string name="usb_restore_select_data_too_large">"Datoteke Sig. kopije su velike. Može potrajati neko vrijeme da biste ih vratili.

@@ -37,6 +37,10 @@
         <item quantity="other">%1$d dana</item>
         <item quantity="one">%1$d dan</item>
     </plurals>
+	<plurals name="add_max_shortcut_count">
+        <item quantity="one">Možete dodati do %d mapu</item>
+        <item quantity="other">Možete dodati do %d mapa</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">Prije %1$d dana</item>
         <item quantity="one">Prije %1$d dan</item>
