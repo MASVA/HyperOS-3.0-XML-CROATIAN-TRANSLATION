@@ -310,7 +310,6 @@
   <string name="finddevice_iot_not_found_xiaomi_tag">"Nije moguće otkriti Xiaomi Tag"</string>
   <string name="finddevice_iot_pet">Kućni ljubimac</string>
   <string name="finddevice_iot_pull_tag_label_near_phone">Odlijepite naljepnicu na dnu vašeg Xiaomi Taga i držite je blizu telefona</string>
-  <string name="finddevice_iot_reach_limit_desc">"Uklonite neke stavke koje ne koristite često s njihove stranice s detaljima prije dodavanja novih."</string>
   <string name="finddevice_iot_reach_limit_title">"Ne mogu dodati više stavki"</string>
   <string name="finddevice_iot_reach_limit_desc">"%1$d. Otvorite kućište i izvadite bateriju.
   %2$d. Ponovno umetnite bateriju, a zatim pritisnite i držite tipku %3$d sek. Čut ćete dva zvučna signala koja označavaju da je resetiranje dovršeno."</string>
@@ -544,7 +543,6 @@
   <string name="noise_conflict">Uređaj već reproducira zvuk</string>
   <string name="noise_connect_error">"Povezivanje nije uspjelo. Premjestite uređaj ili isključite Bluetooth, a zatim ga ponovno uključite i pokušajte ponovno."</string>
   <string name="noise_error">"Reproduciranje nije uspjelo"</string>
-  <string name="noise_conflict">Uređaj već reproducira zvuk</string>
   <string name="noise_playing">Reproducira se</string>
   <string name="normal_map">Normalno</string>
   <string name="not_set">Nije postavljeno</string>

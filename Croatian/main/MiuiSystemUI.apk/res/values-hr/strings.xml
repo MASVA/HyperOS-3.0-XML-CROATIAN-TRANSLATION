@@ -2045,7 +2045,6 @@ dd.MM."</string>
   <string name="miui_notification_menu_title_no_drawable">Nastavite na unutarnjem zaslonu</string>
   <string name="miui_notification_menu_unfocus">Isključi svjetlo obavijesti</string>
   <string name="miui_notification_menu_unliveupdate">Zaustavi ažuriranja uživo</string>
-  <string name="miui_notification_slide_menu_ongoing">Ograniči trajne obavijesti</string>
   <string name="miui_notification_menu_unfold">Označi kao važno</string>
   <string name="miui_notification_slide_menu_msg_ongoing">Želite li sada ograničiti trajne obavijesti za \"%1$s\"?</string>
   <string name="miui_notification_slide_menu_ongoing">Ograniči trajne obavijesti</string>

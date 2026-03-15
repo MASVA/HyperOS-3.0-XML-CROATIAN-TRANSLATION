@@ -11341,7 +11341,6 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="quiet">DND</string>
   <string name="quiet_group">DND</string>
   <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
-  <string name="quiet_mode">Utišaj</string>
   <string name="quiet_mode_summary">Niža brzina ventilatora za tiša okruženja</string>
   <string name="quiet_mode">Utišaj sve smetnje</string>
   <string name="quiet_no_interruptions_mode">Utišaj sve smetnje</string>

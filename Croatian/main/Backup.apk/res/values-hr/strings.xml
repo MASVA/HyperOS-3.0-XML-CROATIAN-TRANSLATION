@@ -599,7 +599,6 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="nas_unbind_account_dialog_summary">"Vaš Xiaomi račun nije dostupan. Prijavite se da biste mogli napraviti sigurnosnu kopiju ili vratiti stavke."</string>
   <string name="nas_unbind_account_summary_backup">"Xiaomi račun nije dostupan. Prijavite se i pokušajte ponovno napraviti sigurnosnu kopiju."</string>
   <string name="nas_unbind_account_summary_restore">"Xiaomi račun nije dostupan. Prijavite se i pokušajte ponovno napraviti sigurnosnu kopiju."</string>
-  <string name="nas_unbind_account_summary_restore">"Xiaomi račun nije dostupan. Prijavite se i pokušajte ponovno vratiti podatke."</string>
   <string name="nas_unbind_device_dialog_title">"SmartStorage uređaj ne postoji"</string>
   <string name="never">Nikad</string>
   <string name="new_backup">Izradi Sig. kopiju</string>
