@@ -311,9 +311,8 @@
   <string name="finddevice_iot_pet">Kućni ljubimac</string>
   <string name="finddevice_iot_pull_tag_label_near_phone">Odlijepite naljepnicu na dnu vašeg Xiaomi Taga i držite je blizu telefona</string>
   <string name="finddevice_iot_reach_limit_title">"Ne mogu dodati više stavki"</string>
-  <string name="finddevice_iot_reach_limit_desc">"%1$d. Otvorite kućište i izvadite bateriju.
-  %2$d. Ponovno umetnite bateriju, a zatim pritisnite i držite tipku %3$d sek. Čut ćete dva zvučna signala koja označavaju da je resetiranje dovršeno."</string>
-  <string name="finddevice_iot_reset_tag_desc_new">"%1$d. Otvorite odjeljak za bateriju, izvadite bateriju i pričekajte %2$d sek.
+  <string name="finddevice_iot_reach_limit_desc">"Prije dodavanja novih, uklonite neke stavke koje ne koristite često s njihove stranice s detaljima."</string>
+  <string name="finddevice_iot_reset_tag_desc_new">"%1$d. Otvorite kućište, izvadite bateriju i pričekajte %2$d sek.
   %3$d. Ponovno umetnite bateriju i provjerite je li pravilno postavljena i napunjena.
   %4$d. Pritisnite i držite tipku oko %5$d sek. Čut ćete zvučne signale koji označavaju da je resetiranje dovršeno."</string>
   <string name="finddevice_iot_reset_tag_title">Resetiraj Xiaomi Tag</string>
