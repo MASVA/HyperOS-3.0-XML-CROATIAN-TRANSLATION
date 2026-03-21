@@ -64,62 +64,62 @@
     <string-array name="settings_search_backup_manage">
         <item>Sig. kopije</item>
         <item>Stavke Sig. kopije</item>
-        <item>Cloud;Izradi Sig. kopiju;Sig. kopija;Cloud usluge;Mi Cloud;Poč. zaslon;Izgled;Aplikacije;Upravljanje Sig. kopijama;Vrati</item>
+        <item>Cloud;Izradi Sig. kopiju;Sig. kopija;Cloud usluge;Xiaomi Cloud;Poč. zaslon;Izgled;Aplikacije;Upravljanje Sig. kopijama;Vrati</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Izradite Sig. kopiju Poč. zaslona na Mi Cloud</item>
+        <item>Izradite Sig. kopiju Poč. zaslona na Xiaomi Cloud</item>
         <item>Izradite Sig. kopiju izgleda Poč. zaslona, popis instaliranih aplikacija i postavki sustava</item>
-        <item>Cloud;Sig. kopija;Sig. kopija;Cloud usluge;Mi Cloud;Poč. zaslon;Izgled;Aplikacije;Postavke;Učestalost Sig. kopije;Upravljanje Sig. kopijama;Vrati</item>
+        <item>Cloud;Sig. kopija;Sig. kopija;Cloud usluge;Xiaomi Cloud;Poč. zaslon;Izgled;Aplikacije;Postavke;Učestalost Sig. kopije;Upravljanje Sig. kopijama;Vrati</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Sinkr. Preglednik s Mi Cloudom</item>
+        <item>Sinkr. Preglednik s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Preglednik;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Preglednik;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Sinkr. Kalendar s Mi Cloudom</item>
+        <item>Sinkr. Kalendar s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Kalendar;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Kalendar;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Sinkr. kontakte s Mi Cloudom</item>
+        <item>Sinkr. kontakte s Xiaomi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
-        <item>Kontakti;Povijest poziva;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Kontakti;Povijest poziva;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Sinkr. povijest poziva s Mi Cloudom</item>
+        <item>Sinkr. povijest poziva s Xiaomi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
-        <item>Povijest poziva;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Povijest poziva;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Pronađi uređaj</item>
         <item>"Izbrišite podatke i zaključajte uređaj ako je izgubljen"</item>
-        <item>Pronađi uređaj;Izgubljen;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Pronađi uređaj;Izgubljen;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Pronađi uređaj</item>
         <item>"Izbrišite podatke i zaključajte uređaj ako je izgubljen"</item>
-        <item>Pronađi uređaj;Izgubljen;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Pronađi uređaj;Izgubljen;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Sinkr. Galeriju s Mi Cloudom</item>
+        <item>Sinkr. Galeriju s Xiaomi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
-        <item>Galerija;Fotografije;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Galerija;Fotografije;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Sinkr. Bilješke s Mi Cloudom</item>
+        <item>Sinkr. Bilješke s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes_v2">
-        <item>Sinkr. Bilješke s Mi Cloudom</item>
+        <item>Sinkr. Bilješke s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sinkr. Zaklj. aplikacija s Mi Cloudom</item>
+        <item>Sinkr. Zaklj. aplikacija s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Zaklj. aplikacija;Kartice;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Zaklj. aplikacija;Kartice;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_phrase">
         <item>Sinkr. brze odgovore</item>
@@ -127,64 +127,74 @@
         <item>Brzi odgovori;Međuspremnik;Uređivač;Cloud;Sinkr.;Cloud usluge</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Sinkr. snimke sa Mi Cloudom</item>
+        <item>Sinkr. snimke sa Xiaomi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
-        <item>Snimač;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Snimač;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Izbrisane stavke na Mi Cloudu</item>
+        <item>Izbrisane stavke na Xiaomi Cloudu</item>
         <item>Vraćanje kontakata, fotografija, poruka i još mnogo toga</item>
-        <item>Smeće;Izbrisane stavke;Kanta za smeće;Vrati;Cloud usluge;Mi Cloud</item>
+        <item>Smeće;Izbrisane stavke;Kanta za smeće;Vrati;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin_pad">
-        <item>Izbrisane stavke u Mi Cloudu</item>
+        <item>Izbrisane stavke u Xiaomi Cloudu</item>
         <item>Vratite fotografije, bilješke i drugo</item>
-        <item>Smeće;Izbrisane stavke;Kanta za smeće;Vrati;Cloud usluge;Mi Cloud</item>
+        <item>Smeće;Izbrisane stavke;Kanta za smeće;Vrati;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Vratite stavke iz Mi Clouda</item>
+        <item>Vratite stavke iz Xiaomi Clouda</item>
         <item>Na svoj uređaj preuzmite stavke Sig. kopije</item>
-        <item>Cloud;Sig. kopija;Sig. kopija;Vrati;Cloud usluge;Mi Cloud</item>
+        <item>Cloud;Sig. kopija;Sig. kopija;Vrati;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
         <item>Sigurnosna sinkr. Clouda</item>
         <item>Uključi sinkr.</item>
-        <item>Sigurnost;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Sigurnost;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security_pad">
         <item>Sigurnosna sinkronizacija u Cloudu</item>
         <item>Uključi sinkronizaciju</item>
-        <item>Sigurnost;Cloud;Mi Cloud;Sinkr.;Cloud usluge</item>
+        <item>Sigurnost;Cloud;Xiaomi Cloud;Sinkr.;Cloud usluge</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Sinkr. poruke s Mi Cloudom</item>
+        <item>Sinkr. poruke s Xiaomi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
-        <item>Poruke;SMS;MMS;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Poruke;SMS;MMS;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Mi Cloud članstvo</item>
+        <item>Xiaomi Cloud članstvo</item>
         <item>Nadogradite svoje članstvo, ostvarite više prostora za pohranu i osigurajte svoje podatke</item>
-        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkr.;Cloud usluge;Mi Cloud;Mega;Ultra;VIP;Pohrani;Backup;Vrati;Smeće;Izbrisane stavke;Kanta za smeće</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud;Mega;Ultra;VIP;Pohrani;Backup;Vrati;Smeće;Izbrisane stavke;Kanta za smeće</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Mi Cloud. Sve Mi usluge na jednom mjestu.</item>
+        <item>Xiaomi Cloud. Sve Xiaomi usluge na jednom mjestu.</item>
         <item>Pristupite vašim fotografijama, kontaktima, porukama i uređajima s bilo kojeg mjesta</item>
-        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkr.;Cloud usluge;Mi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
-        <item>Mi Cloud. Sve Mi usluge na jednom mjestu.</item>
+        <item>Xiaomi Cloud. Sve Xiaomi usluge na jednom mjestu.</item>
         <item>Pristupite svojim fotografijama, bilješkama i uređajima s bilo kojeg mjesta</item>
-        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkronizacija;Cloud usluge;Mi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkronizacija;Cloud usluge;Xiaomi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
+    </string-array>
+	<string-array name="settings_search_sync_manage_pad_v2">
+        <item>Xiaomi Cloud. Sve Xiaomi usluge na jednom mjestu.</item>
+        <item>Pristupite svojim fotografijama i bilješkama s bilo kojeg mjesta</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkronizacija;Cloud usluge;Xiaomi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_v2">
+        <item>Xiaomi Cloud. Sve Xiaomi usluge na jednom mjestu.</item>
+        <item>Pristupite svojim fotografijama, kontaktima i porukama s bilo kojeg mjesta</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkronizacija;Cloud usluge;Xiaomi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sinkr. Wi-Fi postavke s Mi Cloudom</item>
+        <item>Sinkr. Wi-Fi postavke s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Sinkr. Wi-Fi postavke s Mi Cloudom</item>
+        <item>Sinkr. Wi-Fi postavke s Xiaomi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinkr.;Cloud usluge;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Prikaz sinkroniziranih stavki</item>

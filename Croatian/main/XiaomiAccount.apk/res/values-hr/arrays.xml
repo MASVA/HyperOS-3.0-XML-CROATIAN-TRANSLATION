@@ -62,6 +62,17 @@
         <item>"Ime vašeg supružnika"</item>
         <item>"Rođendan vašeg supružnika"</item>
     </string-array>
+	<string-array name="passport_privacy_dialog_optional_perm_desc">
+        <item>Kamera</item>
+    </string-array>
+    <string-array name="passport_privacy_dialog_runtime_perm_desc">
+		<item>Za pristup telefonskom broju uređaja radi podrške za prijavu jednim dodirom i prilikom korištenja načina rada Izgubljeni u Pronađi uređaj kako bi se pozivi mogli uputiti na broj koji navedete</item>
+		<item>Za upućivanje poziva na telefonski broj koji navedete prilikom korištenja načina rada Izgubljeni u Pronađi uređaj</item>
+		<item>Za lociranje vašeg uređaja putem Pronađi uređaj</item>
+		<item>"Za lociranje vašeg uređaja putem SMS-a kada mrežna veza nije dostupna"</item>
+		<item>Za pristup ili pohranjivanje podataka povezanih s Pronađi uređajem</item>
+		<item>Za zahtjev uređaju za reprodukciju zvuka u Pronađi uređaj</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Računi</item>
         <item>Dodajte i upravljajte računima trećih strana</item>

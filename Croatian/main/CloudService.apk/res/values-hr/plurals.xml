@@ -216,6 +216,14 @@
         <item quantity="one">Previše pokušaja. Pokušajte ponovno za %s sekundu.</item>
         <item quantity="few">Previše pokušaja. Pokušajte ponovno za %s sekunde.</item>
      </plurals>
+	 <plurals name="micloud_cloud_default_benefit_family_member_limit">
+        <item quantity="one">Podijeli s najviše %d članom obitelji</item>
+        <item quantity="other">Podijeli s do %d članova obitelji</item>
+    </plurals>
+    <plurals name="micloud_cloud_default_benefit_recover_days">
+        <item quantity="one">Vrati izbrisane stavke unutar %d dana</item>
+        <item quantity="other">Vrati izbrisane stavke unutar %d dana</item>
+    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Sinkr. će se nastaviti za %d min.</item>
         <item quantity="one">Sinkr. će se nastaviti za %d min.</item>

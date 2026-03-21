@@ -84,6 +84,8 @@
   <string name="btn_continue_record_description">Nastavi snimanje</string>
   <string name="button_queue_for_wifi">Čekaj</string>
   <string name="button_start_now">Preuzimanje</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -95,6 +97,7 @@
   <string name="call_record_list_group_all">Svi</string>
   <string name="call_record_list_group_connected">Povezano</string>
   <string name="call_record_list_group_unconnected">Nije povezano</string>
+  <string name="cancel">Odustani</string>
   <string name="cancel_dialog_message">Želite li sada otkazati slanje odabranih stavki?</string>
   <string name="cancel_dialog_negative_button">"Nemoj otkazati"</string>
   <string name="cancel_dialog_positive_button">Odustani</string>

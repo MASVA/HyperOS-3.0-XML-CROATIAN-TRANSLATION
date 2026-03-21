@@ -223,11 +223,15 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="decrypt_error">"Ne mogu ukloniti"</string>
   <string name="decrypt_to">Dešifriraj i spremi u…</string>
   <string name="decrypting">Uklanjanje…</string>
+  <string name="delete_cloud_pc_files">"Brišete stavke na više uređaja. Stavke iz clouda mogu se oporaviti iz Xiaomi Clouda. Stavke na računalu bit će trajno izbrisane. Svejedno izbrisati?"</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">""Ne mogu izbrisati datoteke. Pokušajte ponovno."</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
   <string name="delete_folder">Izbrisati ovu mapu?</string>
+  <string name="delete_permanently_dialog_button">Izbriši</string>
+  <string name="delete_permanently_loacal_cloud_pc_files">"Brišete stavke na više uređaja. Stavke u clouda mogu se oporaviti iz Xiaomi Clouda. Stavke na ovom uređaju i računalu bit će trajno izbrisane. Svejedno izbrisati?"</string>
+  <string name="delete_permanently_local_pc_files">"Brišete stavke na više uređaja. Stavke na ovom uređaju i računalu bit će trajno izbrisane. Svejedno izbrisati?"</string>
   <string name="des_hide_pwd">Sakrij zaporku</string>
   <string name="des_show_pwd">Prikaži zaporku</string>
   <string name="dialog_account_permission_denied_msg">Dopustite ovoj aplikaciji pristup računima uređaja kako bi se mogla prijaviti na Mi Drive. Ovo dopuštenje možete dati u postavkama.</string>
@@ -331,11 +335,13 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_copy_fail">"Nije moguće kopirati datoteke"</string>
   <string name="file_copy_success">Uspješno kopirano</string>
   <string name="file_copying">Kopiranje datoteka…</string>
+  <string name="file_desktop">Radna površina</string>
   <string name="file_dowload_fail">"Nije moguće spremiti datoteke"</string>
   <string name="file_dowload_success">Uspješno spremljeno</string>
   <string name="file_dowloading">Spremanje datoteka…</string>
   <string name="file_error_cannt_view">"Došlo je do pogreške. Ne mogu prikazati datoteku."</string>
   <string name="file_exception">"Došlo je do pogreške u datoteci. Konverzija nije uspjela."</string>
+  <string name="file_fail_content">%1$s. %2$s.</string>
   <string name="file_info_canread">Čitljivo: </string>
   <string name="file_info_canwrite">Pisljivo: </string>
   <string name="file_info_ishidden">Skriveno: </string>
@@ -344,9 +350,11 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_info_size">Veličina: </string>
   <string name="file_loading">Samo trenutak…</string>
   <string name="file_loading_error">"Nije moguće učitavanje"</string>
+  <string name="file_local_disk_format">Lokalni disk (%s:)</string>
   <string name="file_move_fail">"Nije moguće premjestiti"</string>
   <string name="file_move_success">Uspješno premješteno</string>
   <string name="file_moving">Premještanje datoteka…</string>
+  <string name="file_my_computer">Moje računalo</string>
   <string name="file_name_existed">Naziv datoteke je zauzet</string>
   <string name="file_name_invalid">"Nazivi datoteka ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Datoteka ne postoji"</string>
@@ -367,6 +375,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_transfer_notify">Usluge</string>
   <string name="file_upload_fail">"Nije moguće prenijeti datoteke"</string>
   <string name="file_upload_nas">Datoteke uspješno prenesene na Xiaomi SmartStorage</string>
+  <string name="file_upload_pc">Prijenos stavki na %s…</string>
   <string name="file_upload_success">Uspješno preneseno</string>
   <string name="file_parse_loading">Transkodiranje. Ovo bi moglo potrajati minutu.</string>
   <string name="file_parse_outpace_1gb">"Ova datoteka premašuje %1$d GB i ne može se vidjeti u ovoj aplikaciji. Možete je otvoriti s drugom aplikacijom."</string>
@@ -961,6 +970,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="storage_cloned_app">Prostor za pohranu dvojnih aplikacija</string>
   <string name="storage_info_detail">Dostupno: %1$s Ukupno: %2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
+  <string name="storage_internal_device">Unutarnja pohranae</string>
   <string name="storage_maintenance_mode">Pohrana za način održavanja</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>

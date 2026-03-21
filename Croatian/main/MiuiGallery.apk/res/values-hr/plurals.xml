@@ -879,6 +879,10 @@
         <item quantity="other">Utor %1$d: dodajte segment ne kraći od %2$s s</item>
         <item quantity="one">Utor %1$d: dodajte segment ne kraći od %2$s s</item>
     </plurals>
+	<plurals name="video_editor_component_imageview_content_description_new">
+        <item quantity="one">Segment %1$d. Dodajte fotografiju ili videozapis koji traje najmanje %2$.1f sek.</item>
+        <item quantity="other">Segment %1$d. Dodajte fotografiju ili videozapis koji traje najmanje %2$.1f sek.</item>
+    </plurals>
     <plurals name="video_editor_component_next_step_disabled_content_description">
         <item quantity="other">Dodajte još %d segmenta za nastavak</item>
         <item quantity="one">Dodajte još %d segment za nastavak</item>

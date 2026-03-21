@@ -1247,6 +1247,11 @@
   <string name="sync_note_todo">%1$s i %2$s</string>
   <string name="sync_tips">Dodirnite za sinkr. bilješki s Xiaomi Cloudom.</string>
   <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="tapshare_notes_without_title">Bilješka bez naslova</string>
+  <string name="tapshare_restore_notes_fail_toast">"Nije moguće uvesti. Pokušajte ponovno."</string>
+  <string name="tapshare_restore_notes_success_toast">Uspješno uvezeno</string>
+  <string name="tapshare_restore_notes_toast">Uvoz u Bilješke…</string>
+  <string name="tapshare_send_counts_exceed_toast">"Ne mogu poslati više od %d stavki odjednom"</string>
   <string name="takeaway_review">Napišite dobru recenziju za dostavu hrane</string>
   <string name="theme_blue_description">Plava</string>
   <string name="theme_green_description">Zelena</string>

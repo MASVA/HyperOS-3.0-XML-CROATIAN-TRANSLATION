@@ -101,6 +101,7 @@
   <string name="ble_enter_verifycode_timeout_summary">"Kôd nije unešen duže vrijeme. Povežite se ručno."</string>
   <string name="ble_enter_verifycode_timeout_title">Isteklo je vrijeme sesije</string>
   <string name="ble_guest_connecting_title">Povezivanje na novi uređaj…</string>
+  <string name="ble_guest_connecting_title_pad">Povezivanje s novim uređajem…</string>
   <string name="ble_host_verification_summary">Unesite %d-znamenkasti kod na starom uređaju.</string>
   <string name="ble_host_verification_title">Povezivanje na stari uređaj…</string>
   <string name="ble_manual_authorization_content">Dajte potrebna dopuštenja da biste mogli prenositi stavke pomoću Mi Movera. Ova dopuštenja možete dati u Postavkama.</string>
@@ -111,6 +112,7 @@
   <string name="ble_start_ap_successed">Hotspot je uspješno izrađen. Čeka se povezivanje…</string>
   <string name="ble_starting_ap">Izrada hotspota…</string>
   <string name="ble_wait_verify_code">Generiranje koda na novom uređaju…</string>
+  <string name="ble_wait_verify_code_pad">Generiranje koda na novom uređaju…</string>
   <string name="ble_waiting_verify_code">Provjera koda…</string>
   <string name="ble_waiting_verify_code_error">Kôd koji ste unijeli nije ispravan</string>
   <string name="blutooth_permission_desc">Za otkrivanje uređaja u blizini koji su spremni za povezivanje</string>
@@ -599,6 +601,20 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="new_app_name">Nova verzija</string>
   <string name="new_main_activity_label">Mi Mover</string>
   <string name="new_provision_title">Prenesite stavke</string>
+  <string name="new_trans_intro_data_not_support_by_copyright_title">%d. Podaci zaštićeni autorskim pravima</string>
+  <string name="new_trans_intro_data_not_support_by_otherness_content_1">"Aplikacije sustava i podaci drugih marki mogu biti nekompatibilni s Mi Moverom i ne mogu se prenijeti."</string>
+  <string name="new_trans_intro_data_not_support_by_otherness_content_2">"Aplikacije i podaci koji nisu kompatibilni s novim uređajem ne mogu se prenijeti."</string>
+  <string name="new_trans_intro_data_not_support_by_otherness_content_3">Neke postavke i podaci telefona vezani su uz vašu SIM karticu. Umetanjem SIM kartice u novi uređaj prenijet će se ti podaci.</string>
+  <string name="new_trans_intro_data_not_support_by_otherness_title">%d. Neki podaci aplikacije</string>
+  <string name="new_trans_intro_data_not_support_by_pad_title">%d. Podaci drugog prostora</string>
+  <string name="new_trans_intro_data_not_support_by_phone_title">%d. Podaci drugog prostora</string>
+  <string name="new_trans_intro_data_not_support_by_secret_title">%d. Podaci vezani uz privatnost i sigurnost</string>
+  <string name="new_trans_intro_data_not_support_by_type_content_1">"Bankovne kartice i ključevi od automobila ne mogu se prenijeti."</string>
+  <string name="new_trans_intro_data_not_support_by_type_content_2">"Teme i pozadine podliježu ograničenjima razlučivosti zaslona i ne mogu se prenositi između nekih modela."</string>
+  <string name="new_trans_intro_data_not_support_by_type_content_3">"Zbog ograničenja Bluetooth protokola, zapisi uparivanja za Bluetooth slušalice, zvučnike i druge uređaje ne mogu se prenijeti."</string>
+  <string name="new_trans_intro_data_not_support_by_type_content_4">"Operativne statistike, kao što su potrošnja energije, vrijeme provedeno pred zaslonom i korištenje mobilnih podataka, ne mogu se prenijeti."</string>
+  <string name="new_trans_intro_data_not_support_by_type_title">%d. Podaci povezani s određenim modelom uređaja</string>
+  <string name="new_trans_intro_data_not_support_title">"%d. Koji se podaci ne mogu prenijeti putem Mi Movera?"</string>
   <string name="new_trans_intro_desc_2">Ne morate unijeti zaporku u novoj verziju Mi Movera. Samo otvorite Mi Mover na Vašem starom uređaju, dodirnite \"Šaljem\" i dodirnite naziv hotspota za povezivanje.</string>
   <string name="new_trans_intro_desc_2_pad">"U novoj verziji Mi Movera nije potrebno unositi zaporku za hotspot. Samo otvorite Mi Mover na svom starom uređaju, dodirnite \"Ja sam pošiljatelj\" i dodirnite naziv hotspota za povezivanje."</string>
   <string name="new_trans_intro_desc_2_phone">"U novoj verziji Mi Movera nije potrebno unositi zaporku za hotspot. Samo otvorite Mi Mover na svom starom uređaju, dodirnite \"Ja sam pošiljatelj\" i dodirnite naziv hotspota za povezivanje."</string>
@@ -608,14 +624,14 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="new_trans_intro_desc_6">Vaš novi Mi telefon možda nema za to potrebna dopuštenja.</string>
   <string name="new_trans_intro_desc_6_pad">"Podaci aplikacije ne mogu se prenijeti jer Mi Mover nema potrebna dopuštenja na uređajima koji nisu Xiaomi."</string>
   <string name="new_trans_intro_desc_6_phone">"Podaci aplikacije ne mogu se prenijeti jer Mi Mover nema potrebna dopuštenja na uređajima koji nisu Xiaomi."</string>
-  <string name="new_trans_intro_desc_7">Mi Mover može nastaviti gdje je stao prethodni put, međutim možda će ipak morati sve ispočetka ukoliko uređaj ima problem s kompatibilnošću koji ne dozvoljava nastavak prekinutog prijenosa.</string>
-  <string name="new_trans_intro_desc_8">Wechat povijest Vašeg starog uređaja zamijenit će Wechat povijest na novom uređaju tokom prijenosa.</string>
+  <string name="new_trans_intro_desc_7">Mi Mover će moći nastaviti tamo gdje ste stali, međutim možda ćete morati početi ispočetka ako vas problemi s kompatibilnošću uređaja sprječavaju u nastavku prekinutog prijenosa.</string>
+  <string name="new_trans_intro_desc_7_pad">Mi Mover će moći nastaviti tamo gdje ste stali. Međutim, možda ćete morati početi ispočetka ako vas problemi s kompatibilnošću uređaja sprječavaju u nastavku prekinutog prijenosa.</string>
+  <string name="new_trans_intro_desc_8">Povijest WeChata sa starog uređaja prebrisat će povijest WeChata s novog uređaja tijekom prijenosa.</string>
+  <string name="new_trans_intro_desc_8_pad">Povijest WeChata sa starog uređaja prebrisat će povijest WeChata s novog uređaja tijekom prijenosa.</string>
   <string name="new_trans_intro_desc_new">"%1$d. Provjerite je li Mi Mover na vašem novom uređaju ažuriran. Najnoviju verziju Mi Movera možete preuzeti u GetApps ili dodirnite ovdje:%2$s
 %3$d. Ako se hotspot i dalje ne pojavljuje u Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li je tamo. Ako je tako, vratite se na Mi Mover i dodirnite naziv hotspota."</string>
   <string name="new_trans_intro_desc_new_click">Preuzimanje</string>
   <string name="new_trans_intro_desc_new_pad">%1$d. Provjerite je li Mi Mover na vašem novom uređaju ažuriran. Najnoviju verziju Mi Movera možete preuzeti u GetApps ili <Data>&lt;a href=%2$s>dodirnite ovdje&lt;/a></Data>".
-%3$d. Ako se hotspot i dalje ne prikazuje u Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li je tamo. Ako je tako, vratite se u Mi Mover i dodirnite naziv hotspota."</string>
-<string name="new_trans_intro_desc_new_pad_china">%1$d. Provjerite je li Mi Mover na vašem novom uređaju ažuriran. Najnoviju verziju Mi Movera možete preuzeti u GetApps ili <Data>&lt;a href=%2$s>dodirnite ovdje&lt;/a></Data>".
 %3$d. Ako se hotspot i dalje ne prikazuje u Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li je tamo. Ako je tako, vratite se u Mi Mover i dodirnite naziv hotspota."</string>
 <string name="new_trans_intro_desc_new_phone">%1$d. Provjerite je li Mi Mover na vašem novom uređaju ažuriran. Najnoviju verziju Mi Movera možete preuzeti u GetApps ili <Data>&lt;a href=%2$s>dodirnite ovdje&lt;/a></Data>".
 %3$d. Ako se hotspot i dalje ne pojavljuje u Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li je tamo. Ako je tako, vratite se u Mi Mover i dodirnite naziv hotspota."</string>
@@ -656,14 +672,21 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="not_support">Nije podržano</string>
   <string name="not_support_data_content1">1. Stavke specifične za model uređaja</string>
   <string name="not_support_data_content2">2. Podaci odabranih aplikacija</string>
+  <string name="not_support_data_content2_new">%d. Podaci zaštićeni autorskim pravima</string>
   <string name="not_support_data_content3">3. Podaci Drugog prostora</string>
+  <string name="not_support_data_content3_new">%d. Podaci vezani uz privatnost i sigurnost</string>
   <string name="not_support_data_content4">4. Dvojne aplikacije</string>
+  <string name="not_support_data_content4_new">%d. Neki podaci aplikacije</string>
   <string name="not_support_data_content_2">%d. Odabrane aplikacije i podaci aplikacija</string>
   <string name="not_support_data_link">"Stavke koje se ne mogu prenijeti"</string>
   <string name="not_support_data_summary1">"Transportne i pristupne kartice ne mogu se prenijeti; teme i pozadine se mogu prenijeti na nekim modelima"</string>
+  <string name="not_support_data_summary1_new">"Bankovne kartice i ključevi od automobila ne mogu se prenositi. Teme i pozadine podliježu ograničenjima razlučivosti zaslona i ne mogu se prenositi između nekih modela."</string>
   <string name="not_support_data_summary2">Neke aplikacije postavljaju stroge sigurnosne mjere kako bi spriječile prijenos podataka aplikacija. Takve aplikacije mogu obuhvaćati bankarske aplikacije ili financijske usluge.</string>
+  <string name="not_support_data_summary2_new">"Teme, fontovi, velike ikone, teme za Always-on display i widgeti kupljeni putem vašeg Xiaomi računa koji su zaštićeni autorskim pravima ne mogu se prenijeti. Prijavite se sa svojim Xiaomi računom na novom uređaju i ponovno ih preuzmite."</string>
   <string name="not_support_data_summary3">"Zbog sistemskih ograničenja, stavke iz Drugog prostora ne mogu se prenijeti pomoću Mi Movera."</string>
+  <string name="not_support_data_summary3_new">"Otisci prstiju, podaci o licu i ostali podaci koji se odnose na vlasništvo uređaja, financijsku sigurnost i privatnost korisnika ne mogu se ni u kojem obliku prenijeti sa starog uređaja. To uključuje i podatke iz financijskih aplikacija (npr. mobilno bankarstvo)."</string>
   <string name="not_support_data_summary4">"Dvojne aplikacije i njihovi podaci također se ne mogu prenijeti. Ipak možete prenijeti odgovarajuće glavne aplikacije."</string>
+  <string name="not_support_data_summary_new">"Aplikacije sustava i podaci drugih marki mogu biti nekompatibilni s Mi Moverom i ne mogu se prenijeti."</string>
   <string name="not_support_data_summary_2">Neke aplikacije ne mogu biti prenesene zbog ograničenja privatnosti Trgovine Play.</string>
   <string name="not_support_data_title">"Stavke koje se ne mogu prenijeti"</string>
   <string name="note">Bilješke</string>
@@ -792,6 +815,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_wifi_summary">Za prijenos stavki na vaš novi uređaj</string>
   <string name="permission_wifi_summary_new">Za prijenos stavki na vaš novi uređaj</string>
   <string name="permission_wifi_title">Uključivanje i isključivanje Wi-Fi-ja</string>
+  <string name="permission_wifi_title_new">Uključivanje i isključivanje Wi-Fi-ja</string>
+  <string name="permission_wifi_title_new_china">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_agree">Prihvaćam</string>
   <string name="privacy_cancel">Ne prihvaćam</string>
@@ -1110,10 +1135,12 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="trans_send_time_remained_default">Poslano: %1$s</string>
   <string name="trans_show_qr_code_label">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_show_qr_code_label_for_pad">Otvorite Mi Mover na starom uređaju</string>
+  <string name="trans_show_qr_code_label_pad">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_sync_transfer_data_list_pad">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_sync_transfer_data_list_apple">"Odaberite stavke za prijenos
 na vašem Apple uređaju"</string>
+  <string name="trans_sync_transfer_data_list_phone">Odaberite stavke za prijenos na stari uređaj</string>
   <string name="trans_sync_transfer_data_list_hint">Samo trenutak…</string>
   <string name="trans_sync_transfer_data_list_summary_for_pad">Odaberite stavke na starom uređaju i dodirnite \"Pošalji\".</string>
   <string name="trans_sync_transfer_data_list_summary_for_phone">Odaberite stavke na svom starom uređaju i dodirnite \"Pošalji\".</string>
@@ -1137,7 +1164,8 @@ na vašem Apple uređaju"</string>
   <string name="transfer_quit_alert_message">"Mi Mover radi. Prekinuti svejedno?
 
 "</string>
-  <string name="transfer_quit_alert_message_extra">Napredak prijenosa bit će spremljen. Moći ćete nastaviti prijenos s mjesta na kojem ste stali sljedeći put kada spojite dva uređaja.</string>
+  <string name="transfer_quit_alert_message_extra">Napredak prijenosa bit će spremljen. Sljedeći put kada povežete dva uređaja, moći ćete nastaviti prijenos od mjesta gdje ste stali.</string>
+  <string name="transfer_quit_alert_message_extra_pad">"Napredak prijenosa bit će spremljen. Sljedeći put kada povežete dva uređaja, moći ćete nastaviti prijenos od mjesta gdje ste stali."</string>
   <string name="transfer_quit_alert_title">Pažnja</string>
   <string name="transfer_snap_error">Ne mogu prenijeti</string>
   <string name="transfer_snap_new_receiving">Primanje…</string>

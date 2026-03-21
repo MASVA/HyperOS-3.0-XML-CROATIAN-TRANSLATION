@@ -60,10 +60,10 @@ Dodirnite za prikaz."</string>
   <string name="close_screen_record">Snimanje je zaustavljeno</string>
   <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
-  <string name="description_content">"Snimač zaslona pruža mogućnosti snimanja na razini sustava. Ako nastavite, nećete moći koristiti Snimač zaslona. Potvrdite da biste nastavili."</string>
+  <string name="description_content">"Snimač zaslona pruža mogućnosti snimanja na razini sustava. Nećete moći koristiti Snimač zaslona ako nastavite. Potvrdite za nastavak."</string>
   <string name="description_title">O aplikaciji</string>
   <string name="deselect_all">Poništi odabir</string>
-  <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
+  <string name="error_open_file_failed_no_app_found">"Nije pronađena aplikacija za otvaranje ove datoteke"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_using_mic_dialog_message">Snimač zaslona treba pristup vašem mikrofonu za snimanje zvuka. Dopustiti?</string>
   <string name="first_using_mic_dialog_title">Potrebno je dopuštenje</string>
