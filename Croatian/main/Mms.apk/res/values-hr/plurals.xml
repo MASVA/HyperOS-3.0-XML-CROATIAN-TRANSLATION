@@ -169,6 +169,10 @@
         <item quantity="other">Poslano poruka: %1$s</item>
         <item quantity="one">Poslana %1$s poruka</item>
     </plurals>
+	<plurals name="silent_notification_confirm_exit">
+        <item quantity="one">"Ako nastavite, primat ćete obavijesti za sve dolazne kontrolne kodove. Ove obavijesti neće biti utišane %1$d minutu. Želite li odmah zaustaviti utišavanje?"</item>
+        <item quantity="other">"Ako nastavite, primat ćete obavijesti za sve dolazne kontrolne kodove. Ove obavijesti neće biti utišane %1$d minuta. Želite li odmah zaustaviti utišavanje?"</item>
+    </plurals>
     <plurals name="slide_audio_duration">
         <item quantity="other">%d sek</item>
         <item quantity="one">%d sek</item>

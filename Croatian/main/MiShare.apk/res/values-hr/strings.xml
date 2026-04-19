@@ -516,7 +516,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="time_picker_label_minute">M</string>
   <string name="tips_p2p_support_use5g">Za najbolje rezultate koristite Wi-Fi mrežu od 5 GHz.</string>
   <string name="tips_p2p_support_use5g_china">Za najbolje rezultate koristite Wi-Fi mrežu od 5 GHz.</string>
-  <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
+  <string name="tips_prompt_enable_midrop">Uključite Xiaomi Share za dijeljenje datoteka s uređajima u blizini</string>
   <string name="to_feedback">Povratne inf.</string>
   <string name="toast_auto_close_in_minutes">Xiaomi Share će se isključiti nakon %d minuta</string>
   <string name="toast_transfering">Prijenos stavki. Pokušajte ponovno kasnije.</string>

@@ -181,6 +181,9 @@
   <string name="cache_title_empty_folder2">Prazna mapa</string>
   <string name="cache_title_system_cache">Predmemorija</string>
   <string name="cached_garbage">Predmemorija</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
   <string name="call_log">Dnevnik poziva</string>
   <string name="cancel">Odustani</string>
   <string name="cd_back">Natrag</string>

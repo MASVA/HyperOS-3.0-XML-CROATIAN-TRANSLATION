@@ -63,7 +63,7 @@
   <string name="account_none_binded_info">Ništa</string>
   <string name="account_none_user_name">Ništa</string>
   <string name="account_notification_message">Sesija je istekla. Ponovno se prijavite.</string>
-  <string name="account_removed_notification_message">"Odjavljeni ste sa svog Xiaomi računa. Ako ovaj zahtjev niste podnijeli vi, promijenite lozinku."</string>
+  <string name="account_removed_notification_message">"Odjavljeni ste sa svog Xiaomi računa. Ako ovaj zahtjev niste podnijeli vi, promijenite zaporku."</string>
   <string name="account_removed_notification_title">Vaš je račun odjavljen</string>
   <string name="account_secure_info_pref_title">Informacije o računu</string>
   <string name="account_security">Sigurnost računa</string>
@@ -129,6 +129,9 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="button_close">Zatvori</string>
   <string name="button_refuse">"Ne prihvaćam"</string>
   <string name="button_unbind">Prekini vezu</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Video</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -443,6 +446,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -679,9 +683,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_close_dialog_open_btn">Nastavi</string>
   <string name="passport_close_two_factor_auth">Isključi dvofaktorsku provjeru autentičnosti</string>
   <string name="passport_completed">Gotovo</string>
-  <string name="passport_completed">Dovršeno</string>
   <string name="passport_confirm_login">Nastavi</string>
-  <string name="passport_confirm_new_pwd">Potvrdite novu lozinku</string>
+  <string name="passport_confirm_new_pwd">Potvrdite novu zaporku</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Izgleda da je&lt;/font> broj %s reciklirao vaš operater, a Xiaomi račun je povezan s njim. Je li taj račun vaš?"</string>
   <string name="passport_continue">Nastavi</string>
@@ -690,7 +693,14 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_copy_message_vcode">Kopiraj kod</string>
   <string name="passport_copy_to_clipboard_successful">Uspješno kopirano</string>
   <string name="passport_cta_provision_content">Xiaomi račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
-  <string name="passport_cta_provision_required_permissions_desc">"Za pristup telefonskom broju uređaja radi podrške za prijavu jednim dodirom i prilikom korištenja načina rada Izgubljeni u Pronađi uređaj kako bi se pozivi mogli uputiti na broj koji navedete; Za upućivanje poziva na telefonski broj koji navedete prilikom korištenja načina rada Izgubljeni u Pronađi uređaj; Za lociranje vašeg uređaja putem Pronađi uređaj; Za lociranje vašeg uređaja putem SMS-a kada mrežna veza nije dostupna; Za pristup ili pohranjivanje podataka povezanih s Pronađi uređaj; Za zahtjev uređaju da reproducira zvuk u Pronađi uređaj."</string>
+  <string name="passport_cta_provision_required_all_permissions_desc">"Za pristup telefonskom broju uređaja radi podrške za prijavu jednim dodirom i prilikom korištenja načina rada Izgubljeni u Pronađi uređaj kako bi se pozivi mogli uputiti na broj koji navedete; Za upućivanje poziva na telefonski broj koji navedete prilikom korištenja načina rada Izgubljeni u Pronađi uređaj; Za lociranje vašeg uređaja putem Pronađi uređaj; Za lociranje vašeg uređaja putem SMS-a kada mrežna veza nije dostupna; Za poboljšanje prostornog pozicioniranja prilikom korištenja Pronađi uređaj; Za pristup ili pohranjivanje podataka povezanih s Pronađi uređaj; Za zahtjev uređaju za reprodukciju zvuka u Pronađi uređaj."</string>
+  <string name="passport_cta_provision_required_bluetooth_admin_desc">Za zahtjev uređaju za reprodukciju zvuka u Pronađi uređaj</string>
+  <string name="passport_cta_provision_required_call_phone_permissions_desc">Za upućivanje poziva na telefonski broj koji navedete prilikom korištenja načina rada Izgubljeni u Pronađi uređaj</string>
+  <string name="passport_cta_provision_required_camera_desc">Za poboljšanje prostornog pozicioniranja prilikom korištenja Pronađi uređaj</string>
+  <string name="passport_cta_provision_required_location_desc">Za lociranje vašeg uređaja putem Pronađi uređaj</string>
+  <string name="passport_cta_provision_required_read_phone_state_permissions_desc">Za pristup telefonskom broju uređaja radi podrške za prijavu jednim dodirom i prilikom korištenja načina rada Izgubljeni u značajci Pronađi uređaj kako bi se pozivi mogli uputiti na broj koji navedete</string>
+  <string name="passport_cta_provision_required_read_sms_desc">"Za lociranje uređaja putem SMS-a kada mrežna veza nije dostupna"</string>
+  <string name="passport_cta_provision_required_storage_desc">Za pristup ili pohranu podataka povezanih s značajkom Pronađi uređaj</string>
   <string name="passport_delete_account">Odjava</string>
   <string name="passport_device_code_dialog_hint">"Nemojte dijeliti ovaj kod ni s kim"</string>
   <string name="passport_dialog_captcha_title">Kôd</string>
@@ -1058,6 +1068,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="phone_ticket_login">Prijavite se s kontrolnim kodom</string>
   <string name="phone_ticket_register">Izradite račun s telefonskim brojem</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
+  <string name="positive_btn">U redu</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Xiaomi račun ako ne pristanete na novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirana &lt;a href=%1$s>Pravila o privatnosti&lt;/a> Xiaomi računa?"</string>
   <string name="privacy_policy_reject_confirm_title">"Ne mogu koristiti Xiaomi račun"</string>

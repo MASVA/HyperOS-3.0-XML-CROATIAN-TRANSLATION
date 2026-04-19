@@ -219,11 +219,12 @@
   <string name="korea_permission_record_resc">Za snimanje zvuka</string>
   <string name="korea_permission_storage">Pohrana</string>
   <string name="korea_permission_storage_desc">Za spremanje snimaka</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="loading_hyper_xiaoai">Samo trenutak…</string>
   <string name="local_funcation_setting">Postavke na uređaju</string>
-  <string name="loading">Samo trenutak…</string>
   <string name="loading_more">Samo trenutak…</string>
   <string name="loading_order_list">Samo trenutak…</string>
+  <string name="loading_play_info">Samo trenutak…</string>
   <string name="loading_text">Sažetak…</string>
   <string name="login_by_local_phone_long_text">Prijavite se sada</string>
   <string name="login_by_local_phone_short_text">Prijava</string>
@@ -245,8 +246,8 @@
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
-  <string name="material_slider_range_end">Kraj raspona,</string>
-  <string name="material_slider_range_start">Početak raspona,</string>
+  <string name="material_slider_range_end">Kraj raspona</string>
+  <string name="material_slider_range_start">Početak raspona</string>
   <string name="material_slider_value">Vrijednost</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
@@ -479,6 +480,9 @@
   <string name="open_settings">Postavke</string>
   <string name="open_voice_enhancement">Poboljšani glas</string>
   <string name="opened_voice_enhancement">Poboljšani glas je uključen</string>
+  <string name="outline_summary_expend">Prikaži više</string>
+  <string name="outline_summary_fold">Prikaži manje</string>
+  <string name="outline_summary_title">Obris</string>
   <string name="other_settings_pref_title">Dodatne postavke</string>
   <string name="pasport_register_dialog_message">Želite li sada kreirati Xiaomi račun putem svog telefonskog broja %s?</string>
   <string name="passport_access_denied">Pristup odbijen</string>
@@ -543,7 +547,7 @@
   <string name="passport_error_length_limit">Tekst koji ste unijeli je predug</string>
   <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="passport_error_no_password_user">"Još niste postavili zaporku. Prijavite se SMS-om."</string>
-  <string name="passport_error_phone">Nevažeći telefonski broj</string>
+  <string name="passport_error_phone">Unesite važeći telefonski broj</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_sms_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pokušajte ponovno kasnije.</string>
   <string name="passport_error_ticket_invalid">Ovaj kod nije točan</string>
@@ -684,6 +688,7 @@
   <string name="permission_storage_description_for_download">Za preuzimanje snimaka iz clouda</string>
   <string name="permission_storage_description_for_manage_files">Za upravljanje snimkama</string>
   <string name="photo_description">Fotografija</string>
+  <string name="play_settings">Postavke reprodukcije</string>
   <string name="play_speed">%1$.1fX brzina</string>
   <string name="play_with_no_record_toast">"Ne mogu pronaći snimku"</string>
   <string name="playback_delete_records">Izbriši snimku</string>
@@ -697,8 +702,15 @@
   <string name="playback_share_records">Podijeli snimku</string>
   <string name="playback_tabs_audio">Audio</string>
   <string name="playback_tabs_text">Tekst</string>
+  <string name="preference_ai_recognize_summary">Podržava ASR prepoznavanje govora, sažetke i prijevod</string>
+  <string name="preference_category_ai_function">AI</string>
+  <string name="preference_category_model_settings">Postavke modela</string>
+  <string name="preference_category_recorder_client">Izvor snimanja</string>
+  <string name="preference_category_service_scene">Scenariji</string>
+  <string name="preference_category_service_scene_summary">Automatski transkribira i sažima zvuk nakon snimanja</string>
   <string name="preference_clear_data">Izbriši</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preference_data_recognize_warning_title">Obrada na uređaju</string>
   <string name="preference_enable_earpiece_summary">Koristite zvučnik za vanjsku reprodukciju</string>
   <string name="preference_enable_earpiece_title">Koristi prijemnik za reprodukciju zvuka</string>
   <string name="preference_group_title_for_ai_setting">AI značajke</string>
@@ -760,9 +772,13 @@
   <string name="recognition_process_dialog_title">Zadaci koji su u tijeku</string>
   <string name="recognition_stop_current">Zaustavi zadatak koji je u tijeku</string>
   <string name="recognize_complete_toast">Transkripcija dovršena</string>
-  <string name="recognize_data_loading">Samo sekundu…</string>
+  <string name="recognize_data_loading">Samo trenutak…</string>
+  <string name="recognize_retry_dialog_summary">Generiraj novi sažetak koji uključuje naslov, pregled, strukturu poglavlja i ključne točke. Generirati sada?</string>
   <string name="recognize_tip_part_one">"Nisam dovršio prijepis. "</string>
   <string name="recognize_tip_part_two">Pokušajte ponovno</string>
+  <string name="recognize_tip_summary_page_retry_recognizing">Generiraj novi sažetak nakon što je transkripcija dovršena</string>
+  <string name="recognize_tip_summary_page_retry_summary_completed">Uspješno generirano. Dodirnite ovdje za osvježavanje.</string>
+  <string name="recognize_tip_summary_page_retry_summarying">Generiranje sažetka…</string>
   <string name="recognizing_not_rename">"Ne mogu preimenovati tijekom snimanja"</string>
   <string name="record">Snimi</string>
   <string name="record_ai_polish_fail">"Poliranje nije uspjelo. Pokušajte ponovno."</string>
@@ -774,6 +790,7 @@
   <string name="record_downloading_notification">Preuzimanje…</string>
   <string name="record_downloading_notification_complete">Preuzimanje završeno</string>
   <string name="record_downloading_notification_count">%d preuzeto</string>
+  <string name="record_file_size_too_large">Audio datoteka je prevelika za transkripciju</string>
   <string name="record_format_preference_title">Format snimanja</string>
   <string name="record_item_title_multi_choice">Odaberi</string>
   <string name="record_item_title_remark">Dodajte napomenu</string>
@@ -855,6 +872,8 @@
   <string name="save_record_dialog_title">Spremi snimku</string>
   <string name="search_app">Snimač</string>
   <string name="search_empty">"Nisam mogao pronaći rezultate"</string>
+  <string name="searchview_clear_text_content_description">Izbriši tekst</string>
+  <string name="searchview_navigation_content_description">Natrag</string>
   <string name="search_enable_earpiece_title">Način rada slušalice</string>
   <string name="search_led_indicator">Obavijesti zaklj. zaslona</string>
   <string name="search_led_indicator_prompt">Tijekom snimanja, prikaži prečac u statusnoj traci i pulsno svjetlo obavijesti kod Zaklj. zaslona</string>
@@ -908,6 +927,7 @@
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
+  <string name="skip_silence">Preskoči tihe segmente</string>
   <string name="sound_recorder_settings">Postavke</string>
   <string name="speaker">"Zvučnik "</string>
   <string name="state_decode_recognize_tip">Priprema za transkripciju…</string>
@@ -938,6 +958,8 @@
   <string name="tab_apps">Aplikacije</string>
   <string name="tab_call">Pozivi</string>
   <string name="tab_fm">FM</string>
+  <string name="tab_text_original">Transkript</string>
+  <string name="tab_text_summary">Sažetak</string>
   <string name="talkback_component_exit_button">Zatvori plutajući prozor</string>
   <string name="talkback_return_playback_location">Povratak na lokaciju reprodukcije</string>
   <string name="talkback_return_speak_location">Povratak na sinkroniziranu reprodukciju</string>

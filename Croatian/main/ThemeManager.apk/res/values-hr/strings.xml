@@ -395,6 +395,7 @@
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dva puta dodirnuta</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+  <string name="svjetlina">Svjetlina</string>
   <string name="browse_mode">Online način</string>
   <string name="browse_mode_desc">"Dopustite ovoj aplikaciji povezivanje s internetom, pristup mrežnom sadržaju, kao i korištenje stavki na vašem uređaju (npr. fotografije, zvuk i videozapisi). Niti jedan vaš osobni podatak neće biti prikupljen."</string>
   <string name="browser_local_resource">Lokalni izvori</string>
@@ -609,6 +610,7 @@
   <string name="dialog_apply_lock_screen_wallpaper_warning">Pozadina Zaklj. zaslona</string>
   <string name="dialog_content_get_device_status">Ova aplikacija mora pristupiti ID-u vašeg uređaja da bi mogla autentificirati stavke kupljene na vašim drugim uređajima. Možda ćete moći isključiti neke od kupljenih stavki nakon što isključite ovu značajku. Svejedno isključiti?</string>
   <string name="dialog_negative_button_text">Ne sad</string>
+  <string name="dialog_operation_close">Postavke</string>
   <string name="dialog_positive_button_text">Dopusti</string>
   <string name="dialog_show_never">"Ne prikazuj ponovno."</string>
   <string name="dialog_trans_wallpaper_offline_detail">"Transparentne pozadine više nisu dostupne jer ih Android 12 ne podržava."</string>
@@ -1175,16 +1177,19 @@
   <string name="kg_talkback_back">Natrag</string>
   <string name="kg_talkback_cancel_wallpaper_custom">Otkaži postavljanje pozadine</string>
   <string name="kg_talkback_desktop_wallpaper_preview">Pregled pozadine početnog zaslona</string>
+  <string name="kg_talkback_double_tap_to_activate">Dvaput dodirnite za aktivaciju</string>
   <string name="kg_talkback_effect_dialog">Ploča s efektima, trenutni efekt: %s</string>
   <string name="kg_talkback_follow_the_keyguard">Sinkroniziraj pozadinu, početni zaslon će se podudarati s pozadinom zaključanog zaslona</string>
   <string name="kg_talkback_giving_up_editing">"Odbaci promjene, uređivanja pozadine neće biti spremljena"</string>
   <string name="kg_talkback_keyguard_wallpaper_preview">Pregled pozadine zaključanog zaslona</string>
   <string name="kg_talkback_not_selected">Nije odabrano</string>
+  <string name="kg_talkback_off">Isključeno</string>
+  <string name="kg_talkback_on">Uključeno</string>
   <string name="kg_talkback_pick_wallpaper">Pozadina, odaberi iz biblioteke</string>
   <string name="kg_talkback_select_all">Odaberi sve</string>
   <string name="kg_talkback_selected">Odabrano</string>
   <string name="kg_talkback_unselect_all">Poništi odabir svega</string>
-  <string name="kg_template_description_classic">"Ono što je klasično nikad ne izlazi iz mode."</string>
+  <string name="kg_template_description_classic">"Klasika nikad ne izlazi iz mode."</string>
   <string name="kg_template_description_eastern_art">Prikazivanje suvremene interpretacije istočnjačkih elemenata korištenjem klasične križne simetrije, prepoznatljivog okomitog rasporeda i kaligrafskog izraza</string>
   <string name="kg_template_description_magazine">Pretvorite svoj zaključani zaslon u naslovnicu časopisa.</string>
   <string name="kg_template_description_rhombus">Vrijeme je važno. Neka se broji.</string>
@@ -1954,9 +1959,11 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="read_and_agree_account_privacy">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi račun &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; i &amp;lt;font color=\"#37A5FF\"&amp;gt;&amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;."&lt;/Data&gt;</string>
   <string name="read_write_file">Pristupite i spremite datoteke na ovom uređaju</string>
   <string name="read_write_file_a">Pristup i spremanje datoteka i fotografija pohranjenih na vašem uređaju (za pohranu preuzetog sadržaja)</string>
+  <string name="rear_dialog_content_remove_animation">\"Ukloni animacije\" je uključeno, što može utjecati na animacije pozadine. Isključite ga u Pristupačnost > Vid > Zaslon.</string>
+  <string name="rear_dialog_title_remove_animation">Isključite \"Ukloni animacije\"</string>
   <string name="rear_edit_abandon">Želite li sada odbaciti promjene?</string>
   <string name="rear_screen_add_success">Uspješno dodano</string>
-  <string name="rear_screen_aod_setting">Stražnji zaslon AOD</string>
+  <string name="rear_screen_aod_setting">Stražnji AOD zaslon</string>
   <string name="rear_screen_aod_setting_title">Always-on zaslon</string>
   <string name="rear_screen_apply_fail">"Nije moguće primijeniti"</string>
   <string name="rear_screen_apply_success">Uspješno primijenjeno</string>
@@ -1964,7 +1971,10 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_screenshot">Snimka zaslona</string>
   <string name="rear_screen_service_assistant_new">Upravljanje stražnjim zaslonom</string>
   <string name="rear_screen_template_upper_limit_old">Izbrišite stavke u Postavke > Stražnji zaslon > Personalizacija kako biste mogli dodati još</string>
+  <string name="rear_screen_timeout_title">Zaslon uključen za</string>
   <string name="rear_screen_delete_template">Želite li sada izbrisati ovaj predložak?</string>
+  <string name="rear_screen_display_and_brightness">Zaslon i svjetlina</string>
+  <string name="rear_screen_drag_prompt">Pritisnite i držite za promjenu rasporeda</string>
   <string name="rear_screen_edit_color_hsl_title">Prilagođena boja</string>
   <string name="rear_screen_edit_color_hue">Nijansa</string>
   <string name="rear_screen_edit_color_lightness">Svjetlina</string>
@@ -1976,10 +1986,13 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_edit_title_signature">Potpis</string>
   <string name="rear_screen_edit_title_title_time">Sat</string>
   <string name="rear_screen_edit_title_time">Sat</string>
+  <string name="rear_screen_gaze_detection_summary">Stražnji zaslon ostaje uključen dok gledate u zaslon</string>
+  <string name="rear_screen_gaze_detection_title">Zaslon koji usmjerava pažnju</string>
   <string name="rear_screen_guide_text">"Personalizirajte svoj stražnji zaslon.
   Sada su dostupni potpuno novi dizajni."</string>
   <string name="rear_screen_list_title">Personalizacija</string>
   <string name="rear_screen_more_suggestion">Više preporuka</string>
+  <string name="rear_screen_my_wallpaper">Moje fotografije</string>
   <string name="rear_screen_notice">Obavijesti</string>
   <string name="rear_screen_service_assistant">Upravljanje stražnjim zaslonom</string>
   <string name="rear_screen_sunlight_mode">Način rada na sunčevoj svjetlosti</string>
@@ -2671,9 +2684,11 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="to_the_desktop">Postavi kao Početni zaslon</string>
   <string name="toast_both_all_apply_failured">"Ne mogu primijeniti na Početni ili Zaklj. zaslon"</string>
   <string name="toast_both_all_apply_success">Uspješno primijenjeno na Početni i Zaklj. zaslon</string>
+  <string name="toast_first_install_gallery">Instalirajte Galeriju kako biste mogli koristiti ovu značajku</string>
   <string name="toast_home_apply_failured">"Ne mogu primijeniti na Početni zaslon"</string>
   <string name="toast_home_apply_success">Uspješno primijenjeno na Početni zaslon</string>
   <string name="toast_image_cannot_segment">"Ova slika ne podržava efekt dubine"</string>
+  <string name="toast_keep_one_wallpaper">Zadrži barem jednu stavku</string>
   <string name="toast_lockscreen_apply_failured">"Ne mogu primijeniti na Zaklj. zaslon"</string>
   <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Uspješno primijenjeno na Početni zaslon. Ne mogu primijeniti na Zaklj. zaslon."</string>
   <string name="toast_lockscreen_apply_success">Uspješno primijenjeno na Zaklj. zaslon</string>
@@ -2933,6 +2948,8 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="wind_direction_7">SZ vjetar</string>
   <string name="wind_direction_7_f">SZ vjetar</string>
   <string name="wind_format">%1$s | Razina %2$s</string>
+  <string name="write_settings_permission_dialog_message">Da biste mogli koristiti ovu značajku, uključite \"Dopusti izmjenu postavki sustava\" u Postavkama > Privatnost i sigurnost > Ostala dopuštenja > Posebna dopuštenja > Izmjena postavki sustava > Teme.</string>
+  <string name="write_settings_permission_dialog_title">Potrebna dopuštenja</string>
   <string name="xiaoai_speech_not_installed_download">Preuzmi</string>
   <string name="xiaoai_speech_not_installed_message">Preuzmite i instalirajte Mi AI glasovni pomoćnik za nastavak.</string>
   <string name="xiaoai_speech_not_installed_title">"Mi AI glasovni pomoćnik nije instaliran."</string>

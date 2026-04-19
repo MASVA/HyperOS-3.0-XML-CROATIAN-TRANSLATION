@@ -807,11 +807,8 @@
   <string name="dialog_recent_connected">Nedavno</string>
   <string name="dialog_remote_authorization">Dodijelite dopuštenja za %1$s</string>
   <string name="dialog_remote_authorization_content">Dodijelite dopuštenja za obavijesti za Interconnectivity na vašem %1$s.</string>
-  <string name="dialog_reset_app_subscribe">Dopustite obavijesti od %1$s</string>
-  <string name="dialog_reset_app_subscribe_content">"%2$s je prethodno deinstaliran s vašeg %1$s. Ne možete primati obavijesti aplikacija na ovom uređaju. Promijenite postavke i pokušajte ponovno."</string>
-  <string name="dialog_reset_app_subscribe_multi">Promijeni postavke obavijesti</string>
-  <string name="dialog_reset_app_subscribe_multi_2_content">"%2$s i %3$s su prethodno deinstalirani s vašeg %1$s. Ne možete primati obavijesti aplikacija na ovom uređaju. Promijenite postavke i pokušajte ponovno."</string>
-  <string name="dialog_reset_app_subscribe_multi_3_content">"%2$s, %3$s i %4$s su prethodno deinstalirani s vašeg %1$s. Ne možete primati obavijesti aplikacija na ovom uređaju. Promijenite postavke i pokušajte ponovno."</string>
+  <string name="dialog_reset_app_subscribe_content_v2">"Neke su aplikacije prethodno deinstalirane s vašeg %1$s i nećete primati njihove obavijesti na ovom uređaju. Ponovno postavite sinkronizaciju obavijesti."</string>
+  <string name="dialog_reset_app_subscribe_multi">Promijenite postavke obavijesti</string>
   <string name="dialog_retry">Pokušajte ponovo</string>
   <string name="dialog_scan_message">"%1$d. Povežite telefon i TV s istom Wi-Fi mrežom.
 
@@ -1327,15 +1324,16 @@
   <string name="nothing_to_play">Nema reprodukcije</string>
   <string name="notification_cast_desc">Emitiranje…</string>
   <string name="notification_channel_description">Odaberite vrste obavijesti koje će se sinkronizirati s drugog uređaja na vaš Xiaomi uređaj</string>
-  <string name="notification_channel_subtitle_ref_call">Poziv s iPhonea</string>
-  <string name="notification_channel_subtitle_ref_call_1">Poziv od %1$s</string>
-  <string name="notification_channel_subtitle_ref_lary_1">%1$s nije na popisu</string>
+  <string name="notification_channel_subtitle_ref_call_2">Dolazni poziv na %1$s</string>
+  <string name="notification_channel_subtitle_ref_dingtalk_2">DingTalk obavijest na %1$s</string>
+  <string name="notification_channel_subtitle_ref_lary_2">Lark obavijest na %1$s</string>
   <string name="notification_channel_subtitle_ref_mqq">QQ poruka s iPhonea</string>
-  <string name="notification_channel_subtitle_ref_mqq_1">QQ poruka od %1$s</string>
+  <string name="notification_channel_subtitle_ref_mqq_2">QQ obavijest na %1$s</string>
   <string name="notification_channel_subtitle_ref_sms">Poruka s iPhonea</string>
-  <string name="notification_channel_subtitle_ref_sms_1">Poruka od %1$s</string>
+  <string name="notification_channel_subtitle_ref_sms_2">SMS na %1$s</string>
+  <string name="notification_channel_subtitle_ref_wework_2">WeCom obavijest na %1$s</string>
   <string name="notification_channel_subtitle_ref_xin">WeChat poruka s iPhonea</string>
-  <string name="notification_channel_subtitle_ref_xin_1">WeChat poruka od %1$s</string>
+  <string name="notification_channel_subtitle_ref_xin_2">WeChat obavijest o %1$s</string>
   <string name="notification_channel_title_name">Obavijesti sinkronizirane s Xiaomi uređajem</string>
   <string name="notification_desc_scanning">Traženje uređaja u blizini…</string>
   <string name="notification_incoming_call_to_reply">Dolazni poziv. Odgovor na %1$s.</string>
@@ -1674,6 +1672,7 @@
   <string name="screen_projection">Emitiraj</string>
   <string name="screen_projection_characteristics">Posebne značajke</string>
   <string name="screen_projection_characteristics_app_casting_summary_new">Možete se prebaciti na App Casting u Xiaomi HyperIslandu kako biste emitirali trenutnu aplikaciju na vanjski monitor dok koristite druge aplikacije na telefonu</string>
+  <string name="screen_projection_characteristics_app_casting_summary_pad">Možete se prebaciti na App Casting u Xiaomi HyperIslandu kako biste emitirali trenutnu aplikaciju na vanjski monitor dok koristite druge aplikacije na svom tabletu</string>
   <string name="screen_projection_characteristics_cast_summary">Emitirajte sadržaj zaslona na obližnji TV</string>
   <string name="screen_projection_characteristics_hang_up_summary_new">Isključite zaslon mobilnog uređaja tijekom emitiranja kako biste uštedjeli bateriju i izbjegli pregrijavanje</string>
   <string name="screen_projection_characteristics_hang_up_summary_pad">Isključite zaslon tijekom emitiranja kako biste smanjili potrošnju energije i pregrijavanje</string>

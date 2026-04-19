@@ -239,6 +239,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="allow_onetime">Dopusti jednom</string>
   <string name="already_close_gamebooster">Game Turbo je isključen</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
+  <string name="anitispam_intercept_record">Povijest blokiranih adresa</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_add_black_number_message">Broj koji ste unijeli je kratak. Blokirati sve brojeve koji počinju ovim znamenkama?</string>
@@ -1056,7 +1057,7 @@ Ako još niste postavili zaključavanje zaslona, ​​slijedite upute za postav
   <string name="auto_task_result_summary_text">Postavi autom. zadatke za Štednju baterije</string>
   <string name="auto_task_rule_bluetooth">%2$s možete otvoriti automatski kada koristite Bluetooth s %1$s. Želite li sada izraditi ovaj zadatak?</string>
   <string name="auto_task_rule_map_location">Usluge lokacije možete automatski uključiti dok koristite karte. Želite li sada izraditi ovaj zadatak?</string>
-  <string name="auto_task_rule_read_mode">Način čitanja možete automatski uključiti dok koristite aplikacije za čitanje. Želite li sada izraditi ovaj zadatak?</string>
+  <string name="auto_task_rule_read_mode">Način rada za udobnost očiju možete automatski uključiti dok koristite aplikacije za čitanje. Želite li sada izraditi ovaj zadatak?</string>
   <string name="auto_task_rule_zen_mode">DND način rada možete uključiti tijekom drijemanja između 12:00 i 14:00 automatski. Želite li sada izraditi ovaj zadatak?</string>
   <string name="auto_task_select_address_company">Posao</string>
   <string name="auto_task_select_address_home">Dom</string>
@@ -1445,6 +1446,9 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="call_delete_all_hint">Izbrisati sve blokirane pozive?</string>
   <string name="call_delete_hint">Izbrisati sve blokirane pozive s tog broja?</string>
   <string name="call_delete_title">Izbriši povijest poziva</string>
+  <string name="call_empty_number">Prazni brojevi</string>
+  <string name="call_forwarding_block">Preusmjereni pozivi</string>
+  <string name="call_intercept_settings">Postavke popisa blokiranih poziva</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Video</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -1453,6 +1457,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="call_notification_ongoing_text">Poziv u tijeku</string>
   <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
   <string name="call_oversea_block">Blokiraj pozive iz inozemstva</string>
+  <string name="call_overseas_block">Međunarodni pozivi</string>
   <string name="call_prefix">Popis blokiranih predbrojeva</string>
   <string name="call_private">Privatan poziv</string>
   <string name="call_stranger_block">Presretanje stranaca</string>
@@ -1463,12 +1468,20 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
   <string name="car_sickness_relief_comment_text">Kada se detektira kretanje vozila, točkice se prikazuju na obje strane zaslona kako bi pokazale da li se vozilo kreće, što može pomoći u odgađanju pojave mučnine.</string>
+  <string name="car_sickness_relief_comment_text_driver_mode_support">"Točkice će se prikazivati ​​na obje strane zaslona kako bi se označilo kretanje vozila, što može pomoći u odgađanju početka mučnine kretanja.
+
+Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
+  <string name="car_sickness_relief_comment_text_driver_mode_unsupport">"Točkice će se dosljedno prikazivati ​​na obje strane zaslona kako bi se označilo kretanje vozila, što može pomoći u odgađanju početka mučnine kretanja.
+
+Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
   <string name="car_sickness_relief_example_text_1">Kada vozilo ubrzava ili usporava</string>
   <string name="car_sickness_relief_example_text_2">Kada vozilo skreće ili mijenja trak</string>
   <string name="car_sickness_relief_comment_text_opened">"Točkice će se prikazivati ​​s obje strane zaslona kako bi označile kretanje vozila, što može pomoći u odgađanju početka mučnine od putovanja.
 
 Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
   <string name="car_sickness_relief_exit_text">Ublažavanje mučnine od putovanja prestalo je djelovati</string>
+  <string name="car_sickness_relief_notification_text_close">Isključi</string>
+  <string name="car_sickness_relief_notification_text_opened">Uključeno</string>
   <string name="car_sickness_relief_start_text">Ublažavanje mučnine od putovanja djeluje</string>
   <string name="car_sickness_remind_time_title">Indikatori kretanja</string>
   <string name="car_sickness_title">Olakšanje od mučnine</string>
@@ -2648,7 +2661,7 @@ volonter"</string>
   %3$d. Ova je značajka podržana samo u kontinentalnoj Kini.
   %4$d. Ova značajka radi samo u 5G-SA mrežama."</string>
   <string name="function_shield_auto_bright">Isključi autom. svjetlinu</string>
-  <string name="function_shield_eye_shield">Isključi način čitanja</string>
+  <string name="function_shield_eye_shield">Isključi način rada za udobnost očiju</string>
   <string name="function_shield_pull_notification_bar">"Ne otvaraj Panel obavijesti"</string>
   <string name="function_shield_settings_title">Prilikom igranja igara ograničite sljedeće značajke</string>
   <string name="function_shield_summary">Prilikom igranja igara ograničite odabrane značajke</string>
@@ -3602,6 +3615,12 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="install_type_instant">Instant aplikacija</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
+  <string name="intercept_all_mark_calls">Blokirati sve pozive označene kao \"%s\"?</string>
+  <string name="intercept_calls_nofify_hide_text">Za postavljanje pravila blokiranja za ostale označene brojeve dodirnite ovdje</string>
+  <string name="intercept_calls_notify_title">Pozivi s ovom oznakom bit će automatski prekinuti. Blokirati sada?</string>
+  <string name="intercept_garbage_msg">Neželjene poruke</string>
+  <string name="intercept_record">Povijest</string>
+  <string name="intercept_strange_msg">Poruke od stranaca</string>
   <string name="international_Ad">Oglas</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
@@ -3830,6 +3849,7 @@ podatkovnu vezu"</string>
   <string name="mark_harass_block">Prijavljen kao smetnja</string>
   <string name="mark_harass_block_large">Smetnja</string>
   <string name="mark_harass_time_setting">Blokiraj brojeve smetnji koji su prijavljeni određeni broj puta</string>
+  <string name="mark_num_open_intercept">Blokiraj</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Prevarant</string>
   <string name="mark_number_harass">Uznemiravatelj</string>
@@ -5077,6 +5097,13 @@ Način otpornosti na hladnoću"</string>
   <string name="permission_legacy_storage">Pristup fotografijama, videozapisima, zvuku, datotekama</string>
   <string name="permission_oaid_desc">Želite li dopustiti %1$s da prati vaše aktivnosti na drugim aplikacijama i web stranicama?</string>
   <string name="permission_only_opening_screen">Ograniči pristup tijekom pokretanja aplikacije</string>
+  <string name="permission_optimization_recommendation1">Promijeni iz \"Uvijek dopusti\" u \"Odbij\"</string>
+  <string name="permission_optimization_recommendation2">Promijeni iz \"Uvijek dopusti\" u \"Tijekom korištenja aplikacije\"</string>
+  <string name="permission_optimization_recommendation3">Promijeni iz \"Tijekom korištenja aplikacije\" u \"Odbij\"</string>
+  <string name="permission_optimization_recommendation4">Promijeni iz \"Tijekom korištenja aplikacije\" u \"Uvijek pitaj\"</string>
+  <string name="permission_optimization_recommendation5">Promijeni iz \"Uvijek dopusti\" u \"Ograniči za sada\"</string>
+  <string name="permission_optimization_recommendation6">Promijeni iz \"Uvijek dopusti\" u \"Odaberi neke\"</string>
+  <string name="permission_optimization_recommendation7">Promijeni iz \"Dopusti\" u \"Odbij\"</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj dopuštenja</string>
   <string name="permission_precise_location">Točna lokacija</string>
@@ -5885,6 +5912,17 @@ Isklj. maks.: %2$s</string>
   <string name="preferred_app_entries_launcher">Pokretač</string>
   <string name="preferred_app_entries_messaging">Poruke</string>
   <string name="preferred_app_entries_music">Glazba</string>
+  <string name="prem_optimization_allow_notify_summary">Dopusti slanje obavijesti od \"Prijedloga dopuštenja\"</string>
+  <string name="prem_optimization_allow_notify_title">Dopusti obavijesti</string>
+  <string name="prem_optimization_btn_summary">Optimiziraj</string>
+  <string name="prem_optimization_cancle_scan_msg">Skeniranje nije dovršeno</string>
+  <string name="prem_optimization_has_no_data_msg">Sve izgleda dobro</string>
+  <string name="prem_optimization_notify_action_nomore">Odbaci na %d dana</string>
+  <string name="prem_optimization_notify_action_page">Optimiziraj</string>
+  <string name="prem_optimization_size_summary">%1$s (%2$s)</string>
+  <string name="prem_optimization_size_title">Odaberite dopuštenja za podešavanje</string>
+  <string name="prem_optimization_title">Prijedlozi za dopuštenja</string>
+  <string name="prem_optimization_total_summary">Prilagodite dopuštenja kako biste bolje zaštitili svoju privatnost</string>
   <string name="pricacy_permission_use_total">Statistika dopuštenja</string>
   <string name="priority_statistics_fixed_traffic">Prvo će se koristiti podaci iz mjesečnog plana</string>
   <string name="priority_storage_app_settings">Podaci će biti spremljeni u %1$s</string>
@@ -6221,11 +6259,11 @@ Povući suglasnost sada?"</string>
   <string name="protect_data_security">Izolirani podaci</string>
   <string name="protect_data_security_detail">Podaci koje generira tipkovnica izolirat će i druge aplikacije će im biti nedostupne.</string>
   <string name="protect_eye_dont_open">Ne sada</string>
-  <string name="protect_eye_hint_summry">Uključite način čitanja za bolje iskustvo čitanja</string>
+  <string name="protect_eye_hint_summry">Uključite način rada za udobnost očiju za bolje iskustvo čitanja</string>
   <string name="protect_eye_hint_title">Udobnost za oči</string>
   <string name="protect_eye_open">Uključi</string>
-  <string name="protect_eye_opened_summry">Uredite postavke u Postavke > Zaslon i svjetlina > Udobnost za oči</string>
-  <string name="protect_eye_opened_title">Način čitanja je uključen</string>
+  <string name="protect_eye_opened_summry">Uredite postavke u Postavke > Zaslon i svjetlina > Xiaomi EyeCare Shield</string>
+  <string name="protect_eye_opened_title">Udobnost za oči je uključeno</string>
   <string name="protect_screen_information">Zaslon je zaštićen</string>
   <string name="protect_screen_information_detail">"Nećete moći napraviti snimku zaslona ili snimiti zaslon dok tipkate."</string>
   <string name="protection_category_dangerous_title">Rizici (%d)</string>
@@ -6297,6 +6335,7 @@ Povući suglasnost sada?"</string>
   <string name="repeat_type">Ponovi</string>
   <string name="repeated_marked_number_summary">"Ne blokiraj drugi poziv od istog prijavljenog broja u roku od %d min."</string>
   <string name="repeated_marked_number_title">"Ne blokiraj ponovljene pozive s prijavljenih brojeva"</string>
+  <string name="repeated_unknown_number_summary">"Ne blokiraj drugi poziv s istog nepoznatog broja unutar %d minuta"</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="report">Prijavi</string>
   <string name="report_error">"Ne mogu prijaviti poruku"</string>
@@ -6513,6 +6552,7 @@ Povući suglasnost sada?"</string>
   <string name="send">Pošalji</string>
   <string name="send_msg_to_query">Pošaljite SMS poruku za provjeru</string>
   <string name="send_sms_title">Dopustiti %s slanje SMS poruka?</string>
+  <string name="sensitive_permission_authorization_title">Osjetljiva dopuštenja</string>
   <string name="set_applock_password">Postavite zaporku</string>
   <string name="set_complete">Uspješno postavljeno</string>
   <string name="set_immediately">Postavi</string>
@@ -6708,8 +6748,9 @@ Povući suglasnost sada?"</string>
   <string name="sms_detail_fragment_title_traffic">Preostali podaci</string>
   <string name="sms_filter">Smart Filter</string>
   <string name="sms_guard_alert">"Promijenjena je zadana aplikacija za razmjenu poruka. Xiaomi Messaging neće moći blokirati neželjene SMS poruke."</string>
+  <string name="sms_intercept_settings">Postavke popisa blokiranih poruka</string>
   <string name="sms_keywords">Popis blokiranih ključnih riječi</string>
-  <string name="sms_malicious_url">Blokiraj SMS sa zlonamjernim URL-ovima</string>
+  <string name="sms_malicious_url">Blokiraj SMS sa zlonamjernim poveznicama</string>
   <string name="sms_prefix">Popis blokiranih predbrojeva</string>
   <string name="sms_sender">"Prima: "</string>
   <string name="sms_service">Blokiraj SMS usluge</string>
@@ -6929,9 +6970,26 @@ Povući suglasnost sada?"</string>
   <string name="st_call_intercept_reported">Blokiraj pozive sa prijavljenih brojeva</string>
   <string name="st_call_intercept_stranger">Blokiraj pozive od stranaca</string>
   <string name="st_call_intercept_unknown">Blokiraj pozive sa nepoznatih brojeva</string>
+  <string name="st_call_mark_agent">Nekretnine</string>
+  <string name="st_call_mark_agent_intercept">Nekretnine</string>
+  <string name="st_call_mark_decoration">Obnova doma</string>
+  <string name="st_call_mark_decoration_intercept">Obnova doma</string>
+  <string name="st_call_mark_edu">Obrazovanje</string>
+  <string name="st_call_mark_edu_intercept">Obrazovanje</string>
+  <string name="st_call_mark_high_risk">Visok rizik</string>
+  <string name="st_call_mark_high_risk_intercept">Visok rizik</string>
+  <string name="st_call_mark_insurance">Ulaganje</string> 
+  <string name="st_call_mark_insurance_intercept">Ulaganje</string>
+  <string name="st_call_mark_loan">Hipoteka</string>
+  <string name="st_call_mark_loan_intercept">Hipoteka</string>
+  <string name="st_call_mark_sell">Oglasi</string>
+  <string name="st_call_mark_sell_intercept">Oglasi</string>
   <string name="st_call_other_group">Ostalo</string>
   <string name="st_call_settings">Popis blokiranih poziva</string>
   <string name="st_call_stranger_group">Blokiraj pozive od stranaca</string>
+  <string name="st_call_stranger_inercept_local">Blokiraj nepoznate brojeve</string>
+  <string name="st_confirm_call_all_dialog_all_open_summary">"Pozivi s bilo kojeg broja koji nije u vašim iznimkama bit će blokirani. Blokirati odmah?"</string>
+  <string name="st_confirm_call_all_dialog_strange_open_summary">"Pozivi s bilo kojeg broja koji nije u vašim iznimkama ili kontaktima bit će blokirani. Blokirati odmah?"</string>
   <string name="st_confirm_call_all_dialog_summary">"Pozivi s bilo kojeg broja koji nije u vašim iznimkama bit će blokirani. Uključiti sada?"</string>
   <string name="st_confirm_dialog_btn_open">Blokiraj</string>
   <string name="st_confirm_dialog_summary_contact_call">Svi pozivi od kontakata bit će blokirani.</string>
@@ -6946,9 +7004,11 @@ Povući suglasnost sada?"</string>
   <string name="st_hint_add_head_number">Unesite predbroj</string>
   <string name="st_hint_add_phonenumber">Unesite broj telefona</string>
   <string name="st_hint_operatelist">Izgleda da to pravilo već postoji</string>
+  <string name="st_intercept_dialog_title">Pažnja</string>
   <string name="st_mark_call_intercept_threshold_summary">Automatski blokiraj brojeve koji su prijavljeni određeni broj puta</string>
   <string name="st_mark_call_intercept_threshold_title">Blokiraj prag</string>
   <string name="st_mark_number_group">Blokiraj pozive s prijavljenih brojeva</string>
+  <string name="st_mark_number_net_group">Blokiraj prijavljene brojeve</string>
   <string name="st_message_SMS_AntiSpam">Blokiraj SMS</string>
   <string name="st_message_SMSpass">Dopusti SMS</string>
   <string name="st_message_phone_AntiSpam">Blokiraj pozive</string>
@@ -6965,6 +7025,17 @@ Povući suglasnost sada?"</string>
   <string name="st_other_setting_group">Ostale postavke</string>
   <string name="st_settings_name">Postavke popisa zabranjenih</string>
   <string name="st_share_settings">Koristi postavke SIM kartice %d</string>
+  <string name="st_smg_intercept_all">Blokiraj sve poruke</string>
+  <string name="st_smg_intercept_confirm_dialog_summary_all">"SMS i MMS s bilo kojeg broja ili regije koji nisu u vašim iznimkama bit će blokirani. Blokirati odmah?"</string>
+  <string name="st_smg_intercept_confirm_dialog_summary_stranger">"SMS i MMS s bilo kojeg broja ili regije koji nisu u vašim iznimkama ili kontaktima bit će blokirani. Blokirati odmah?"</string>
+  <string name="st_smg_intercept_network_check">Blokiraj pomoću online definicija</string>
+  <string name="st_smg_intercept_network_check_garbage_msg">Neželjene poruke</string>
+  <string name="st_smg_intercept_other">Dodatne postavke</string>
+  <string name="st_smg_intercept_strange">Blokiraj poruke od stranaca</string>
+  <string name="st_smg_summary_intercept_blacklist_keyword">Blokiraj poruke od stranaca koje sadrže određene ključne riječi</string>
+  <string name="st_smg_summary_intercept_blacklist_numbers">Blokiraj poruke s određenih brojeva i regija</string>
+  <string name="st_smg_summary_intercept_whitelist_keyword">"Ne blokiraj poruke od stranaca koje sadrže određene ključne riječi"</string>
+  <string name="st_smg_summary_intercept_whitelist_numbers">"Ne blokiraj poruke s brojeva i regija u svojim iznimkama"</string>
   <string name="st_show_block_notification">Obavijesti o blokiranim stavkama</string>
   <string name="st_show_num_keyword">" ključne riječi"</string>
   <string name="st_show_num_number">" brojeva"</string>
@@ -6975,6 +7046,8 @@ Povući suglasnost sada?"</string>
   <string name="st_sum_call_wait">Vaša poruka \"Odsutan sam\" će se reproducirati kao zauzet signal za dolazne pozive.</string>
   <string name="st_summary_blacklist_numbers">Blokiraj pozive i poruke iz određenih brojeva i područja</string>
   <string name="st_summary_blacklist_numbers_international">Blokirajte pozive na temelju broja ili prefiksa</string>
+  <string name="st_summary_intercept_blacklist_numbers">Blokiraj pozive i poruke s određenih brojeva i regija</string>
+  <string name="st_summary_release_whitelist_numbers">"Ne blokiraj pozive i poruke s brojeva i regija u tvojim iznimkama"</string>
   <string name="st_summary_keywords_blacklist">Dodajte ključne riječi da biste blokirali poruke</string>
   <string name="st_summary_special_numbers">Blokiraj označene brojeve telefona</string>
   <string name="st_summary_whitelist_numbers">Dopusti pozive i poruke iz određenih brojeva i područja</string>
@@ -7010,6 +7083,8 @@ Povući suglasnost sada?"</string>
   <string name="st_title_markednumber_group">Blokiraj prijavljene brojeve</string>
   <string name="st_title_mode_choose_group">Odaberi način rada</string>
   <string name="st_title_not_sim">Prazno</string>
+  <string name="st_title_number_and_region_blacklist">Blokirani brojevi i regije</string>
+  <string name="st_title_number_and_region_whitelist">Iznimke za brojeve i regije</string>
   <string name="st_title_open_antispam">Popis blokiranih</string>
   <string name="st_title_other_group">Ostalo</string>
   <string name="st_title_settings_other_group">Dodatne postavke</string>
@@ -7208,7 +7283,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="summary_default_app">"%s nije postavljena kao zadana aplikacija sustava"</string>
   <string name="summary_dev">Izbjegnite zlonamjeran softver i zaštitite osobne podatke</string>
   <string name="summary_do_not_disturb">"Koristite DND način."</string>
-  <string name="summary_eye_shield">"Isključite način čitanja da biste vratili na zadane postavke."</string>
+  <string name="summary_eye_shield">"Isključite Udobnost za oči da biste vratili na zadane postavke."</string>
   <string name="summary_find_device">Pronađite i zaključajte svoj uređaj s bilo kojeg mjesta</string>
   <string name="summary_first_aid_kit">Sada ispravite probleme na svom uređaju</string>
   <string name="summary_flow_notification">Prikaži mjesečnu statistiku uporabe podataka u panelu obavijesti.</string>
@@ -7362,7 +7437,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="task_summary_close_dc_light">Isključi način rada protiv treperenja</string>
   <string name="task_summary_close_dial_tone">Isključi tonove tipkovnice</string>
   <string name="task_summary_close_drive_mode">Isključi način rada u automobilu</string>
-  <string name="task_summary_close_eye_care_mode">Isključi način čitanja</string>
+  <string name="task_summary_close_eye_care_mode">Isključi Udobnost za oči</string>
   <string name="task_summary_close_hotspot">Isključi prijenosni hotspot</string>
   <string name="task_summary_close_location">Isključi usluge lokacije</string>
   <string name="task_summary_close_mute">Isključi Bešumno</string>
@@ -7382,7 +7457,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="task_summary_open_dial_tone">Uključi tonove tipkovnice</string>
   <string name="task_summary_open_disturb_mode">Uključi DND NAČIN</string>
   <string name="task_summary_open_drive_mode">Uključi način rada u automobilu</string>
-  <string name="task_summary_open_eye_care_mode">Uključi način čitanja</string>
+  <string name="task_summary_open_eye_care_mode">Uključi Udobnost za oči</string>
   <string name="task_summary_open_hotspot">Uključi prijenosni hotspot</string>
   <string name="task_summary_open_location">Uključi usluge lokacije</string>
   <string name="task_summary_open_mute">Uključi Bešumno</string>
@@ -7654,7 +7729,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="title_result_dial_tone">Zvukovi tipkovnice</string>
   <string name="title_result_drive">Automobilski način</string>
   <string name="title_result_examination">Sigurnosno skeniranje</string>
-  <string name="title_result_eye_care">Način čitanja</string>
+  <string name="title_result_eye_care">Način rada za udobnost očiju</string>
   <string name="title_result_flashlight">Svjetiljka</string>
   <string name="title_result_hotspot">Prijenosni hotspot</string>
   <string name="title_result_location">Lokacija</string>
@@ -8280,9 +8355,11 @@ Imajte na umu da sustav ne može otkriti sve prometne nesreće."</string>
   <string name="warningcenter_policeassist_noti_title">Podijelite lokaciju tijekom hitnih poziva</string>
   <string name="warningcenter_policeassist_open_btn">Uključi</string>
   <string name="warningcenter_policeassist_open_content">"Pošaljite podatke o lokaciji policiji automatski koristeći SMS ili mobilne podatke dok zovete 110, 120, 119, 122 ili 12122."</string>
+  <string name="warningcenter_policeassist_open_content_new">"Automatski pošaljite podatke o svojoj lokaciji policiji putem SMS-a ili mobilnih podataka dok zovete 110, 120, 119 ili 122."</string>
   <string name="warningcenter_policeassist_open_title">Podijelite svoju lokaciju s policijom tijekom hitnih poziva</string>
   <string name="warningcenter_policeassist_privacy"><Data>"Pročitao sam i prihvaćam &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
-  <string name="warningcenter_policeassist_privacy_tip"><Data>"Nakon uključivanja lokacije hitne pomoći, u slučaju da nazovete 110, 120, 119 ili 122, sustav će automatski dobiti vašu lokaciju i poslati je policiji putem SMS-a ili internet kako bi im pomogao brže reagirati.&lt;br>Kako bi lokacija za hitne slučajeve pružala osnovne usluge, mora se povezati s internetom i pristupiti svoju lokaciju. Ako ne pristanete na davanje gore navedenih dopuštenja ili nam ne dopustite prikupljanje i korištenje ovih informacija, ova značajka neće raditi ispravno ili je isključiti u bilo kojem trenutku da ga prestanete koristiti.&lt;br>Pročitajte i prihvatite ovu &lt;a href=\"%1$s\">Korisničku obavijest&lt;/a> i &lt;a href=\"%2$s \">Lokacija za hitne slučajeve Pravila o privatnosti&lt;/a> prije nego nastavite."</Data></string>
+  <string name="warningcenter_policeassist_privacy_tip"><Data>"Nakon uključivanja lokacije hitne pomoći, u slučaju da nazovete 110, 120, 119 ili 122, sustav će automatski dobiti vašu lokaciju i poslati je policiji putem SMS-a ili internet kako bi im pomogao brže reagirati.&lt;br>Kako bi lokacija za hitne slučajeve pružala osnovne usluge, mora se povezati s internetom i pristupiti svoju lokaciju. Ako ne pristanete na davanje gore navedenih dopuštenja ili nam ne dopustite prikupljanje i korištenje ovih informacija, ova značajka neće raditi ispravno ili je isključiti u bilo kojem trenutku da ga prestanete koristiti.&lt;br>Pročitajte i prihvatite ovu &lt;a href=\"%1$s\">Korisničku obavijest&lt;/a> i &lt;a href=\"%2$s \">Pravila o privatnosti za hitne slučajeve lokacije&lt;/a> prije nego nastavite."</Data></string>
+  <string name="warningcenter_policeassist_privacy_tip_new"><Data>"Nakon uključivanja lokacije u hitnim slučajevima, u slučaju da pozovete 110, 120, 119 ili 122, sustav će automatski dobiti vašu lokaciju i poslati je policiji putem SMS-a ili interneta kako bi im pomogao da brže reagiraju..&lt;br>Da bi lokacija za hitne slučajeve mogla pružati osnovne usluge, mora se spojiti na internet i pristupiti vašoj lokaciji. Ako ne pristanete dati gore navedena potrebna dopuštenja ili nam ne dopustite prikupljanje i korištenje ovih informacija, ova značajka neće ispravno raditi. Možete odabrati da ne koristite ovu značajku ili je isključiti u bilo kojem trenutku da biste prestali koristiti je. Pročitajte i prihvatite ovu &lt;a href=\"%1$s\">Korisničku obavijest&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti za hitne slučajeve lokacije&lt;/a> prije nego nastavite."</Data></string>
   <string name="warningcenter_policeassist_title">Lokacija za hitne slučajeve</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">HyperOS Centar za upozoravanje</string>

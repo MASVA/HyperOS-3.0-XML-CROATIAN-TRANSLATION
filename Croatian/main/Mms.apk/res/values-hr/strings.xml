@@ -1706,6 +1706,11 @@ Pogledajte one preporučene!"</string>
   <string name="shortcut_setting">Postavke</string>
   <string name="show_all_messages">Prikaži sve poruke</string>
   <string name="show_delivery_status">Prikaži Izvješća o isporuci</string>
+  <string name="silent_notification_notify_content">"Primili ste mnogo verifikacijskih kodova u kratkom vremenu. Ove će obavijesti biti privremeno utišane."</string>
+  <string name="silent_notification_notify_double">SIM %1$d i SIM %2$d primile su mnogo verifikacijskih kodova u kratkom vremenu. Ove će obavijesti biti privremeno utišane.</string>
+  <string name="silent_notification_notify_single">SIM %1$d primila je mnogo verifikacijskih kodova u kratkom vremenu. Ove će obavijesti biti privremeno utišane.</string>
+  <string name="silent_notification_notify_title">Utišavanje verifikacijskih SMS-ova</string>
+  <string name="silent_notification_tip_exit">Zaustavi utišavanje verifikacijskih SMS-ova</string>
   <string name="show_sender">Prikaži detalje pošiljatelja</string>
   <string name="sim_activation_service_retry_main_purpose">Aktivacija SIM-a mora biti uključena da bi Mi Poruka normalno radila. Aktivaciju SIM-a možete uključiti u Postavke &gt; Upravljanje aplikacijama.</string>
   <string name="sim_card1">SIM 1</string>
