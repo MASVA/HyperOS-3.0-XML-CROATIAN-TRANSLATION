@@ -414,6 +414,21 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="menu_migrate_to_google_photos">Prijenos podataka u Google fotografije</string>
   <string name="merge">Spoji</string>
   <string name="mi_drive_title">Mi Drive</string>
+  <string name="miclaw_antispam">Sigurnosne usluge</string> 
+  <string name="miclaw_bluetooth">Bluetooth</string> 
+  <string formatted="false" name="miclaw_cloud_storage">Pohrana u cloudu: %s (iskorišteno %s), preostalo dostupno: %s</string> 
+  <string name="miclaw_data_protection_page_opend">Otvorena stranica postavki zaštite podataka</string> 
+  <string name="miclaw_error_common">Operacija nije uspjela</string> 
+  <string name="miclaw_error_protected">Ova je funkcija zaštićena end-to-end enkripcijom. Radite na stranici postavki</string> 
+  <string name="miclaw_error_security">Nedovoljna dopuštenja. Radite ručno na stranici postavki cloud usluge</string> 
+  <string name="miclaw_fail_to_get_vip_info">Nije uspjelo dobivanje informacija o članstvu</string> 
+  <string name="miclaw_has_open_manual_sync_page">Otvorena stranica za ručnu sinkronizaciju</string> 
+  <string name="miclaw_not_login">Prvo se prijavite na svoj Xiaomi račun</string> 
+  <string name="miclaw_not_sync_ever">%s nikada nije sinkroniziran</string> 
+  <string name="miclaw_purchase_vip_page_opend">Otvorena je stranica za kupnju članstva</string>
+  <string name="miclaw_toggle_idle_sync">Sinkronizacija u mirovanju %s</string> 
+  <string name="miclaw_toggle_sync">Sinkroniziraj %s</string> 
+  <string name="miclaw_wifi">Wi-Fi</string>
   <string name="micloud_alert_dialog_positive">U redu</string>
   <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Da biste uključili Pronađi uređaj i Xiaomi Cloud usluge, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; biti će poslana automatski.&lt;br/&gt;Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;plaćena SMS poruka&lt;/b&gt;&lt;/font&gt; biti će automatski poslana radi ponovne aktivacije.&lt;br/&gt;Sve SMS naknade generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
   <string name="micloud_all_sub_resend_common_sms_with_charge_hint_v2">"Da biste uključili Xiaomi Cloud usluge, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> biti će poslana automatski.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve SMS naknade generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
@@ -578,6 +593,12 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="micloud_member_net_error_alert_title">"Ne mogu se povezati na mrežu"</string>
   <string name="micloud_member_pay_miid_error_toast">Pogreška računa</string>
   <string name="micloud_member_pay_order_error_toast">Pogreška podataka</string>
+  <string name="micloud_membership_benefit_recycle_bin">Vraćanje izbrisanih stavki na dulje razdoblje</string> 
+  <string name="micloud_membership_benefit_storage">Spremite fotografije i videozapise s proširenim prostorom za pohranu</string> 
+  <string name="micloud_membership_detail">Detalji</string> 
+  <string name="micloud_membership_level_diamond">Ultra članstvo</string> 
+  <string name="micloud_membership_level_gold">Premium članstvo</string> 
+  <string name="micloud_membership_level_platinum">Mega članstvo</string>
   <string name="micloud_notif_content_battery_low">Slaba baterija.</string>
   <string name="micloud_notif_content_depend_wifi">Povežite se na Wi-Fi da sinkr.</string>
   <string name="micloud_notif_content_depend_wifi_china">Povežite se na Wi-Fi da sinkr.</string>

@@ -1187,6 +1187,63 @@ Skenirajte donji kod pomoću Xiaomi aplikacije."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="tool_account_logged_in">Prijavljeni ste na Xiaomi račun</string> 
+	<string name="tool_account_not_logged_in">Nisam prijavljen na Xiaomi račun</string> 
+	<string name="tool_already_on_account_homepage">Već na početnoj stranici računa</string> 
+	<string name="tool_already_on_delete_account_page">Već na stranici za brisanje računa</string> 
+	<string name="tool_already_on_login_page">Već na stranici za prijavu</string> 
+	<string name="tool_already_on_page">Već na %s</string> 
+	<string name="tool_already_on_reset_password_page">Već na stranici za ponovno postavljanje zaporke</string> 
+	<string name="tool_cannot_open_family_page">"Ne mogu otvoriti stranicu za upravljanje obitelji"</string> 
+	<string name="tool_device_count_format">(%s uređaja)</string> 
+	<string name="tool_gender_female">Žena</string> 
+	<string name="tool_gender_format">Spol: %s</string> 
+	<string name="tool_gender_male">Muškarac</string> 
+	<string name="tool_gender_not_set">Nije postavljeno</string> 
+	<string name="tool_nickname_format">Nadimak: %s</string> 
+	<string name="tool_nickname_not_set">Nadimak nije postavljen</string> 
+	<string name="tool_not_logged_in_cannot_invite_family">"Nisam prijavljen na Xiaomi račun, ne mogu pozvati članove obitelji"</string> 
+	<string name="tool_not_logged_in_cannot_open">"Nisam prijavljen na Xiaomi račun, ne mogu otvoriti %s"</string> 
+	<string name="tool_not_logged_in_cannot_view_devices">"Nisam prijavljen na Xiaomi račun, ne mogu vidjeti prijavljene uređaje"</string> 
+	<string name="tool_not_logged_in_cannot_view_family">"Nisam prijavljen na Xiaomi račun, ne mogu vidjeti članove obitelji"</string> 
+	<string name="tool_not_logged_in_cannot_view_id">"Nisam prijavljen na Xiaomi račun, ne mogu vidjeti Xiaomi ID"</string> 
+	<string name="tool_open_about_page_failed">Nije uspjelo otvaranje stranice o: %s</string> 
+	<string name="tool_open_account_homepage_failed">Nije uspjelo otvaranje početne stranice računa: %s</string> 
+	<string name="tool_open_delete_account_failed">Nije uspjelo otvaranje stranice za brisanje računa: %s</string> 
+	<string name="tool_open_help_center_failed">Nije uspjelo otvaranje centra za pomoć: %s</string> 
+	<string name="tool_open_invite_family_failed">Nije uspjelo otvaranje stranice s pozivnicom obitelji: %s</string> 
+	<string name="tool_open_login_page_failed">Nije uspjelo otvaranje stranice za prijavu: %s</string> 
+	<string formatted="false" name="tool_open_page_failed">Nije uspjelo otvaranje %s: %s</string> 
+	<string name="tool_open_reset_password_failed">Nije uspjelo otvaranje stranice za ponovno postavljanje lozinke: %s</string>
+	<string name="tool_opened_about_page">Otvorena stranica o Xiaomi računu</string> 
+	<string name="tool_opened_account_homepage">Otvorena početna stranica računa</string> 
+	<string name="tool_opened_delete_account_page">Otvorena stranica za brisanje računa</string> 
+	<string name="tool_opened_device_list">Otvoren popis prijavljenih uređaja</string> 
+	<string name="tool_opened_device_list_with_count">Otvoren popis prijavljenih uređaja (%s uređaja)</string> 
+	<string name="tool_opened_family_page">Otvorena stranica za upravljanje obitelji</string> 
+	<string name="tool_opened_family_page_with_count">Otvorena stranica za upravljanje obitelji (%s članova obitelji)</string> 
+	<string name="tool_opened_help_center">Otvoren centar za pomoć računa</string> 
+	<string name="tool_opened_invite_family_page">Otvorena obiteljska stranica s pozivom</string> 
+	<string name="tool_opened_login_page">Otvorena stranica za prijavu</string> 
+	<string name="tool_opened_page">Otvoreno %s</string> 
+	<string name="tool_opened_reset_password_page">Otvorena stranica za ponovno postavljanje lozinke</string> 
+	<string name="tool_page_avatar_settings">postavke avatara</string> 
+	<string name="tool_page_change_email">promjena e-pošte</string> 
+	<string name="tool_page_change_password">promijenite lozinku</string> 
+	<string name="tool_page_change_phone">upravljanje telefonskim brojem</string> 
+	<string name="tool_page_gender_settings">postavke spola</string> 
+	<string name="tool_page_nickname_settings">postavke nadimka</string> 
+	<string name="tool_page_security_settings">prijava &amp; sigurnost</string> 
+	<string name="tool_query_account_status_failed">Neuspješno postavljanje upita o statusu računa: %s</string> 
+	<string name="tool_query_gender_failed">Neuspješno postavljanje upita o spolu: %s</string> 
+	<string name="tool_query_nickname_failed">Neuspješno postavljanje upita za nadimak: %s</string> 
+	<string name="tool_query_region_failed">Neuspješno ispitivanje regije: %s</string> 
+	<string name="tool_query_xiaomi_id_failed">Neuspješno postavljanje upita za Xiaomi ID: %s</string> 
+	<string name="tool_region_format">Regija: %s</string> 
+	<string name="tool_region_not_set">Regija nije postavljena</string> 
+	<string name="tool_view_devices_failed">Prikaz prijavljenih uređaja nije uspio: %s</string> 
+	<string name="tool_view_family_failed">Neuspješni prikaz podataka o obitelji: %s</string> 
+	<string name="tool_xiaomi_id_format">Xiaomi ID: %s</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
@@ -1203,9 +1260,9 @@ Skenirajte donji kod pomoću Xiaomi aplikacije."</string>
   <string name="unit_gb">" GB"</string>
   <string name="unit_mb">" MB"</string>
   <string name="unlock_help_notice">"Pomoć:
-%1$d. Ako ste zaboravili svoju zaporku, idite na id.mi.com da je poništite.
-%2$d. Ako ne možete poništiti zaporku ili je netko zaključao vaš uređaj, idite na i.mi.com da biste ga otključali.
-%3$d. Vaš broj otključavanja: %4$s"</string>
+	%1$d. Ako ste zaboravili svoju zaporku, idite na id.mi.com da je poništite.
+	%2$d. Ako ne možete poništiti zaporku ili je netko zaključao vaš uređaj, idite na i.mi.com da biste ga otključali.
+	%3$d. Vaš broj otključavanja: %4$s"</string>
   <string name="update_apk_version_later">Ne sada</string>
   <string name="update_apk_version_now">Ažuriraj</string>
   <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
@@ -1219,8 +1276,8 @@ Skenirajte donji kod pomoću Xiaomi aplikacije."</string>
   <string name="user_agreement_must_permission_msg">Obvezna dopuštenja (koriste se za osnovne značajke i usluge ove aplikacije)</string>
   <string name="user_agreement_network_permission_msg">Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
   <string name="user_agreement_permission_summary_msg">Xiaomi račun omogućuje vam pristup svim uslugama koje pruža Xiaomi. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
-    <string name="user_agreement_read_phone_permission_desc">Za prijavu pomoću telefonskog broja</string>
-    <string name="user_agreement_read_phone_permission_title">Čitanje telefonskih brojeva</string>
+  <string name="user_agreement_read_phone_permission_desc">Za prijavu pomoću telefonskog broja</string>
+  <string name="user_agreement_read_phone_permission_title">Čitanje telefonskih brojeva</string>
   <string name="user_agreement_use_account_msg">Xiaomi račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
   <string name="user_agreement_wifi_permission_title">Uključiti i isključiti Wi-Fi</string>
   <string name="user_agreement_wlan_permission_desc">Za provjeru sigurnosnih problema u okruženju za prijavu</string>

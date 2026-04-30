@@ -870,6 +870,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_lock_mode_locked_or_exit">Kada je uređaj zaključan ili nakon izlaska iz aplikacije</string>
   <string name="applock_lock_mode_locked_or_exit_or_wait">Kada je uređaj zaključan​ ili %d minuta nakon izlaska iz aplikacije</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
+  <string name="applock_mixed_input_password_hint_text">Unesite zaporku</string>
   <string name="applock_mixtype_hidepwd_icon">Sakrij</string>
   <string name="applock_mixtype_showpwd_icon">Pokaži</string>
   <string name="applock_no_account_login">"Niste prijavljeni na svoj Xiaomi račun"</string>
@@ -1387,6 +1388,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bubble_notification_switch">Prikaži oblačiće razgovora</string>
   <string name="bubble_notification_switch_desc">Kada je aplikacija za messenger u plutajućem prozoru skrivena na rubu zaslona, prikaži dolazne poruke u oblačićima</string>
   <string name="bubble_pickup_voice_print_auto">Snimanje glasovnog otiska…</string>
+  <string name="bubble_pickup_voice_print_success">Glasovni otisak snimljen</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
@@ -2734,6 +2736,17 @@ volonter"</string>
   <string name="game_toolbox_ai_upgrade_dialog_desc">Dostupno je ažuriranje za AI usluge igranja. Ažurirajte prije korištenja povezanih značajki.</string>
   <string name="game_toolbox_ai_upgrade_dialog_title">Provjeri ima li ažuriranja</string>
   <string name="game_toolbox_cellular_network">Povećanje brzine mobilne mreže</string>
+  <string name="game_toolbox_dedicated_network_booster_date_format">dd.MM.yyyy</string> 
+  <string name="game_toolbox_dedicated_network_booster_dialog_cancel">Odustani</string> 
+  <string name="game_toolbox_dedicated_network_booster_dialog_msg">"VPN veza automatski će se stvoriti na temelju latencije u stvarnom vremenu radi poboljšanja stabilnosti mreže. Nakon preuzimanja prava dobit ćete %d godina besplatnog pristupa."</string> 
+  <string name="game_toolbox_dedicated_network_booster_expired_time_des">Razdoblje valjanosti: %s</string> 
+  <string name="game_toolbox_dedicated_network_booster_free_expired">Isteklo</string> 
+  <string name="game_toolbox_dedicated_network_booster_free_get">Zahtjev</string> 
+  <string name="game_toolbox_dedicated_network_booster_login">Prijava</string> 
+  <string name="game_toolbox_dedicated_network_booster_open_dialog_confirm">Zahtjev</string> 
+  <string name="game_toolbox_dedicated_network_booster_open_dialog_title">Pojačajte mrežnu vezu</string> 
+  <string name="game_toolbox_dedicated_network_booster_sub_title">Stvorite privatnu mrežu na temelju latencije za poboljšanje stabilnosti veze</string> 
+  <string name="game_toolbox_dedicated_network_booster_title">Pojačajte mrežnu vezu</string>
   <string name="game_toolbox_display_avrs">AVRS</string>
   <string name="game_toolbox_display_avrs_desc">Uključite da malo smanjite kvalitetu slike i značajno smanjite potrošnju energije</string>
   <string name="game_toolbox_display_enhance_view_frc_notice">"Napomena:
@@ -3147,6 +3160,7 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_predownload_message_new">Automatski ažurirajte kompatibilne igre dok ne koristite uređaj</string>
   <string name="gb_predownload_noti_message">"%2$1.2f GB ažuriranog sadržaja već je na ovom uređaju. Moći ćete ga koristiti čim se objavi nova verzija."</string>
   <string name="gb_predownload_noti_title">%s uspješno ažuriran u pozadini</string>
+  <string name="gb_predownload_page_title">Prethodno preuzimanje paketa resursa</string>
   <string name="gb_predownload_title">Ažuriranja u pozadini</string>
   <string name="gb_setting_dock_toast">Značajke pomoćnika prednje kamere sada su dostupne u okviru alata za pozive</string>
   <string name="gb_setting_dock_toast_2">Značajke pomoćnika prednje kamere sada su dostupne u okviru alata za pozive</string>
@@ -3958,6 +3972,31 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_item_virus_install_monitor_summary">Provjerite aplikacije za virusima prije instaliranja</string>
   <string name="menu_item_virus_install_monitor_title">Skeniraj prije instaliranja</string>
   <string name="menu_item_virus_lib_auto_update_summary">Ažurirano na %s</string>
+  <string name="menu_item_virus_risky_app_detect">Otkrij rizične aplikacije</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_cancel">Odustani</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_close_failed">"Otkriveni su sigurnosni rizici. Ne mogu se sada isključiti."</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_content_Bottom">Ako vlasti, osoblje korisničke službe ili ljudi koje možda poznajete zatraže da isključite ovu značajku, prije nastavka potvrdite njihov identitet.</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_content_top">Ako isključite ovu značajku, otkrivanje rizičnih ponašanja aplikacija u stvarnom vremenu više se neće provoditi, što može dovesti do curenja osobnih podataka ili financijskog gubitka. Svejedno isključiti?</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_go_open">Otvori</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_keep_close">Isključi</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_keep_open">Odustani</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_keep_use">Otvori</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_known">Razumijem</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_not_remind">"Ne prikazuj više"</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_quit">Izlaz</string> 
+  <string name="menu_item_virus_risky_app_detect_close_dialog_title">Isključiti?</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_default_msg">"%s predstavlja nepoznate sigurnosne rizike i može dovesti do curenja privatnosti ili financijskog gubitka. "</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback">Ako se ne slažete s ovim upozorenjem, dodirnite ovdje za slanje povratnih informacija.</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback_name">Naziv aplikacije: %s</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback_new">%s Ako se ne slažete s ovim upozorenjem, dodirnite (kliknite) ovdje (/kliknite) za slanje povratnih informacija.</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback_packagename">Naziv paketa: %s</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback_problem">Detaljno opišite problem: %s</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback_sign">Potpis aplikacije: %s</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_level_notify">Pažnja</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_level_stop">"Aplikacija nije dostupna"</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_level_warning">Upozorenje</string> 
+  <string name="menu_item_virus_risky_app_detect_summary">Blokiraj ili obavijesti o rizičnim aplikacijama</string> 
+<string name="menu_item_virus_risky_app_detect_uninstall">Deinstaliraj</string>
   <string name="menu_mark">Prijavi broj</string>
   <string name="menu_remove">Izbriši</string>
   <string name="menu_report">Prijavi pogrešku</string>
@@ -4014,6 +4053,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="mic_noise_reduction_voiceprint_desc">Zadrži zvuk samo od određenog korisnika</string>
   <string name="midrop_post_notification_contentText">Prenosite datoteke brzinama do 50 Mbps sa Mi Drop-om</string>
   <string name="midrop_post_notification_contentTitle">Trebate prenijeti datoteke?</string>
+  <string name="milink_init_loading">Priprema za emitiranje…</string>
   <string name="miui_blur_location">Približna lokacija</string>
   <string name="miui_optimization_close_final_tip">Isključiti HyperOS optimizaciju?</string>
   <string name="miui_optimization_close_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Isključivanje HyperOS optimizacije moglo bi donijeti sljedeće promjene:</string>
@@ -4825,6 +4865,21 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_low_batterty_got_it">Razumijem</string>
   <string name="pc_low_battery_fast_charge">Ubrzajte punjenje</string>
   <string name="pc_low_battery_fast_charge_summary">Priključite isporučeni punjač kako biste ubrzali punjenje kada je zaslon isključen i baterija je prazna. Ova značajka može uzrokovati zagrijavanje vašeg uređaja.</string>
+  <string name="pc_low_battery_health_msg_1">"Stanje vaše baterije je ispod %1$s. Preporučujemo da kontaktirate Xiaomijevu postprodajnu službu kako biste zamijenili bateriju."</string> 
+  <string name="pc_low_battery_health_msg_2">Dodirnite &lt;a href=https://m.mi.com/hd/wx/2023/officialService/index.html?g_utm=MIUI.Settings.Service.MyDevice.AfterSale&amp;imei=ODYzOTgxMDczNDg5MTg2#/>nakon prodaje usluga&lt;/a> za pronalaženje ovlaštenih pružatelja u vašoj blizini. Možete rezervirati popravak u trgovini ili zatražiti uslugu slanja poštom.&lt;br />&lt;br />Što se tiče zdravlja baterije, možda biste željeli znati:</string> 
+  <string name="pc_low_battery_health_msg_3">"%1$d. Prirodno starenje: Litijeve baterije imaju ograničen broj ciklusa punjenja i postupno se troše tijekom vremena.
+%2$d. Navike punjenja: Punjenje na visokim temperaturama, puštanje baterije da se potpuno isprazni prije punjenja ili korištenje neslužbenih brzih punjača mogu ubrzati starenje.
+%3$d. Ekstremna okruženja: Pretjerana toplina (kao što je izravna sunčeva svjetlost ili intenzivno igranje) ili vrlo hladni uvjeti mogu oštetiti bateriju i skratiti joj životni vijek."</string> 
+  <string name="pc_low_battery_health_msg_4">"%1$d. Kraće trajanje baterije zahtijeva češće punjenje.
+%2$d. Performanse su smanjene tijekom zahtjevnih zadataka (kao što je intenzivno igranje ili uređivanje videa), što može utjecati na glatkoću.
+%3$d. U ekstremnim slučajevima, punjenje postaje sporije ili se uređaj automatski isključuje u okruženjima s niskom temperaturom."</string> 
+  <string name="pc_low_battery_health_msg_5">"%1$d. Održavajte razinu baterije između %2$s i %3$s. Izbjegavajte ostavljati potpuno napunjenu ili potpuno ispražnjenu dulje vrijeme.
+%4$d. Izbjegavajte punjenje na visokim temperaturama. Skinite masku s telefona tijekom punjenja i izbjegavajte intenzivno igranje tijekom punjenja.
+%5$d. Koristite službene ili certificirane punjače i kabele za zaštitu baterije."</string> 
+  <string name="pc_low_battery_health_title">Podsjetnik o stanju baterije</string> 
+  <string name="pc_low_battery_health_title_1">Zašto se zdravlje baterije pogoršava</string> 
+  <string name="pc_low_battery_health_title_2">Kako slaba baterija utječe na vas</string> 
+  <string name="pc_low_battery_health_title_3">Kako produžiti zdravlje baterije</string>
   <string name="pc_low_temp_charge_summary">Punjač neka bude priključen i pričekajte da se baterija zagrije nakon što se zaslon ugasi kako biste normalno punili</string>
   <string name="pc_low_temp_charge_title">Punjenje na niskoj temperaturi</string>
   <string name="pc_low_temperature_extreme_endurance_summary">Ograničite performanse uređaja kako biste produljili trajanje baterije u hladnim okruženjima</string>
@@ -4856,6 +4911,8 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_night_sleep_mode_summary_pad">"Dok je zaslon isključen, vaš uređaj će zatvoriti pozadinske aplikacije i ograničiti korištenje mreže. Ako se uređaj ne koristi dulje vrijeme, automatski će prijeći u stanje mirovanja ili se isključiti."</string>
   <string name="pc_night_sleep_mode_title">Noćni način rada</string>
   <string name="pc_no_more_remind">"Ne podsjećaj"</string>
+  <string name="pc_notify_low_battery_health_msg">"Vrijeme je da zamijenite bateriju"</string> 
+  <string name="pc_notify_low_battery_health_title">Stanje baterije je ispod %1$s</string>
   <string name="pc_ordinary_charge_summary">Uvijek dopusti punjenje do %1$s</string>
   <string name="pc_ordinary_charge_title">Redovito punjenje</string>
   <string name="pc_performance_mode_dialog_summary">Vaš će uređaj moći raditi %s u načinu rada performanse. Imajte na umu da način rada povećava potrošnju energije i može dovesti do pregrijavanja.</string>
@@ -4916,6 +4973,7 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_this_time_charge_full_work">Skoro potpuno napunjeno</string>
   <string name="pc_timely_charging_summary">Baterija je ispod %1$s. Ako se uređaj pregrije dok je baterija slaba, to može oštetiti bateriju.</string>
   <string name="pc_timely_charging_title">Napunite svoj uređaj</string>
+  <string name="pc_tip_low_battery_health">"Vrijeme je da zamijenite bateriju"</string>
   <string name="pc_to_phone_install">Blokirana instalacija (%s) putem USB-a</string>
   <string name="pc_toady_charge_time_title">Broj punjenja danas</string>
   <string name="pc_wait_device_cools_down">Pričekajte da se vaš uređaj ohladi da biste mogli koristiti ovu značajku.</string>
@@ -5200,6 +5258,8 @@ Način otpornosti na hladnoću"</string>
   <string name="permission_usage_virtual_sms_once">%1$s | Ova je aplikacija vratila prazan SMS</string>
   <string name="permission_usage_terminal_file_once">%1$s | Pristupljeno datotekama na ovom uređaju</string>
   <string name="permission_usage_terminal_file_use">Datoteke kojima se pristupalo na ovom uređaju</string>
+  <string name="permission_usage_terminal_microphone_once">"%1$s | Ova je aplikacija koristila mikrofon ovog uređaja"</string> 
+  <string name="permission_usage_terminal_microphone_use">"Ova je aplikacija koristila mikrofon ovog uređaja"</string>
   <string name="permission_warning_for_cancel">Odustani</string>
   <string name="permission_warning_for_ensure">Dopusti</string>
   <string name="permission_warning_for_risk">Ako odlučite dati dopuštenja, prazne poruke vratit će se aplikaciji radi zaštite vaše privatnosti.</string>
@@ -5231,6 +5291,8 @@ Način otpornosti na hladnoću"</string>
   <string name="pin_toast">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
   <string name="pin_toast_nav">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
   <string name="pkg_traffic">Postavi ograničenje uporabe podataka</string>
+  <string name="pkg_traffic_settings_instruction">Pažnja</string> 
+  <string name="pkg_traffic_settings_instruction_text">"Zbog nedavnih ažuriranja operatera, neke informacije možda neće biti dostupne. Podaci prikazani u \"Naprednim postavkama prometa\" samo su za referencu i možda se ne podudaraju sa evidencijom vašeg operatera. Za najtočniju potrošnju provjerite izvod računa svog operatera."</string>
   <string name="please_continue_keep">Zadrži</string>
   <string name="pm_auto_start_basic_services_lock">Zaključaj</string>
   <string name="pm_auto_start_basic_services_unlock">Otključaj</string>
@@ -7187,6 +7249,7 @@ Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
   <string name="storage_fbo_notification_start_content">Uređaj može kasniti tijekom ovog procesa</string>
   <string name="storage_fbo_notification_start_title">Defragmentiranje pohrane</string>
   <string name="storage_fbo_number_tip">Obrađeno %1$s</string>
+  <string name="storage_fbo_time_talkback">dd.MM.</string>
   <string name="storage_fbo_tools">Optimizacija pohrane</string>
   <string name="storage_file_delete_tip">Želite li trajno izbrisati odabrane stavke? Neki od njih mogu se ponovno učitati kada je potrebno.</string>
   <string name="storage_file_dialog_delete_title">Izbriši stavke</string>
@@ -7560,14 +7623,22 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="tc_web_correct_error">"Ne mogu kalibrirati"</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mjes. podataka)</string>
+  <string name="terminal_flares_current_camera_mic">"Korištenje kamere i mikrofona ovog uređaja"</string> 
+  <string name="terminal_flares_current_camera_mic_screen">"Korištenje kamere, mikrofona i zaslona ovog uređaja"</string> 
+  <string name="terminal_flares_recent_camera_mic">"Nedavno su korišteni kamera i mikrofon ovog uređaja"</string> 
+  <string name="terminal_flares_recent_camera_mic_screen">"Nedavno su korišteni kamera, mikrofon i zaslon ovog uređaja"</string>
   <string name="terminal_behavior_camera">"%1s je pristupio kameri ovog uređaja"</string>
+  <string name="terminal_flars_current_record">"Korištenje mikrofona ovog uređaja"</string>
   <string name="terminal_behavior_screen">"%1s je pristupio zaslonu ovog uređaja"</string>
   <string name="terminal_flars_current_camera">"Korištenje kamere ovog uređaja"</string>
   <string name="terminal_flars_current_screen">"Pristupanje zaslonu ovog uređaja"</string>
   <string name="terminal_flars_current_screen_camera">"Korištenje kamere i zaslona ovog uređaja"</string>
-  <string name="terminal_flars_recent_camera">"Nedavno je koristio kameru ovog uređaja"</string>
-  <string name="terminal_flars_recent_screen">"Nedavno sam pristupio zaslonu ovog uređaja"</string>
-  <string name="terminal_flars_recent_screen_camera">"Nedavno je koristio kameru i zaslon ovog uređaja"</string>
+  <string name="terminal_flars_current_screen_mic">"Korištenje zaslona i mikrofona ovog uređaja"</string>
+  <string name="terminal_flars_recent_camera">"Nedavno je korištena kamera ovog uređaja"</string>
+  <string name="terminal_flars_recent_record">"Nedavno je korišten mikrofon ovog uređaja"</string>
+  <string name="terminal_flars_recent_screen">"Nedavno je pristupljeno zaslonu ovog uređaja"</string>
+  <string name="terminal_flars_recent_screen_camera">"Nedavno su korišteni kamera i zaslon ovog uređaja"</string>
+  <string name="terminal_flars_recent_screen_mic">"Nedavno je korišten zaslon i mikrofon ovog uređaja"</string>
   <string name="terminal_privacy">Zaštita privatnosti na uređaju</string>
   <string name="terminal_privacy_ability">Značajke i mehanizmi</string>
   <string name="terminal_privacy_ability_img">Obrada slike</string>
@@ -7781,6 +7852,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="toast_lockscreen_glogin_empty_password">Potrebna ja zaporka</string>
   <string name="toast_network_eror">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
+  <string name="toast_no_install_getapps">Instalirajte GetApps i pokušajte ponovno</string>
   <string name="toast_reject_sms_read_permission_success">Uspješno postavljeno</string>
   <string name="toast_removed_from_virus_white_list">Uklonjeno iz Iznimaka. Stavka će se skenirati sljedeći put.</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>

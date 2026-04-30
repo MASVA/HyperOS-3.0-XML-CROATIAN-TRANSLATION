@@ -105,6 +105,9 @@
   <string name="bottomsheet_action_expand">Proširi donji list</string>
   <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dvaput dodirnuta</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string> 
+  <string name="calendar_date_picker_a11y_prev_month">Promjena na prethodni mjesec</string> 
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>

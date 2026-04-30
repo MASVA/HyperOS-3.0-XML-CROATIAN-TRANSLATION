@@ -47,9 +47,12 @@
   <string name="ad_switch">Preporuke</string>
   <string name="addBlackList">Dodaj na popis blokiranih</string>
   <string name="add_attachment">Dodaj privitak</string>
+  <string name="add_block">Dodaj na popis blokiranih</string> 
+  <string name="add_block_tag_message">Nakon dodavanja, sve poruke koje sadrže ključnu riječ \"%s\" bit će blokirane. To može uključivati ​​kontrolne kodove i podatke o narudžbi. Dodati sada?</string>
   <string name="add_contact">Kontakt</string>
   <string name="add_miui_contact">Kontakt</string>
   <string name="add_music">Dodaj glazbu</string>
+  <string name="add_number_message">Nakon dodavanja, svi dolazni pozivi i poruke od %s bit će blokirani. Dodati sada?</string>
   <string name="add_number_to_sender">Dodati broj za %s</string>
   <string name="add_picture">Dodaj sliku</string>
   <string name="add_private_contact">Dodaj privatan kontakt</string>
@@ -175,6 +178,9 @@ Pokušajte ponovno."</string>
   <string name="beidou_support_cta_tips">Ova aplikacija također može čitati, uređivati, slati i primati Beidou satelitske poruke.</string>
   <string name="beidou_support_location_tips">Korištenje Beidou usluga zahtijeva pristup vašoj lokaciji.</string>
   <string name="beidou_to_contacts">Primatelj: %s</string>
+  <string name="blacklist_add_dependency_cta_failed">Otvorite Sigurnost i prihvatite njezine uvjete i odredbe kako biste mogli koristiti ovu značajku</string> 
+  <string name="blacklist_add_failed">"Nije moguće dodati na popis blokiranih. Pokušajte ponovno."</string> 
+  <string name="blacklist_add_success">Dodan na popis blokiranih</string>
   <string name="block_messaging_entry_title">Blokirani SMS-ovi</string>
   <string name="block_number_message">Taj će broj telefona biti dodan na popis za blokiranje. Sve poruke poslane s ovog broja bit će blokirane.</string>
   <string name="block_support_text">Podržano od strane Antiy.</string>
@@ -614,6 +620,8 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="item_over_quantity">Odaberitete do %d poruka koje sadrže informacije o lokaciji</string>
   <string name="item_shortage">Odaberitete najmanje %d poruke koje sadrže informacije o lokaciji</string>
   <string name="item_view_role_description">Kartica</string>
+  <string name="keyword_blacklist_add_failed">"Nije moguće dodati ključnu riječ na popis blokiranih. Pokušajte ponovo."</string> 
+  <string name="keyword_blacklist_add_success">Ova je ključna riječ dodana na popis blokiranih</string>
   <string name="json_card_img_retry">Pokušajte ponovo</string>
   <string name="json_card_img_retry_error">Provjerite svoju mrežnu vezu i pokušajte ponovno</string>
   <string name="kicked_out_group">Izbrisani ste iz razgovora</string>
@@ -680,6 +688,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="menu_new_manual">Unesite broj ručno</string>
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
   <string name="menu_preferences">Postavke</string>
+  <string name="menu_remove_sms_block">Ukloni s popisa blokiranih</string>
   <string name="menu_report">Povratne inf.</string>
   <string name="menu_send_as_common">Pošalji kao SMS</string>
   <string name="menu_sms_block">Popis blokiranih</string>
@@ -1524,11 +1533,17 @@ Pogledajte one preporučene!"</string>
   <string name="release_end">Otpustite za zaustavljanje</string>
   <string name="remember_my_choice">Zapamti moj izbor</string>
   <string name="remove">Ukloni</string>
+  <string name="remove_keyword_block_fail">"Nije moguće ukloniti ovu ključnu riječ s popisa blokiranih. Pokušajte ponovno."</string> 
+  <string name="remove_keyword_block_message">Zaustaviti blokiranje ključne riječi \"%s\"?</string> 
+  <string name="remove_keyword_block_toast">Ova je ključna riječ uklonjena s popisa blokiranih</string>
   <string name="remove_member">Brisanje člana</string>
   <string name="remove_members">Brisanje više članova</string>
   <string name="remove_music">Ukloni glazbu</string>
   <string name="remove_picture">Ukloni sliku</string>
   <string name="remove_slide">Ukloni slajd</string>
+  <string name="remove_sms_block_fail">"Nije moguće ukloniti ovaj broj s popisa blokiranih. Pokušajte ponovno."</string> 
+  <string name="remove_sms_block_message">Želite li sada ukloniti ovaj broj s popisa blokiranih?</string> 
+  <string name="remove_sms_block_toast">Ovaj je broj uklonjen s popisa blokiranih</string>
   <string name="remove_text">Ukloni tekst</string>
   <string name="remove_video">Ukloni videozapis</string>
   <string name="rename_group_fail">"Nije moguće promijeniti naziv razgovora"</string>

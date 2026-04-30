@@ -58,6 +58,8 @@
   <string name="android_id_usage">Za prepoznavanje verzije aplikacije i kompatibilnosti između starih i novih uređaja</string>
   <string name="android_oaid">OAID</string>
   <string name="antispam">Popis blokiranih</string>
+  <string name="ap_name">Naziv hotspota</string> 
+  <string name="ap_password">Zaporka hotspota</string>
   <string name="app_name">Mi Mover</string>
   <string name="app_update_64_dialog_cancel">Ne sada</string>
   <string name="app_update_64_dialog_confirm">Ažuriraj</string>
@@ -128,6 +130,7 @@
   <string name="button_scanning">Skeniranje…</string>
   <string name="button_send">Pošalji</string>
   <string name="calendar_permission_desc">Za prijenos događaja na druge uređaje</string>
+  <string name="calendar_require_permission">Dopuštenja potrebna za prijenos. Dodirnite za odobrenje.</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -203,6 +206,8 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="contacts_permission_desc">Za prijenos kontakata na druge uređaje</string>
   <string name="contacts_permission_desc_new">Za prijenos kontakata na novi uređaj</string>
   <string name="contains_unauthorized_data">Sadrži neovlaštene podatke</string>
+  <string name="contains_unauthorized_data_new">Sadrži neovlaštene podatke</string> 
+  <string name="contains_unauthorized_or_incompatible_data">Sadrži neovlaštene ili nekompatibilne podatke</string>
   <string name="copy">Kopiraj</string>
   <string name="current_user_not_supported_summary">Trenutne postavke sustava ograničuju prijenos podataka kod korištenja Mi Movera.</string>
   <string name="current_user_not_supported_title">Nije moguće prenijeti stavke</string>
@@ -690,6 +695,11 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="not_support_data_summary_2">Neke aplikacije ne mogu biti prenesene zbog ograničenja privatnosti Trgovine Play.</string>
   <string name="not_support_data_title">"Stavke koje se ne mogu prenijeti"</string>
   <string name="note">Bilješke</string>
+  <string name="note_format_incompatible">"Formati bilježaka dvaju uređaja nisu kompatibilni. Prijenos nije moguć."</string> 
+  <string name="note_incompatible_tip_message">"Verzija Notesa novog uređaja je prestara. Neke se bilješke ne mogu prenijeti. Spremite sigurnosne kopije važnih stavki."</string> 
+  <string name="note_partial_format_incompatible">"Formati nekih bilješki nisu kompatibilni između dva uređaja. Nije moguće prenijeti neke stavke."</string> 
+  <string name="note_partial_incompatible_message">"Formati bilješki dvaju uređaja nisu kompatibilni, pa se bilješke ne mogu prenijeti. Spremite sigurnosne kopije važnih stavki."</string> 
+  <string name="note_partial_incompatible_title">"%d. Bilješke se ne mogu prenijeti."</string>
   <string name="nothing_chosen">Prvo odaberite stavke</string>
   <string name="notif_icloud_canceled_summary">Otkazano</string>
   <string name="notif_icloud_canceling_summary">Otkazivanje…</string>
@@ -817,6 +827,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_wifi_title">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="permission_wifi_title_new">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="permission_wifi_title_new_china">Uključivanje i isključivanje Wi-Fi-ja</string>
+  <string name="portion_note_partial_incompatible_title">"%d. Neke se bilješke ne mogu prenijeti."</string> 
+  <string name="portion_secret_partial_incompatible_message">"Formati bilješki dvaju uređaja nisu kompatibilni, pa se neke bilješke ne mogu prenijeti. Spremite sigurnosne kopije važnih stavki."</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_agree">Prihvaćam</string>
   <string name="privacy_cancel">Ne prihvaćam</string>
@@ -825,6 +837,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="privacy_icp_identity">Registracijski broj ICP-a: 京ICP备10046444号-32A></string>
   <string name="privacy_item1">· Prijenos datoteka, poruka, postavki aplikacija sustava i aplikacija</string> 
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="private_sms_title">Privatne poruke</string>
   <string name="privacy_title">Uvjeti korištenja</string>
   <string name="prompt_before_transmission_message1_summary">Ako ih odlučite prenijeti sa svog starog uređaja, podaci aplikacije (uključujući povijest chatova) prepisat će se.</string>
   <string name="prompt_before_transmission_message1_title">Te su aplikacije već generirale podatke aplikacija na vašem novom uređaju</string>

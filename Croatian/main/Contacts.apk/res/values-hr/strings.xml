@@ -47,7 +47,9 @@
   <string name="add_account">"Dodaj račun"</string>
   <string name="add_blacklist">Blokiraj</string>
   <string name="add_blacklist_dialog_message">Blokirati pozive i poruke s ovog broja?</string>
+  <string name="add_blacklist_dialog_text">Pozivi i poruke od %s bit će blokirani.</string>
   <string name="add_blacklist_dialog_title">Blokirati ovaj broj telefona?</string>
+  <string name="add_blacklist_success">Uspješno blokiran</string>
   <string name="add_connection_button">"Dodaj vezu"</string>
   <string name="add_field">Dodaj drugo polje</string>
   <string name="add_field_toast">Nema više polja za dodavanje.</string>
@@ -282,6 +284,7 @@
   <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="callDetailTitle">"Pojedinosti poziva"</string>
   <string name="call_assistant">"Nazovi %s"</string>
+  <string name="call_block_banner_text">Postavite svoje postavke popisa blokiranih poziva</string>
   <string name="call_callback">Nazovi povratno</string>
   <string name="call_car">Nazovi automobil</string>
   <string name="call_company_main">Nazovi glavnu tvrtku</string>
@@ -373,6 +376,7 @@
   <string name="callrecordview_menu_aiphone">AI pozivi</string>
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
   <string name="callrecordview_menu_blocklist">Popis blokiranih</string>
+  <string name="callrecordview_menu_call_block_setting">Popis blokiranih poziva</string>
   <string name="callrecordview_menu_conference">Konferencijski poziv</string>
   <string name="callrecordview_menu_delete">Izbriši</string>
   <string name="callrecordview_menu_delete_accepted">Izbriši odgovorene pozive</string>
