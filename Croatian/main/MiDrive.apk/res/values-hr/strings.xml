@@ -872,6 +872,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="upload_file_to_midrive">Učitajte datoteke na Mi Drive</string>
   <string name="upload_list">Prijenosi</string>
   <string name="upload_list_empty">Nema stavki ovdje</string>
+  <string name="upload_left_quota_not_enough">"Nije moguće prenijeti datoteku zbog nedovoljnog prostora za pohranu u cloudu. Nadogradite svoj plan pohrane ili izbrišite neke stavke, a zatim pokušajte ponovno."</string>
   <string name="upload_metered_network_dialog_cancel">Odustani</string>
   <string name="upload_metered_network_dialog_desc">"Vaš uređaj nije povezan na Wi-Fi mrežu. Učitati stavke pomoću mob. podataka?"</string>
   <string name="upload_metered_network_dialog_ok">Učitaj</string>

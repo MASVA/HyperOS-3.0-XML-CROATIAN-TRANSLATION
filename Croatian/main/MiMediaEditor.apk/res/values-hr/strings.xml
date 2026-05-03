@@ -201,6 +201,8 @@
   <string name="ai_action_toast_poor_network_v2">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="ai_action_toast_request_time_out">Zahtjev je istekao. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="ai_action_toast_request_time_out_v2">Zahtjev je istekao. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="ai_compliance_bottom_dialog_video_description">Možete odabrati dodavanje oznake slikama ili videozapisima uređenim pomoću generativnih značajki umjetne inteligencije. Ovu značajku možete uključiti ili isključiti u Više > Postavke značajki > Označi stavke generirane umjetnom inteligencijom</string>
+  <string name="ai_compliance_menu_pop_video_description">Dodajte oznaku slikama ili videozapisima uređenim pomoću generativnih značajki umjetne inteligencije</string>
   <string name="ai_compliance_bottom_dialog_description">Možete dodati oznaku \"AI-generated\" slikama uređenim pomoću generativnih AI značajki. Ovu značajku možete uključiti ili isključiti u Više &gt; Označi stavke generirane AI-jem.</string>
   <string name="ai_compliance_menu_pop_description">Možete dodati oznaku \"AI-generated\" slikama uređenim pomoću generativnih AI značajki</string>
   <string name="ai_emote_loading_expression_list">Generiranje izraza…</string>
@@ -385,8 +387,8 @@
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
-  <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dva puta dodirnuta</string>
-  <string name="bottomsheet_drag_handle_content_description">Ručica za povlačenje</string>
+  <string name="bottomsheet_drag_handle_clicked">Marker za povlačenje dva puta dodirnut</string>
+  <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
   <string name="btn_cancel">Odustani</string>
   <string name="btn_cancel_send">Otkaži ovaj prijenos</string>
   <string name="btn_exit_send">Izlaz</string>
@@ -593,6 +595,7 @@
   <string name="convert_livephoto_video_not_support">"Nije moguće pretvoriti ovaj videozapis u dinamičnu snimku"</string>
   <string name="convert_livephoto_video_not_support_v2">"Ovaj format videozapisa nije podržan. Pokušajte s drugim videozapisom."</string>
   <string name="convert_livephoto_video_time_limit">Samo videozapisi do %d sekundi mogu se pretvoriti u dinamičke snimke</string>
+  <string name="convert_static_photo_hint">Pretvoreno u običnu fotografiju</string>
   <string name="copy">Kopiraj</string>
   <string name="crop_label">Obrezane fotografije</string>
   <string name="cta_agreement_declare">&lt;Data&gt;Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja ove aplikacije.&lt;/Data&gt;</string>
@@ -669,6 +672,7 @@
   <string name="ext_sdcard_request_failed_button_text">U redu</string>
   <string name="ext_sdcard_request_succeed_toast_text">"Sve je spremno!"</string>
   <string name="fancy_color_desc">Boje</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
   <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>
   <string name="file_sending">Slanje datoteka…</string>
@@ -843,6 +847,13 @@
   <string name="filter_popular_wintersun">Midwinter</string>
   <string name="filter_popular_youth">Juventas</string>
   <string name="filter_portrait_bright_blue">Azure</string>
+  <string name="filter_portrait_bright_shining">Svijetlo</string> 
+  <string name="filter_portrait_butter">Kremasto</string> 
+  <string name="filter_portrait_clearness">Bistro</string> 
+  <string name="filter_portrait_freshness">Svježe</string> 
+  <string name="filter_portrait_nature">Prirodno</string> 
+  <string name="filter_portrait_neutral">Neutralno</string> 
+  <string name="filter_portrait_whitening">Svijetlo</string>
   <string name="filter_portrait_cold_white">Svjetlost zvijezda</string>
   <string name="filter_portrait_greyish">Ash</string>
   <string name="filter_portrait_haruno">Pupoljak</string>
@@ -989,6 +1000,14 @@
   <string name="id_photo_module_face_detect_fail">"Ne mogu prepoznati crte lica. Pokušajte s drugom slikom."</string>
   <string name="id_photo_module_finish">Dodatak \"ID\" uspješno preuzet</string>
   <string name="id_photo_module_loading">Preuzimanje \"ID\" dodatka…</string>
+  <string name="live_convert_static_hint_description">Ovo uređivanje će pretvoriti sliku u običnu fotografiju. Želite li ipak nastaviti?</string>
+  <string name="live_convert_static_hint_title">Pretvori trenutak uživo</string>
+  <string name="live_edit_close_hint_description">Ova slika je pretvorena u običnu fotografiju. Poništite ovu promjenu ili vratite izvornu sliku kako biste vratili trenutni trenutak uživo.</string>
+  <string name="live_edit_close_hint_title">"Ne mogu prilagoditi efekte trenutnih trenutaka uživo"</string>
+  <string name="live_not_support_save_hint">"Ovaj trenutni trenutak uživo ne podržava prilagodbe efekata i pretvoren je u običnu fotografiju. Bit će spremljen kao nova kopija."</string>
+  <string name="live_not_support_toast_hint">"Ovaj trenutni trenutak uživo ne podržava prilagodbe efekata i pretvoren je u običnu fotografiju"</string>
+  <string name="live_photo_guide_desc_edit_grade">Možete obrezati, primijeniti filtere i dodati vodene žigove trenutnim trenucima uživo bez gubitka izvornih efekata kretanja</string>
+  <string name="live_photo_guide_tittle_edit_grade">Potpuno novo uređivanje za trenutne uživo</string>
   <string name="image_decode_failed">"Ne mogu dešifrirati sliku"</string>
   <string name="image_enhancer_guide_dialog_description">"Prenijet ćemo vaše nedavne portretne fotografije u oblak kako bismo poboljšali njihovu jasnoću. To možete učiniti u Više &gt; Ultra HD."</string>
   <string name="image_enhancer_guide_dialog_subtitle">Dobijte jasnije i detaljnije portrete jednim dodirom</string>
@@ -1484,6 +1503,16 @@
   <string name="photo_editor_aigc_outpaint_progress_v2">Proširivanje slike…</string>
   <string name="photo_editor_aigc_quality_improve_progress">Vraćanje slike…</string>
   <string name="photo_editor_aigc_quality_improve_progress_v2">Vraćanje slike…</string>
+  <string name="photo_editor_auto_adjust_off_talkback">AI uljepšavanje je isključeno</string>
+  <string name="photo_editor_auto_adjust_on_talkback">AI uljepšavanje je uključeno</string>
+  <string name="photo_editor_gallery_frame_dynamic_effects">Dinamički efekti</string>
+  <string name="photo_editor_gallery_frame_dynamic_effects_hint">Nakon dodavanja dinamičkog efekta, pregledajte ga na stranici s trenucima uživo</string>
+  <string name="photo_editor_paste_cancel_text">Otkazivanje…</string>
+  <string name="photo_editor_quality_off_talkback">Ultra HD je isključen</string>
+  <string name="photo_editor_quality_on_talkback">Ultra HD je uključen</string>
+  <string name="photo_editor_save_option_dialog_description_cover_origin_v2">Zamijeni: Zamijeni izvornu sliku i vrati je kasnije.</string>
+  <string name="photo_editor_save_option_dialog_description_save_as_copy_v2">Dupliciraj: Izradi novu fotografiju bez točaka uređivanja.</string>
+  <string name="photo_editor_save_option_dialog_description_setting_path">Postavke možete promijeniti u Više > Postavke značajki > Opcije spremanja.</string>
   <string name="photo_editor_beautify">Uljepšaj</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty">Uljepšajte</string>

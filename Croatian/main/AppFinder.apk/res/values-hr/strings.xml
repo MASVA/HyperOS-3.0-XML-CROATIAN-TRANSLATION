@@ -373,10 +373,13 @@
   <string name="friday_shortest">P</string>
   <string name="gps_prompt_context">Preuzimanje putem mobilne mreže?</string>
   <string name="gps_prompt_title">Savjeti</string>
+  <string name="hint_dialog_positive_btn">Razumijem</string>
+  <string name="hint_dialog_toast">Dodirnite \"Traži\" na tipkovnici dok ste na početnoj stranici Tražilice aplikacija za pregled preporuka za pretraživanje.</string>
   <string name="home_card_ai_search_content">Pametnije pretraživanje, pokretano Xiaomi HyperAI</string>
   <string name="home_card_ai_search_title">Isprobajte potpuno novo AI pretraživanje</string>
   <string name="home_search_history_title">Povijest pretraživanja</string>
   <string name="hot_news_card_title">Najvažniji naslovi</string>
+  <string name="hot_news_card_refresh">Osvježi</string>
   <string name="hot_news_create_time_right_now">Upravo sada</string>
   <string name="hot_news_load_fealure">"Nije moguće učitati"</string>
   <string name="hot_news_read_more">Prikaži više</string>
@@ -443,9 +446,21 @@
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Prijeđite prstom prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Prijeđite prstom prema dolje za prelazak na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Privucite prstom prema dolje za minimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Privucite prstom prema gore za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Privucite prstom prema gore za maksimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Selected %s</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -570,10 +585,12 @@
   <string name="permission_use_image_search">Dodijelite dopuštenja za kameru u Postavkama kako biste mogli prepoznavati slike.</string>
   <string name="power_saving_settings">Ušteda baterije</string>
   <string name="preference_copied">\"%1$s\" kopirano u međuspremnik.</string>
+  <string name="preference_hint">Prijedlozi za pretraživanje</string>
   <string name="quick_link_guide_negative">Ne</string>
   <string name="quick_link_guide_positive">Da</string>
   <string name="quick_link_guide_title">Jesu li vam prečaci korisni?</string>
   <string name="quick_select">Odaberi</string>
+  <string name="quick_search">Brzo pretraživanje</string>
   <string name="quick_share">Brzo dijeljenje</string>
   <string name="range_end">Kraj raspona</string>
   <string name="range_start">Početak raspona</string>
@@ -617,6 +634,8 @@
   <string name="search_result_shortcuts">Prečaci</string>
   <string name="search_result_store_app">Više aplikacija</string>
   <string name="search_settings">Postavke pretraživanja</string>
+  <string name="search_zero_tab_game_install">Instaliraj</string>
+  <string name="search_zero_tab_game_play">Igraj</string>
   <string name="search_zero_news_games_cta_ads">Instaliraj</string>
   <string name="search_zero_news_games_cta_game">Igraj</string>
   <string name="searchview_clear_text_content_description">Izbriši tekst</string>
@@ -663,6 +682,9 @@
   <string name="setting_title_ai_answer">AI odgovori</string>
   <string name="setting_title_ai_image">AI prepoznavanje slika</string>
   <string name="setting_title_keyboard_settings">Postavke tipkovnice</string>
+  <string name="setting_title_search_bar_pos">Položaj trake za pretraživanje</string>
+  <string name="setting_value_search_bar_bottom">Dolje</string>
+  <string name="setting_value_search_bar_top">Gore</string>
   <string name="setting_user_agreement">Korisnički ugovor</string>
   <string name="setting_value_keyboard_ai_search">AI odgovori</string>
   <string name="setting_value_keyboard_hide_softboard">Sakrij tipkovnicu</string>
@@ -731,6 +753,9 @@
   <string name="tab_ai_tools">AI</string>
   <string name="tab_game_popular">Popularno</string>
   <string name="tab_game_recent">Nedavno</string>
+  <string name="tab_sports_lives">Uživo</string>
+  <string name="tab_sports_news">Vijesti</string>
+  <string name="tab_sports_viewmore">Više</string>
   <string name="talkback_action_btn_camera_switch_front">Pregled prednje kamere</string>
   <string name="talkback_action_btn_camera_switch_rear">Pregled stražnje kamere</string>
   <string name="talkback_action_btn_camera_switch_toggle">Kamere uspješno prebačene</string>
@@ -819,6 +844,7 @@
   <string name="talkback_status_item_unselected">Odabrano</string>
   <string name="template_percent">%1$d posto.</string>
   <string name="test_ad">Testni oglas</string>
+  <string name="text_add">Dodaj</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
@@ -870,4 +896,8 @@
   <string name="wifi_on">Uključeno</string>
   <string name="wifi_opening">Uključivanje…</string>
   <string name="yesterday">Jučer</string>
+  <string name="xout_dialog_cancle">Odustani</string>
+  <string name="xout_dialog_submit">Pošalji</string>
+  <string name="xout_dialog_title">"Zašto vam se ne sviđa ovaj oglas?"</string>
+  <string name="xout_report_issue">Prijavi problem</string>
 </resources>

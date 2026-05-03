@@ -562,6 +562,7 @@
 	<string name="miui_reject_only_opening_screen">Ograniči pristup tijekom pokretanja aplikacije</string>
 	<string name="miui_select_allow_access_content">Odaberite stavke kojima želite dopustiti pristup</string>
 	<string name="miuix_access_state_desc">Odabrano</string>
+	<string name="miuix_accessibility_title">Naslov</string>
    <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
    <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
    <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
@@ -779,9 +780,16 @@
 	<string name="permgroupgraderequest_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b>?</string>
    <string name="permgroupgraderequest_device_aware_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
    <string name="permgroupgraderequest_device_aware_location">Promijeniti pristup lokaciji za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
-	<string name="permgroupgraderequest_location">Promijeniti pristup lokaciji za <b>%1$s</b>?</string>
-	<string name="permgroupgraderequest_microphone">Promijeniti pristup mikrofonu za <b>%1$s</b>?</string>
-	<string name="permgroupgraderequest_sensors">Želi li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora dok je aplikacija u upotrebi?</string>
+   <string name="permgroupgraderequest_device_aware_microphone">Promijeniti pristup mikrofonu za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
+   <string name="permgroupgraderequest_device_aware_sensors">Nastavi dopuštati <b>%1$s</b> pristupiti podacima tjelesnih senzora na <b>%2$s</b> dok je aplikacija u upotrebi?</string>
+   <string name="permgroupgraderequest_location">Promijeniti pristup lokaciji za <b>%1$s</b>?</string>
+   <string name="permgroupgraderequest_microphone">Promijeniti pristup mikrofonu za <b>%1$s</b>?</string>
+   <string name="permgroupgraderequest_sensors">Želite li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora dok je aplikacija u upotrebi?</string>
+   <string name="permgroupgraderequestdetail_camera">Ova aplikacija želi snimati slike i videozapise cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
+   <string name="permgroupgraderequestdetail_location">Ova aplikacija želi pristupiti vašoj lokaciji cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
+   <string name="permgroupgraderequestdetail_microphone">Ova aplikacija želi snimati zvuk cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
+   <string name="permgroupgraderequestdetail_nearby_devices">Dopustiti aplikaciji <b>%1$s</b> da pronađe, poveže se i odredi relativni položaj uređaja u blizini? <annotation id="link">Dopusti u postavkama.</annotation></string>
+   <string name="permgroupgraderequestdetail_sensors">Ova aplikacija želi pristupiti podacima senzora o vašim vitalnim znakovima cijelo vrijeme, čak i kada je ne koristite. Da biste izvršili ovu promjenu, <annotation id="link">idite u postavke.</annotation></string>
 	<string name="permgroupbackgroundrequest_camera">Želite li dopustiti <b>%1$s</b> snimanje slika i videa?</string>
 	<string name="permgroupbackgroundrequest_device_aware_camera">Želite li dopustiti <b>%1$s</b> snimanje slika i videa na <b>%2$s</b>?</string>
 	<string name="permgroupbackgroundrequest_device_aware_location">Želite li dopustiti <b>%1$s</b> pristup lokaciji <b>%2$s</b>?</string>

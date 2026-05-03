@@ -1994,8 +1994,9 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="miui_clock_city_name_second">Drugi sat</string>
   <string name="miui_clock_classic_signature_area_hint">Dodirnite za unos potpisa</string>
   <string name="miui_clock_oversize_date">dd.MM.</string>
-  <string name="miui_keyboard_shortcut_click">Pritisnite</string>
-  <string name="miui_keyboard_shortcut_double_click">Dvaput pritisnite</string>
+  <string name="miui_depth_pets_moth_format">dd.MM.</string>
+  <string name="miui_keyboard_shortcut_click">Dodirnite</string>
+  <string name="miui_keyboard_shortcut_double_click">Dvaput dodirnite</string>
   <string name="miui_keyboard_shortcut_show_all_apps">Prikaži sve aplikacije</string>
   <string name="miui_keyboard_shortcut_system_dock">Prikaži dock aplikacije</string>
   <string name="miui_keyboard_shortcut_system_quickly_recent">Prebacivanje između nedavnih aplikacija</string>
@@ -2021,7 +2022,7 @@ dd.MM."</string>
   <string name="miui_magazine_c_clock_style2_date">d.M. EE</string>
   <string name="miui_magazine_c_clock_style2_date_content_description">dd.MM. EEEE</string>
   <string name="miui_magazine_clock_date">d.M.</string>
-  <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+  <string name="miui_magazine_clock_date_content_description">dd.MM.</string>
   <string name="miui_magazine_clock_week">EEE</string>
   <string name="miui_notification_menu_custom_fold">Grupiraj u \"Više obavijesti\"</string>
   <string name="miui_notification_menu_custom_unfold">"Ne grupiraj"</string>
@@ -2459,7 +2460,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="pin_toast_nav">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
   <string name="pip_close">Zatvori PiP</string>
   <string name="pip_collapse">Sažmi</string>
-  <string name="pip_edu_text">Dvaput pritisnite <annotation icon="home_icon">POČETNI ZASLON</annotation> za kontrole</string>
+  <string name="pip_edu_text">Dvaput dodirnite <annotation icon="home_icon">POČETNI ZASLON</annotation> za kontrole</string>
   <string name="pip_expand">Proširi</string>
   <string name="pip_fullscreen">Cijeli zaslon</string>
   <string name="pip_menu_accessibility_title">Izbornik slika u slici</string>
@@ -2633,6 +2634,12 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="qs_traffic_message_type_used">Iskorišteno %1$s %2$s</string>
   <string name="qs_user_switch_dialog_title">Odaberi korisnika</string>
   <string name="quick_controls_title">Kontrole uređaja</string>
+  <string name="quick_settings_coolingfan_lable">Ventilator za hlađenje</string>
+  <string name="quick_settings_coolingfan_mode">Način rada ventilatora</string>
+  <string name="quick_settings_coolingfan_mode_high">Performanse</string>
+  <string name="quick_settings_coolingfan_mode_silent">Tihi</string>
+  <string name="quick_settings_coolingfan_mode_smart">Pametni</string>
+  <string name="quick_settings_coolingfan_state_off">Ventilator za hlađenje je isključen</string>
   <string name="quick_settings_airplane_state_change_message_off">Zrakoplovni način je isključen</string>
   <string name="quick_settings_airplane_state_change_message_on">Zrakoplovni način je uključen</string>
   <string name="quick_settings_auto_rotate_state_change_message_off">Automatsko zakretanje je isključeno</string>

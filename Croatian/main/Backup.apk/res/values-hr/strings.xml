@@ -109,8 +109,8 @@
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
-  <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dvaput dodirnuta</string>
-  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+  <string name="bottomsheet_drag_handle_clicked">Marker za povlačenje dva puta dodirnut</string>
+  <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
   <string name="broken_screen_rescue_service">Sigurnosne kopije s oštećenim zaslonom</string>
   <string name="broken_screen_rescue_service_content">"Ova značajka omogućuje sigurnosno kopiranje stavki pomoću USB kabela kada je zaslon vašeg uređaja oštećen ili ne reagira. Da biste mogli sigurnosno kopirati stavke kada zaslon ne reagira, trebali biste uključite ovu značajku kada zaslon i dalje ispravno radi."</string>
   <string name="broken_screen_rescue_service_disable">Isključite sigurnosne kopije s oštećenim zaslonom</string>

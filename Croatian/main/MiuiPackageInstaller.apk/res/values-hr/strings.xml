@@ -380,6 +380,8 @@
   <string name="install_hint_risk_found_description">"Instaliranje ove aplikacije može predstavljati sigurnosne rizike. "</string>
   <string name="install_hint_risk_unregistered">"Razvojni programer nije dostavio popis ove aplikacije regulatornim tijelima. Može sadržavati viruse, pristupiti vašim osobnim podacima i predstavljati druge sigurnosne probleme. Ako ste već dostavili popis ove aplikacije regulatornim tijelima kao programer, možete podnijeti žalbu Pošalji sada"</string>
   <string name="install_hint_risk_unregistered_clickable">Pošalji</string>
+  <string name="install_hint_sc_prohibit_installing_msg">"Ne mogu instalirati ovu aplikaciju zbog više sigurnosnih rizika"</string>
+  <string name="install_hint_sc_prohibit_installing_risk_detail">Ova je aplikacija potencijalno lažna. Nastavite s oprezom kako biste zaštitili svoju sigurnost.</string>
   <string name="install_hint_title">Pažnja</string>
   <string name="install_package_description">>>Pojedinosti o instalacijskom paketu</string>
   <string name="install_package_error">"Ova aplikacija nije kompatibilna s vašim sustavom"</string>

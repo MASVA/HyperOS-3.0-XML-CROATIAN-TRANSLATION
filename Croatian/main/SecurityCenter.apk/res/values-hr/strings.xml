@@ -1653,6 +1653,7 @@ Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
   <string name="confirm_package_type">Potvrdite vrstu paketa</string>
   <string name="confirm_prompt_all_permission">Tražiti dopuštenje za sve aplikacije?</string>
   <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
+  <string name="confirm_reject_all_permission_only_opening_screen">Ograničiti ovo dopuštenje tijekom pokretanja aplikacije za sve aplikacije?</string>
   <string name="confirm_take">Dobij</string>
   <string name="confirm_upgrade">Opcije</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>

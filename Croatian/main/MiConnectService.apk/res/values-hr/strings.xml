@@ -38,6 +38,12 @@ Provjerite da je firmware Vašeg zvučnika ažuriran."</string>
 	<string name="afternoon">Popodne</string>
 	<string name="am">prijep.</string>
 	<string name="app_name">Mi Connect</string>
+	<string name="bind_continuity_listener_service">Ograniči samo na međusobnu povezanost</string>
+   <string name="bind_continuity_listener_service_description">Dopustiti ovoj aplikaciji da ograniči ovu komponentu samo na međusobnu povezanost?</string>
+   <string name="bind_continuity_service">Koristi konfiguraciju međusobne povezanosti</string>
+   <string name="bind_continuity_service_description">Dopustiti ovoj aplikaciji korištenje konfiguracije međusobne povezanosti?</string>
+   <string name="bind_continuity_service_internal">Otvori ovu aplikaciju putem konfiguracije međusobne povezanosti</string>
+   <string name="bind_continuity_service_internal_description">Dopustiti međusobnoj povezanosti da otvori ovu aplikaciju pomoću svoje konfiguracije?</string>
 	<string name="bottomsheet_action_collapse">Sažmite donju tablicu</string>
 	<string name="bottomsheet_action_expand">Proširite donju tablicu</string>
 	<string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>

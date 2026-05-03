@@ -12984,6 +12984,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="show_bt_icon_title">Prikaži Bluetooth ikonu</string>
   <string name="show_captions_disabled">Isključeno</string>
   <string name="show_captions_enabled">Uključeno</string>
+  <string name="show_carrier_under_notification_title">Prikaži naziv operatera u Panelu obavijesti</string>
   <string name="show_carrier_under_keyguard_title">Prikaži naziv operatera kada je uređaj zaključan</string>
   <string name="show_charging_in_non_lockscreen_animation">Prikaži animaciju punjenja nakon što je uređaj otključan</string>
   <string name="show_charging_in_non_lockscreen_animation_summary">Nastavi prikazivati animaciju punjenja nakon što je uređaj otključan, skrivajući je samo za reprodukciju videozapisa i druge slične scene na cijelom zaslonu</string>

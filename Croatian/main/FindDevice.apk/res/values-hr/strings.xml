@@ -201,6 +201,8 @@
   <string name="find_device_error_server">Pogreška poslužitelja (%s).</string>
   <string name="find_device_error_unknown">Nepoznata pogreška (%s).</string>
   <string name="find_device_gdpr_prompt">"Uključivanjem Pronađi uređaj prihvaćate "&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Pravila privatnosti Xiaomi Clouda&lt;/u&gt;&lt;/a&gt;. Da biste povukli svoj pristanak na Pravila privatnosti, isklju&amp;#269;ite ovu zna&amp;#269;ajku.</string>
+  <string name="finddevice_iot_reset_tag_desc">"%1$d. Otvorite kućište i izvadite bateriju.
+%2$d. Ponovno umetnite bateriju, a zatim pritisnite i držite gumb %3$d sekundi. Čut ćete dva zvučna signala koja označavaju da je resetiranje dovršeno."</string>
   <string name="find_device_noise_notification_title">Pažnja</string>
   <string name="find_device_noise_notification_land_title">Reproducira se zvuk</string>
   <string name="find_device_noise_title">Alarm značajke Pronađi uređaj</string>
@@ -883,5 +885,6 @@
 %2$d. Uključite Međusobnu povezanost u Postavkama.
 %3$d. Povežite se s mrežom.
 %4$d. Ostavite zaslon uključenim."</string>
+  <string name="xiaomi_tag_low_battery">Baterija Xiaomi Taga je slaba</string>
   <string name="yesterday">Jučer</string>
 </resources>

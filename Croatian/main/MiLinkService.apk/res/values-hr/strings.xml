@@ -429,6 +429,21 @@
   <string name="circulate_headset_back_to_box_title_pad">Uparite slušalice s ovim uređajem</string>
   <string name="circulate_headset_back_to_box_title_phone">Uparite slušalice s ovim uređajem</string>
   <string name="circulate_headset_back_to_box_title_tv">Uparite svoje slušalice</string>
+  <string name="circulate_headset_control_audio_effect_card_title">Dimenzionalni zvuk</string>
+  <string name="circulate_headset_control_audio_effect_off">Isključi prostorni zvuk</string>
+  <string name="circulate_headset_control_audio_effect_spatial">Uključi prostorni zvuk</string>
+  <string name="circulate_headset_control_audio_find_earphone_wearing_info_cancel">Otkaži</string>
+  <string name="circulate_headset_control_audio_find_earphone_wearing_info_confirm">Nastavi</string>
+  <string name="circulate_headset_control_audio_find_earphone_wearing_info_confirm">Nastavi</string>
+  <string name="circulate_headset_control_audio_find_earphone_wearing_info_content">"Zvuk će se reproducirati s velikom glasnoćom. Ako nosite slušalice, nastavak korištenja može oštetiti vaš sluh. Uklonite ih prije nastavka."</string>
+  <string name="circulate_headset_control_audio_find_earphone_wearing_info_title">Upozorenje o visokoj glasnoći</string>
+  <string name="circulate_headset_control_audio_stop_find_earphone">Zaustavi reprodukciju zvuka</string>
+  <string name="circulate_headset_control_mi_audio_effect_card_title">Kontrola buke</string>
+  <string name="circulate_headset_control_mi_audio_effect_head_tracking">Praćenje pokreta glave</string>
+  <string name="circulate_headset_control_mi_audio_effect_off">Isključeno</string>
+  <string name="circulate_headset_control_mi_audio_effect_spatial">Imerzivni zvuk</string>
+  <string name="circulate_headset_error_airpods_headset_both_in_box">Prvo stavite slušalice</string>
+  <string name="circulate_headset_error_airpods_headset_not_worn">Stavite obje slušalice da biste mogli koristiti ovo značajka</string>
   <string name="circulate_headset_control_anc_clear">Transparentnost</string>
   <string name="circulate_headset_control_anc_disable_hint">Vaše su slušalice spojene na dva uređaja. Glasnoću možete podešavati samo s ovog uređaja.</string>
   <string name="circulate_headset_control_anc_noise_cancel">Poništavanje buke</string>
@@ -670,6 +685,7 @@
   <string name="connect_settings_share_notification">Obavijesti</string>
   <string name="connect_settings_share_notification_help">Pomoć</string>
   <string name="connect_settings_share_notification_local_device_summary">Da biste mogli odgovarati na pozive i primati poruke i obavijesti aplikacija na ovom uređaju, dopustite sinkronizaciju obavijesti s vašim Xiaomi telefonom u Xiaomi Interconnectivity > Sinkronizacija obavijesti > Sinkronizacija s Xiaomijem na vašem iPhoneu.</string>
+  <string name="connect_settings_share_notification_local_device_summary_v2">Da biste mogli odgovarati na pozive i primati poruke i obavijesti aplikacija na svom Xiaomi uređaju, povežite se s njim na svom iPhoneu u Xiaomi Interconnectivity > Sinkronizacija obavijesti > Sinkronizacija s Xiaomijem.</string>
   <string name="connect_settings_share_notification_local_device_title">Primaj obavijesti od %1$s</string>
   <string name="connect_settings_share_notification_local_other_mi_device">Prikaz obavijesti s drugog Xiaomi telefona na ovom uređaju</string>
   <string name="connect_settings_share_notification_iphone_device">Prikaži obavijesti s ovog uređaja na iPhoneu</string>
@@ -1324,6 +1340,7 @@
   <string name="nothing_to_play">Nema reprodukcije</string>
   <string name="notification_cast_desc">Emitiranje…</string>
   <string name="notification_channel_description">Odaberite vrste obavijesti koje će se sinkronizirati s drugog uređaja na vaš Xiaomi uređaj</string>
+  <string name="notification_channel_subtitle_ref_call">Dolazni poziv s iPhonea</string>
   <string name="notification_channel_subtitle_ref_call_2">Dolazni poziv na %1$s</string>
   <string name="notification_channel_subtitle_ref_dingtalk_2">DingTalk obavijest na %1$s</string>
   <string name="notification_channel_subtitle_ref_lary_2">Lark obavijest na %1$s</string>

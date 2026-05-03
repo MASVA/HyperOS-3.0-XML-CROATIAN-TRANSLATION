@@ -34,7 +34,7 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="add_clock">Dodaj sat</string>
-  <string name="add_odbrojavanje">Česti odbrojavanje</string>
+  <string name="add_timer">Često odbrojavanje</string>
   <string name="alarm_alert">Alarm zvoni</string>
   <string name="alarm_alert_close_entrance">Isključi</string>
   <string name="alarm_alert_now">%s alarm</string>
@@ -61,8 +61,8 @@
   <string name="alert_volume_summary">Postavite glasnoću zvona za alarme i odbrojavanja</string>
   <string name="alert_xiaoai_ringtone_desc">Mi AI govori…</string>
   <string name="all_alarm_close">Svi alarmi su isključeni</string>
-  <string name="aod_odbrojavanje_pause">Odbrojavanje je pauziran</string>
-  <string name="aod_odbrojavanje_running">Odbrojavanje je pokrenut</string>
+  <string name="aod_timer_pause">Odbrojavanje je pauzirano</string>
+  <string name="aod_timer_running">Odbrojavanje je pokrenuto</string>
   <string name="app_label">Sat</string>
   <string name="auto_silence_entries1">Nikad</string>
   <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minutu</string>
@@ -119,7 +119,7 @@
   <string name="channel_name_alarm">Alarm</string>
   <string name="channel_name_sleep">Spavanje</string>
   <string name="channel_name_stopwatch">Štoperica</string>
-  <string name="channel_name_odbrojavanje">Odbrojavanje</string>
+  <string name="channel_name_timer">Odbrojavanje</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -160,7 +160,7 @@
   <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="every_day">Dnevno</string>
   <string name="expand_button_title">Napredno</string>
-  <string name="expired_odbrojavanjes_dismissed">Odbrojavanje je odbačen</string>
+  <string name="expired_timers_dismissed">Odbrojavanje je odbačeno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="force_start_permission_desc">"Omogući normalno funkcioniranje alarma čak i kada ste zatvorili aplikaciju"</string>
   <string name="force_start_permission_title">Autom. pokretanje</string>
@@ -177,7 +177,7 @@
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
   <string name="install_weather_app_loading">Samo trenutak…</string>
   <string name="invalid_time">Nevažeće vrijeme: %3$s %1$d: %2$d</string>
-  <string name="invalid_odbrojavanje_length">Nevažeća duljina odbrojavanjea</string>
+  <string name="invalid_timer_length">Nevažeća duljina odbrojavanja</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="keep_screen_on">Drži zaslon uključen</string>
   <string name="korea_permission_calendar">Kalendar</string>
@@ -318,10 +318,10 @@
   <string name="module_week_ringtone_download_wifi_privacy"><Data>Alarm za prirodu reproducira različite zvukove ovisno o datumu. Sat se mora povezati s internetom za preuzimanje zvuka. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="module_week_ringtone_introduce">Alarm prirode reproducira različite zvukove ovisno o datumu.</string>
   <string name="module_week_ringtone_update_data_new">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_white_noise_download_data_new">Sat treba preuzeti datoteke zvuka za odbrojavanjee ambijentalne buke. Za ovo preuzimanje bit će potrebno ≈%d MB mobilnih podataka. Preuzeti sada?</string>
-  <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>"Za preuzimanje datoteke zvuka za odbrojavanjee ambijentalne buke (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) i pružiti personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. You're using mobile data now. Prihvaćate?"</Data></string>
-  <string name="module_white_noise_download_wifi">Sat treba preuzeti datoteke zvuka za odbrojavanjee ambijentalne buke. Preuzeti sada?</string>
-  <string name="module_white_noise_download_wifi_privacy"><Data>Kako bi preuzeo datoteke zvuka za odbrojavanjee ambijentalne buke i pružio personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
+  <string name="module_white_noise_download_data_new">Sat treba preuzeti datoteke zvuka za odbrojavanje ambijentalne buke. Za ovo preuzimanje bit će potrebno ≈%d MB mobilnih podataka. Preuzeti sada?</string>
+  <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>"Za preuzimanje datoteke zvuka za odbrojavanje ambijentalne buke (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) i pružiti personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. You're using mobile data now. Prihvaćate?"</Data></string>
+  <string name="module_white_noise_download_wifi">Sat treba preuzeti datoteke zvuka za odbrojavanje ambijentalne buke. Preuzeti sada?</string>
+  <string name="module_white_noise_download_wifi_privacy"><Data>Kako bi preuzeo datoteke zvuka za odbrojavanje ambijentalne buke i pružio personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -457,7 +457,7 @@
   <string name="reset">Poništi</string>
   <string name="ringtone_all">Sve melodije zvona</string>
   <string name="ringtone_dew">Jutarnja rosa</string>
-  <string name="ringtone_digital_odbrojavanje">Odbrojavanje</string>
+  <string name="ringtone_digital_timer">Odbrojavanje</string>
   <string name="ringtone_dream">Sanjarenje</string>
   <string name="ringtone_firefly">Krijesnice</string>
   <string name="ringtone_weather">Vremenski alarm</string>
@@ -485,7 +485,7 @@
   <string name="shift_information">Raspored smjena</string>
   <string name="show_more_shift_alarms">Prikaži više</string>
   <string name="shortcut_new_alarm">Postavi alarm</string>
-  <string name="shortcut_start_odbrojavanje">Pokreni odbrojavanje</string>
+  <string name="shortcut_start_timer">Pokreni odbrojavanje</string>
   <string name="shortcut_stop_watch">Pokreni štopericu</string>
   <string name="show_life_post_desc">"Jutarnja izvješća neće se prikazati ako isključite ovu značajku"</string>
   <string name="show_life_post_lable">Prikaži jutarnje izvješće</string>
@@ -563,40 +563,40 @@
   <string name="time_picker_label_minute">M</string>
   <string name="time_picker_label_second">S</string>
   <string name="time_settings">Postavke sata</string>
-  <string name="odbrojavanje_alert_mute_off">Alarm će se oglasiti kada se odbrojavanje isključi</string>
-  <string name="odbrojavanje_alert_mute_on">"Alarm se neće oglasiti kada se odbrojavanje isključi"</string>
-  <string name="odbrojavanje_alert_mute_switch">Prebaci se na isključenje odbrojavanja</string>
-  <string name="odbrojavanje_alert_pause">Odbrojavanje je pauzirano</string>
-  <string name="odbrojavanje_alert_running">Odbrojavanje je pokrenuto</string>
-  <string name="odbrojavanje_alert_vibrate_title">Vibriraj kada se odbrojavanje završi</string>
-  <string name="odbrojavanje_can_continue_in_odbrojavanje">Otvori odbrojavanje za nastavak</string>
-  <string name="odbrojavanje_cancel_hint">Stop</string>
-  <string name="odbrojavanje_cancel_odbrojavanje">Otkaži odbrojavanje</string>
-  <string name="odbrojavanje_continue">Nastavi</string>
-  <string name="odbrojavanje_continue_odbrojavanje">Nastavi odbrojavanje</string>
-  <string name="odbrojavanje_created">Odbrojavanje je postavljeno</string>
-  <string name="odbrojavanje_desc_use_brush_teeth">Operite zube</string>
-  <string name="odbrojavanje_desc_use_facial_mask">Maska za lice</string>
-  <string name="odbrojavanje_desc_use_sleep">Drijemanje</string>
-  <string name="odbrojavanje_end_time">Odbrojavanje će se zaustaviti u %s</string>
-  <string name="odbrojavanje_end_time_format">HH:mm dd.MM</string>
-  <string name="odbrojavanje_end_time_format_today">HH:mm</string>
-  <string name="odbrojavanje_end_island">Odbrojavanje ja zaustavljeno</string>
-  <string name="odbrojavanje_pause_island">Odbrojavanje je pauzirano</string>
-  <string name="odbrojavanje_running_island">Odbrojavanje</string>
-  <string name="odbrojavanje_got_it_new">Utišaj</string>
-  <string name="odbrojavanje_is_paused">Odbrojavanje je pauzirano</string>
-  <string name="odbrojavanje_keep_screen_on">Zadrži zaslon uključenim</string>
-  <string name="odbrojavanje_pause_notification">Pauzirano</string>
-  <string name="odbrojavanje_pause_odbrojavanje">Pauziraj odbrojavanje</string>
-  <string name="odbrojavanje_ringtone">Zvuk odbrojavanja</string>
-  <string name="odbrojavanje_running">Odbrojavanje je pokrenuto</string>
-  <string name="odbrojavanje_running_notification">Odbrojavanje</string>
-  <string name="odbrojavanje_screen_on">Zaslon ostaje uključen</string>
-  <string name="odbrojavanje_screen_turn_on">Zadrži zaslon uključenim</string>
-  <string name="odbrojavanje_start_alarm">"Vrijeme je isteklo!"</string>
-  <string name="odbrojavanje_start_odbrojavanje">Pokreni odbrojavanje</string>
-  <string name="odbrojavanje_title">Odbrojavanje</string>
+  <string name="timer_alert_mute_off">Alarm će se oglasiti kada se odbrojavanje isključi</string>
+  <string name="timer_alert_mute_on">"Alarm se neće oglasiti kada se odbrojavanje isključi"</string>
+  <string name="timer_alert_mute_switch">Prebaci se na isključenje odbrojavanja</string>
+  <string name="timer_alert_pause">Odbrojavanje je pauzirano</string>
+  <string name="timer_alert_running">Odbrojavanje je pokrenuto</string>
+  <string name="timer_alert_vibrate_title">Vibriraj kada se odbrojavanje završi</string>
+  <string name="timer_can_continue_in_odbrojavanje">Otvori odbrojavanje za nastavak</string>
+  <string name="timer_cancel_hint">Stop</string>
+  <string name="timer_cancel_odbrojavanje">Otkaži odbrojavanje</string>
+  <string name="timer_continue">Nastavi</string>
+  <string name="timer_continue_odbrojavanje">Nastavi odbrojavanje</string>
+  <string name="timer_created">Odbrojavanje je postavljeno</string>
+  <string name="timer_desc_use_brush_teeth">Operite zube</string>
+  <string name="timer_desc_use_facial_mask">Maska za lice</string>
+  <string name="timer_desc_use_sleep">Drijemanje</string>
+  <string name="timer_end_time">Odbrojavanje će se zaustaviti u %s</string>
+  <string name="timer_end_time_format">HH:mm dd.MM</string>
+  <string name="timer_end_time_format_today">HH:mm</string>
+  <string name="timer_end_island">Odbrojavanje ja zaustavljeno</string>
+  <string name="timer_pause_island">Odbrojavanje je pauzirano</string>
+  <string name="timer_running_island">Odbrojavanje</string>
+  <string name="timer_got_it_new">Utišaj</string>
+  <string name="timer_is_paused">Odbrojavanje je pauzirano</string>
+  <string name="timer_keep_screen_on">Zadrži zaslon uključenim</string>
+  <string name="timer_pause_notification">Pauzirano</string>
+  <string name="timer_pause_odbrojavanje">Pauziraj odbrojavanje</string>
+  <string name="timer_ringtone">Zvuk odbrojavanja</string>
+  <string name="timer_running">Odbrojavanje je pokrenuto</string>
+  <string name="timer_running_notification">Odbrojavanje</string>
+  <string name="timer_screen_on">Zaslon ostaje uključen</string>
+  <string name="timer_screen_turn_on">Zadrži zaslon uključenim</string>
+  <string name="timer_start_alarm">"Vrijeme je isteklo!"</string>
+  <string name="timer_start_odbrojavanje">Pokreni odbrojavanje</string>
+  <string name="timer_title">Odbrojavanje</string>
   <string name="timezone_exist_error_message">"Već prikazujete tu vremensku zonu"</string>
   <string name="timezone_null_massage">Ovdje nema ništa</string>
   <string name="today">Danas</string>

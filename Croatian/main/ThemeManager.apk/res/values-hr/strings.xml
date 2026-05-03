@@ -194,6 +194,7 @@
   <string name="ai_video_not_meet_requirement_dialog_message_new">Odaberite videozapis s osobom ili životinjom i provjerite je li subjekt jasan i bez prepreka.</string>
   <string name="ai_video_not_meet_requirement_dialog_title">"Ne mogu generirati videozapis"</string>
   <string name="ai_waiting_in_line_please_wait">"Na redu ste. Ostanite s nama…"</string>
+   <string name="ai_walllpaper_generate">Izradi</string>
   <string name="ai_wallpaper_generation_effect_message">Za bolje rezultate, provjerite sadrži li odabrana fotografija do %d osoba ili kućnih ljubimaca.</string>
   <string name="ai_wallpaper_generation_quality_message">Za bolje rezultate, provjerite sadrži li odabrana fotografija do %d osoba ili kućnih ljubimaca.</string>
   <string name="ai_wallpaper_image_fail_message">Provjerite sadrži li odabrana fotografija samo jednog kućnog ljubimca.</string>
@@ -393,9 +394,9 @@
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
-  <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dva puta dodirnuta</string>
-  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
-  <string name="svjetlina">Svjetlina</string>
+  <string name="bottomsheet_drag_handle_clicked">Marker za povlačenje dva puta dodirnuta</string>
+  <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
+  <string name="brightness">Svjetlina</string>
   <string name="browse_mode">Online način</string>
   <string name="browse_mode_desc">"Dopustite ovoj aplikaciji povezivanje s internetom, pristup mrežnom sadržaju, kao i korištenje stavki na vašem uređaju (npr. fotografije, zvuk i videozapisi). Niti jedan vaš osobni podatak neće biti prikupljen."</string>
   <string name="browser_local_resource">Lokalni izvori</string>
@@ -1389,6 +1390,7 @@
   <string name="miui_clock_oversize_date">dd.MM.</string>
   <string name="miui_clock_time_format_12">hh:mm</string>
   <string name="miui_clock_time_format_24">HH:mm</string>
+  <string name="miui_depth_pets_moth_format">dd.MM.</string>
   <string name="miui_digital_clock_dot">:</string>
   <string name="miui_lock_aqi_level_description_critical">Opasno</string>
   <string name="miui_lock_aqi_level_description_excellent">Dobro</string>
