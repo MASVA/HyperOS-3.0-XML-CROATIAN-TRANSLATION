@@ -76,7 +76,6 @@
   <string name="exo_controls_repeat_one_description">Trenutni način: Ponovi jedan. Uključi/isključi način ponavljanja.</string>
   <string name="exo_controls_rewind_description">Premotavanje unatrag</string>
   <string name="exo_controls_seek_bar_description">Napredak reprodukcije</string>
-  <string name="exo_controls_seek_bar_description">Postavke</string>
   <string name="exo_controls_show">Prikaži kontrole playera</string>
   <string name="exo_controls_shuffle_off_description">Omogući način nasumičnog odabira</string>
   <string name="exo_controls_shuffle_on_description">Onemogući način nasumičnog odabira</string>
@@ -197,9 +196,8 @@
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
-  <string name="miuix_appcompat_deselect_all">Poništi odabir svega</string> 
-  <string name="miuix_appcompat_deselect_all_description">Poništi odabir svega</string>
-  <string name="miuix_appcompat_deselect_all_description">Uredi</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string> 
+  <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>

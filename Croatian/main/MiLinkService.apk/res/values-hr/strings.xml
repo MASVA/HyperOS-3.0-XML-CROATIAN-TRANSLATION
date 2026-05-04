@@ -432,8 +432,7 @@
   <string name="circulate_headset_control_audio_effect_card_title">Dimenzionalni zvuk</string>
   <string name="circulate_headset_control_audio_effect_off">Isključi prostorni zvuk</string>
   <string name="circulate_headset_control_audio_effect_spatial">Uključi prostorni zvuk</string>
-  <string name="circulate_headset_control_audio_find_earphone_wearing_info_cancel">Otkaži</string>
-  <string name="circulate_headset_control_audio_find_earphone_wearing_info_confirm">Nastavi</string>
+  <string name="circulate_headset_control_audio_find_earphone_wearing_info_cancel">Odustani</string>
   <string name="circulate_headset_control_audio_find_earphone_wearing_info_confirm">Nastavi</string>
   <string name="circulate_headset_control_audio_find_earphone_wearing_info_content">"Zvuk će se reproducirati s velikom glasnoćom. Ako nosite slušalice, nastavak korištenja može oštetiti vaš sluh. Uklonite ih prije nastavka."</string>
   <string name="circulate_headset_control_audio_find_earphone_wearing_info_title">Upozorenje o visokoj glasnoći</string>

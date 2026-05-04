@@ -781,7 +781,7 @@
    <string name="permgroupgraderequest_device_aware_camera">Promijeniti pristup kameri za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
    <string name="permgroupgraderequest_device_aware_location">Promijeniti pristup lokaciji za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
    <string name="permgroupgraderequest_device_aware_microphone">Promijeniti pristup mikrofonu za &lt;b>%1$s&lt;/b> na &lt;b>%2$s&lt;/b>?</string>
-   <string name="permgroupgraderequest_device_aware_sensors">Nastavi dopuštati <b>%1$s</b> pristupiti podacima tjelesnih senzora na <b>%2$s</b> dok je aplikacija u upotrebi?</string>
+   <string name="permgroupgraderequest_device_aware_sensors">Želite li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora na <b>%2$s</b> dok je aplikacija u upotrebi?</string>
    <string name="permgroupgraderequest_location">Promijeniti pristup lokaciji za <b>%1$s</b>?</string>
    <string name="permgroupgraderequest_microphone">Promijeniti pristup mikrofonu za <b>%1$s</b>?</string>
    <string name="permgroupgraderequest_sensors">Želite li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora dok je aplikacija u upotrebi?</string>
@@ -862,13 +862,6 @@
 	<string name="permgrouprequestdetail_camera">Aplikacija će biti samo moći snimati slike i videozapise dok koristite aplikaciju</string>
 	<string name="permgrouprequestdetail_location">Aplikacija će imati pristup lokaciji samo dok je koristite</string>
 	<string name="permgrouprequestdetail_microphone">Aplikacija će moći snimati zvuk samo dok je koristite</string>
-	<string name="permgroupgraderequest_device_aware_microphone">Promijeniti pristup mikrofonu za <b>%1$s</b> na <b>%2$s</b>?</string>
-	<string name="permgroupgraderequest_device_aware_sensors">Želite li <b>%1$s</b> i dalje dopuštati pristup podacima tjelesnih senzora na <b>%2$s</b> dok je aplikacija u upotrebi?</string>
-	<string name="permgroupgraderequestdetail_camera">Ova aplikacija želi snimati fotografije i videozapise cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
-	<string name="permgroupgraderequestdetail_location">Ova aplikacija želi pristupiti vašoj lokaciji cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
-	<string name="permgroupgraderequestdetail_microphone">Ova aplikacija želi snimati zvuk cijelo vrijeme, čak i kada je ne koristite. <annotation id="link">Dopusti u postavkama.</annotation></string>
-	<string name="permgroupgraderequestdetail_nearby_devices">Želite li dopustiti aplikaciji <b>%1$s</b> da pronađe, poveže se i odredi relativni položaj uređaja u blizini? <annotation id="link">Dopusti u postavkama.</annotation></string>
-	<string name="permgroupgraderequestdetail_sensors">Ova aplikacija želi pristupiti podacima senzora o vašim vitalnim znakovima cijelo vrijeme, čak i kada ne koristite aplikaciju. Da biste izvršili ovu promjenu, <annotation id="link">idite u postavke.</annotation></string>
 	<string name="permission_access_always">Dopusti cijelo vrijeme</string>
 	<string name="permission_access_never">Ne dopusti</string>
 	<string name="permission_access_only_foreground">Dopusti samo tijekom korištenja aplikacije</string>
