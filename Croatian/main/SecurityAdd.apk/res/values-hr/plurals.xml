@@ -37,6 +37,14 @@
         <item quantity="other">Pronađeno %d aplikacija</item>
         <item quantity="one">Pronađena %d aplikacija</item>
     </plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Brzo naprijed %d sek.</item>
+        <item quantity="other">Brzo naprijed %d sek.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Premotaj %d sek.</item>
+        <item quantity="other">Premotaj %d sek.</item>
+    </plurals>
 	 <plurals name="extreme_mode_runtime_hour">
         <item quantity="other">%s hr</item>
         <item quantity="one">%s hr</item>
