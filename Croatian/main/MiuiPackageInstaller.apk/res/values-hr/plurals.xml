@@ -100,6 +100,14 @@
         <item quantity="other">Siguran način rada uključen je %d dana</item>
         <item quantity="one">Siguran način rada uključen je %d dan</item>
     </plurals>
+	<plurals name="quick_game_install_count">
+        <item quantity="one">%1$s instalira</item>
+        <item quantity="other">%1$s instalira</item>
+    </plurals>
+    <plurals name="quick_game_playing_count">
+        <item quantity="one">%1$s igrač</item>
+        <item quantity="other">%1$s igrača</item>
+    </plurals>
     <plurals name="settings_security_mode_enable_count">
         <item quantity="other">Siguran način rada radi na &lt;font color=#0D84FF>%1$s&lt;/font> uređaja</item>
         <item quantity="one">Siguran način rada radi na &lt;font color=#0D84FF>%1$s&lt;/font> uređaju</item>

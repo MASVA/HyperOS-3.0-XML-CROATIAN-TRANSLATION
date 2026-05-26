@@ -999,6 +999,8 @@
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="tip_connect_fail_for_hotspot">"Ne mogu se povezati. Isključite prijenosni hotspot i pokušajte ponovo."</string>
   <string name="tips_check_in_phone_please">Pogledajte i nastavite na svom telefonu</string>
+  <string name="tips_call_content">Imate dolazni poziv. Odgovorite na njega na svom %s.</string>
+  <string name="tips_call_title">"Početni zaslon+ ne podržava pozive"</string>
   <string name="tips_set_with_phone_please">Nastavi na telefonu</string>
   <string name="to_settings">Postavke</string>
   <string name="toast_calling_warning">Prekinite poziv u tijeku i pokušajte ponovno</string>

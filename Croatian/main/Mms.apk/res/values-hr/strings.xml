@@ -178,7 +178,7 @@ Pokušajte ponovno."</string>
   <string name="beidou_support_cta_tips">Ova aplikacija također može čitati, uređivati, slati i primati Beidou satelitske poruke.</string>
   <string name="beidou_support_location_tips">Korištenje Beidou usluga zahtijeva pristup vašoj lokaciji.</string>
   <string name="beidou_to_contacts">Primatelj: %s</string>
-  <string name="blacklist_add_dependency_cta_failed">Otvorite Sigurnost i prihvatite njezine uvjete i odredbe kako biste mogli koristiti ovu značajku</string> 
+  <string name="blacklist_add_dependency_cta_failed">Otvorite aplikaciju Sigurnost i prihvatite njezine uvjete i odredbe kako biste mogli koristiti ovu značajku</string> 
   <string name="blacklist_add_failed">"Nije moguće dodati na popis blokiranih. Pokušajte ponovno."</string> 
   <string name="blacklist_add_success">Dodan na popis blokiranih</string>
   <string name="block_messaging_entry_title">Blokirani SMS-ovi</string>

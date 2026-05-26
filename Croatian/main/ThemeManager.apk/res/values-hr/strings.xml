@@ -256,6 +256,7 @@
   <string name="ai_wallpaper_tips_title_content_violation">Neprikladan sadržaj</string>
   <string name="ai_wallpaper_tips_view">Pejzaži</string>
   <string name="air_quality_index_abbreviation">AQI</string>
+  <string name="alarm_apply_success">Uspješno primijenjeno</string>
   <string name="alarm_sound">Alarm</string>
   <string name="align_center_horizontally">Vodoravno, centrirano</string>
   <string name="align_left_horizontally">Vodoravno, poravnaj lijevo</string>
@@ -456,6 +457,8 @@
   <string name="close_custom_permission_warning_text">"Bez dopuštenja za pohranu, ova aplikacija neće moći preuzeti stavke i prilagoditi vaš uređaj. Isključiti svejedno?"</string>
   <string name="close_custom_permission_warning_text_above_eleven">"Bez dopuštenja za pohranu ova aplikacija neće moći prilagoditi vaš uređaj. Isključiti svejedno?"</string>
   <string name="collected_talkback">Dodano u favorite</string>
+  <string name="color_ring_current_using">Primijenjeno</string>
+  <string name="color_ring_set_success_toast">Uspješno primijenjeno. Upravljajte u trgovini tema > Moj račun > Melodije povratnog zvona</string>
   <string name="columbus_ad_flag_text">OGLAS</string>
   <string name="columbus_skip_ad">Preskoči</string>
   <string name="come_and_choose_wallpaper">Birajte između tisuća nevjerojatnih pozadina</string>
@@ -609,6 +612,8 @@
   <string name="dev_options_summary">Web izvor</string>
   <string name="dialog_apply_lock_screen_wallpaper_content">Trenutna tema možda ne podržava promjenu pozadine Zaklj. zaslona.</string>
   <string name="dialog_apply_lock_screen_wallpaper_warning">Pozadina Zaklj. zaslona</string>
+  <string name="dialog_button_cancel">Odustani</string>
+  <string name="dialog_button_confirm">Koristi</string>
   <string name="dialog_content_get_device_status">Ova aplikacija mora pristupiti ID-u vašeg uređaja da bi mogla autentificirati stavke kupljene na vašim drugim uređajima. Možda ćete moći isključiti neke od kupljenih stavki nakon što isključite ovu značajku. Svejedno isključiti?</string>
   <string name="dialog_negative_button_text">Ne sad</string>
   <string name="dialog_operation_close">Postavke</string>
@@ -1369,6 +1374,7 @@
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="messaging_apply_success">Uspješno primijenjeno</string>
   <string name="max_usable_themes">%d+</string>
   <string name="message">SMS poruka</string>
   <string name="message_sim_one">SIM %d poruka</string>
@@ -1676,6 +1682,7 @@
   <string name="not_selected">Nije odabrano</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_incall_show">"Ova pozadina ne radi s profilnim videozapisima"</string>
+  <string name="notification_apply_success">Uspješno primijenjeno</string>
   <string name="not_support_subtitle">Obratite se IT podršci svoje organizacije ili promijenite račun</string>
   <string name="not_support_title">Ne možete koristiti teme kada koristite radni profil</string>
   <string name="notifications_permission_confirm">Dopusti</string>
@@ -1706,6 +1713,11 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="online_precust_museum">Britanski muzej</string>
   <string name="online_precust_plant">Biljke</string>
   <string name="online_precust_scenery">Pejzaži</string>
+  <string name="online_ringtone_more">Više</string>
+  <string name="online_ringtone_picker_title_alarm">Zvuk alarma</string>
+  <string name="online_ringtone_picker_title_messaging">Zvuk poruke</string>
+  <string name="online_ringtone_picker_title_notification">Zvuk obavijesti</string>
+  <string name="online_ringtone_picker_title_ringtone">Melodije zvona</string>
   <string name="online_ringtones">Online melodije zvona</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="online_themes">Online teme</string>
@@ -1993,9 +2005,13 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_guide_text">"Personalizirajte svoj stražnji zaslon.
   Sada su dostupni potpuno novi dizajni."</string>
   <string name="rear_screen_list_title">Personalizacija</string>
+  <string name="rear_screen_manage_wallpaper">Upravljanje</string>
   <string name="rear_screen_more_suggestion">Više preporuka</string>
   <string name="rear_screen_my_wallpaper">Moje fotografije</string>
   <string name="rear_screen_notice">Obavijesti</string>
+  <string name="rear_screen_old_device_empty">Ovdje nema ništa</string>
+  <string name="rear_screen_old_device_subtitle">Prvo preuzmite ili primijenite pozadine. Pritisnite i držite za upravljanje.</string>
+  <string name="rear_screen_old_device_wallpaper">Pozadine na starom uređaju</string>
   <string name="rear_screen_service_assistant">Upravljanje stražnjim zaslonom</string>
   <string name="rear_screen_sunlight_mode">Način rada na sunčevoj svjetlosti</string>
   <string name="rear_screen_sunlight_mode_automatic_brightness_adjustment">Prilagodite svjetlinu jakom ambijentalnom svjetlu kako biste spriječili da zaslon postane previše taman</string>
@@ -2226,11 +2242,15 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="resource_see_more">Prikaži sve</string>
   <string name="resource_select">Odaberite</string>
   <string name="resource_select_alarm_audio_confirm">Odabrati ovaj zvuk obavijesti?</string>
+  <string name="resource_select_alarm_confirm_with_name">Koristiti \"%1$s\" kao zvuk alarma?</string>
   <string name="resource_select_audio_confirm_picker">Odabrati ovaj zvuk?</string>
   <string name="resource_select_boot_audio_confirm">Odabrati ovaj zvuk pokretanja?</string>
+  <string name="resource_select_messaging_confirm_with_name">Koristiti \"%1$s\" kao zvuk poruke?</string>
   <string name="resource_select_notification_audio_confirm">Odabrati ovaj zvuk alarma?</string>
+  <string name="resource_select_notification_confirm_with_name">Koristiti \"%1$s\" kao zvuk obavijesti?</string>
   <string name="resource_select_ringtone_audio_confirm">Odabrati ovaj zvuk zvona?</string>
   <string name="resource_select_ringtone_confirm">Odabrati ovaj zvuk zvona?</string>
+  <string name="resource_select_ringtone_confirm_with_name">Koristiti \"%1$s\" kao melodiju zvona?</string>
   <string name="resource_selected">Istaknuto</string>
   <string name="resource_send">Pošalji</string>
   <string name="resource_server_alert_dialog_title">"Vraćamo se odmah…"</string>
@@ -2248,6 +2268,10 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="resource_title_local">Izvanmrežno</string>
   <string name="resource_title_rank">Najljepše</string>
   <string name="resource_title_select_ringtone">Odaberitete melodiju zvona</string>
+  <string name="resource_title_set_alarm">Postavi kao zvuk alarma</string>
+  <string name="resource_title_set_messaging">Postavi kao zvuk poruke</string>
+  <string name="resource_title_set_notification">Postavi kao zvuk obavijesti</string>
+  <string name="resource_title_set_ringtone">Postavi kao melodiju zvona</string>
   <string name="resource_title_subject">Istaknuto</string>
   <string name="resource_trial_15_days_end_title">%d dnevni probni period je istekao</string>
   <string name="resource_trial_15_days_immediately">Odmah besplatno isprobajte %d na dana</string>
@@ -2286,21 +2310,21 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="restore_default_lockscreen_when_special_lock_style">"Trenutno koristite predložak zaključanog zaslona. Ako nastavite, vaš će se zaključani zaslon vratiti na zadane postavke. Želite li sada primijeniti?"</string>
   <string name="restore_history_lock_screen_when_apply_theme">"Trenutačno koristite temu treće strane. Ako promijenite pozadinu zaključanog zaslona, to može uzrokovati vraćanje sata na zaključanom zaslonu na zadano. Želite li sada primijeniti?"</string>
   <string name="restore_home_icon_text">Dodajte prečac na Početni zaslon</string>
-  <string name="restore_icon_later">Možete ponovo dodati prečac Početni zaslona u Postavkama</string>
+  <string name="restore_icon_later">Možete ponovo dodati prečac na Početni zaslon u Postavkama</string>
   <string name="restore_last_theme_desc">Neki elementi prethodno korištene teme možda neće biti kompatibilni s novom verzijom sustava. Nekompatibilni elementi bit će zamijenjeni zadanim opcijama.</string>
   <string name="restore_last_theme_title">Vraćanje izvorne teme</string>
   <string name="restore_push_content">Vrati se na temu korištenu prije ažuriranja</string>
   <string name="restore_push_title">Vrati svoju temu</string>
-  <string name="revoke_dialog_agree">Opozovi</string>
-  <string name="revoke_dialog_agree_with_timestamp">Opozvati (%1$ds)</string>
+  <string name="revoke_dialog_agree">Povuci</string>
+  <string name="revoke_dialog_agree_with_timestamp">Povlačenje (%1$ds)</string>
   <string name="revoke_dialog_disagree">Odustani</string>
-  <string name="revoke_dialog_message">Nastavkom povlačite svoj pristanak na Pravila o privatnosti Tema. Prestat ćemo s prikupljanjem Vaših osobnih podataka. Već prikupljene podatke ćemo izbrisati unutar određenog vremenskog roka u skladu s važaćim zakonima osim ako nije drugačije određeno. Budući da Teme pružaju svoje usluge na temelju prikupljenih osobnih podataka, Vaše povlačenje suglasnosti shvatit će se kao odbijanje tih usluga. Odmah povući suglasnost?</string>
+  <string name="revoke_dialog_message">Nastavkom povlačite svoju suglasnost na Pravila o privatnosti Tema. Prestat ćemo s prikupljanjem Vaših osobnih podataka. Već prikupljene podatke ćemo izbrisati unutar određenog vremenskog roka u skladu s važaćim zakonima osim ako nije drugačije određeno. Budući da Teme pružaju svoje usluge na temelju prikupljenih osobnih podataka, Vaše povlačenje suglasnosti shvatit će se kao odbijanje tih usluga. Odmah povući suglasnost?</string>
   <string name="revoke_dialog_title">Povlačenje suglasnosti</string>
   <string name="revoke_fail_message">Vaš uređaj se mora povezati na mrežu kak biste mogli povući suglasnost. Provjerite svoje mrežne postavke i probajte ponovno.</string>
-  <string name="revoke_progress_dialog_message">Opozivanje autorizacije…</string>
-  <string name="revoke_toast_message">Ovlaštenje uspješno opozvano</string>
+  <string name="revoke_progress_dialog_message">Povlačenje suglasnosti…</string>
+  <string name="revoke_toast_message">Suglasnost uspješno opozvana</string>
   <string name="rewarded_ad_load_failed">Ne mogu učitati video. Pokušaj ponovno.</string>
-  <string name="rewarded_ad_loading_toast">Učitavanje videa…</string>
+  <string name="rewarded_ad_loading_toast">Učitavanje videozapisa…</string>
   <string name="rewarded_ad_no_ad_download">Ne mogu reproducirati oglas. Sada možete preuzeti ovu stavku!</string>
   <string name="rewarded_ad_pop_des">Ukoliko odgledate video oglase, moći ćete preuzeti premium teme i nagraditi naše dizajnere. Pogledaj sada?</string>
   <string name="rewarded_ad_pop_des_for_lw">Ukoliko odgledate video oglase, moći ćete preuzeti pomične pozadine i nagraditi naše dizajnere. Pogledaj sada?</string>
@@ -2309,8 +2333,11 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rewarded_ad_watch_again_pop">Dovršite gledanje videozapisa za preuzimanje ove premium teme. Pogledati sada?</string>
   <string name="rewarded_ad_watch_again_pop_for_lw">Dovršite gledanje videozapisa za preuzimanje ove pozadine. Pogledati sada?</string>
   <string name="ringtone_agreement_message">Prije korištenja melodija zvona iz Tema, molimo Vas pažljivo pročitajte i potvrdite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Pravila o privatnosti&lt;/a&gt;.</string>
-  <string name="ringtone_confirm_dialog_message">"Trajanje ove melodije zvona je relativno dugo. Svejedno je upotrijebiti?"</string>
+  <string name="ringtone_apply_failed">"Nije moguće primijeniti. Pokušajte ponovno."</string>
+  <string name="ringtone_apply_success">Uspješno primijenjeno</string>
+  <string name="ringtone_confirm_dialog_message">"Trajanje ove melodije zvona je relativno dugo. Svejedno je koristiti?"</string>
   <string name="ringtone_confirm_dialog_title">Pažnja</string>
+  <string name="ringtone_data_empty">"Nisu pronađeni rezultati"</string>
   <string name="ringtone_preset">Predinstalirane melodije zvona</string>
   <string name="ringtone_set_success">Uspješno postavljeno</string>
   <string name="rotate">Rotiraj</string>

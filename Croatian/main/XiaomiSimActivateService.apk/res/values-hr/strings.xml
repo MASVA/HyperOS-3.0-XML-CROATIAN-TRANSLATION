@@ -321,6 +321,8 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="passport_check_security">Provjeravam sigurnosne probleme…</string>
 	<string name="passport_checking_account">Provjeravam zaporku…</string>
 	<string name="passport_clear_input">Izbriši uneseni sadržaj</string>
+	<string name="passport_completed">Gotovo</string>
+   <string name="passport_confirm_new_pwd">Potvrdite novu zaporku</string>
 	<string name="passport_copy_link">Kopiraj poveznicu</string>
 	<string name="passport_copy_to_clipboard_successful">Uspješno kopirano</string>
 	<string name="passport_dialog_captcha_title">Kod</string>
@@ -354,6 +356,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="passport_error_empty_password">Unesite svoju zaporku</string>
 	<string name="passport_error_empty_pwd">"Zaporka ne može biti prazna"</string>
 	<string name="passport_error_empty_user_id">Unesite svoje korisničko ime</string>
+	<string name="passport_error_illegal_pwd">Nevažeći format zaporke</string>
 	<string name="passport_error_length_limit">Tekst koji ste unijeli je predug</string>
 	<string name="passport_error_network">"Ne mogu se povezati s mrežom"</string>
 	<string name="passport_error_no_password_user">"Još niste postavili zaporku. Prijavite se SMS-om."</string>
@@ -380,6 +383,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="passport_i_know">Razumijem</string>
 	<string name="passport_identification_expired">Kôd za provjeru je istekao. Počni ispočetka.</string>
 	<string name="passport_input_captcha_hint">Unesite kôd</string>
+   <string name="passport_input_new_pwd">Unesite novu zaporku</string>
 	<string name="passport_input_password_hint">Unesite zaporku</string>
 	<string name="passport_input_phone_number_hint">Unesite telefonski broj</string>
 	<string name="passport_input_verify_code">Unesite verifikacijski kôd</string>
@@ -397,11 +401,13 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="passport_network_timeout">"Nije moguće povezati se s mrežom. Pokušajte ponovno."</string>
 	<string name="passport_next">Dalje</string>
 	<string name="passport_no_account">Niste prijavljeni</string>
+	<string name="passport_ok_btn">U redu</string>
 	<string name="passport_open_settings">Postavke</string>
 	<string name="passport_page_load_failed">"Stranica se ne može otvoriti"</string>
 	<string name="passport_password_hide_show">Sakrij zaporku</string>
 	<string name="passport_password_login_btn">Prijava</string>
 	<string name="passport_password_not_show">"Ne prikazuj zaporku"</string>
+	<string name="passport_password_req_notice">Zaporka mora biti duljine %1$d–%2$d znakova i sadržavati barem dva od sljedećeg: brojeve, slova i posebne simbole</string>
 	<string name="passport_password_show">Prikaži zaporku</string>
 	<string name="passport_phone_auto_login_register_with_local_number">Izradi račun</string>
 	<string name="passport_photo_picker_not_found">Nema dostupnih fotografija.</string>
@@ -430,6 +436,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="passport_send_too_many_code">Previše kontrolnih kodova poslano je na ovaj broj. Pričekajte 24 sata i pokušajte ponovno.</string>
 	<string name="passport_sending_vcode">Slanje koda…</string>
 	<string name="passport_set_password_no_phone_msg">Dodajte svoj telefonski broj kako biste zaštitili svoj račun.</string>
+	<string name="passport_set_password_title">Postavite zaporku</string>
 	<string name="passport_skip_query_account">Preskoči</string>
 	<string name="passport_sns_bind_limit">Previše pokušaja. Isprobajte druge načine prijave.</string>
 	<string name="passport_system_error">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
@@ -492,6 +499,12 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="passport_wrong_phone_number_format">Format unesenog telefonskog broja nije važeći</string>
 	<string name="passport_wrong_vcode">Uneseni kod nije točan</string>
 	<string name="passport_wrong_voice">Uneseni kod nije točan</string>
+	<string name="password_guessable_pattern">Sigurnost zaporke je niska. Koristite kombinaciju brojeva koji nisu u nizu, slova i posebnih simbola.</string>
+   <string name="password_inconsistent">"Zaporke se ne podudaraju. Potvrdite i pokušajte ponovno."</string>
+   <string name="password_invalid_format_prompt">zaporke moraju sadržavati barem dva od sljedećeg: brojeve, slova i posebne simbole</string>
+   <string name="password_length_short_prompt">Netočna duljina zaporke. Postavite zaporku od %1$d–%2$d znakova.</string>
+   <string name="password_reused_with_in_year">Nova zaporka je ista kao ona korištena prošle godine. Odaberite potpuno novu zaporku.</string>
+   <string name="password_toggle_content_description">Prikaži zaporku</string>
 	<string name="privacy_revoke_failed_msg_tip">Prvo dopustite ovoj usluzi pristup vašem telefonskom broju.</string>
 	<string name="privacy_revoke_tips">Nakon što opozovete autorizacije, aplikacija će prestati prikupljati vaše podatke i izbrisati sve vaše podatke sa svojih poslužitelja. Sinkronizacija s Xiaomi Cloudom, Mi Messageom i drugim značajkama razmjene poruka više neće biti dostupna. Želite li ipak poništiti autorizaciju?</string>
 	<string name="same_new_and_old_pwd">"Ne može biti ista kao trenutna zaporka"</string>

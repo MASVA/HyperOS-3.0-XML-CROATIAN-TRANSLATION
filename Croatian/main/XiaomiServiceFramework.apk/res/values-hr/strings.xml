@@ -13,6 +13,12 @@
 	<string name="default_notification_channel_name">Obavijesti</string>
 	<string name="error_device_id_message">"Nevažeći ID uređaja: %s
 	ID uređaja mora biti valjana IMEI ili MAC adresa. Bez ID-a uređaja, neke značajke Mi računa i Xiaomi Clouda neće biti dostupne."</string>
+	<string name="payment_intercept_back_game">Natrag</string>
+  <string name="payment_intercept_body">"Ova transakcija se ne dovršava putem službenog kanala. Vaše plaćanje i postprodajna podrška možda nisu zaštićeni. Preporučujemo da se vratite i dovršite kupnju putem službenog kanala."</string>
+  <string name="payment_intercept_continue_confirm">Vaše plaćanje možda neće biti zaštićeno ako nastavite izvan službenih kanala. Želite li ipak nastaviti?</string>
+  <string name="payment_intercept_continue_enabled">Nastavi</string>
+  <string name="payment_intercept_first_note">"Ovo upozorenje automatski je pokrenuo sigurnosni sustav %1$s i neće utjecati na vašu igru."</string>
+  <string name="payment_intercept_title">Sigurnosno upozorenje o plaćanju</string>
 	<string name="error_device_id_title">"Nije moguće dobiti valjani ID uređaja"</string>
 	<string name="explain_send_sms_permission_button">Potvrdi</string>
 	<string name="explain_send_sms_permission_msg">Da biste uključili %s, Xiaomi Service Framework će poslati SMS za potvrdu vašeg telefonskog broja. Operater će vam naplatiti redovnu SMS poruku.</string>
@@ -46,5 +52,4 @@
 	<string name="terms_of_use_lable_smart_cards">Pametne kartice</string>
 	<string name="terms_of_use_lable_xmsf">Xiaomi service framework</string>
 	<string name="xiaomi_cloud_service">Xiaomi Cloud</string>
-	<string name="xmsf_activate_info">XMSF activate info</string>
 </resources>

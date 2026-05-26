@@ -2536,7 +2536,9 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="passport_check_security">Provjera sigurnosnih problema…</string>
   <string name="passport_checking_account">Provjera zaporke…</string>
   <string name="passport_clear_input">Obriši uneseni sadržaj</string>
-  <string name="passport_copy_link">Kopiraj URL</string>
+  <string name="passport_completed">Gotovo</string>
+  <string name="passport_confirm_new_pwd">Potvrdite novu zaporku</string>
+  <string name="passport_copy_link">Kopiraj poveznicu</string>
   <string name="passport_copy_to_clipboard_successful">Uspješno kopirano</string>
   <string name="passport_country_area_china">CN</string>
   <string name="passport_country_code_china">+86</string>
@@ -2559,6 +2561,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="passport_error_empty_password">Unesite svoju zaporku</string>
   <string name="passport_error_empty_pwd">"Zaporka ne može biti prazna"</string>
   <string name="passport_error_empty_user_id">Unesite svoje korisničko ime</string>
+  <string name="passport_error_illegal_pwd">Nevažeći format zaporke</string>
   <string name="passport_error_invalid_bind_address">Adresa e-pošte koju ste unijeli je nevažeća.</string>
   <string name="passport_error_length_limit">Tekst koji ste unijeli je predugačak</string>
   <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
@@ -2609,7 +2612,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="passport_page_load_failed">"Ne mogu otvoriti stranicu"</string>
   <string name="passport_password_login_btn">Prijavite se</string>
   <string name="passport_password_not_show">"Ne prikazuj zaporku"</string>
-  <string name="passport_password_req_notice">Zaporka mora imati 8-16 znakova i sadržavati najmanje dva od sljedećeg: znamenke, slova i posebne simbole (npr. 123abc@#, ili 123abc, ili abc@#).</string>
+  <string name="passport_password_req_notice">Zaporka mora biti duljine %1$d–%2$d znakova i sadržavati barem dva od sljedećeg: brojeve, slova i posebne simbole</string>
   <string name="passport_password_show">Prikaži zaporku</string>
   <string name="passport_phone_auto_login_register_with_local_number">Izradi račun</string>
   <string name="passport_photo_picker_not_found">Nema dostupnih fotografija.</string>
@@ -2683,6 +2686,11 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="passport_wrong_phone_number_format">Format telefonskog broja koji ste unijeli nije valjan</string>
   <string name="passport_wrong_vcode">Kôd koji ste unijeli nije točan</string>
   <string name="passport_wrong_voice">Kôd koji ste unijeli nije točan</string>
+  <string name="password_guessable_pattern">Sigurnost zaporke je niska. Koristite kombinaciju brojeva koji nisu u nizu, slova i posebnih simbola.</string>
+  <string name="password_inconsistent">"Zaporke se ne podudaraju. Potvrdite i pokušajte ponovno."</string>
+  <string name="password_invalid_format_prompt">zaporke moraju sadržavati barem dva od sljedećeg: brojeve, slova i posebne simbole</string>
+  <string name="password_length_short_prompt">Netočna duljina zaporke. Postavite zaporku od %1$d–%2$d znakova.</string>
+  <string name="password_reused_with_in_year">Nova zaporka je ista kao ona korištena prošle godine. Odaberite potpuno novu zaporku.</string>
   <string name="pc_device_model_name">računalo</string>
   <string name="pc_redmi_device_model_name">Redmi laptop</string>
   <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
