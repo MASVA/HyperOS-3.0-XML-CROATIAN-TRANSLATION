@@ -899,7 +899,6 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="password_invalid_format_prompt">zaporke moraju sadržavati barem dva od sljedećeg: brojeve, slova i posebne simbole</string>
   <string name="password_length_short_prompt">Netočna duljina zaporke. Postavite zaporku od %1$d–%2$d znakova.</string>
   <string name="password_reused_with_in_year">Nova zaporka je ista kao ona korištena prošle godine. Odaberite potpuno novu zaporku.</string>
-  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="pause">Pauziraj</string>
