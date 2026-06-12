@@ -61,13 +61,97 @@
         <item quantity="other">" %1$s sati %2$s"</item>
         <item quantity="one">" %1$s sat %2$s"</item>
     </plurals>
+	<plurals name="cloud_state_synced_folders">
+        <item quantity="one">Sinkronizirana %1$s mapa</item>
+        <item quantity="other">Sinkronizirano %1$s mapa</item>
+    </plurals>
+    <plurals name="cloud_state_synced_items">
+        <item quantity="one">Sinkronizirana %1$s stavka</item>
+        <item quantity="other">Sinkronizirano %1$s stavki</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$s stavki još nije sinkronizirano"</item>
         <item quantity="one">"%1$s stavka još nije sinkronizirana"</item>
     </plurals>
+	<plurals name="cloud_state_unsynced_folders">
+        <item quantity="one">"%1$s mapa nije sinkronizirana"</item>
+        <item quantity="other">"%1$s mapa nije sinkronizirano"</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_items">
+        <item quantity="one">"%1$s stavka nije sinkronizirana"</item>
+        <item quantity="other">"%1$s stavki nije sinkronizirano"</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">Odabrano: %d</item>
         <item quantity="one">Odabrano: %d</item>
+    </plurals>
+	<plurals name="creation_page_size_custom_height_limit_mm">
+        <item quantity="one">"Visina ne smije prelaziti %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne smije prelaziti %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_px">
+        <item quantity="one">"Visina ne smije prelaziti %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne smije prelaziti %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_mm">
+        <item quantity="one">Prekoračeno ograničenje visine za %d milimetar. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje visine za %d milimetra. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_px">
+        <item quantity="one">Prekoračeno ograničenje visine za %d pixel. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje visine za %d pixela. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_mm">
+        <item quantity="one">"Visina ne može biti niža od %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne može biti niža od %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_px">
+        <item quantity="one">"Visina ne može biti niža od %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne može biti niža od %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_mm">
+        <item quantity="one">Povećajte visinu za barem %d milimetar</item>
+        <item quantity="other">Povećajte visinu za barem %d milimetra</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_px">
+        <item quantity="one">Povećajte visinu za barem %d pixel</item>
+        <item quantity="other">Povećajte visinu za barem %d pixela</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_mm">
+        <item quantity="one">"Širina ne smije prelaziti %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne smije prelaziti %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_px">
+        <item quantity="one">"Širina ne smije prelaziti %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne smije prelaziti %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_mm">
+        <item quantity="one">Prekoračeno ograničenje širine za %d milimetar. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje širine za %d milimetra. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_px">
+        <item quantity="one">Prekoračeno ograničenje širine za %d pixel. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje širine za %d pixela. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_mm">
+        <item quantity="one">"Širina ne može biti manja od %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne može biti manja od %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_px">
+        <item quantity="one">"Širina ne može biti manja od %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne može biti manja od %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_mm">
+        <item quantity="one">Povećajte širinu za barem %d milimetar</item>
+        <item quantity="other">Povećajte širinu za barem %d milimetra</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_px">
+        <item quantity="one">Povećajte širinu za barem %d pixel</item>
+        <item quantity="other">Povećajte širinu za barem %d pixela</item>
+    </plurals>
+    <plurals name="creation_terms">
+        <item quantity="one">%1$s stavka</item>
+        <item quantity="other">%1$s stavki</item>
     </plurals>
 	  <plurals name="corrected_title">
         <item quantity="other">%1$s ispravaka</item>

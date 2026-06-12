@@ -1169,6 +1169,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="saving_event_with_guest">Slanje ažuriranja…</string>
   <string name="schedule_about_to_begin">Događaj počinje u %1$s</string>
   <string name="schedule_time_zone_setting">Postavke vremenske zone događaja</string>
+  <string name="search_calendar">"Kalendar;Datum;Solarni termini;Lunarni;Almanah;Sudba;Dnevni red;Sastanak;Podsjetnik;Godišnji odmor;Praznik;Rođendan;2016.;2017.;Proljetni festival;Nova godina;Međunarodni praznik rada;Praznik sredine jeseni"</string>
   <string name="search_calendar_edit_event">Sastanak;Podsjetnik;Raspored</string>
   <string name="search_calendar_settings">Kalendar;Raspored;Podsjetnik</string>
   <string name="search_calendar_subscribe_group"/>

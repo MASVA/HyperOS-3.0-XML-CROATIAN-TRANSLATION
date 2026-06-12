@@ -957,6 +957,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="privacy_runtime_perm_notification_title">Obavijesti</string>
   <string name="privacy_runtime_perm_phone_state_desc">Za pristup telefonskom broju i statusu uređaja</string>
   <string name="privacy_runtime_perm_phone_state_title">Pristup informacijama o uređaju</string>
+  <string name="privacy_runtime_perm_read_phone_numbers_title">Čitanje telefonskih brojeva</string>
   <string name="privacy_runtime_perm_sms_desc">Za sinkronizaciju poruka</string>
   <string name="privacy_runtime_perm_sms_title">Pristup porukama</string>
   <string name="privacy_settings">Privatnost</string>

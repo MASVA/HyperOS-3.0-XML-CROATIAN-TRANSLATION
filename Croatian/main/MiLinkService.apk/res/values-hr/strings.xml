@@ -1138,6 +1138,7 @@
   <string name="message_connection_interrupted">Provjerite jesu li vaše računalo i tablet unutar dometa veze i jesu li Bluetooth i Wi-Fi uključeni. Za nastavak ponovno pokrenite zadatak na računalu.</string>
   <string name="message_install">Instalirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
   <string name="message_update">Ažurirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
+  <string name="mihome_camera_device_during_call_normal">Kamera se koristi. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="mihome_camera_device_during_calll">Kamera se već koristi za poziv</string>
   <string name="mihome_camera_device_not_available">"Nije moguće povezati više uređaja"</string>
   <string name="mihome_camera_device_offline">"Ne mogu se povezati. Kamera je izvan mreže."</string>

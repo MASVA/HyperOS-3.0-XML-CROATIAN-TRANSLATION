@@ -472,6 +472,7 @@
   <string name="contact_import_methods_dialog_title">Odaberite način uvoza</string>
   <string name="contact_is_deleted">Ovaj kontakt je izbrisan</string>
   <string name="contact_is_readOnly">"Ne možete uređivati kontakte samo za čitanje"</string>
+  <string name="contact_loading_dialog_text">Dodavanje…</string>
   <string name="contact_pick_photo">"Fotografija"</string>
   <string name="contact_search_history">Povijest</string>
   <string name="contact_status_update_attribution">via %1$s</string>

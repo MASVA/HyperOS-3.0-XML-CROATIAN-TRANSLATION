@@ -400,6 +400,8 @@
   <string name="brightness">Svjetlina</string>
   <string name="browse_mode">Online način</string>
   <string name="browse_mode_desc">"Dopustite ovoj aplikaciji povezivanje s internetom, pristup mrežnom sadržaju, kao i korištenje stavki na vašem uređaju (npr. fotografije, zvuk i videozapisi). Niti jedan vaš osobni podatak neće biti prikupljen."</string>
+  <string name="browse_mode_hint">"Koristite mrežni način rada.
+Dodirnite zaslon i odaberite Slažem se za normalnu upotrebu."</string>
   <string name="browser_local_resource">Lokalni izvori</string>
   <string name="btn_go_free">Otključaj</string>
   <string name="call_notification_answer_action">Odgovori</string>
@@ -1616,6 +1618,7 @@
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
   <string name="mtrl_timepicker_cancel">Odustani</string>
   <string name="mtrl_timepicker_confirm">U redu</string>
+  <string name="multi_sim_combined_ringtone_settings_dialog_message">Ova postavka melodije zvona primjenjivat će se i na SIM %1$d i na SIM %2$d.</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Ova melodija zvona bit će postavljena za obje SIM kartice.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvona je postavljena za obje SIM kartice.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumijem</string>
@@ -1984,6 +1987,8 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_brightness_adjustment">Svjetlina</string>
   <string name="rear_screen_screenshot">Snimka zaslona</string>
   <string name="rear_screen_service_assistant_new">Upravljanje stražnjim zaslonom</string>
+  <string name="rear_screen_smart_display_summaryrear_notifications_screen_off">Kada se koristi prednji zaslon, stražnji zaslon će se automatski isključiti nakon nekog vremena radi uštede baterije</string>
+  <string name="rear_screen_smart_display_title">Pametni zaslon</string>
   <string name="rear_screen_template_upper_limit_old">Izbrišite stavke u Postavke > Stražnji zaslon > Personalizacija kako biste mogli dodati još</string>
   <string name="rear_screen_timeout_title">Zaslon uključen za</string>
   <string name="rear_screen_delete_template">Želite li sada izbrisati ovaj predložak?</string>
@@ -2335,11 +2340,31 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="ringtone_agreement_message">Prije korištenja melodija zvona iz Tema, molimo Vas pažljivo pročitajte i potvrdite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Pravila o privatnosti&lt;/a&gt;.</string>
   <string name="ringtone_apply_failed">"Nije moguće primijeniti. Pokušajte ponovno."</string>
   <string name="ringtone_apply_success">Uspješno primijenjeno</string>
+  <string name="ringtone_btn_set_ringtone">Primjeni</string>
   <string name="ringtone_confirm_dialog_message">"Trajanje ove melodije zvona je relativno dugo. Svejedno je koristiti?"</string>
   <string name="ringtone_confirm_dialog_title">Pažnja</string>
   <string name="ringtone_data_empty">"Nisu pronađeni rezultati"</string>
+  <string name="ringtone_dialog_subtitle_color_ring_only">Ova se pjesma može postaviti samo kao melodija povratnog zvona zbog ograničenja autorskih prava</string>
+  <string name="ringtone_dialog_title_select_scene">Odaberite gdje je želite primijeniti</string>
+  <string name="ringtone_guide_dialog_subtitle">I vi i pozivatelj ćete čuti ovu pjesmu kada vas nazove</string>
+  <string name="ringtone_guide_dialog_title">Postaviti i kao melodiju povratnog zvona?</string>
+  <string name="ringtone_notification_option_long_duration_hint">Obavijest - Ova melodija zvona je duga i može utjecati na doživljaj obavijesti</string>
+  <string name="ringtone_option_long_duration_hint">Ova melodija zvona je duga i može utjecati na doživljaj obavijesti</string>
+  <string name="ringtone_option_set_alarm">Postavi kao zvuk alarma</string>
+  <string name="ringtone_option_set_both">Postavi i kao melodiju zvona i kao melodiju povratnog zvona</string>
+  <string name="ringtone_option_set_color_ring">Postavi kao melodiju povratnog zvona</string>
+  <string name="ringtone_option_set_notification">Postavi kao zvuk obavijesti</string>
+  <string name="ringtone_option_set_ringtone">Postavi kao melodiju zvona</string>
+  <string name="ringtone_option_set_sms">Postavi kao zvuk poruke</string>
+  <string name="ringtone_option_subtitle_color_ring">Pozivatelji čuju ovo kada vas zovu</string>
+  <string name="ringtone_option_subtitle_ringtone">Vi čujete ovo kada vas netko zove</string>
+  <string name="ringtone_option_subtitle_set_both">Vi i pozivatelj čujete ovo</string>
+  <string name="ringtone_section_alarm">Alarm</string>
+  <string name="ringtone_section_notification">Obavijest</string>
+  <string name="ringtone_section_phone_call">Telefonski poziv</string>
   <string name="ringtone_preset">Predinstalirane melodije zvona</string>
   <string name="ringtone_set_success">Uspješno postavljeno</string>
+  <string name="ringtone_toast_recommend_set_both">Postavi kao melodiju zvona i melodiju povratnog zvona kako biste je i vi i pozivatelj mogli čuti</string>
   <string name="rotate">Rotiraj</string>
   <string name="s1">Spremi sliku</string>
   <string name="s2">Želite li dopustiti oglasu da spremi sliku u galeriju slika?</string>
