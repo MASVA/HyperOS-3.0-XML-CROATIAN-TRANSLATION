@@ -160,11 +160,15 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
+  <string name="ms_dialog_cancel">Odustani</string> 
+  <string name="ms_dialog_enable">Dopusti</string>
   <string name="ms_enable_notification_permission">Prvo uključite Obavijesti za ovu aplikaciju</string>
   <string name="ms_failed_to_travel">"Stranica se ne može otvoriti"</string>
   <string name="ms_focus_mode">Način fokusiranja</string>
   <string name="ms_guide_nav_assistant">Asistent</string>
   <string name="ms_guide_nav_assistant_new">Obavijesti</string>
+  <string name="ms_permission_dialog_message">Za korištenje ažuriranja obavijesti uživo na stražnjem zaslonu, dopustite ovoj aplikaciji da šalje obavijesti i koristi Xiaomi HyperIsland. Dopustiti sada?</string> 
+  <string name="ms_permission_dialog_title">Uključiti obavijesti i Xiaomi HyperIsland za %s?</string>
   <string name="ms_guide_nav_camera">Kamera</string>
   <string name="ms_guide_nav_dial">Sat</string>
   <string name="ms_guide_nav_wallpaper">Slika pozadine</string>

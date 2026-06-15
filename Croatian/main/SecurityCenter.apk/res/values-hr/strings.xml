@@ -1438,6 +1438,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="buy_immediately">Kupi</string>
   <string name="buy_traffic_pack">Kupite još podataka</string>
   <string name="byteShort">B</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string> 
+  <string name="calendar_date_picker_a11y_prev_month">Promjena na prethodni mjesec</string>
   <string name="cache_header_title">Obrisano %1$d datoteka memorije za oslobođenje %2$s</string>
   <string name="call_address">Popis blokiranih predbrojeva</string>
   <string name="call_all_number_block">Blokiraj sve pozive</string>

@@ -122,12 +122,12 @@
   <string name="credential_manage_desc">Pristupni ključevi omogućuju vam bržu i sigurniju prijavu na svoje račune od konvencionalnih metoda prijave. Ova zaporka povezana je s vašim otiskom prsta na ovom Xiaomi uređaju i sinkronizira se između uređaja putem Xiaomi Cloud usluga.</string>
   <string name="credential_notification_login_account_desc">Prijavite se na svoj Xiaomi račun kako biste mogli koristiti zaporku.</string>
   <string name="credential_notification_open_sync_desc">Uključite Upravitelj zaporka kako biste mogli koristiti zaporku.</string>
-  <string name="cta_permission_all_intent">Pomoću Zaporki možete upravljati zaporkama za svoje račune aplikacija. Zaporke spremljene u Upravitelju i Mi pregledniku automatski će se prenijeti ovdje.</string>
+  <string name="cta_permission_all_intent_for_passwords_manager">Uz upravljanje zaporkama možete upravljati zaporkama za svoje račune aplikacija. Zaporke spremljene u upravitelju i Mi Pregledniku automatski će se prenijeti ovdje.</string>
   <string name="cta_permission_desc_camera">Za skeniranje QR kodova radi dobivanja tokena</string>
   <string name="cta_permission_desc_installed_apps">Za upravljanje zaporkama za određene aplikacije</string>
   <string name="cta_permission_desc_wlan">Za pristup i upravljanje Wi-Fi mrežama</string>
   <string name="data_migrate_failed">"Zaporke se nisu mogle sinkronizirati. Ponovno pokrenite aplikaciju i pokušajte ponovno."</string>
-  <string name="data_migrate_loading">Samo sekundu…</string>
+  <string name="data_migrate_loading">Samo trenutak…</string>
   <string name="data_migrate_success">Zaporke uspješno sinkronizirane</string>
   <string name="data_migration_notification_text">Prenesite svoje zaporke iz Mi preglednika u Zaporke kako biste ih mogli automatski popunjavati</string>
   <string name="data_migration_notification_title">Prenesite zaporke</string>
