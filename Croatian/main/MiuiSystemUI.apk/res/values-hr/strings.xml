@@ -2634,12 +2634,6 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="qs_traffic_message_type_used">Iskorišteno %1$s %2$s</string>
   <string name="qs_user_switch_dialog_title">Odaberi korisnika</string>
   <string name="quick_controls_title">Kontrole uređaja</string>
-  <string name="quick_settings_coolingfan_lable">Ventilator za hlađenje</string>
-  <string name="quick_settings_coolingfan_mode">Način rada ventilatora</string>
-  <string name="quick_settings_coolingfan_mode_high">Performanse</string>
-  <string name="quick_settings_coolingfan_mode_silent">Tihi</string>
-  <string name="quick_settings_coolingfan_mode_smart">Pametni</string>
-  <string name="quick_settings_coolingfan_state_off">Ventilator za hlađenje je isključen</string>
   <string name="quick_settings_airplane_state_change_message_off">Zrakoplovni način je isključen</string>
   <string name="quick_settings_airplane_state_change_message_on">Zrakoplovni način je uključen</string>
   <string name="quick_settings_auto_rotate_state_change_message_off">Automatsko zakretanje je isključeno</string>

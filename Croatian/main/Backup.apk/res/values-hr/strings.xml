@@ -567,7 +567,6 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   %d. Vaš je telefon spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
   %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​telefon tijekom izrade sigurnosnih kopija ili vraćanja podataka).
   %d. Provjerite je li Međusobna povezanost uključena i na telefonu i na SmartStorage uređaju.</string>
-  <string name="nas_disconnect_dialog_title">Pogreška povezivanja</string>
   <string name="nas_disconnect_dialog_title">"Nije moguće povezati se sa SmartStorageom"</string>
   <string name="nas_low_memory_progress_backup_summary_nas">Nema dovoljno prostora u SmartStorageu. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
   <string name="nas_low_memory_progress_backup_summary_pad">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
