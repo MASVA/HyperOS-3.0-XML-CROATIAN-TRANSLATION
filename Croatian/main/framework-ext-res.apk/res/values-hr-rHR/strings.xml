@@ -407,6 +407,10 @@
   <string name="mw_guide_dialog_message">"Izgleda da ova aplikacija ne podržava paralelne prozore. Umjesto toga prebačeno na drugi kompatibilni izgled."</string>
   <string name="mw_guide_dialog_title">"Paralelni prozori nisu podržani"</string>
   <string name="nearby_share">Bluetooth</string>
+  <string name="night_wakeup_notification_exit">Isključi</string> 
+  <string name="night_wakeup_notification_message">Podešavanje svjetline radi zaštite vaših očiju</string> 
+  <string name="night_wakeup_notification_summary">Uključivanje…</string> 
+  <string name="night_wakeup_notification_title">Uključena je noćna udobnost za oči</string>
   <string name="no_avaliable_application">Nema dostupnih aplikacija</string>
   <string name="notice_audition">Zvukovi prirode</string>
   <string name="notification_channel_hotspot">Hotspot obavijest</string>

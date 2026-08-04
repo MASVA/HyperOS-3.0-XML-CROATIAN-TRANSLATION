@@ -2709,6 +2709,12 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_connected">Povezano</string>
   <string name="quick_settings_connected_battery_level">Povezano, baterija %1$s</string>
   <string name="quick_settings_connecting">Povezivanje…</string>
+  <string name="quick_settings_coolingfan_lable">Ventilator za hlađenje</string>
+  <string name="quick_settings_coolingfan_mode">Način rada ventilatora</string>
+  <string name="quick_settings_coolingfan_mode_high">Performanse</string>
+  <string name="quick_settings_coolingfan_mode_silent">Tiho</string>
+  <string name="quick_settings_coolingfan_mode_smart">Pametno</string>
+  <string name="quick_settings_coolingfan_state_off">Ventilator za hlađenje je isključen</string>
   <string name="quick_settings_contrast_high">Visoko</string>
   <string name="quick_settings_contrast_label">Kontrast</string>
   <string name="quick_settings_contrast_medium">Srednje</string>

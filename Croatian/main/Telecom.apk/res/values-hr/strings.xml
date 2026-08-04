@@ -425,6 +425,7 @@ Audio"</string>
   <string name="duplicate_video_call_not_allowed">Ne mogu dodati više poziva.</string>
   <string name="emergencyCall_reject_mmi">MMI kodovi se ne mogu birati tijekom hitnog poziva.</string>
   <string name="enable_account_preference_title">Računi za pozivanje</string>
+  <string name="esim_not_support_dialing">SIM kartica koju trenutno koristite ne podržava upućivanje poziva</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
   <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>

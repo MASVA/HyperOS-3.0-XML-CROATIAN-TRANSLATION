@@ -96,13 +96,15 @@
   <string name="backup_report">Prikaži detalje</string>
   <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>
   <string name="backup_security_tips_title">Sig. kopije možda neće raditi</string>
-  <string name="backup_suspend_fail_summary_pad">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
-  <string name="backup_suspend_fail_summary_phone">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
-  <string name="backup_suspend_summary_pad">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, sigurnosna kopija će se automatski nastaviti.</string>
-  <string name="backup_suspend_summary_phone">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, sigurnosna kopija će se automatski nastaviti.</string>
+  <string name="backup_suspend_fail_summary_pad">Veza je prekinuta. Provjerite je li vaš tablet na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="backup_suspend_fail_summary_phone">Veza je prekinuta. Provjerite je li vaš telefon na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
+  <string name="backup_suspend_summary_pad">Veza je prekinuta. Nakon što se vaš tablet nađe na istoj mreži kao i SmartStorage uređaj, sigurnosna kopija će se automatski nastaviti.</string>
+  <string name="backup_suspend_summary_phone">Veza je prekinuta. Nakon što se vaš telefon nađe na istoj mreži kao i SmartStorage uređaj, sigurnosna kopija će se automatski nastaviti.</string>
   <string name="backup_suspend_title">Sigurnosna kopija pauzirana. Ponovno povezivanje…</string>
   <string name="backup_tab">Sigurnosna kopija</string>
-  <string name="backup_tips_dialog_summary">"Dvojne aplikacije i privatne stavke nisu podržane. Ova sigurnosna kopija uključuje samo podatke do sada. Novi podaci neće se automatski sinkronizirati."</string>
+  <string formatted="false" name="backup_tips_dialog_summary">"%d. Dvostruke aplikacije i privatne stavke nisu podržane.
+%d. Ova sigurnosna kopija uključuje samo podatke do sada. Novi podaci neće biti uključeni.
+%d. Trenutno odabrani podaci sigurnosne kopije: %s. Vraćanje zahtijeva barem dvostruko više prostora, koji će se automatski osloboditi nakon što se vraćanje završi."</string>
   <string name="backup_tips_dialog_title">Imajte na umu</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
@@ -547,20 +549,25 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="name_password_not_consistent">Pogrešno korisničko ime ili zaporka</string>
   <string name="nas_backup_progress_title">Sigurnosna kopija na SmartStorage</string>
   <string name="nas_backup_resume_button">Nastavi</string>
-  <string name="nas_backup_task_progress_failed_summary_pad">Mreža je prekinuta. Provjerite je li SmartStorage online, a zatim ponovno pokušajte izraditi sigurnosnu kopiju.</string>
-  <string name="nas_backup_task_progress_failed_summary_phone">Mreža je prekinuta. Provjerite je li SmartStorage online, a zatim ponovno pokušajte izraditi sigurnosnu kopiju.</string>
-  <string name="nas_backup_task_progress_summary_pad">"Tijekom izrade sigurnosne kopije provjerite je li SmartStorage online. Nemojte ponovno pokretati ili isključivati ​​tablet kako biste izbjegli gubitak podataka."</string>
-  <string name="nas_backup_task_progress_summary_phone">"Tijekom izrade sigurnosne kopije provjerite je li SmartStorage online. Nemojte ponovno pokretati ili isključivati ​​telefon kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_backup_task_progress_failed_summary_pad">Mreža je prekinuta. Provjerite je li SmartStorage uređaj na istoj mreži kao i vaš tablet, a zatim ponovno pokušajte izraditi sigurnosnu kopiju.</string>
+  <string name="nas_backup_task_progress_failed_summary_phone">Mreža je prekinuta. Provjerite je li SmartStorage uređaj na istoj mreži kao i vaš telefon, a zatim ponovno pokušajte izraditi sigurnosnu kopiju.</string>
+  <string name="nas_backup_task_progress_summary_pad">"Tijekom izrade sigurnosne kopije provjerite je li vaš tablet na istoj mreži kao i SmartStorage uređaj. Nemojte ponovno pokretati ili isključivati ​​tablet kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_backup_task_progress_summary_phone">"Tijekom izrade sigurnosne kopije provjerite je li vaš telefon na istoj mreži kao i SmartStorage uređaj. Nemojte ponovno pokretati ili isključivati ​​telefon kako biste izbjegli gubitak podataka."</string>
   <string name="nas_backup_task_suspend_info_title">Sigurnosna kopija pauzirana</string>
   <string name="nas_backup_title">SmartStorage</string>
   <string name="nas_cancel_button">Odustani</string>
   <string name="nas_connecting_progress_dialog">Povezivanje sa SmartStorageom…</string>
   <string formatted="false" name="nas_disconnect_dialog_summary_pad">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
   %d. Je li uređaj SmartStorage online.
-  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​tablet tijekom izrade sigurnosnih kopija ili vraćanja podataka)."</string>
+  %d. Vaš je tablet spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
+  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​tablet tijekom izrade sigurnosnih kopija ili vraćanja podataka).
+  %d. Provjerite je li Međusobna povezanost uključena i na tabletu i na SmartStorage uređaju.</string>
   <string formatted="false" name="nas_disconnect_dialog_summary_phone">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
   %d. Je li uređaj SmartStorage online.
-  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​telefon tijekom izrade sigurnosnih kopija ili vraćanja podataka)."</string>
+  %d. Vaš je telefon spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
+  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​telefon tijekom izrade sigurnosnih kopija ili vraćanja podataka).
+  %d. Provjerite je li Međusobna povezanost uključena i na telefonu i na SmartStorage uređaju.</string>
+  <string name="nas_disconnect_dialog_title">Pogreška povezivanja</string>
   <string name="nas_disconnect_dialog_title">"Nije moguće povezati se sa SmartStorageom"</string>
   <string name="nas_low_memory_progress_backup_summary_nas">Nema dovoljno prostora u SmartStorageu. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
   <string name="nas_low_memory_progress_backup_summary_pad">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
@@ -581,12 +588,14 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="nas_restore_notification_title">Vraćanje povijesti WeChata iz Xiaomi SmartStoragea…</string>
   <string name="nas_restore_progress_title">Vraćanje iz SmartStoragea</string>
   <string name="nas_restore_resume_button">Nastavi</string>
-  <string name="nas_restore_task_progress_failed_summary_pad">Mreža je prekinuta. Provjerite je li SmartStorage online, a zatim pokušajte ponovno vratiti.</string>
-  <string name="nas_restore_task_progress_failed_summary_phone">Mreža je prekinuta. Provjerite je li SmartStorage online, a zatim pokušajte ponovno vratiti podatke.</string>
-  <string name="nas_restore_task_progress_summary_pad">"Tijekom vraćanja podataka provjerite je li SmartStorage online. Nemojte ponovno pokretati ili isključivati ​​tablet kako biste izbjegli gubitak podataka."</string>
-  <string name="nas_restore_task_progress_summary_phone">"Tijekom vraćanja podataka provjerite je li SmartStorage online. Nemojte ponovno pokretati ili isključivati ​​telefon kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_restore_task_progress_failed_summary_pad">Mreža je prekinuta. Provjerite je li SmartStorage uređaj na istoj mreži kao i vaš tablet, a zatim pokušajte ponovno vratiti podatke.</string>
+  <string name="nas_restore_task_progress_failed_summary_phone">Mreža je prekinuta. Provjerite je li SmartStorage uređaj na istoj mreži kao i vaš telefon, a zatim pokušajte ponovno vratiti podatke.</string>
+  <string name="nas_restore_task_progress_summary_pad">"Tijekom vraćanja podataka provjerite je li vaš tablet na istoj mreži kao i SmartStorage uređaj. Nemojte ponovno pokretati ili isključivati ​​tablet kako biste izbjegli gubitak podataka."</string>
+  <string name="nas_restore_task_progress_summary_phone">"Tijekom vraćanja podataka provjerite je li vaš telefon na istoj mreži kao i SmartStorage uređaj. Nemojte ponovno pokretati ili isključivati ​​telefon kako biste izbjegli gubitak podataka."</string>
   <string name="nas_restore_task_suspend_info_title">Vraćanje pauzirano</string>
   <string name="nas_retry_button">Pokušajte ponovno</string>
+  <string name="nas_split_check_fail">"Nije moguće provjeriti. Ponovno napravite sigurnosnu kopiju."</string>
+  <string name="nas_split_check_item_fail">"Nije moguće provjeriti"</string>
   <string name="nas_task_lowmemory_summary_pad_backup">Nema dovoljno prostora za pohranu na tabletu. Oslobodite prostor i pokušajte ponovno napraviti sigurnosnu kopiju.</string>
   <string name="nas_task_lowmemory_summary_pad_restore">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i pokušajte ponovno vratiti podatke.</string>
   <string name="nas_task_lowmemory_summary_phone_backup">Nema dovoljno prostora za pohranu telefona. Oslobodite prostor i pokušajte ponovno napraviti sigurnosnu kopiju.</string>
@@ -962,6 +971,10 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="privacy_policy_link">"<Data>"Kako biste saznali više o našim praksama obrade podataka i vašim pravima kao korisnika, pročitajte i prihvatite naše &lt;a href='%1s'>Pravila o privatnosti&lt;/a> prije nego nastavite."</Data>"</string>
   <string name="privacy_settings">Privatnost</string>
   <string name="privacy_settings_title">Pravila o privatnosti</string>
+  <string name="privacy_update_dialog_title">Ažuriranje Pravila privatnosti</string>
+  <string name="privacy_update_link_text">Pravila privatnosti</string>
+  <string name="privacy_update_message_template">Pročitajte i prihvatite ažurirane %1$s u nastavku kako biste nastavili koristiti Sigurnosnu kopiju:</string>
+  <string name="privacy_update_note_placeholder">Kako bismo vam pružili bolje iskustvo sigurnosne kopije, dodali smo funkciju sigurnosne kopije i oporavka putem Xiaomi Smart Storage. Kada koristite aplikaciju za sigurnosnu kopiju i oporavak, pružit ćemo usluge sigurnosne kopije i oporavka podataka putem Xiaomi Smart Storage.</string>
   <string name="private_policy_text">Pravila o privatnosti</string>
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
@@ -987,21 +1000,23 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>
-  <string name="restore_suspend_fail_summary_pad">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
-  <string name="restore_suspend_fail_summary_phone">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
-  <string name="restore_suspend_summary_pad">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, vraćanje će se automatski nastaviti.</string>
-  <string name="restore_suspend_summary_phone">Veza je prekinuta. Nakon što se SmartStorage poveže s internetom, vraćanje će se automatski nastaviti.</string>
+  <string name="restore_suspend_fail_summary_pad">Veza je prekinuta. Provjerite je li vaš tablet na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="restore_suspend_fail_summary_phone">Veza je prekinuta. Provjerite je li vaš telefon na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="restore_suspend_summary_pad">Veza je prekinuta. Vraćanje je pauzirano. Nakon što se vaš tablet poveže na istu mrežu kao i SmartStorage uređaj, vraćanje će se automatski nastaviti.</string>
+  <string name="restore_suspend_summary_phone">Veza je prekinuta. Vraćanje je pauzirano. Nakon što se vaš telefon poveže na istu mrežu kao i SmartStorage uređaj, vraćanje će se automatski nastaviti.</string>
   <string name="restore_suspend_title">Vraćanje je pauzirano. Ponovno povezivanje…</string>
   <string name="restore_tab">Vrati</string>
   <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
   <string name="restore_tips_dialog_summary">"Spremate se vratiti podatke s WeChata. Ovim ćete prebrisati trenutne podatke s WeChata sigurnosnom kopijom od %s. Ova se radnja ne može poništiti. Nastavite s oprezom."</string>
+  <string name="restore_tips_dialog_summary_qq">"Spremate se vratiti QQ podatke. Ovim ćete prebrisati trenutne QQ podatke sigurnosnom kopijom od %s. Ova se radnja ne može poništiti. Nastavite s oprezom."</string>
+  <string name="restore_tips_dialog_summary_qq_wechat">"Spremate se vratiti QQ i WeChat podatke. Ovim ćete prebrisati trenutne QQ i WeChat podatke sigurnosnom kopijom od %s. Ova se radnja ne može poništiti. Nastavite s oprezom."</string>
   <string name="restore_tips_dialog_title">Pažnja</string>
   <string name="resume_backup_nas_task_dialog_title">Nedovršena sigurnosna kopija</string>
   <string name="resume_backup_toast">Sigurnosno kopiranje na SmartStorage…</string>
-  <string name="resume_nas_restore_task_dialog_summary_pad">"Vrijeme sigurnosne kopije: %1$s
+  <string name="resume_nas_restore_task_dialog_summary_pad">"Vrijeme vraćanja: %1$s
 Veličina sigurnosne kopije: %2$s
 Dostupna pohrana tableta: %3$s"</string>
-  <string name="resume_nas_restore_task_dialog_summary_phone">"Vrijeme sigurnosne kopije: %1$s
+  <string name="resume_nas_restore_task_dialog_summary_phone">"Vrijeme vraćanja: %1$s
 Veličina sigurnosne kopije: %2$s
 Dostupna pohrana telefona: %3$s"</string>
   <string name="resume_nas_task_dialog_summary_pad">"Vrijeme sigurnosne kopije: %1$s

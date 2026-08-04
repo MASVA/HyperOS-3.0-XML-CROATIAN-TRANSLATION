@@ -908,6 +908,10 @@ Poboljšana sigurnost."</string>
   <string name="permlab_uninstall_shortcut">Deinstaliraj prečace</string>
   <string name="permlab_uninstall_widget">Deinstaliraj widgete</string>
   <string name="permlab_write_settings">Uredi postavke Početnog zaslona i Prečaca</string>
+  <string name="pin_widget_confirm_message">"Nakon ovoga, moći ćete vidjeti \"%1$s\" na početnom zaslonu."</string>
+  <string name="pin_widget_confirm_negative">Odustani</string>
+  <string name="pin_widget_confirm_positive">Dodaj</string>
+  <string name="pin_widget_confirm_title">Dodati widget na početni zaslon?</string>
   <string name="photo_adjust">Pregled</string>
   <string name="photo_confirm">Postavi</string>
   <string name="photo_load_failed">"Ne mogu učitati fotografiju"</string>

@@ -69,6 +69,7 @@
   <string name="distance_perception_summary">Kada je uključen imerzivni zvuk, dinamički se prilagođava glasnoća i zvučno polje prema vašoj udaljenosti od zaslona</string>
   <string name="dolby_atoms">Dolby Atmos</string>
   <string name="dolby_dax_geq_bar_chart_talkback" formatted="false">Ekvalizator, klizač %d, %s.</string>
+  <string name="dolby_dax_geq_button">Tipka</string>
   <string name="dolby_dax_geq_select_click_tip_talkback">Dvaput dodirnite za aktivaciju</string>
   <string name="dolby_dax_geq_select_not_selected_talkback">Nije odabrano</string>
   <string name="dolby_dax_geq_select_selected_talkback">Odabrano</string>

@@ -481,6 +481,8 @@ Ovu značajku možete kontrolirati u Postavkama > Privatnost i sigurnost > Sigur
   <string name="permission_call_records_describe_bluetooth_summary">Za omogućavanje drugim kompatibilnim uređajima koje povezujete s ovim uređajem da pristupe povijesti poziva. To će se dogoditi samo kada proaktivno zahtijevate korištenje povijesti poziva putem drugog uređaja. Povijest poziva i kontakti koje sustav dijeli putem Bluetootha bit će spremljeni lokalno samo na vašim uređajima i dijeljeni s njima uz vaše dopuštenje.</string>
   <string name="permission_call_records_introduction">Za pristup povijesti poziva radi prikazivanja blokiranih stavki</string>
   <string name="permission_call_state_introduction">Za pristup statusu telefona, snimanju poziva i zaustavljanje snimanja tijekom dolaznih poziva</string>
+  <string name="permission_china_mobile_ai_function">Jedinstveni identifikator (IMEI) i telefonski broj uređaja</string>
+  <string name="permission_china_mobile_ai_function_describe">Za prikaz personaliziranih informacija na prilagođenim pametnim terminalima China Mobile, sljedećim informacijama potrebno je pristupiti i sinkronizirati ih s China Mobileom tijekom početnog postupka postavljanja:</string>
   <string name="permission_clock_info_introduction">Za spremanje podataka alarma</string>
   <string name="permission_contact">Pristup kontaktima</string>
   <string name="permission_contact_describe">Pristup kontaktima</string>

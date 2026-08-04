@@ -460,6 +460,9 @@
   <string name="ringtone_digital_timer">Odbrojavanje</string>
   <string name="ringtone_dream">Sanjarenje</string>
   <string name="ringtone_firefly">Krijesnice</string>
+  <string name="ringtone_permission_dialog_content">Dopustite pristup glazbenim datotekama na svom uređaju u Postavke > Aplikacije > Sat > Došuštenja kako biste mogli postaviti prilagođenu melodiju zvona.</string>
+  <string name="ringtone_permission_dialog_title">Potrebna su dopuštenja</string>
+  <string name="ringtone_permission_still_denied_toast">Prvo dodijelite dopuštenja</string>
   <string name="ringtone_weather">Vremenski alarm</string>
   <string name="ringtone_week">Alarm prirode</string>
   <string name="saturday">Subota</string>

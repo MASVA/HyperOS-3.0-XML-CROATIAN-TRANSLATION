@@ -58,6 +58,13 @@
   <string name="button_revoke">Povlačenje</string>
   <string name="calendar_sync_item_permission">kalendar</string>
   <string name="call_log_sync_item_permission">povijest poziva</string>
+  <string name="call_notification_answer_action">Odgovori</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Odbij</string>
+  <string name="call_notification_hang_up_action">Prekini poziv</string> 
+  <string name="call_notification_incoming_text">Dolazni poziv</string> 
+  <string name="call_notification_ongoing_text">Poziv u tijeku</string>
+  <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
   <string name="check_contact">Dodaj</string>
   <string name="checked">Odabrano</string>
   <string name="choose_contact_title">Kontakti</string>
@@ -140,10 +147,10 @@
   <string name="detect_sim_card">Traženje SIM kartice</string>
   <string name="device_activation_card_cannot_get_yet">"Ne mogu dobiti informacije. Pokušajte ponovo za 3-5 dana."</string>
   <string name="device_activation_card_cannot_get_yet_new">"Ne mogu dobiti informacije. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
-  <string name="device_activation_card_description">"Prva se aktivacija registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati 3-5 dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br&gt;&lt;br&gt;Aktivacija uređaja glavni je čimbenik u određivanju razdoblja valjanosti našeg produženog jamstva. Provjerite naša &lt;a href=%1$s&gt;Pravila povrata, zamjene i popravka&lt;/a&gt; za više detalja.&lt;br&gt;&lt;br&gt;Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
-  <string name="device_activation_card_description_china">"Prva aktivacija registrira se kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati 3-5 dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br&gt;&lt;br&gt;Aktivacija uređaja glavni je čimbenik u određivanju razdoblja valjanosti našeg produženog jamstva. Provjerite naša &lt;a href=%1$s&gt;Pravila povrata, zamjene i popravka&lt;/a&gt; za više detalja.&lt;br&gt;&lt;br&gt;Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
-  <string name="device_activation_card_description_china_new">" Prva aktivacija se registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Registracija prve aktivacije obično traje neko vrijeme, stoga je bolje pričekati &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br>&lt;br>Aktivacija uređaja glavni je faktor u određivanju razdoblja valjanosti našeg produljenog jamstva. Provjerite naša &lt;a href=%3$s>Pravila povrata, zamjene i popravka&lt;/a> za više detalja.&lt;br>&lt;br>Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
-  <string name="device_activation_card_description_new">" Prva aktivacija se registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Registracija prve aktivacije obično traje neko vrijeme, stoga je bolje pričekati &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br>&lt;br>Aktivacija uređaja glavni je faktor u određivanju razdoblja valjanosti našeg produljenog jamstva. Provjerite naša &lt;a href=%3$s>Pravila povrata, zamjene i popravka&lt;/a> za više detalja.&lt;br>&lt;br>Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
+  <string name="device_activation_card_description">"Prva se aktivacija registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br&gt;&lt;br&gt;Aktivacija uređaja glavni je čimbenik u određivanju razdoblja valjanosti našeg produženog jamstva. Provjerite naša &lt;a href=%3$s&gt;Pravila povrata, zamjene i popravka&lt;/a&gt; za više detalja.&lt;br&gt;&lt;br&gt;Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 950816."</string>
+  <string name="device_activation_card_description_china">"Prva aktivacija registrira se kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br&gt;&lt;br&gt;Aktivacija uređaja glavni je čimbenik u određivanju razdoblja valjanosti našeg produženog jamstva. Provjerite naša &lt;a href=%3$s&gt;Pravila povrata, zamjene i popravka&lt;/a&gt; za više detalja.&lt;br&gt;&lt;br&gt;Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 950816."</string>
+  <string name="device_activation_card_description_china_new">" Prva aktivacija se registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Registracija prve aktivacije obično traje neko vrijeme, stoga je bolje pričekati &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br>&lt;br>Aktivacija uređaja glavni je faktor u određivanju razdoblja valjanosti našeg produljenog jamstva. Provjerite naša &lt;a href=%3$s>Pravila povrata, zamjene i popravka&lt;/a> za više detalja.&lt;br>&lt;br>Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 950816."</string>
+  <string name="device_activation_card_description_new">" Prva aktivacija se registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Registracija prve aktivacije obično traje neko vrijeme, stoga je bolje pričekati &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br>&lt;br>Aktivacija uređaja glavni je faktor u određivanju razdoblja valjanosti našeg produljenog jamstva. Provjerite naša &lt;a href=%3$s>Pravila povrata, zamjene i popravka&lt;/a> za više detalja.&lt;br>&lt;br>Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 950816."</string>
   <string name="device_activation_card_device_not_support">Nije podržano na ovom uređaju</string>
   <string name="device_activation_card_local_service_error">"Ne mogu dobiti informacije. Pričekajte minutu-dvije i pokušajte ponovo."</string>
   <string name="device_activation_card_no_network_error">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
@@ -554,27 +561,28 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="micloud_main_sync_mode_summary">Sinkronizirajte podatke aplikacije u stvarnom vremenu. Potrošnja energije će se povećati kada je ova značajka uključena.</string>
   <string name="micloud_main_sync_mode_title">Brza sinkronizacija</string>
   <string name="micloud_manaul_sync_success_button_text">Prikaži detalje</string>
-  <string name="micloud_manaul_sync_success_title">Sinkronizirano</string>
+  <string name="micloud_manaul_sync_success_title">Uspješno sinkronizirano</string>
   <string name="micloud_manual_activating">Aktiviranje…</string>
   <string name="micloud_manual_all_sync_off_button_text">Uključi</string>
   <string name="micloud_manual_all_sync_off_summary">Vrati sinkronizirane podatke na nove uređaje pomoću Xiaomi Clouda</string>
   <string name="micloud_manual_all_sync_off_title">Sinkr. je isključena</string>
   <string name="micloud_manual_buy_vip">Dobijte više prostora za pohranu</string>
   <string name="micloud_manual_cloud_storage_full_button_text">Dobijte više prostora za pohranu</string>
-  <string name="micloud_manual_cloud_storage_full_international_summary">"Ne mogu sinkronizirati fotografije i kontakte."</string>
-  <string name="micloud_manual_cloud_storage_full_summary">"Ne mogu se sinkronizirati fotografije, kontakti i druge stavke. Nadogradite svoj plan ili oslobodite prostor za pohranu."</string>
-  <string name="micloud_manual_cloud_storage_full_title">"Ne mogu se sinkronizirati. Nedovoljno prostora za pohranu u Xiaomi Cloudu."</string>
-  <string name="micloud_manual_cloud_storage_low_button_text">Dobijte više prostora za pohranu</string>
-  <string name="micloud_manual_cloud_storage_low_summary">Ponestaje prostora u Xiaomi Cloudu</string>
-  <string name="micloud_manual_cloud_storage_low_title">Sinkronizirano</string>
+  <string name="micloud_manual_cloud_storage_full_international_summary">Pohrana u oblaku je puna</string>
+  <string name="micloud_manual_cloud_storage_full_summary">Pohrana u oblaku je puna</string>
+  <string name="micloud_manual_cloud_storage_full_title">"Sinkronizacija nije uspjela"</string>
+  <string name="micloud_manual_cloud_storage_low_button_text">Nabavite više prostora za pohranu</string>
+  <string name="micloud_manual_cloud_storage_low_summary">Pohrana u oblaku je gotovo puna</string>
+  <string name="micloud_manual_cloud_storage_low_title">Sinkronizirano uspješno</string>
   <string name="micloud_manual_grant_permission">Dopusti</string>
-  <string name="micloud_manual_local_storage_low_button_text">Očisti</string>
-  <string name="micloud_manual_local_storage_low_summary">"Oslobodite prostor za pohranu i pokušajte ponovno."</string>
-  <string name="micloud_manual_local_storage_low_summary_pad">Oslobodite prostor za pohranu i pokušajte ponovno.</string>
-  <string name="micloud_manual_local_storage_low_title">"Ne mogu sinkronizirati. Na uređaju nema dovoljno prostora za pohranu."</string>
-  <string name="micloud_manual_local_storage_low_title_pad">"Ne mogu sinkronizirati. Na uređaju nema dovoljno prostora za pohranu."</string>
+  <string name="micloud_manual_local_storage_low_button_text">Izbriši</string>
+  <string name="micloud_manual_local_storage_low_summary">Nedovoljno prostora za pohranu uređaja</string>
+  <string name="micloud_manual_local_storage_low_summary_pad">Nedovoljno prostora za pohranu uređaja</string>
+  <string name="micloud_manual_local_storage_low_title">"Sinkronizacija nije uspjela"</string>
+  <string name="micloud_manual_local_storage_low_title_pad">"Sinkronizacija nije uspjela"</string>
   <string name="micloud_manual_network_disconnet_button_text">Provjerite mrežne postavke</string>
-  <string name="micloud_manual_network_disconnet_title">"Ne mogu sinkronizirati zbog mrežne pogreške"</string>
+  <string name="micloud_manual_network_disconnet_summary">Mrežna pogreška</string>
+  <string name="micloud_manual_network_disconnet_title">"Sinkronizacija nije uspjela"</string>
   <string name="micloud_manual_paused">Pauzirano</string>
   <string name="micloud_manual_pausing">Sinkr. pauzirana</string>
   <string name="micloud_manual_reactivate">Aktiviraj ponovno</string>

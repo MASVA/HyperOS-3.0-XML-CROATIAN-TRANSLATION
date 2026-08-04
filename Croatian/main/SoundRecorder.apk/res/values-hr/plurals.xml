@@ -76,10 +76,6 @@
         <item quantity="other">Odabrano %1$d stavki</item>
         <item quantity="one">Odabrana %1$d stavka</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d novih obavijesti</item>
-        <item quantity="one">%d nova obavijest</item>
-    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Premalo prostora za pohranu (preostalo manje %d min.)</item>
         <item quantity="one">Premalo prostora za pohranu (preostalo manje %d min.)</item>

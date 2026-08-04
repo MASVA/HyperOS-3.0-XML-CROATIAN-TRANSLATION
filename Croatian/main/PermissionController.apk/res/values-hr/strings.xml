@@ -770,7 +770,7 @@
    <string name="permdesc_recognition">Želite li dopustiti %1$s pristup podacima o vašim aktivnostima?</string>
    <string name="permdesc_send_sms">Želite li dopustiti %1$s slanje tekstualnih poruka?</string>
    <string name="permdesc_sensors">Želite li dopustiti %1$s čitanje podataka koje generiraju tjelesni senzori?</string>
-   <string name="permdesc_shake">Želite li dopustiti %1$s pristup podacima brzinomjera?</string>
+   <string name="permdesc_shake">Želite li dopustiti %1$s da prepozna podrhtavanje, odredi orijentaciju zaslona i koristi kontrole igre i navigaciju kartom?</string>
    <string name="permdesc_use_sip">Želite li dopustiti %1$s da koristi protokol pokretanja sesije za strujanje videozapisa?</string>
    <string name="permdesc_write_calendar">Želite li dopustiti %1$s uređivanje događaja u kalendaru?</string>
    <string name="permdesc_write_call_log">Želite li dopustiti %1$s uređivanje povijesti poziva?</string>
@@ -919,6 +919,7 @@
 	<string name="permission_revoked_all">sve onemogućeno</string>
 	<string name="permission_revoked_count">%1$d onemogućeno</string>
 	<string name="permission_revoked_none">ništa onemogućeno</string>
+	<string name="permission_risk_warn_message">"This permission hasn't passed review"</string>
 	<string name="permission_search_keyword">dopuštenja</string>
 	<string name="permission_subtitle_all_files">Sve datoteke</string>
 	<string name="permission_subtitle_background">Dopušteno cijelo vrijeme</string>

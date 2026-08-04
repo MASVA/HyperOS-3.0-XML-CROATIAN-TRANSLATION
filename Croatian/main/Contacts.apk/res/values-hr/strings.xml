@@ -146,6 +146,7 @@
   <string name="bh_goto_open">Nije odobreno</string>
   <string name="bh_goto_set">Postavi</string>
   <string name="bh_greeting_user">%1$s</string>
+  <string name="bh_help_and_feedback">Pomoć i povratne informacije</string>
   <string name="bh_i_got_it">Razumijem</string>
   <string name="bh_input_hint">Unesite broj telefona</string>
   <string name="bh_input_total_limit">Unesite iznos podataka</string>

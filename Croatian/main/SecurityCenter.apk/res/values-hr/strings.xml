@@ -184,6 +184,7 @@
   <string name="add_done">Uspješno dodano</string>
   <string name="add_game">Dodaj igru</string>
   <string name="add_game_notification_summary">Dodirni za pokretanje &amp; ubrzanje brzine</string>
+  <string name="add_game_notification_title">%s dodano u Game Space</string>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate Xiaomi Service Framework na popis iznimaka. 
   
 Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
@@ -2136,6 +2137,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="eletric_card_two_identification_risk_app_summary">Primajte upozorenja prilikom obavljanja financijskih transakcija nakon sumnjivih poziva ili poruka</string>
   <string name="eletric_card_two_identification_risk_mms">Upozori na proslijeđene kontrolne kodove</string>
   <string name="eletric_card_two_identification_risk_mms_summary">Primajte upozorenja kada se kontrolni kodovi prosljeđuju aplikacijama društvenih medija</string>
+  <string name="eletric_card_two_identification_risk_mms_summary_description">Primajte podsjetnike o rizicima prijevare prilikom prosljeđivanja SMS kodova za provjeru na društvene aplikacije</string>
   <string name="eletric_group_title_one_identification_risk_app">Automatsko ograničavanje dopuštenja</string>
   <string name="eletric_group_title_one_identification_risk_app_summary">Automatsko ograničavanje dopuštenja kada se otkriju rizici u aplikacijama</string>
   <string name="eletric_group_title_one_identification_risk_mms">Zaštitite poruke</string>
@@ -2189,7 +2191,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="ew_emergency_gender_title">Trudna</string>
   <string name="ew_guide_start_find_area">Traži područja</string>
   <string name="ew_main_subscribe_city">Pretplati se na gradove</string>
-  <string name="ew_merge_contact_button">Shvatam</string>
+  <string name="ew_merge_contact_button">Razumijem</string>
   <string name="ew_merge_contact_message">Vaši kontakti za hitne slučajeve iz hitnih poziva i upozorenja na potres su spojeni.</string>
   <string name="ew_merge_contact_title">Spoji kontakte za hitne slučajeve</string>
   <string name="ew_contact_dialog_tips">Dodajte najmanje jedan kontakt za hitne slučajeve.</string>
@@ -2666,7 +2668,7 @@ volonter"</string>
   %3$d. Ova je značajka podržana samo u kontinentalnoj Kini.
   %4$d. Ova značajka radi samo u 5G-SA mrežama."</string>
   <string name="function_shield_auto_bright">Isključi autom. svjetlinu</string>
-  <string name="function_shield_eye_shield">Isključi način rada za udobnost očiju</string>
+  <string name="function_shield_eye_shield">Isključi način čitanja</string>
   <string name="function_shield_pull_notification_bar">"Ne otvaraj Panel obavijesti"</string>
   <string name="function_shield_settings_title">Prilikom igranja igara ograničite sljedeće značajke</string>
   <string name="function_shield_summary">Prilikom igranja igara ograničite odabrane značajke</string>
@@ -2682,6 +2684,8 @@ volonter"</string>
   <string name="gallery_confirm_start_activity">%s pokušava pristupiti slikama putem druge aplikacije. Dopustiti?</string>
   <string name="game_ad_recommendation">Svi igraju</string>
   <string name="game_anti_disturb_msg">Igra DND</string>
+  <string name="game_balance_gpu_enhance_title">Poboljšanje diskretne grafičke kartice</string>
+  <string name="game_balance_none_gpu_enhance_subtitle">Poboljšane vizualne performanse</string>
   <string name="game_balance_more_setting_title">Dodatne postavke</string>
   <string name="game_balance_vision_enhance_subtitle">Povećajte kontrast i poboljšajte detalje za igre</string>
   <string name="game_balance_vision_enhance_subtitle_xring_sr">"Dostupno samo kada je razlučivost igre postavljena na najveću vrijednost"</string>
@@ -2700,6 +2704,15 @@ volonter"</string>
   <string name="game_toolbox_fps_average_nodata">Dobivanje prosječnog FPS-a…</string>
   <string name="game_toolbox_fps_realtime_nodata">Dobivanje FPS-a u stvarnom vremenu…</string>
   <string name="game_toolbox_fps_shake_nodata">Dobivanje podrhtavanja kadrova…</string>
+  <string name="game_toolbox_gesture_control_infinity_mode_des">Izbjegavajte otvaranje plutajućih prozora prevlačenjem prsta od rubova</string>
+  <string name="game_toolbox_gesture_control_infinity_mode_title">Isključite skaliranje plutajućeg prozora</string>
+  <string name="game_toolbox_gesture_control_main_switch_des">Promjene će se primijeniti samo na trenutnu igru</string>
+  <string name="game_toolbox_gesture_control_main_switch_title">Zanemarite slučajni dodir u igrama</string>
+  <string name="game_toolbox_gesture_control_multi_finger_des">Geste poput prevlačenja s tri prsta za snimanje zaslona bit će zanemarene</string>
+  <string name="game_toolbox_gesture_control_multi_finger_title">Zanemarite geste s više prstiju</string>
+  <string name="game_toolbox_gesture_control_title">Zanemarite slučajni dodir</string>
+  <string name="game_toolbox_gesture_control_transient_bars_size_des">Smanji područja okidanja za navigacijske geste i statusnu traku u pejzažnom načinu rada</string>
+  <string name="game_toolbox_gesture_control_transient_bars_size_title">Smanji područja okidanja</string>
   <string name="game_toolbox_overtemp_click_toast">Pričekajte da se uređaj ohladi da biste mogli koristiti ovu značajku</string>
   <string name="gamebox_coupon">Kuponi</string>
   <string name="gamebox_gift_pack">Pokloni</string>
@@ -2739,6 +2752,13 @@ volonter"</string>
   <string name="game_toolbox_ai_upgrade_dialog_desc">Dostupno je ažuriranje za AI usluge igranja. Ažurirajte prije korištenja povezanih značajki.</string>
   <string name="game_toolbox_ai_upgrade_dialog_title">Provjeri ima li ažuriranja</string>
   <string name="game_toolbox_cellular_network">Povećanje brzine mobilne mreže</string>
+  <string name="game_toolbox_cooling_fan_enabled_performance_mode">Ventilator je sada postavljen na \"Performanse\"</string>
+  <string name="game_toolbox_cooling_fan_enabled_quiet_mode">Ventilator je sada postavljen na \"Tiho\"</string>
+  <string name="game_toolbox_cooling_fan_enabled_smart_mode">Ventilator je sada postavljen na \"Pametno\"</string>
+  <string name="game_toolbox_cooling_fan_settings_guide_confirm">Postavke</string>
+  <string name="game_toolbox_cooling_fan_settings_guide_message">Uključite \"Igre\" u Postavkama > Ventilator ili postavite scenarije korištenja na \"Sve\" da biste koristili ventilator tijekom igranja.</string>
+  <string name="game_toolbox_cooling_fan_settings_guide_title">Pažnja</string>
+  <string name="game_toolbox_cooling_fan_title">Ventilator</string>
   <string name="game_toolbox_dedicated_network_booster_date_format">dd.MM.yyyy</string> 
   <string name="game_toolbox_dedicated_network_booster_dialog_cancel">Odustani</string> 
   <string name="game_toolbox_dedicated_network_booster_dialog_msg">"VPN veza automatski će se stvoriti na temelju latencije u stvarnom vremenu radi poboljšanja stabilnosti mreže. Nakon preuzimanja prava dobit ćete %d godina besplatnog pristupa."</string> 
@@ -2754,6 +2774,9 @@ volonter"</string>
   <string name="game_toolbox_display_avrs_desc">Uključite da malo smanjite kvalitetu slike i značajno smanjite potrošnju energije</string>
   <string name="game_toolbox_display_enhance_view_frc_notice">"Napomena:
 Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine sličica u igri i trećih strana možda neće točno otkriti brzinu sličica u sekundi. Za stvarni broj sličica u sekundi pogledajte nadzornu ploču."</string>
+  <string name="game_toolbox_display_enhance_view_frc_notice_new">"Napomena:
+%1$d. Kada je uključena pametna brzina kadrova, alati za detekciju brzine kadrova u igri i alati trećih strana možda neće točno odrediti brzinu kadrova. Za stvarnu brzinu kadrova pogledajte nadzornu ploču performansi.
+%2$d. Pametna brzina kadrova neće stupiti na snagu kada je temperatura uređaja previsoka, kada je baterija preniska, kada je uključena ušteda baterije ili tijekom poziva. Ponovno će početi raditi nakon što se uvjeti vrate u normalu."</string>
   <string name="game_toolbox_display_style_desc">Prilagodite vizualni stil (podržava HDR igre)</string>
   <string name="game_toolbox_display_style_game_hdr">HDR igre</string>
   <string name="game_toolbox_display_style_not_hdr_des">Možete se prebacivati ​​između različitih vizualnih stilova</string>
@@ -2772,13 +2795,15 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="game_toolbox_item_joystick_key_mapping">Tipka kontrolera</string>
   <string name="game_toolbox_margin_restrain_description">Postavite raspon odbijanja dodira kako biste smanjili slučajne dodire</string>
   <string name="game_toolbox_mem_clean_desc">Očisti memoriju i povećaj brzinu</string>
+  <string name="game_toolbox_mem_clean_desc_new">Oslobodite memoriju sustava</string>
+  <string name="game_toolbox_memory">Memorija</string>
   <string name="game_toolbox_more_tools_title">Više alata</string>
   <string name="game_toolbox_perf_config_desc">Konfigurirajte postavke izvedbe igre</string>
   <string name="game_toolbox_perf_config_title">Postavke performansi</string>
   <string name="game_toolbox_performance_config_custom_notice_new">Možete prilagoditi Super rezoluciju i Smart frame rate za upravljanje brzinom sličica u sekundi i kvalitetom slike. &lt;font color=%s>Stvarni broj sličica u sekundi prikazan je na nadzornoj ploči izvedbe.&lt;/font></string>
   <string name="game_toolbox_performance_config_frc_notice">Kada je uključen prioritet broja sličica u sekundi, stvarni broj sličica u sekundi je onakav kakav je prikazan na nadzornoj ploči izvedbe</string>
   <string name="game_toolbox_performance_config_frc_notice_new">Prioritet brzine kadrova poboljšava broj sličica u sekundi putem pametne brzine kadrova. &lt;font color=%s>Stvarni broj sličica u sekundi prikazan je na nadzornoj ploči izvedbe.&lt;/font></string>
-  <string name="game_toolbox_performance_config_notice_highlight_color_hex">\#A09A97</string>
+  <string name="game_toolbox_performance_config_notice_highlight_color_hex">#80FFFFFF</string>
   <string name="game_toolbox_performance_config_resolution_notice">Kada je prioritet slike uključen, stvarni broj sličica u sekundi je onakav kakav je prikazan na nadzornoj ploči izvedbe</string>
   <string name="game_toolbox_performance_config_resolution_notice_new">Prioritet slike poboljšava kvalitetu slike putem Super rezolucije i upravlja brzinom sličica putem pametne brzine sličica. &lt;font color=%s>Stvarni broj sličica u sekundi prikazan je na nadzornoj ploči izvedbe.&lt;/font></string>
   <string name="game_toolbox_slow_charge_desc">Uključite ovu značajku kako biste poboljšali iskustvo igranja tijekom punjenja usporavanjem brzine punjenja. To može spriječiti pregrijavanje uređaja. Uključiti sada?</string>
@@ -2864,6 +2889,7 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="gamebox_macro">Kombinacije</string>
   <string name="gamebox_manual_record">Snimi</string>
   <string name="gamebox_mem_clean">Očisti memoriju</string>
+  <string name="gamebox_mem_clean_new">Optimizacija memorije</string>
   <string name="gamebox_mem_filter">Filtri igre</string>
   <string name="gamebox_milink">Emitiranje</string>
   <string name="gamebox_net_optimize_description">Smanjite latenciju i podrhtavanje Wi-Fi-ja. Upotrijebite Xiaomi ili Redmi usmjerivač za uživanje u posebnim načinima rada za povećanje brzine.</string>
@@ -3125,15 +3151,31 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_game_video_type_manual">Ručno</string>
   <string name="gb_game_video_type_manual_record">Snimi ručno</string>
   <string name="gb_global_settings">Opće postavke</string>
+  <string name="gb_gpu_dialog_button">Razumijem</string>
+  <string name="gb_gpu_dialog_button_countdown">Razumijem (%s)</string>
+  <string name="gb_gpu_dialog_message">Trenutne postavke grafičke kartice primjenjuju se na \"%s\". Ponovno pokrenite igru ​​da biste primijenili postavke.</string>
+  <string name="gb_gpu_dialog_titile">Postavke grafičke kartice</string>
   <string name="gb_gpu_driver_btn_update">Provjeri ima li ažuriranja</string>
   <string name="gb_gpu_driver_update">Ažuriranje GPU Drivera</string>
   <string name="gb_gpu_driver_update_app">Ažuriraj</string>
   <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je ažurna</string>
+  <string name="gb_gpu_rader_graph">Kvaliteta slike</string>
+  <string name="gb_gpu_rader_maxfps">Maks. FPS</string>
+  <string name="gb_gpu_rader_remain">Trajanje baterije</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite li trajno izbrisati odabrane videozapise?</string>
   <string name="gb_manual_video_record_title">Snimke</string>
   <string name="gb_margin_restrain">Zanemari slučajni dodir na rubovima</string>
   <string name="gb_margin_restrain_description">Vaš će uređaj manje reagirati na slučajni dodir u području blizu rubova</string>
   <string name="gb_margin_restrain_seekbar">Područje slučajnog dodira</string>
+  <string name="gb_launch_awareness_anti_mistouch">Omogućen sustav protiv neintuicije</string>
+  <string name="gb_launch_awareness_cooling_fan">Ventilator za hlađenje omogućen</string>
+  <string name="gb_launch_awareness_memory_clean">Memorija očišćena</string>
+  <string name="gb_launch_awareness_memory_clean_amount">Memorija očišćena %dmb</string>
+  <string name="gb_launch_awareness_message_block">Blokiranje poruka omogućeno</string>
+  <string name="gb_launch_awareness_performance_mode">Način rada omogućen</string>
+  <string name="gb_launch_awareness_predownload">Preduplata omogućena</string>
+  <string name="gb_launch_awareness_title">Omogućeno za vas</string>
+  <string name="gb_launch_awareness_wild_mode">Wild način omogućen</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -3145,6 +3187,138 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_not_support_on_device">"Ova se aplikacija ne može koristiti na vanjskom zaslonu"</string>
   <string name="gb_operat_frequently">Ne tako brzo!</string>
+  <string name="gb_perf_anti_mistouch_master_desc">Smanji slučajne dodire rubova zaslona tijekom igranja</string>
+  <string name="gb_perf_anti_mistouch_master_title">Zaštita od dodira</string>
+  <string name="gb_perf_anti_mistouch_multi_finger_desc">Onemogući sistemske geste s više prstiju tijekom igranja kako bi se spriječilo slučajno aktiviranje</string>
+  <string name="gb_perf_anti_mistouch_multi_finger_title">Blokiraj geste s više prstiju</string>
+  <string name="gb_perf_anti_mistouch_shorten_area_desc">Smanji područje aktiviranja geste ruba kako bi se izbjegli slučajni okidači za povratak/početni zaslon</string>
+  <string name="gb_perf_anti_mistouch_shorten_area_title">Skrati područje aktiviranja geste</string>
+  <string name="gb_perf_display_enhance_frc_on_sr_off_toast">Omogućena pametna interpolacija okvira, super rezolucija onemogućeno</string>
+  <string name="gb_perf_display_enhance_sr_on_frc_off_toast">Super rezolucija omogućena, pametna interpolacija kadrova onemogućena</string>
+  <string name="gb_perf_display_enhance_update_toast">Poboljšani vizualni elementi su nadograđeni. Vaše su postavke sačuvane.</string>
+  <string name="gb_perf_display_frame_insert">Pametna interpolacija kadrova</string>
+  <string name="gb_perf_display_frame_insert_desc">Povećajte broj sličica u sekundi pomoću AI generiranja kadrova za glatkije vizualne elemente</string>
+  <string name="gb_perf_display_frame_insert_note">Napomena: Nakon omogućavanja pametne interpolacije kadrova, igre ili alati za detekciju broja sličica u sekundi trećih strana možda neće točno detektirati stvarni broj sličica u sekundi. Za stvarnu brzinu kadrova pogledajte ploču s performansama.</string>
+  <string name="gb_perf_display_picture_style">Stil slike</string>
+  <string name="gb_perf_display_picture_style_desc_hdr">Prilagodite stil slike igre s HDR podrškom</string>
+  <string name="gb_perf_display_picture_style_desc_normal">Prilagodite stil slike igre s više opcija stila</string>
+  <string name="gb_perf_display_super_resolution">Super rezolucija</string>
+  <string name="gb_perf_display_super_resolution_desc">Poboljšajte rezoluciju uz AI povećanje razlučivosti za finije detalje</string>
+  <string name="gb_perf_dnd_barrage_app_manage">Upravljanje aplikacijama za obavijesti</string>
+  <string name="gb_perf_dnd_barrage_color">Boja baraže</string>
+  <string name="gb_perf_dnd_barrage_desc">Prikažite poruke obavijesti kao komentare baraže tijekom igre</string>
+  <string name="gb_perf_dnd_barrage_desc_v3">Dodirnite obavijesti o baraži iz aplikacija s bijele liste da biste odgovorili ili ih otvorili u plutajućim prozorima</string>
+  <string name="gb_perf_dnd_barrage_font_large">Velika</string> 
+  <string name="gb_perf_dnd_barrage_font_medium">Srednja</string> 
+  <string name="gb_perf_dnd_barrage_font_size">Veličina fonta baraže</string>
+  <string name="gb_perf_dnd_barrage_font_small">Mala</string>
+  <string name="gb_perf_dnd_barrage_preview">Pregled baraže</string> 
+  <string name="gb_perf_dnd_barrage_preview_text">Uvijek vjerujte da će se dogoditi nešto prekrasno</string>
+  <string name="gb_perf_dnd_barrage_speed">Brzina baraže</string>
+  <string name="gb_perf_dnd_barrage_title">Baražne poruke</string>
+  <string name="gb_perf_dnd_barrage_whitelist_title">Upravljanje bijelom listom poruka</string>
+  <string name="gb_perf_dnd_handsfree_desc">Automatski omogućuje zvučnik nakon odgovaranja, nema potrebe za napuštanjem igre</string>
+  <string name="gb_perf_dnd_keep_network_desc">"1. Bilo koja SIM kartica u određenim 5G mrežama neće prekinuti prijenos podataka tijekom poziva
+  2. Ako nijedna SIM kartica nije na 5G, SIM pozivi bez podataka bit će automatski odbijeni
+  3. Podržava samo operatere kontinentalne Kine
+  4. Podržava samo 5G-SA mreže"</string>
+  <string name="gb_perf_dnd_keep_network_label">O ovoj značajki:</string>
+  <string name="gb_perf_dnd_msg_block_desc">Sakrij obavijesti o porukama tijekom igara</string>
+  <string name="gb_perf_dnd_msg_block_title">Blokiraj poruke</string>
+  <string name="gb_perf_gpu_anisotropic_desc">Postavi razinu filtriranja za optimizaciju jasnoće teksture i performansi</string>
+  <string name="gb_perf_gpu_anisotropic_title">Anizotropno filtriranje</string>
+  <string name="gb_perf_gpu_anti_aliasing_desc">Postavi maksimalni broj uzoraka, balansirajući kvalitetu slike i performanse</string>
+  <string name="gb_perf_gpu_anti_aliasing_title">Višestruko uzorkovanje anti-aliasinga</string>
+  <string name="gb_perf_gpu_fps_desc">Ograniči maksimalnu brzinu kadrova u igri, balansirajući glatkoću i potrošnju energije</string>
+  <string name="gb_perf_gpu_fps_title">Brzina kadrova</string>
+  <string name="gb_perf_gpu_graph_desc">Optimiziraj validaciju parametara upravljačkog programa za poboljšanje performansi i smanjenje potrošnja energije; neke aplikacije mogu pokazivati ​​nedefinirano ponašanje zbog ovisnosti sloja za validaciju</string>
+  <string name="gb_perf_gpu_graph_title">Optimizacija grafičkih parametara</string>
+  <string name="gb_perf_gpu_help">"Savjeti:
+  1. Trenutne postavke primjenjuju se samo na trenutnu aplikaciju. Ako aplikacija radi u pozadini, ponovno je pokrenite da bi se primijenile.
+  2. Niže vrijednosti parametara mogu smanjiti potrošnju energije, ali mogu utjecati na kvalitetu slike."</string>
+  <string name="gb_perf_gpu_lod_desc">Optimiziraj zamućenje udaljenih tekstura za poboljšanu jasnoću slike</string>
+  <string name="gb_perf_gpu_lod_title">LOD Mipmapa</string>
+  <string name="gb_perf_gpu_mode_balance">Ravnoteža</string>
+  <string name="gb_perf_gpu_mode_custom">Prilagođeno</string>
+  <string name="gb_perf_gpu_mode_default">Zadano</string>
+  <string name="gb_perf_gpu_mode_frame_rate">Brzina sličica u sekundi</string> 
+  <string name="gb_perf_gpu_mode_high_quality">Visoka kvaliteta</string> 
+  <string name="gb_perf_gpu_mode_picture">Slika</string>
+  <string name="gb_perf_gpu_mode_power_save">Ušteda energije</string> 
+  <string name="gb_perf_gpu_render_desc">Omogući višenitno renderiranje za optimizaciju performansi igre</string>
+  <string name="gb_perf_gpu_render_title">Višenitno renderiranje</string>
+  <string name="gb_perf_gpu_resolution_default">Zadano</string>
+  <string name="gb_perf_gpu_resolution_desc">"Koristi trenutnu rezoluciju igre prema zadanim postavkama, neke igre možda ne podržavaju prilagodbu"</string>
+  <string name="gb_perf_gpu_resolution_smooth">Glatko</string>
+  <string name="gb_perf_gpu_resolution_title">Rezolucija</string>
+  <string name="gb_perf_gpu_texture_desc">Odabir načina filtriranja, balansirajući jasnoću teksture i performanse</string>
+  <string name="gb_perf_gpu_texture_title">Kvaliteta filtriranja tekstura</string>
+  <string name="gb_perf_gpu_title">Postavke GPU-a</string>
+  <string name="gb_perf_gpu_vrs_desc">Učinkovito dodijelite hardverske resurse kako biste poboljšali performanse uz održavanje kvalitete slike</string>
+  <string name="gb_perf_gpu_vrs_title">VRS</string>
+  <string name="gb_perf_launch_cooling_fan_desc">Automatski uključuje ventilator za hlađenje kada igra počne</string>
+  <string name="gb_perf_launch_cooling_fan_guide_confirm">Idite na Postavke</string>
+  <string name="gb_perf_launch_cooling_fan_guide_message">Molimo vas da prvo otvorite Postavke > Ventilator za hlađenje i omogućite scenu igranja</string>
+  <string name="gb_perf_launch_cooling_fan_guide_title">Obavijest</string>
+  <string name="gb_perf_launch_cooling_fan_title">Ventilator za hlađenje</string>
+  <string name="gb_perf_margin_restrain_description">Prilagodite raspon zaštite od dodira kako biste smanjili prianjanje pogrešni dodiri</string>
+  <string name="gb_perf_mode_balanced">Uravnoteženi način rada</string>
+  <string name="gb_perf_mode_balanced_desc">Uravnotežuje performanse i snagu, za glatkoću i trajanje baterije</string>
+  <string name="gb_perf_mode_extreme">Ekstremni način rada</string>
+  <string name="gb_perf_mode_performance">Način rada za performanse</string>
+  <string name="gb_perf_mode_performance_desc">Značajno poboljšava performanse, ali povećava potrošnju energije i toplinu</string>
+  <string name="gb_perf_network_5g_desc">Automatski odabir optimalne 5G mreže za smanjenje latencije igre i uravnoteženje trajanja baterije</string>
+  <string name="gb_perf_network_5g_title">Optimizacija 5G mreže</string>
+  <string name="gb_perf_network_ai_desc">Inteligentno prilagođavanje mrežnom okruženju za učinkovit prijenos podataka uz nižu potrošnju podataka</string>
+  <string name="gb_perf_network_ai_title">AI pametno ubrzanje podataka</string>
+  <string name="gb_perf_network_wlan_desc">Smanjite latenciju i podrhtavanje Wi-Fi mreže. Uparite s Mi/Redmi usmjerivačem za ekskluzivno ubrzanje i stabilnije iskustvo</string>
+  <string name="gb_perf_network_wlan_title">Optimizacija Wi-Fi mreže</string>
+  <string name="gb_perf_network_xunyou_cta_checkbox">Slažem se s Xunyou Mobile Game Acceleratorom</string>
+  <string name="gb_perf_network_xunyou_cta_primary_body">Hvala vam na povjerenju! Xunyou Mobile Game Accelerator će prikupiti vaš Xiaomi ID računa kako bi zabilježio trajanje članstva u usluzi ubrzanja, pružajući vam bolje iskustvo igranja na mreži.</string>
+  <string name="gb_perf_network_xunyou_cta_primary_title">Preusmjeravanje na Xunyou uslugu ubrzanja mreže</string>
+  <string name="gb_perf_network_xunyou_cta_secondary_body">Pročitao/la sam i slažem se s Xunyou Acceleratorom</string>
+  <string name="gb_perf_network_xunyou_cta_secondary_title">Molimo vas da prvo pročitate i prihvatite ugovor</string>
+  <string name="gb_perf_network_xunyou_desc">Pokreće Xunyou, poboljšava stabilnost mreže</string>
+  <string name="gb_perf_network_xunyou_dialog_agree">Slažem se</string>
+  <string name="gb_perf_network_xunyou_dialog_cancel">Otkaži</string>
+  <string name="gb_perf_network_xunyou_dialog_confirm">U redu</string>
+  <string name="gb_perf_network_xunyou_expire_at">Ističe %1$s</string>
+  <string name="gb_perf_network_xunyou_expired_at">Ističe %1$s</string>
+  <string name="gb_perf_network_xunyou_load_failed">Učitavanje nije uspjelo, pokušajte ponovno kasnije</string>
+  <string name="gb_perf_network_xunyou_login">Prijava</string>
+  <string name="gb_perf_network_xunyou_open">Aktiviraj</string>
+  <string name="gb_perf_network_xunyou_privacy_link">Pravila o privatnosti</string>
+  <string name="gb_perf_network_xunyou_renew">Obnovi</string>
+  <string name="gb_perf_network_xunyou_status_active">Aktivirano</string>
+  <string name="gb_perf_network_xunyou_status_expired">Isteklo</string>
+  <string name="gb_perf_network_xunyou_status_not_opened">Prijavljen</string>
+  <string name="gb_perf_network_xunyou_title">Xunyou ubrzanje</string>
+  <string name="gb_perf_predownload_desc">Automatsko preuzimanje resursa igre tijekom neaktivnosti</string>
+  <string name="gb_perf_predownload_page_title">Pozadinska ažuriranja</string>
+  <string name="gb_perf_radar_battery">Baterija</string>
+  <string name="gb_perf_radar_control">Kontrola</string>
+  <string name="gb_perf_radar_heat">Toplina</string>
+  <string name="gb_perf_radar_image_quality">Kvaliteta slike</string>
+  <string name="gb_perf_radar_smoothness">Glatkoća</string>
+  <string name="gb_perf_smotion_vibrate_desc">Prilagođava se pokretima u igri i poboljšava vibracijske povratne informacije</string>
+  <string name="gb_perf_smotion_vibrate_title">Haptička povratna informacija</string>
+  <string name="gb_perf_super_chip">Brzi odziv na dodir</string>
+  <string name="gb_perf_super_chip_msg">Ubrzani odziv na dodir na razini hardvera</string>
+  <string name="gb_perf_super_finger_up">Pametno mikro upravljanje</string>
+  <string name="gb_perf_super_finger_up_msg">Osjetljivost mikro upravljanja: visoka za osjetljivost, niska za stabilnost</string>
+  <string name="gb_perf_super_follow_up_msg">Raspon praćenja gesti: visok za bliže praćenje, nizak za glatkije kretanje</string>
+  <string name="gb_perf_super_hot_area_msg">Pametno prepoznavanje kontrola u igri i podešavanje osjetljivosti na dodir</string>
+  <string name="gb_perf_super_shake_4_5">Fine pametne kontrole</string>
+  <string name="gb_perf_super_shake_msg">Smanjite podrhtavanje dodira/prevlačenja i poboljšajte stabilnost upravljanja</string>
+  <string name="gb_perf_super_shake_msg_4_5">Podesite osjetljivost upravljanja: Visoka za brži odziv, niska za veću stabilnost</string>
+  <string name="gb_perf_tab_anti_mistouch">Zaštita od mistoucha</string>
+  <string name="gb_perf_tab_display_enhance">Zaslon</string> 
+  <string name="gb_perf_tab_dnd">DND</string>
+  <string name="gb_perf_tab_launch_settings">Postavke pokretanja</string>
+  <string name="gb_perf_tab_network_boost">Pojačavanje mreže</string>
+  <string name="gb_perf_tab_performance_schedule">Performanse</string>
+  <string name="gb_perf_tab_title">Postavke performansi</string>
+  <string name="gb_perf_tab_touch_enhance">Dodir</string>
   <string name="gb_performace_guide_disable_desc"><Data>"Nije moguće prebaciti na uravnoteženi način rada u Game Turbo kada je uključen način rada Performanse za cijeli sustav. Postavke baterije možete promijeniti u aplikaciji Sigurnost.&lt;br>&lt;a href=\"#\">Otvori Sigurnost&lt;/a>"</Data></string>
   <string name="gb_performance_balance">Uravnoteženo</string>
   <string name="gb_performance_balance_tips">"Uravnoteženi način rada štedi energiju
@@ -4023,7 +4197,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_summary_optimize_manage_1_new">Učinite svoj uređaj %s bržim</string>
   <string name="menu_summary_power_manager">Štednja baterije daje vam više vremena između punjenja</string>
   <string name="menu_summary_power_manager_1">Baterija je napunjena</string>
-  <string name="menu_summary_power_manager_2">Preostalo %1$s</string>
+  <string name="menu_summary_power_manager_2">Preostalo %s</string>
   <string name="menu_summary_power_manager_3">Priključite punjač</string>
   <string name="menu_summary_power_manager_4">%s do dovršetka punjenja</string>
   <string name="menu_text_antispam">Popis blokiranih</string>
@@ -4348,6 +4522,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Dodirnite za promjenu.</string>
   <string formatted="false" name="normal_package_usage_summary">%2s od %1s (%3s)</string>
   <string name="not_closed">Zadrži</string>
+  <string name="not_found_apps_title">"Nisu pronađeni rezultati"</string>
   <string name="not_limited_brand">Neograničeno</string>
   <string name="not_set">Dodirnite za postavljanje</string>
   <string name="not_settled">Nije postavljeno</string>
@@ -4709,10 +4884,12 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pb_cell_detail">Ćelija %1$d</string>
   <string name="pb_cycle_count">Broj ciklusa</string>
   <string name="pb_data_fetch_all_error">"Nije moguće pročitati podatke. Power bank je možda isključen ili nije podržan."</string>
+  <string name="pb_data_fetch_all_error_new">"Nije moguće pročitati podatke. Power bank je možda isključen ili nije podržan. Ako je isključen, ponovno spojite kabel za punjenje i pokušajte ponovno."</string>
   <string name="pb_data_fetch_partial_error">"Neke stavke nisu dostupne zbog kašnjenja ili nepodržanog power bank-a"</string>
   <string name="pb_manufacturer">Proizvođač</string>
   <string name="pb_measure_point">Senzor %1$d</string>
   <string name="pb_production_date">Datum proizvodnje</string>
+  <string name="pb_prompt_update_system">"Vaš trenutni sustav ne podržava ovu značajku. Ažurirajte sustav u Postavkama i pokušajte ponovno."</string>
   <string name="pb_remain_battery">Preostalo baterije</string>
   <string name="pb_section_abnormal_info">Nenormalno stanje</string>
   <string name="pb_section_battery_info">Informacije o bateriji</string>
@@ -4810,7 +4987,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_continuity_open_save_mode_notifi_title">%s baterija je slaba</string>
   <string name="pc_current_power_mode">Trenutni način rada</string>
   <string name="pc_cycle_count_protect_title">Ciklusi</string>
-  <string name="pc_dialog_dual_type_c_port_reminder_btn">Shvatam</string>
+  <string name="pc_dialog_dual_type_c_port_device_in_reminder_message">Samo jedan podatkovni uređaj može se čitati istovremeno kada su oba priključka u upotrebi. Isključite uređaj koji je trenutno spojen prije spajanja drugog.</string>
+  <string name="pc_dialog_dual_type_c_port_device_in_reminder_title">Pažnja</string>
+  <string name="pc_dialog_dual_type_c_port_reminder_btn">Razumijem</string>
   <string name="pc_dialog_dual_type_c_port_reminder_checkbox">"Ne prikazuj više"</string>
   <string name="pc_dialog_dual_type_c_port_reminder_message">"Priključak tipa C na kratkoj strani uređaja ne podržava prijenos podataka. Spojite ga na računalo s drugim priključkom."</string>
   <string name="pc_dialog_dual_type_c_port_reminder_title">Podsjetnik za punjenje</string>
@@ -5372,7 +5551,7 @@ Način otpornosti na hladnoću"</string>
   <string name="power_center_battery_hardware">Hardware %s</string>
   <string name="power_center_battery_health_poor_tip">Čini se da je stanje baterije slabo. Provjerite bateriju u ovlaštenom servisnom centru.</string>
   <string name="power_center_battery_health_summary">Potpuno napunite i ispraznite svoj uređaj %1$d-%2$d puta da biste poboljšali točnost statističkih podataka o stanju baterije</string>
-  <string name="power_center_battery_last">%1$s preostalo</string>
+  <string name="power_center_battery_last">%s preostalo</string>
   <string name="power_center_battery_level">%s napunjeno</string>
   <string name="power_center_battery_level_general">Normalno</string>
   <string name="power_center_battery_software">Software %s</string>
@@ -6296,6 +6475,15 @@ Povući suglasnost sada?"</string>
   <string name="privacy_screen_share_notification_protect_title">Sadržaj zaslona je zaštićen</string>
   <string name="privacy_screen_share_notification_title">Emitiranje sadržaja zaslona</string>
   <string name="privacy_screen_share_protect_tip">Zaštićeno</string>
+  <string name="privacy_screen_share_sheet_protect_desc">Sadržaj aplikacije bit će zamućen tijekom dijeljenja</string>
+  <string name="privacy_screen_share_sheet_protect_label">Zaštiti sadržaj zaslona %s</string>
+  <string name="privacy_screen_share_sheet_stop">Zaustavi dijeljenje</string>
+  <string name="privacy_screen_share_sheet_summary_auto_hide">Plutajuće obavijesti automatski se skrivaju</string>
+  <string name="privacy_screen_share_v2_land_subtitle">“%s” pristupa sadržaju zaslona</string>
+  <string name="privacy_screen_share_v2_notification_content">“%s” pristupa sadržaju zaslona</string>
+<string name="privacy_screen_share_v2_notification_protect_title">Sadržaj zaslona je zaštićen</string>
+<string name="privacy_screen_share_v2_notification_title">Emitiranje zaslona sadržaj</string>
+<string name="privacy_screen_share_v2_small_island_title">Dijeljenje zaslona</string>
   <string name="privacy_screen_share_tip">Emitiranje</string>
   <string name="privacy_search_key_1">Privatnost</string>
   <string name="privacy_search_key_10">ID uređaja</string>
@@ -6582,6 +6770,9 @@ Povući suglasnost sada?"</string>
   <string name="screen_share_protection_title">Pažnja</string>
   <string name="screen_share_protection_warning_icon_title">Zaštita od prijevare</string>
   <string name="screen_share_protection_warning_positive_button">Dijeli</string>
+  <string name="screen_share_search_keyword_1">Dijeljenje zaslona</string>
+  <string name="screen_share_search_keyword_2">Dijeljenje zaslona</string>
+  <string name="screen_share_search_title">Zaštita dijeljenja zaslona</string>
   <string name="screen_share_warning_button">Razumijem</string>
   <string name="screen_share_warning_positive_button">Zaustavi</string>
   <string name="screen_share_warning_summary">"Vaše dolazne obavijesti neće biti prikazane na dijeljenom zaslonu."</string>

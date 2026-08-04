@@ -181,6 +181,9 @@
   <string name="accessibility_enable">Pristupačnost</string>
   <string name="accessibility_ethernet_connected">Ethernet.</string>
   <string name="accessibility_ethernet_disconnected">Prekinuta je veza s ethernetom.</string>
+  <string name="accessibility_expanded_dark_theme_summary">Automatski primjenjuje Tamnu temu na više aplikacija radi poboljšane pristupačnosti</string>
+  <string name="accessibility_expanded_dark_theme_title">Prošireno</string>
+  <string name="accessibility_expanded_dark_theme_title_in_search">Proširena Tamna tema</string>
   <string name="accessibility_feature_shortcut_setting_summary_quick_settings">Brze postavke</string>
   <string name="accessibility_feature_state_off">Isključeno</string>
   <string name="accessibility_feature_state_on">Uključeno</string>
@@ -439,6 +442,9 @@
   <string name="accessibility_shortcut_unassigned_setting_unavailable_summary">Da biste to upotrebljavali, uključite prečac %1$s na stranici značajke pristupačnosti</string>
   <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
   <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_standard_dark_theme_summary">Primjenjuje Tamnu temu na vaš uređaj i podržane aplikacije</string>
+  <string name="accessibility_standard_dark_theme_title">Standardna</string>
+  <string name="accessibility_standard_dark_theme_title_in_search">Standardna Tamna tema</string>
   <string name="accessibility_summary_shortcut_disabled">Isključeno</string>
   <string name="accessibility_summary_shortcut_enabled">Prečac je uključen</string>
   <string name="accessibility_summary_source">Donosi Vam %s</string>
@@ -454,6 +460,11 @@
   <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
   <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="accessibility_tap_assistance_title">Kontrole tajminga</string>
+  <string name="accessibility_text_cursor_blink_rate_faster_desc">Povećaj brzinu treptanja</string>
+  <string name="accessibility_text_cursor_blink_rate_reset_button_label">Resetiraj</string>
+  <string name="accessibility_text_cursor_blink_rate_slower_desc">Smanji brzinu treptanja</string>
+  <string name="accessibility_text_cursor_blink_rate_summary">"Prilagodite brzinu treptanja kursora teksta ili isključite treptanje. Možda nije podržano u svim aplikacijama ili web-stranicama."</string>
+  <string name="accessibility_text_cursor_blink_rate_title">Treptanje kursora teksta</string>
   <string name="accessibility_text_and_display_title">Tekst i prikaz</string>
   <string name="accessibility_text_reading_confirm_dialog_message">Vaše postavke veličine prikaza i teksta vratit će se na izvorne postavke telefona.</string>
   <string name="accessibility_text_reading_confirm_dialog_reset_button">Poništi</string>
@@ -999,7 +1010,7 @@
   <string name="aon_gesture_double_press_diagram_title">Dvostrukim pritiskom reproducirajte ili pauzirajte</string>
   <string name="aon_gesture_double_press_summary">Radi s reprodukcijom zvuka i videozapisa</string>
   <string name="aon_gesture_double_press_title">Reproduciraj ili pauziraj</string>
-  <string name="aon_gesture_down_waving_diagram_summary" formatted="false">Odmaknite ruku %d–%d cm od kamere s prstima prema gore, a zatim zastanite. Kada se pojavi ikona ruke, mahnite rukom prema dolje.</string>
+  <string name="aon_gesture_down_waving_diagram_summary" formatted="false">"Provjerite jeste li u dobro osvijetljenom prostoru, a zatim držite ruku %d–%d cm ispred kamere s dlanom okrenutim prema naprijed. Nakon što je prepoznavanje uspješno, mahnite rukom prema dolje. Zatim možete upotrijebiti ovu gestu za povlačenje prstom prema dolje po zaslonu."</string>
   <string name="aon_gesture_down_waving_diagram_title">Mahnite dolje ispred ekrana</string>
   <string name="aon_gesture_draw_circle_summary_pad">Javite se ili prekinite pozive prenesene na tablet</string>
   <string name="aon_gesture_draw_circle_summary_phone">Odgovaranje i prekidanje poziva</string>
@@ -1026,7 +1037,7 @@
   <string name="aon_gesture_up_down_waving_summary">Radi s okomitim feedovima sadržaja</string>
   <string name="aon_gesture_up_down_waving_switch">Mahnite okomito za prelazak prstom gore i dolje</string>
   <string name="aon_gesture_up_down_waving_title">Prelazak prstom okomito</string>
-  <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Odmaknite ruku %d–%d cm od kamere s prstima prema dolje, a zatim zastanite. Kada se pojavi ikona ruke, mahnite rukom prema gore.</string>
+  <string name="aon_gesture_up_waving_diagram_summary" formatted="false">"Provjerite jeste li u dobro osvijetljenom prostoru, a zatim držite ruku %d–%d cm ispred kamere s dlanom okrenutim prema dolje. Nakon što je prepoznavanje uspješno, mahnite rukom prema gore. Zatim možete upotrijebiti ovu gestu za povlačenje prema gore po zaslonu."</string>
   <string name="aon_gesture_up_waving_diagram_title">Mašite ispred ekrana</string>
   <string name="aon_scanner_default_payment_method_title">Zadani način plaćanja</string>
   <string name="aon_scanner_dialog_message">"Kada uključite Quick Skener, QR kodovi koje skenirate dijelit će se s Mi AI Skenerom. Provjerite razumijete li i slažete se s ovim prije nego nastavite. QR kodovi koje skenirate neće biti pohranjeni lokalno ili preneseno u oblak. Imajte na umu da korištenje ove značajke može malo povećati ukupnu potrošnju energije."</string>
@@ -1214,7 +1225,37 @@
   <string name="app_usage_preference">Postavke upotrebe aplikacije</string>
   <string name="app_version">Verzija</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="appfunc_desc_additional_settings_accessibility_physical">Pomoćna interakcija za korisnike s motoričkim oštećenjem</string>
+<string name="appfunc_desc_additional_settings_accessibility_physical_auto_rotate_screen">Uključivanje ili isključivanje automatskog zakretanja zaslona</string>
+<string name="appfunc_desc_additional_settings_accessibility_vision">Zbirka značajki pristupačnosti za vid</string>
+<string name="appfunc_desc_additional_settings_accessibility_vision_magnification">Triput dodirnite za privremeno povećanje bilo kojeg područja</string>
+<string name="appfunc_desc_additional_settings_accessibility_vision_talkback">Uključivanje ili isključivanje usluge pristupačnosti TalkBack</string>
+<string name="appfunc_desc_additional_settings_date_and_time">Upravljanje postavkama datuma, vremena i vremenske zone</string>
+<string name="appfunc_desc_additional_settings_date_and_time_24_hour_format">Prebacivanje prikaza vremena u 24-satni format</string>
+<string name="appfunc_desc_description_about_phone">Prikaz osnovnih informacija o uređaju, statusa sustava i verzije</string>
+<string name="appfunc_desc_description_about_phone_android_version">Prikaz broja verzije Androida</string>
+<string name="appfunc_desc_description_about_phone_battery_level">Prikaz trenutnog postotka razine baterije</string>
+<string name="appfunc_desc_description_about_phone_detailed_info_and_specs">Prikaz detaljnih hardverskih specifikacija i identifikatora</string>
+<string name="appfunc_desc_description_about_phone_device_name">Prikaz ili izmjena naziva uređaja</string>
+<string name="appfunc_desc_description_about_phone_model">Prikaz službenog modela uređaja</string>
+<string name="appfunc_desc_description_about_phone_os_version">Prikaz trenutne verzije OS-a i informacija o ažuriranjima</string>
+<string name="appfunc_desc_description_about_phone_status">Prikaz statusa mreže i hardvera u stvarnom vremenu</string>
+<string name="appfunc_desc_display_brightness_font_settings">Promjena stila, veličine i debljine fonta sustava</string>
+<string name="appfunc_desc_display_brightness_font_settings_font_size">Prilagodite globalnu veličinu fonta sustava</string>
+<string name="appfunc_desc_display_brightness_refresh_rate">Prilagodite brzinu osvježavanja zaslona (60Hz/120Hz)</string>
+<string name="appfunc_desc_more_connectivity_options">Upravljajte bežičnim vezama i prijenosom podataka</string>
+<string name="appfunc_desc_more_connectivity_options_airplane_mode">Onemogućite svu bežičnu komunikaciju odjednom</string>
+<string name="appfunc_desc_more_connectivity_options_nfc">Upravljajte NFC komunikacijom bliskog polja</string>
+<string name="appfunc_desc_more_connectivity_options_nfc_on_or_off">Uključite ili isključite NFC</string>
+<string name="appfunc_desc_sound_vibration">Upravljajte zvučnim izlazom i haptičkom povratnom informacijom</string>
+<string name="appfunc_desc_sound_vibration_alarm_volume">Prilagodite glasnoću alarma</string>
+<string name="appfunc_desc_sound_vibration_haptic_feedback">Upravljajte haptičkim povratnim informacijama na dodir i tipke</string>
+<string name="appfunc_desc_sound_vibration_media_volume">Prilagodite glasnoću reprodukcije medija</string>
+<string name="appfunc_desc_sound_vibration_ringtone_volume">Prilagodite glasnoću melodije zvona</string>
+<string name="appfunc_desc_sound_vibration_silent_mode">Isključite sav zvuk odjednom</string>
+<string name="appfunc_desc_sound_vibration_vibrate_for_calls">Omogućite vibraciju tijekom zvonjave</string>
+<string name="appfunc_desc_sound_vibration_voice_assist_volume">Prilagodite glasnoću glasovnog asistenta (XiaoAi)</string>
+<string name="appfunc_volume_set_hint">Ako Ako se trenutnaVrijednost razlikuje od tražene vrijednosti, obavijestite korisnika da je zbog sistemskih ograničenja glasnoća postavljena na trenutnuVrijednost</string>
   <string name="application_data">Aplikacije</string>
   <string name="application_forbid_auto_startup">Spriječi %s od pokretanja u pozadini</string>
   <string name="application_info_label">Informacije o aplikaciji</string>
@@ -1798,6 +1839,7 @@
   <string name="battery_app_usage_since_last_full_charge_to">Korištenje aplikacije od posljednjeg potpunog punjenja do %s</string>
   <string name="battery_auto_restriction_summary">Otkrij kada aplikacije troše bateriju</string>
   <string name="battery_auto_restriction_title">Upotreba upravitelja baterije</string>
+  <string name="battery_capacity_unit_typical">mAh(typ)</string>
   <string name="battery_bg_usage">^1 u pozadini od posljednjeg potpunog punjenja</string>
   <string name="battery_bg_usage_24hr">^1 u pozadini u posljednja 24 h</string>
   <string name="battery_bg_usage_less_minute">Manje od minute u pozadini od posljednjeg potpunog punjenja</string>
@@ -4127,6 +4169,8 @@
   <string name="dark_theme_main_switch_title">Koristi tamnu temu</string>
   <string name="dark_theme_slice_subtitle">Pomaže produljiti trajanje baterije</string>
   <string name="dark_theme_slice_title">Isprobajte tamnu temu</string>
+  <string name="dark_theme_timing_category">Vrijeme</string> 
+  <string name="dark_theme_version_category">Opcije</string>
   <string name="dark_ui_activation_off_auto">Isključi do zalaska sunca</string>
   <string name="dark_ui_activation_off_custom">Isključi do %1$s</string>
   <string name="dark_ui_activation_off_manual">Odmah isključi</string>
@@ -4696,6 +4740,7 @@
   <string name="disable_overlays">Onemogući hardverska preklapanja</string>
   <string name="disable_overlays_summary">Uvijek se koristi GPU za slaganje zaslona</string>
   <string name="disable_password_warning">"Nakon što isključite zaključavanje zaslona, ​​snimljeni otisci prstiju i podaci o licu bit će izbrisani. Nećete moći otključati uređaj licem ili otiscima prstiju niti ih koristiti u Bilješkama ili Galeriji."</string>
+  <string name="disable_permission_text_by_hyper">"Ovo dopuštenje nije prošlo pregled i sada je ograničeno"</string>
   <string name="disable_phantom_process_monitor_summary">Onemogućite ograničenja upotrebe resursa sustava za podređene postupke aplikacija</string>
   <string name="disable_phantom_process_monitor_title">Onemogući ograničenja za podređene postupke</string>
   <string name="disable_power_key_long_press_under_keyguard">Isključi izbornik tipke Power</string>
@@ -5061,6 +5106,7 @@
   <string name="eid_multi_sim">EID (utor za SIM %1$d)</string>
   <string name="eighthours">8 sati</string>
   <string name="elastic_text">Upiti i padajući izbornici pojavljuju se s elastičnim skočnim prozorom koji donosi veći fokus na ove objekte</string>
+  <string name="elder_care_ai_anti_fraud">Otkrij prijevaru tijekom razgovora i primaj upozorenja</string>
   <string name="elder_care_block_advertising_promotions_calls_title">Blokiraj marketinške pozive</string>
   <string name="elder_care_block_estate_agency_calls_title">Blokiraj pozive agencija za nekretnine</string>
   <string name="elder_care_block_risky_app_title">Blokiraj rizične aplikacije</string>
@@ -5129,7 +5175,7 @@
   <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>
   <string name="enable_adb_wireless_summary">Način otklanjanja pogrešaka kad je Wi-Fi povezan</string>
   <string name="enable_angle_as_system_driver">Omogući ANGLE</string>
-  <string name="enable_angle_as_system_driver_summary">Omogućuje ANGLE kao upravljački program sistemskog ES OpenGL-a</string>
+  <string name="enable_angle_as_system_driver_summary">Upozorenje: ANGLE će biti postavljen kao zadani OpenGL ES upravljački program. Ova je značajka eksperimentalna i možda neće biti kompatibilna s nekim aplikacijama za kameru ili video. Sigurnosno kopirajte sve važne podatke prije uključivanja.</string>
   <string name="enable_atrace">Uključi ATrace</string>
   <string name="enable_atrace_summary">Snimi kernel događaje pomoću ATrace</string>
   <string name="enable_auto_data_switch_dialog_message">Omogućite uređaju da se automatski prebaci na mobilnog operatera %1$s za mobilne podatke u slučaju bolje dostupnosti.</string>
@@ -5525,12 +5571,15 @@
   <string name="eyes_protect_certification_summary_5">"Xiaomijeva prilagođena SVM kompenzacija održava SVM ispod 1 pri bilo kojoj svjetlini za ugodnije iskustvo gledanja"</string>
   <string name="eyes_protect_certification_summary_5_extended">Smanji SVM treperenje na svim razinama svjetline kako bi se smanjilo naprezanje očiju</string>
   <string name="eyes_protect_certification_summary_6">Hardverska udobnost za oči pri slabom osvjetljenju i noćnoj upotrebi. Pomaže u smanjenju naprezanja očiju i podržava zdrav ritam spavanja.</string>
+  <string name="eyes_protect_certification_summary_8">S++ certifikat za vizualnu udobnost</string> 
+  <string name="eyes_protect_certification_summary_9">Slabo plavo svjetlo (hardversko rješenje), prikladno za cirkadijane, bez treperenja i certificirano za inteligentnu njegu očiju</string>
   <string name="eyes_protect_certification_title_1">Kineski centar za certifikaciju kvalitete</string>
   <string name="eyes_protect_certification_title_2">Trostruki TÜV Rheinland certifikat za udobnost očiju</string>
   <string name="eyes_protect_certification_title_3">Prirodnija kružna polarizacija</string>
   <string name="eyes_protect_certification_title_4">DC zatamnjivanje bez treperenja</string>
   <string name="eyes_protect_certification_title_5">3840 Hz PWM zatamnjivanje</string>
   <string name="eyes_protect_certification_title_6">Minimalna svjetlina od %d-nit</string>
+  <string name="eyes_protect_certification_title_9">Četverostruki TÜV Rheinland certifikat za udobnost očiju</string>
   <string name="eyes_protect_game_title">Udobnost za oči u igrama</string>
   <string name="face_add_max">Ne možete dodati više od %d lica</string>
   <string name="face_confirmation_hide_illustration_description">Sad svojim licem možete otključati telefon kada ga podignete ili dodirnete zaslon.</string>
@@ -5669,6 +5718,9 @@
   <string name="fan_mode_partial_scene_usage">Odabrani</string>
   <string name="fan_mode_range_title">Scenariji korištenja</string>
   <string name="fan_mode_usage_scenes">Scenariji korištenja</string>
+  <string name="fan_other_features">Ostale značajke</string> 
+  <string name="fan_self_clean">Samočišćenje ventilatora</string> 
+  <string name="fan_self_clean_summary">"Ako ventilator nije radio dulje od %d dana, automatski će se očistiti dok je ekran isključen i uređaj se puni"</string>
   <string name="fast_connect_device_image">Slika</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="feature_flags_dashboard_title">Oznake značajki</string>
@@ -6003,7 +6055,7 @@
   <string name="footer_learn_more_content_description">Saznajte više o usluzi %1$s</string>
   <string name="for_diagnosis_usage_only">Ove informacije koristite samo za dijagnozu.</string>
   <string name="forbidden_network">(zabranjeno)</string>
-  <string name="forbidden_set_unlock_password_msg">Trenutno u načinu održavanja, zaporka se ne može postaviti ili mjenjati.</string>
+  <string name="forbidden_set_unlock_password_msg">"Način popravka je uključen. Sada nije moguće postaviti ili promijeniti zaporke."</string>
   <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
   <string name="force_allow_on_external_summary">Aplikacije se mogu zapisivati u vanjsku pohranu neovisno o vrijednostima manifesta</string>
@@ -6135,6 +6187,7 @@
   <string name="friday_first_day_of_week">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="frp_status_activated">Zaštita od vraćanja na tvorničke postavke je uključena</string>
   <string name="fsg_mistake_touch_summary">U nekim prizorima, kao što su igre i videozapisi na cijelom zaslonu, geste moraju biti dvostrukim povlačenjem da imaju efekat</string>
   <string name="fsg_mistake_touch_title">Dvaput provjeri za geste</string>
   <string name="full_screen_display">Cijeli zaslon</string>
@@ -6185,6 +6238,7 @@
   <string name="game_driver_dashboard_summary">Promijenite postavke upravljačkog programa za igru</string>
   <string name="game_driver_dashboard_title">Postavke upravljačkog programa za igru</string>
   <string name="game_driver_footer_text">Kada je upravljački program za igru uključen, možete odabrati korištenje ažuriranog upravljačkog programa za grafiku za aplikacije instalirane na uređaju.</string>
+ <string name="game_eyecare_empty_list_tip">Nema ništa ovdje</string>
   <string name="game_king_of_glory_moments">Ubojstva, pobjede i drugi ključni trenuci</string>
   <string name="game_mode_cta_dialog_agree">Prihvaćam</string>
   <string name="game_mode_cta_dialog_cancel">Odustani</string>
@@ -8855,6 +8909,7 @@
   <string name="miui_master_clear_summary">Briše sve podatke na ovom uređaju</string>
   <string name="miui_more_special_feature">Istražite nove značajke</string>
   <string name="miui_nfc_dialog_message">"Ako isključite NFC, nećete moći koristiti značajke NFC-a koje uključuju Mi Pay, transportne kartice, ključ-kartice i još mnogo toga. Svejedno isključiti?"</string>
+  <string name="miui_nfc_dialog_message_gl">"Nećete moći koristiti NFC značajke, uključujući čitanje i pisanje NFC oznaka, korištenje pristupnih kartica i više, ako isključite NFC. Svejedno isključiti?"</string>
   <string name="miui_nfc_dialog_negative">Isključi</string>
   <string name="miui_nfc_dialog_positive">Odustani</string>
   <string name="miui_nfc_dialog_title">Isključivanje NFC-a</string>
@@ -9735,6 +9790,8 @@
   <string name="night_display_temperature_title">Intenzitet</string>
   <string name="night_display_text">Noćno svjetlo boji zaslon uređaja u jantarnu nijansu. To olakšava gledanje zaslona i čitanje pri slabom svjetlu i može vam pomoći da lakše zaspite.</string>
   <string name="night_display_title">Noćno svjetlo</string>
+  <string name="night_eye_protection_summary">Automatski smanji svjetlinu nakon što zaspite radi vaše udobnosti kada se probudite da noću gledate u svoj uređaj</string> 
+  <string name="night_eye_protection_title">Ugoda za oči tijekom noći</string>
   <string name="night_light">Noćni način</string>
   <string name="night_light_brightness">Jačina osvjetljenja</string>
   <string name="night_light_color">Boja</string>
@@ -10661,6 +10718,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="popup_window">Ograniči plutajuće obavijesti</string>
   <string name="post_dsds_reboot_notification_text">Dodirnite da biste ažurirali postavke SIM-a</string>
   <string name="post_dsds_reboot_notification_title_with_carrier">%1$s je aktivan</string>
+  <string name="post_reset_google_verification">Nakon vraćanja na tvorničke postavke, prijavite se s Google računom koji ste prethodno koristili na ovom uređaju da postavite zaporku.</string>
   <string name="power_apps">Aplikacije</string>
   <string name="power_autorun_apps_empty">Prazno</string>
   <string name="power_autorun_empty">Prazno</string>
@@ -11429,7 +11487,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="reading_settings">Čitanje postavki…</string>
   <string name="really_remove_account_message">Uklanjanjem ovog računa izbrisat će se sve njegove poruke, kontakti i ostali podaci s telefona!</string>
   <string name="really_remove_account_title">Želite li ukloniti račun?</string>
-  <string name="reboot_dialog_enable_angle_as_system_driver">Potrebno je ponovno pokretanje za promjenu upravljačkog programa sistemskog ES OpenGL-a</string>
+  <string name="reboot_dialog_enable_angle_as_system_driver">Za promjenu upravljačkog programa OpenGL ES sustava, uređaj će se ponovno pokrenuti. Prije ponovnog pokretanja sigurnosno kopirajte sve važne podatke. Ako ponovno pokretanje ne uspije, bit će potrebno vraćanje na tvorničke postavke za korištenje uređaja.</string>
   <string name="reboot_dialog_enable_desktop_mode_on_secondary_display">Potrebno je ponovno pokretanje kako bi se omogućili prozori slobodnog oblika na sekundarnim zaslonima.</string>
   <string name="reboot_dialog_enable_freeform_support">Za omogućivanje podrške slobodnom obliku potrebno je ponovno pokretanje.</string>
   <string name="reboot_dialog_force_desktop_mode">Za prisilno uključivanje načina radne površine na sekundarnim zaslonima potrebno je ponovno pokretanje.</string>
@@ -13445,6 +13503,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="sound_assist_key_title">Prilagodite zvuk medija u više aplikacija</string>
   <string name="sound_assist_summary">Prilagodite svoje postavke zvuka</string>
   <string name="sound_assist_title">Zvučni pomoćnik</string>
+  <string name="sound_audio_category_title">Zvuk</string>
   <string name="sound_category_call_ringtone_vibrate_title">Melodija zvona i vibriranje za poziv</string>
   <string name="sound_category_calls_and_notification_title">Melodija zvona &amp; zvuk obavijesti</string>
   <string name="sound_category_notification_title">Obavijesti</string>
@@ -13454,7 +13513,8 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="sound_dashboard_summary_with_dnd">Glasnoća, vibracija, Ne uznemiravaj</string>
   <string name="sound_effects_enable_title">Zvukovi dodira</string>
   <string name="sound_haptic_settings">Zvuk i dodir</string>
-  <string name="sound_mode">Bešumni način</string>
+  <string name="sound_mode">Opcije zvuka</string>
+  <string name="sound_patterns_category_title">Zvučni uzorci</string>
   <string name="sound_settings">Zvuk i vibracija</string>
   <string name="sound_settings_example_summary">Glasnoća zvona i obavijesti na 80%</string>
   <string name="sound_settings_summary">Glasnoća zvona i obavijesti na %1$s</string>
@@ -14314,6 +14374,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="system_print_service_help">O ispisu</string>
   <string name="system_shortcut_wake">Probudi sa prečacima tipki</string>
   <string name="system_sound_effect_settings">Zvukovi sustava</string>
+  <string name="system_sounds_and_vibrations_category_title">Zvukovi sustava &amp; vibracije</string>
   <string name="system_storage">Unutarnja pohrana</string>
   <string name="system_touch">Haptična povratna informacija</string>
   <string name="system_ui_settings">Prikaži Prijamnik kor. suč.</string>
@@ -17035,6 +17096,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="work_profile_disable_password">Isključi zaporku poslovnog profila</string>
   <string name="work_profile_notification_access_blocked_summary">Blokiran je pristup obavijestima poslovnog profila</string>
   <string name="work_profile_show_pattern">Prikaži uzorak</string>
+  <string name="work_profile_sound_category_title">Zvuk radnog profila</string>
   <string name="work_profile_usage_access_warning">Isključivanje pristupa upotrebi za tu aplikaciju ne sprječava administratora da prati upotrebu podataka za aplikacije na vašem radnom profilu.</string>
   <string name="work_ringtone_title">Melodija zvona poslovnog telefona</string>
   <string name="work_sim_title">Radni SIM</string>
@@ -17070,6 +17132,7 @@ Postavke > Sigurnost i hitni slučajevi > Bežična upozorenja u hitnim slučaje
   <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog operatera da vam otključa vaš uređaj.</string>
   <string name="xiao_mi_hyperos_ai">Xiaomi HyperAI</string>
   <string name="xiao_mi_hyperos_ai_ex_summary">Isključivanjem ovog prečaca isključit ćete i Xiaomi Hyper XiaoAi, AI pisanje, AI pozadine, AI prevođenje razgovora i ostale AI značajke u Postavkama</string>
+  <string name="xiao_mi_hyperos_ai_ex_summary_new">Isključivanje ovog prečaca također će isključiti Xiaomi Hyper XiaoAi, AI pisanje i druge AI značajke u postavkama</string>
   <string name="xiaoai_global_shortcut">Općenito</string>
   <string name="xiaoai_key_shortcut">Tipke</string>
   <string name="xiaoai_other_shortcut">Ostale metode</string>

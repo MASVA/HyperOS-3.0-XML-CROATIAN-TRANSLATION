@@ -158,7 +158,12 @@
   <string name="duplicate_passwords_summary">Zaporka se koristi za više aplikacija</string>
   <string name="empty_fragment_tip">Nije odabrana nijedna stavka</string>
   <string name="error_a11y_label">Pogreška: nevažeće</string>
+  <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
+  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Xiaomi računom.</string>
   <string name="error_icon_content_description">Pogreška</string>
+  <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
+  <string name="error_title">"Sinkronizacija nije uspjela"</string>
+  <string name="error_unauthorized">Sinkronizacija je onemogućena zbog previše pokušaja prijave.</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="hide_password_talkback">Sakrij zaporku</string>
@@ -170,8 +175,8 @@
   <string name="installed_app_list_dialog_title">Odaberi aplikaciju</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="leaked_passwords_summary">Zaporka je možda kompromitirana</string>
-  <string name="list_page_empty_hint">Ovdje još ništa</string>
-  <string name="main_page_title">Zaporke</string>
+  <string name="list_page_empty_hint">Ovdje nema ništa</string>
+  <string name="main_page_title">Zaporka</string>
   <string name="material_clock_toggle_content_description">Odaberite AM ili PM</string>
   <string name="micloud_main_network_error">Došlo je do mrežne pogreške. Provjerite mrežne postavke.</string>
   <string name="migrate_cloud_dialog_title">Sinkronizacija…</string>
@@ -408,6 +413,13 @@
   <string name="search_menu_title">Traži</string>
   <string name="searchview_clear_text_content_description">Izbriši tekst</string>
   <string name="searchview_navigation_content_description">Natrag</string>
+  <string name="security_chip_confirm">Shvaćam</string>
+  <string name="security_chip_data_protect">Podaci zaštićeni sigurnosnim čipom</string>
+  <string name="security_chip_double_cert">Koristi sigurnosni čip certificiran prema međunarodnim CC i nacionalnim standardima kako bi se oduprlo fizičkim napadima</string>
+  <string name="security_chip_hardware_encrypt">Šifriranje na razini hardvera</string>
+  <string name="security_chip_root_key_protect">"Korijenski ključevi zaštićeni su namjenskim sigurnosnim čipom i ne mogu im pristupiti sustav ili aplikacije trećih strana"</string>
+  <string name="security_chip_safe_box">Sigurna pohrana podržana hardverom</string>
+  <string name="security_chip_title">Sigurni čip</string>
   <string name="security_detection_notification_des">Jedna od vaših zaporki je možda kompromitirana. Promijenite je što je prije moguće.</string>
   <string name="security_detection_notification_title">Upozorenje o sigurnosti zaporke</string>
   <string name="security_setting_password_duplication_pref_subtitle">Provjerite koristi li se vaša zaporka za više računa</string>

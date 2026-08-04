@@ -204,6 +204,7 @@
   <string name="daily_forecast_next_15_days">Prognoza za sljedećih 15 dana</string>
   <string name="daily_forecast_no_data">"Ne mogu dobiti informacije o vremenu
 Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
+  <string name="dart_sun_time_remaining_hours_minutes_3">Za %1$s %2$s</string>
   <string name="data_provided_by">Podaci dobiveni od</string>
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ssz"</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>

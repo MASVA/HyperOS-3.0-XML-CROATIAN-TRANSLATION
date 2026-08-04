@@ -328,6 +328,7 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_channel_name">Obavijesti o prijenosu</string>
   <string name="onehop_connecting_tips">Povezivanje…</string>
+  <string name="onehop_empty_note_cannot_share">"Ne mogu dijeliti prazne bilješke"</string>
   <string name="onehop_file_security_tips">Uklanjanje osobnih podataka…</string>
   <string name="onehop_option_send_confirm">Pošalji</string>
   <string name="onehop_recv_tips">Čekanje da druga osoba podijeli stavke…</string>

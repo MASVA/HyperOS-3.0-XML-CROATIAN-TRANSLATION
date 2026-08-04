@@ -24,6 +24,29 @@
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
     </string-array>
+	<string-array name="dart_realtime_humidity_status">
+		<item>Osušite se, ostanite hidrirani</item> 
+		<item>Udobno</item> 
+		<item>Vlažno, koristite odvlaživač zraka</item>
+    </string-array>
+    <string-array name="dart_realtime_temperature_status">
+		<item>Ekstremno hladno, ostanite u kući</item> 
+		<item>Jako hladno, zaštite se od ozeblina</item> 
+		<item>Jako hladno, dobro se obucite</item> 
+		<item>Hladno, dodajte slojeve odjeće</item> 
+		<item>Cool, ostani na toplom</item> 
+		<item>Udobno</item> 
+		<item>Toplo, ostanite na hladnom</item> 
+		<item>Vruće, ostanite hidrirani</item> 
+		<item>Ekstremno vruće, upozorenje na toplinski val</item>
+    </string-array>
+    <string-array name="dart_realtime_uv_level">
+		<item>Nizak, nije potrebna krema za sunčanje</item> 
+		<item>Umjeren, nosite kremu za sunčanje</item> 
+		<item>Visok, nosite kremu za sunčanje</item> 
+		<item>Vrlo visok, nosite kremu za sunčanje</item> 
+		<item>Ekstreman, nosite kremu za sunčanje</item>
+    </string-array>
     <string-array name="dislike_alert_dialog_selectitems">
         <item>Nisam zainteresiran</item>
         <item>Loša kvaliteta sadržaja</item>

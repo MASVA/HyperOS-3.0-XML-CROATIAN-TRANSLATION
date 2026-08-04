@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">prije %d sati</item>
     </plurals>
@@ -54,6 +57,9 @@
         <item quantity="one">Unesite do %d znaka</item>
         <item quantity="other">Unesite do %d znakova</item>
     </plurals>
+	<plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
     <plurals name="hot_news_create_time_days_ago">
         <item quantity="one">prije %1$d dan</item>
         <item quantity="other">prije %1$d dana</item>
@@ -65,6 +71,10 @@
     <plurals name="hot_news_create_time_mins_ago">
         <item quantity="one">prije %1$d min.</item>
         <item quantity="other">prije %1$d min.</item>
+    </plurals>
+	<plurals name="hour">
+        <item quantity="one">"%dh "</item>
+        <item quantity="other">"%dh "</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Za 1 sat</item>
@@ -79,6 +89,9 @@
         <item quantity="one">za 1 minutu</item>
         <item quantity="other">za %d minuta</item>
     </plurals>
+	<plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
     <plurals name="minute">
         <item quantity="one">"%dm "</item>
         <item quantity="other">"%dm "</item>
@@ -90,6 +103,10 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="one">%d nova obavijest</item>
         <item quantity="other">%d novih obavijesti</item>
+    </plurals>
+	<plurals name="num_minutes_ago">
+        <item quantity="one">prije 1 minute</item>
+        <item quantity="other">prije %d min.</item>
     </plurals>
     <plurals name="quick_link_guide_participated">
         <item quantity="one">%d osoba je odgovorila</item>

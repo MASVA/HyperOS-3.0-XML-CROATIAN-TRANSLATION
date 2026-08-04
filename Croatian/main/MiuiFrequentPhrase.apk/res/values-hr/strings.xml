@@ -37,6 +37,9 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="add_common_phrases">Dodaj čestu frazu</string>
   <string name="add_frequent_phrases">Dodaj česte fraze</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -79,6 +82,8 @@
   <string name="input_method_clipboard_copy_success">Uspješno kopirano</string>
   <string name="input_method_clipboard_delete_success">Uspješno izbrisano</string>
   <string name="input_method_clipboard_list_loading">Samo trenutak…</string>
+  <string name="input_method_clipboard_load_fail">"Sinkronizacija nije uspjela. Pokušajte ponovno."</string>
+  <string name="input_method_clipboard_loading">Sinkronizacija sadržaja s drugog uređaja…</string>
   <string name="input_method_clipboard_move_cursor_guide1">Pritisnite i držite plavo područje za pomicanje kursora</string>
   <string name="input_method_clipboard_move_cursor_guide2">Pomičite prst vodoravno</string>
   <string name="input_method_clipboard_participle">Odvojene riječi</string>
@@ -123,6 +128,7 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -226,5 +232,6 @@
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="xiaomi_voice_keyboard_name">Xiaomi pametna glasovna tipkovnica</string>
   <string name="yesterday">Jučer</string>
 </resources>
