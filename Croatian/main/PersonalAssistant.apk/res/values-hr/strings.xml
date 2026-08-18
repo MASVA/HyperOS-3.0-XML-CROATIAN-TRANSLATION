@@ -281,6 +281,7 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_accessibility_picker_widget_detail_select_image_single">%s, dvaput dodirnite za korištenje ovog elementa u widgetu</string>
   <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
   <string name="pa_app_label">Zaklj. aplikacija</string>
+  <string name="pa_app_recommend_menu_title">"Ne predlaži %s"</string>
   <string name="pa_back_screen_travel_preference_summary_reminder">Prikaži podsjetnike za putovanja vlakovima i letovima na stražnjem zaslonu</string>
   <string name="pa_back_screen_travel_preference_title_reminder">Podsjetnici za putovanja na stražnjem zaslonu</string>
   <string name="pa_base_time_just_now">Upravo sada</string>
@@ -1149,6 +1150,7 @@ Dodajte widgete za početak."</string>
   <string name="pa_vertical_right">Okomiti izgled. Poravnano udesno.</string>
   <string name="pa_widget_advert_loading_dialog_message">Samo trenutak…</string>
   <string name="pa_widget_menu_edit_card_in_stack">Uređivanje \"%s\"</string>
+  <string name="pa_widget_menu_edit_city">Odaberi lokaciju</string>
   <string name="pa_widget_menu_edit_stack">Uređivanje grupe</string>
   <string name="pa_widget_menu_improve_edit">Uredi</string>
   <string name="pa_widget_menu_improve_remove">Ukloni</string>

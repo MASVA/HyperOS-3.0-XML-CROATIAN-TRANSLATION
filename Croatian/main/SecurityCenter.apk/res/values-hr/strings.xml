@@ -1699,6 +1699,7 @@ Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
   <string name="connected_devices_screen_title">"Dopustiti uređaju iznad da pregledava sadržaj zaslona ovog uređaja i komunicira s njim?"</string>
   <string name="connected_interconnection">Međupovezanost</string>
   <string name="connecting">Povezivanje…</string>
+  <string name="contacts_will_also_be_blocked">Uključujući kontakte</string>
   <string name="continue_install">Instaliraj</string>
   <string name="continue_set">Nastavi</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
@@ -4886,6 +4887,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pb_data_fetch_all_error">"Nije moguće pročitati podatke. Power bank je možda isključen ili nije podržan."</string>
   <string name="pb_data_fetch_all_error_new">"Nije moguće pročitati podatke. Power bank je možda isključen ili nije podržan. Ako je isključen, ponovno spojite kabel za punjenje i pokušajte ponovno."</string>
   <string name="pb_data_fetch_partial_error">"Neke stavke nisu dostupne zbog kašnjenja ili nepodržanog power bank-a"</string>
+  <string name="pb_data_fetch_partial_error_new">"Neke stavke nisu dostupne zbog kašnjenja ili nepodržane power bank baterije"</string>
   <string name="pb_manufacturer">Proizvođač</string>
   <string name="pb_measure_point">Senzor %1$d</string>
   <string name="pb_production_date">Datum proizvodnje</string>
@@ -5262,6 +5264,7 @@ Način otpornosti na hladnoću"</string>
   <string name="permission_action_virtual">Vrati prazne poruke</string>
   <string name="permission_action_virtual_common_summary">Odobrava aplikacijama potrebna dopuštenja, ali vraća prazne poruke kako biste zaštitili svoju privatnost</string>
   <string name="permission_action_virtual_phone_summary">"Dodijelite aplikacijama relevantna dopuštenja, ali im ne dopustite pristup stvarnom telefonskom broju SIM kartice"</string>
+  <string name="permission_changed_retry">Promijenjena dopuštenja. Ponovno pokrenite aplikacije.</string>
   <string name="permission_close_permission_control_dialog_msg">"Kada je Upravitelj dopuštenja isključen, aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja."</string>
   <string name="permission_close_permission_control_dialog_title">Isključiti?</string>
   <string name="permission_exception_title">Ograničena veza za aplikacije</string>
@@ -7389,6 +7392,7 @@ Povući suglasnost sada?"</string>
   <string name="status_bar_network_flow_phone_balance">"  Stanje:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"  Kupi &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"  Postavi podatkovni plan &gt;"</string>
+  <string name="still_need_start">Blokiraj</string>
   <string name="status_bar_network_flow_today">Danas: %1$s</string>
   <string name="still_retain_btn">Zadrži</string>
   <string name="stop_app_button">Zaustavi</string>

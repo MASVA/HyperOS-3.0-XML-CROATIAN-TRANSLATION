@@ -102,10 +102,10 @@
   <string name="backup_suspend_summary_phone">Veza je prekinuta. Nakon što se vaš telefon nađe na istoj mreži kao i SmartStorage uređaj, sigurnosna kopija će se automatski nastaviti.</string>
   <string name="backup_suspend_title">Sigurnosna kopija pauzirana. Ponovno povezivanje…</string>
   <string name="backup_tab">Sigurnosna kopija</string>
-  <string formatted="false" name="backup_tips_dialog_summary">"%d. Dvostruke aplikacije i privatne stavke nisu podržane.
-%d. Ova sigurnosna kopija uključuje samo podatke do sada. Novi podaci neće biti uključeni.
-%d. Trenutno odabrani podaci sigurnosne kopije: %s. Vraćanje zahtijeva barem dvostruko više prostora, koji će se automatski osloboditi nakon što se vraćanje završi."</string>
-  <string name="backup_tips_dialog_title">Imajte na umu</string>
+  <string name="backup_tips_dialog_summary">"Dvostruke aplikacije i privatne stavke nisu podržane. Ova sigurnosna kopija uključuje samo podatke do sada. Novi podaci neće se automatski sinkronizirati."</string>
+  <string name="backup_tips_dialog_summary_nas">"%1$d. Dvostruke aplikacije i privatne stavke nisu podržane.
+%2$d. Ova sigurnosna kopija uključuje samo podatke stvorene prije početka sigurnosne kopije. Novi podaci dodani kasnije neće biti uključeni.
+%3$d. Odabrali ste %4$s podataka za sigurnosno kopiranje. Za vraćanje je potrebno najmanje %5$d puta više slobodnog prostora, koji će se automatski osloboditi nakon što je vraćanje dovršeno."</string>  <string name="backup_tips_dialog_title">Imajte na umu</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
@@ -557,17 +557,17 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="nas_backup_title">SmartStorage</string>
   <string name="nas_cancel_button">Odustani</string>
   <string name="nas_connecting_progress_dialog">Povezivanje sa SmartStorageom…</string>
-  <string formatted="false" name="nas_disconnect_dialog_summary_pad">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
-  %d. Je li uređaj SmartStorage online.
-  %d. Vaš je tablet spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
-  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​tablet tijekom izrade sigurnosnih kopija ili vraćanja podataka).
-  %d. Provjerite je li Međusobna povezanost uključena i na tabletu i na SmartStorage uređaju.</string>
-  <string formatted="false" name="nas_disconnect_dialog_summary_phone">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
-  %d. Je li uređaj SmartStorage online.
-  %d. Vaš je telefon spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
-  %d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​telefon tijekom izrade sigurnosnih kopija ili vraćanja podataka).
-  %d. Provjerite je li Međusobna povezanost uključena i na telefonu i na SmartStorage uređaju.</string>
-  <string name="nas_disconnect_dialog_title">"Nije moguće povezati se sa SmartStorageom"</string>
+  <string name="nas_disconnect_dialog_summary_pad">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
+%1$d. SmartStorage uređaj je online.
+%2$d. Vaš tablet je spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
+%3$d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​tablet tijekom izrade sigurnosnih kopija ili vraćanja podataka).
+%4$d. Provjerite je li Međusobna povezanost uključena i na tabletu i na SmartStorage uređaju."</string>
+  <string name="nas_disconnect_dialog_summary_phone">"Da biste koristili SmartStorage za sigurnosne kopije i vraćanje podataka, provjerite:
+%1$d. SmartStorage uređaj je online.
+%2$d. Vaš telefon je spojen na Wi-Fi i na istu mrežu kao i SmartStorage uređaj.
+%3$d. Mreža je stabilna. (Nemojte ponovno pokretati ili isključivati ​​telefon tijekom izrade sigurnosnih kopija ili vraćanja podataka).
+%4$d. Provjerite Međusobna povezanost je uključena i na vašem telefonu i na SmartStorage uređaju."</string>
+  <string name="nas_disconnect_dialog_title">"Povezivanje nije moguće"</string>
   <string name="nas_low_memory_progress_backup_summary_nas">Nema dovoljno prostora u SmartStorageu. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
   <string name="nas_low_memory_progress_backup_summary_pad">Nema dovoljno prostora za pohranu tableta. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
   <string name="nas_low_memory_progress_backup_summary_phone">Nema dovoljno prostora za pohranu telefona. Oslobodite prostor i dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
@@ -999,7 +999,7 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>
-  <string name="restore_suspend_fail_summary_pad">Veza je prekinuta. Provjerite je li vaš tablet na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
+  <string name="restore_suspend_fail_summary_pad">Veza je prekinuta. Provjerite je li vaš tablet na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak sigurnosne kopije.</string>
   <string name="restore_suspend_fail_summary_phone">Veza je prekinuta. Provjerite je li vaš telefon na istoj mreži kao i SmartStorage uređaj, a zatim dodirnite \"Pokušaj ponovno\" za nastavak vraćanja.</string>
   <string name="restore_suspend_summary_pad">Veza je prekinuta. Vraćanje je pauzirano. Nakon što se vaš tablet poveže na istu mrežu kao i SmartStorage uređaj, vraćanje će se automatski nastaviti.</string>
   <string name="restore_suspend_summary_phone">Veza je prekinuta. Vraćanje je pauzirano. Nakon što se vaš telefon poveže na istu mrežu kao i SmartStorage uređaj, vraćanje će se automatski nastaviti.</string>

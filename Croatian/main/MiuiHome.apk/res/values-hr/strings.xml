@@ -178,6 +178,7 @@
   <string name="app_drawer_guide_title">Ladica aplikacija</string>
   <string name="app_drawer_tip_title">"Feed sadržaja zamijenili smo ladicom za aplikacije."</string>
   <string name="app_edit_icon">Uredi ikonu</string>
+  <string name="app_recommend_menu_title">"Ne predlaži \"%s\""</string>
   <string name="app_install_state">Instalirano</string>
   <string name="application_name">Pokretač</string>
   <string name="apply">Postavi</string>
@@ -1115,6 +1116,7 @@ Poboljšana sigurnost."</string>
   <string name="system_sdk_disabled_toast">SDK sustava je onemogućen. Prvo ga omogućite.</string>
   <string name="system_shortcuts_dislike">"Ovo mi se ne sviđa"</string>
   <string name="system_shortcuts_edit">Uredi</string>
+  <string name="system_shortcuts_edit_city">Odaberi lokaciju</string>
   <string name="system_shortcuts_icon_remove">Ukloni</string>
   <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
   <string name="system_shortcuts_remove">Ukloni</string>

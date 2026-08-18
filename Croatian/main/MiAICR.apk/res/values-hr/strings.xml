@@ -160,6 +160,9 @@
   <string name="copy_direct_action_xunlei">Otvori Xunlei</string>
   <string name="copy_direct_app_alipay">Alipay</string>
   <string name="copy_direct_app_baidu">Baidu karte</string>
+  <string name="copy_direct_appinstall">Instaliraj</string>
+  <string name="copy_direct_app_upgrade">Ažuriranje</string>
+  <string name="copy_direct_app_website">Preglednik</string>
   <string name="copy_direct_button_address_preferred_app">Preferirana aplikacija</string>
   <string name="copy_direct_button_address_preferred_app_baidu">Baidu</string>
   <string name="copy_direct_button_address_preferred_app_gaode">Karta</string>
@@ -178,8 +181,12 @@
   <string name="copy_direct_icon_address_content">Idi na: %1$s</string>
   <string name="copy_direct_icon_default_content">Prepoznat je prečac međuspremnika. Dodirnite za prikaz u aplikaciji.</string>
   <string name="copy_direct_icon_express_content">Dostava: %1$s</string>
-  <string name="copy_direct_icon_open">Otvoreno%1$s</string>
-  <string name="copy_direct_permission_default_desc_confirm">Shvaćam</string>
+  <string name="copy_direct_icon_open">Otvori %1$s</string>
+  <string name="copy_direct_install_guide_content">Instalirajte aplikaciju da biste mogli pregledavati</string>
+  <string name="copy_direct_install_guide_sheet_title">Instalirajte aplikaciju da biste mogli koristiti ovu uslugu</string>
+  <string name="copy_direct_install_guide_title">Preuzmite %1$s za pregled</string>
+  <string name="copy_direct_install_guide_title_app">Preuzmite aplikaciju za pregled</string>
+  <string name="copy_direct_permission_default_desc_confirm">Razumijem</string>
   <string name="copy_direct_permission_default_desc_recognize">"Kada kopirate sadržaj, prečac međuspremnika identificirat će relevantne usluge i otvoriti prečac. "</string>
   <string name="copy_direct_permission_default_desc_recognize1">"Ako vam ova usluga nije potrebna, možete je isključiti u Postavkama."</string>
   <string name="copy_direct_permission_default_desc_setting">Postavke</string>

@@ -1276,6 +1276,12 @@ Dodirnite zaslon i odaberite Slažem se za normalnu upotrebu."</string>
   <string name="kg_wallpaper_scroll_type_disable_tips">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
   <string name="kg_wallpaper_scroll_type_tips">Pomicanje pozadine</string>
   <string name="kg_word_spacing">Razmak između znakova</string>
+  <string name="kuyin_auth_btn_login">Prijava</string>
+  <string name="kuyin_auth_btn_switch_phone">Više opcija</string>
+  <string name="kuyin_auth_protocol_text"><Data>"Pročitao/la sam i slažem se s &lt;a href=\"%1$s\">Ugovorom o korištenju Xiaomi računa&lt;/a> i &lt;a href=\"%2$s\">Pravilima o privatnosti Xiaomi računa&lt;/a>."</Data></string>
+  <string name="kuyin_auth_subtitle">Ova usluga zahtijeva pristup telefonskom broju povezanom s vašim računom</string>
+  <string name="kuyin_auth_title">Dopusti pristup za kuyinring</string>
+  <string name="kuyin_auth_toast_need_agree">Prvo prihvatite naše uvjete i odredbe</string>
   <string name="kuyin_user_agreement_content">Pretplate za prilagođene melodije zvona pruža iFlytek. Morate prihvatiti %s prije korištenja prilagođenih pretplata za melodije zvona. Prihvaćate?</string>
   <string name="kuyin_user_agreement_content_href">iFlytek Pravila o privatnosti</string>
   <string name="lab">Laboratorij za teme</string>
