@@ -34,8 +34,8 @@
         <item quantity="one">Odgodi alarm na %d min</item>
     </plurals>
 	 <plurals name="alarms_count">
-        <item quantity="other">%s smjena</item>
-        <item quantity="one">%s smjena</item>
+        <item quantity="other">%s puta</item>
+        <item quantity="one">%s put</item>
      </plurals>
     <plurals name="day">
         <item quantity="other">%d dana</item>

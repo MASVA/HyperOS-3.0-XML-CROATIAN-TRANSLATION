@@ -311,7 +311,7 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="nearby_share">Dijeljenje u blizini</string>
   <string name="nfc_check_the_touch_device">Za povezivanje uređaja Wi-Fi i Bluetooth trebaju biti uključeni i na drugom uređaju. Provjerite je li veza za drugi uređaj dopuštena u Postavke &gt; Veza &amp; dijeljenje &gt; Povezani uređaji i pokušajte ponovno.</string>
   <string name="nfc_check_the_touch_device_china">Za povezivanje uređaja Wi-Fi i Bluetooth trebaju biti uključeni i na drugom uređaju. Provjerite je li veza za drugi uređaj dopuštena u Postavke &gt; Veza &amp; dijeljenje &gt; Povezani uređaji i pokušajte ponovno.</string>
-  <string name="nfc_connect_fail">"Nije moguće povezati se. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
+  <string name="nfc_connect_fail">Veza nije uspjela. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="nfc_connect_fail_lyra_secure">"Možete uključiti Xiaomi Share u centru za kontrolu svog uređaja."</string>
   <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share je isključen</string>
   <string name="nfc_connect_fail_pad">"Nije moguće povezati se"</string>
@@ -503,6 +503,18 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="tap_share_wifi_password_describe_china">"Za dijeljenje Wi-Fi mreže na koju ste povezani, otvorite popis Wi-Fi mreža za korištenje opcije Dodirni za dijeljenje ili dodirnite povezanu Wi-Fi mrežu za otvaranje izbornika dijeljenja."</string>
   <string name="tap_share_wifi_password_title">Dijeli zaporku za Wi-Fi</string>
   <string name="tap_share_wifi_password_title_china">Dijeli zaporku za Wi-Fi</string>
+  <string name="tap_share_with_car_condition_describe_os4">"%1$d. Instalirajte i konfigurirajte službenu NFC oznaku na svom Xiaomi Auto uređaju slijedeći upute.
+%2$d. Ažurirajte operativni sustav svog Xiaomi telefona na Xiaomi HyperOS 4.0.1 ili noviji. Također možete pretražiti "Tap to Share" u Postavkama kako biste vidjeli podržava li vaš model ovu značajku.
+%4$d. Provjerite jesu li i zasloni vašeg telefona i vozila uključeni i otključani, a zatim aktivirajte NFC, Bluetooth, Wi-Fi i značajku "Tap to Share"."</string>
+ <string name="tap_share_with_car_condition_describe_os4_china">"%1$d. Instalirajte i konfigurirajte službenu NFC oznaku na svom Xiaomi Auto uređaju slijedeći upute.
+%2$d. Ažurirajte operativni sustav svog Xiaomi telefona na Xiaomi HyperOS 4.0.1 ili noviji. Također možete pretražiti "Tap to Share" u Postavkama kako biste vidjeli podržava li vaš model ovu značajku.
+%4$d. Provjerite jesu li zasloni vašeg telefona i vozila uključeni i otključani, zatim omogućite NFC, Bluetooth, Wi-Fi i značajku "Dodirni za dijeljenje".</string>
+ <string name="tap_share_with_other_android_phone_condition_describe_os4">"%1$d. Ažurirajte operativni sustav svog Xiaomi telefona na Xiaomi HyperOS 4.0.1 ili noviji.
+%2$d. Ažurirajte svoj OPPO, vivo ili Honor telefon na najnoviju verziju. Provjerite postavke telefona kako biste vidjeli gdje se nalazi NFC područje.
+%4$d. Provjerite jesu li oba uređaja otključana i imaju li omogućene NFC, Bluetooth, Wi-Fi i "Dodirni za dijeljenje"."</string>
+ <string name="tap_share_with_other_android_phone_condition_describe_os4_china">"%1$d. Ažurirajte operativni sustav svog Xiaomi telefona na Xiaomi HyperOS 4.0.1 ili noviji.
+%2$d. Ažurirajte svoj OPPO, vivo ili Honor telefon na najnoviju verziju. Provjerite postavke telefona kako biste vidjeli gdje se nalazi NFC područje.
+%4$d. Provjerite jesu li oba uređaja otključana i imaju li omogućene NFC, Bluetooth, Wi-Fi i "Dodirni za dijeljenje".</string>
   <string name="tapshare_receive_describe_wifi">Povezivanje s \"%1$s\"</string>
   <string name="throwing_print">Ispis</string>
   <string name="throwing_screen">Emitiraj</string>

@@ -105,7 +105,8 @@
   <string name="backup_tips_dialog_summary">"Dvostruke aplikacije i privatne stavke nisu podržane. Ova sigurnosna kopija uključuje samo podatke do sada. Novi podaci neće se automatski sinkronizirati."</string>
   <string name="backup_tips_dialog_summary_nas">"%1$d. Dvostruke aplikacije i privatne stavke nisu podržane.
 %2$d. Ova sigurnosna kopija uključuje samo podatke stvorene prije početka sigurnosne kopije. Novi podaci dodani kasnije neće biti uključeni.
-%3$d. Odabrali ste %4$s podataka za sigurnosno kopiranje. Za vraćanje je potrebno najmanje %5$d puta više slobodnog prostora, koji će se automatski osloboditi nakon što je vraćanje dovršeno."</string>  <string name="backup_tips_dialog_title">Imajte na umu</string>
+%3$d. Odabrali ste %4$s podataka za sigurnosno kopiranje. Za vraćanje je potrebno najmanje %5$d puta više slobodnog prostora, koji će se automatski osloboditi nakon što je vraćanje dovršeno."</string> 
+  <string name="backup_tips_dialog_title">Imajte na umu</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>

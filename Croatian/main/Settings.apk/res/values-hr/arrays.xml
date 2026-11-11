@@ -2082,7 +2082,6 @@
     <string-array name="wifi_signal">
         <item>Loš</item>
         <item>Loš</item>
-        <item>Solidan</item>
         <item>Dobar</item>
         <item>Odličan</item>
     </string-array>

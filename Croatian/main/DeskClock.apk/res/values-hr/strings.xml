@@ -162,6 +162,7 @@
   <string name="expand_button_title">Napredno</string>
   <string name="expired_timers_dismissed">Odbrojavanje je odbačeno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="fmt_calendar_date_picker_header_date">d.MM.yyyy</string>
   <string name="force_start_permission_desc">"Omogući normalno funkcioniranje alarma čak i kada ste zatvorili aplikaciju"</string>
   <string name="force_start_permission_title">Autom. pokretanje</string>
   <string name="friday">Petak</string>

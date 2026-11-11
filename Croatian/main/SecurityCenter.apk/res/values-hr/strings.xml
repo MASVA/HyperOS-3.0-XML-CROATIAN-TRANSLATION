@@ -4434,7 +4434,7 @@ Opciju \"Autom. prilagođavanje statistike uporabe podataka\" možete isključit
   <string name="net_delay_title">Odgodi</string>
   <string name="net_error">Došlo je do mrežne pogreške</string>
   <string name="net_overdue">Sesija je završila</string>
-  <string name="network_assistant_privacy">Da bismo pratili korištenje podataka po aplikacijama, prikupljamo podatke kao što su nazivi paketa, upotreba Wi-Fi-ja i mobilnih podataka, maksimalno/minimalno korištenje podataka te kada su uključeni Wi-Fi i mobilni podaci. Ti se podaci pohranjuju lokalno na vašem uređaju.</string>
+  <string name="network_assistant_privacy"><Data>U odjeljku "Korištenje podataka" možete upravljati korištenjem mobilnih podataka, poboljšati korištenje podataka, kupiti podatkovne planove i pregledati rangiranje korištenja. Ova aplikacija zahtijeva mrežnu vezu i dozvole za lokaciju kako bi pružala usluge kao što su kupnja mobilnih podataka, provjera stanja, SIM kartice i članstva. Pročitajte i prihvatite Pravila o privatnosti upravljačke ploče&lt;/a>.</Data></string>
   <string name="network_assistant_privacy_title">Pošaljite podatke o upotrebi aplikacije i mreže i dijagnostičke podatke</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>

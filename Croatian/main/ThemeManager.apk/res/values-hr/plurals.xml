@@ -438,6 +438,21 @@ Novčići su nepovratni."</item>
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
      </plurals>
+	 <plurals name="rear_ai_companion_build_limit_message">
+        <item quantity="other">Možete generirati maksimalno %1$d znakova svaki put.</item>
+        <item quantity="few">Možete generirati maksimalno %1$d znakova svaki put.</item>
+        <item quantity="one">Možete generirati maksimalno %1$d znak svaki put.</item>
+    </plurals>
+    <plurals name="rear_ai_companion_generate_too_frequent_toast">
+        <item quantity="other">Previše pokušaja. Pokušajte ponovno za %1$d minuta.</item>
+        <item quantity="few">Previše pokušaja. Pokušajte ponovno za %1$d minuta.</item>
+        <item quantity="one">Previše pokušaja. Pokušajte ponovno za %1$d minutu.</item>
+    </plurals>
+    <plurals name="rear_ai_companion_monthly_free_quota">
+        <item quantity="other">Ovaj mjesec možete napraviti %1$d besplatnu generaciju</item>
+        <item quantity="few">Ovaj mjesec možete napraviti %1$d besplatnu generaciju</item>
+        <item quantity="one">Ovaj mjesec možete napraviti %1$d besplatnu generaciju</item>
+    </plurals>
      <plurals name="rear_screen_batch_has_update_text">
         <item quantity="other">Dostupna ažuriranja za %1$d stavki stražnjeg zaslona</item>
         <item quantity="one">Dostupno ažuriranje za %1$d stavku stražnjeg zaslona</item>
@@ -446,6 +461,14 @@ Novčići su nepovratni."</item>
         <item quantity="other">Ažuriranje %1$d stavki stražnjeg zaslonau</item>
         <item quantity="one">Ažuriranje %1$d stavke stražnjeg zaslona</item>
      </plurals>
+	 <plurals name="rear_screen_free_usage_remaining_first_sale">
+        <item quantity="other">Do %2$d.
+%1$d još uvijek možete besplatno generirati %3$d.</item>
+        <item quantity="few">Do %2$d.
+%1$d još uvijek možete besplatno generirati %3$d.</item>
+        <item quantity="one">Do %2$d.
+%1$d još uvijek možete besplatno generirati %3$d.</item>
+    </plurals>
      <plurals name="rear_signature_max_text_size">
         <item quantity="other">Unesite do %1$d znakova</item>
         <item quantity="one">Unesite do %1$d znak</item>

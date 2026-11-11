@@ -511,6 +511,9 @@
   <string name="circulate_network_failed_cancel">Odustani</string>
   <string name="circulate_network_share_launcher_pad_tips">"Provjerite jeste li uključili ovu značajku u Postavkama &gt; Međusobna povezanost na svom Xiaomi tabletu."</string>
   <string name="circulate_network_share_launcher_phone_tips">"Provjerite jeste li uključili ovu značajku u Postavkama &gt; Međusobna povezanost na svom Xiaomi telefonu."</string>
+  <string name="circulate_pc_card_more_settings">Više opcija</string>
+  <string name="circulate_pc_card_remote_control">Daljinski upravljač</string>
+  <string name="circulate_pc_card_remote_controlling">Daljinsko upravljanje…</string>
   <string name="circulate_open_in_tv">Otvori na TV-u</string>
   <string name="circulate_pad_app_continuity">"Korištenje %1$s telefona"</string>
   <string name="circulate_pad_card_being_used_camera">"Korištenje kamere telefona na tabletu"</string>
@@ -1916,6 +1919,14 @@
   <string name="wednesday_shortest">S</string>
   <string name="wifi_connect_btn_text">Konfiguriraj</string>
   <string name="wifi_disabled_dialog_message">Uključite Wi-Fi na svom uređaju kako biste mogli koristiti Kameru za više uređaja.</string>
+  <string name="wifi_disabled_dialog_message_gl">Uključite Wi-Fi da biste koristili dijeljenu kameru.</string>
+  <string name="window_card_pin_device_offline_subtitle_general_pc">Provjerite je li Daljinsko upravljanje putem Xiaomi Connectivityja omogućeno na vašem računalu.</string>
+  <string name="window_card_pin_device_offline_subtitle_pc_from_pad">Provjerite jesu li oba uređaja jedan pored drugog, prijavljena na isti Xiaomi račun i imaju li omogućen Bluetooth.</string>
+  <string name="window_card_pin_device_offline_subtitle_phone">Provjerite jesu li oba uređaja jedan pored drugog, prijavljena na isti Xiaomi račun i imaju li omogućen Bluetooth.</string>
+  <string name="window_card_pin_device_offline_subtitle_remote_pc">"%1$d. Provjerite jesu li oba uređaja jedan pored drugog, prijavljena na isti Xiaomi račun i imaju li omogućen Bluetooth.
+%2$d. Alternativno, provjerite je li Daljinsko upravljanje putem Xiaomi PC Managera omogućeno na vašem računalu."</string>
+  <string name="window_card_pin_device_offline_subtitle_remote_pc_from_pad">"%1$d. Provjerite jesu li oba uređaja jedan pored drugog, prijavljena na isti Xiaomi račun i imaju li omogućen Bluetooth.
+%2$d. Alternativno, provjerite je li Daljinsko upravljanje putem Xiaomi PC Managera omogućeno na vašem računalu."</string>
   <string name="wifi_disabled_dialog_positive_button">Razumijem</string>
   <string name="wifi_disabled_dialog_title">Kamera za više uređaja</string>
   <string name="wifi_other">Druge mreže</string>
