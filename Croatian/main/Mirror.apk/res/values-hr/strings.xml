@@ -508,9 +508,8 @@
   <string name="notify_connected_action_button">Prekini vezu</string>
   <string name="notify_connected_message">Pomoću ovog računala možete prenositi datoteke i komunicirati s telefonom</string>
   <string name="notify_connected_message_pad">Nastavite sa zadacima svoje aplikacije na povezanom računalu ili koristite ovaj uređaj kao proširenje zaslona</string>
-  <string name="pc_exit_append_collapse">Sakrij gumbe</string>
-  <string name="pc_exit_append_expand">Prikaži gumbe</string>
-  <string name="phone_connect_with_car_toast">Telefon je spojen na vozilo</string>
+  <string name="pc_exit_append_collapse">Sakrij tipke</string>
+  <string name="pc_exit_append_expand">Prikaži tipke</string>
   <string name="remote_pc_disconnect_content">Provjerite rade li vaše računalo i mreža ispravno i pokušajte ponovno</string>
   <string name="remote_pc_disconnect_reconnect">Ponovno povezivanje</string>
   <string name="remote_pc_disconnect_title">Daljinski upravljač je onemogućen</string>
