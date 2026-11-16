@@ -1558,7 +1558,6 @@ M"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberite sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberite stavke</string>
-    <string name="miuix_appcompat_action_sheet_default_message">Odaberite</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -1667,8 +1666,7 @@ M"</string>
   <string name="more_wallpapers">Dodirnite za prikaz više pozadina</string>
   <string name="movie_save_stop_tips_toast">Dodirnite ponovo za prekid spremanja</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
-<string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string> 
-<string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string> 
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
